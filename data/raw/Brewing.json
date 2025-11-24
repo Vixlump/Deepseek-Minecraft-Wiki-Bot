@@ -1,0 +1,85 @@
+{
+  "Introduction": [
+    "Brewing is the process of creating potions, splash potions, lingering potions, and medicine‌[Minecraft Education  only] by adding various ingredients to water bottles in a brewing stand."
+  ],
+  "Contents": [
+    "1 Brewing equipment\n2 Ingredients\n\n2.1 Base ingredients and modifiers\n\n2.1.1 Enhancement\n2.1.2 Corrupting effect\n2.1.3 Splash and lingering potions\n\n\n2.2 Effect ingredients\n\n\n3 Brewing recipes\n\n3.1 Base potions\n3.2 Effect potions\n\n3.2.1 Positive effects\n3.2.2 Negative effects\n3.2.3 Mixed effects\n3.2.4 Bedrock Edition exclusive recipes\n\n\n3.3 Cures\n3.4 Unbrewable potions\n3.5 Custom recipes\n\n\n4 History\n\n4.1 Java Edition\n4.2 Bedrock Edition\n4.3 Legacy Console Edition\n\n\n5 Issues\n6 Trivia\n7 Gallery\n\n7.1 Textures\n\n\n8 See also\n9 References\n10 External links\n11 Navigation",
+    "2.1 Base ingredients and modifiers\n\n2.1.1 Enhancement\n2.1.2 Corrupting effect\n2.1.3 Splash and lingering potions\n\n\n2.2 Effect ingredients",
+    "2.1.1 Enhancement\n2.1.2 Corrupting effect\n2.1.3 Splash and lingering potions",
+    "3.1 Base potions\n3.2 Effect potions\n\n3.2.1 Positive effects\n3.2.2 Negative effects\n3.2.3 Mixed effects\n3.2.4 Bedrock Edition exclusive recipes\n\n\n3.3 Cures\n3.4 Unbrewable potions\n3.5 Custom recipes",
+    "3.2.1 Positive effects\n3.2.2 Negative effects\n3.2.3 Mixed effects\n3.2.4 Bedrock Edition exclusive recipes",
+    "4.1 Java Edition\n4.2 Bedrock Edition\n4.3 Legacy Console Edition"
+  ],
+  "Brewing equipment[edit | edit source]": [],
+  "Ingredients[edit | edit source]": [
+    "There is no provided in-game recipe book for brewing."
+  ],
+  "Base ingredients and modifiers[edit | edit source]": [
+    "Base ingredients are ingredients that can be added directly to a water bottle. Nether warts are used to make awkward potions, and are the fundamental of the base ingredients, as it is required to make the majority of potions.",
+    "Modifiers are ingredients used to alter the properties of a potion or to change a potion effect into a different one. The fermented spider eye is unique as it is the only modifier that can convert a water bottle directly into a usable potion."
+  ],
+  "Enhancement[edit | edit source]": [
+    "Generally, upgrading a potion involves a trade-off between duration and potency. A potion with an enhanced effect has shorter duration, and a potion with extended duration cannot have an enhanced effect. However:",
+    "Upgrading the effect of a potion that has no time parameter (e.g. Instant Health) with glowstone dust involves no trade-off.\nIncreasing the time of a potion that has no effects with different levels (e.g. Fire Resistance) with redstone dust involves no trade-off."
+  ],
+  "Corrupting effect[edit | edit source]": [
+    "A fermented spider eye changes a potion's base effect, often reversing it or producing a negative potion.",
+    "A corrupted potion usually does the opposite of the original effect.\nCorrupting an enhanced or extended potion into an effect that supports the modifier results in a potion with the same modifier applied.\nEnhanced potions of Leaping or Swiftness cannot be corrupted.\nIn Bedrock Edition, potions of Strength II corrupt into regular potions of Weakness.\nA potion of Invisibility is considered the \"corrupted\" version of a potion of Night Vision.",
+    "Enhanced potions of Leaping or Swiftness cannot be corrupted.\nIn Bedrock Edition, potions of Strength II corrupt into regular potions of Weakness."
+  ],
+  "Splash and lingering potions[edit | edit source]": [
+    "By adding gunpowder, a drinking potion can be turned into a splash potion, which can be thrown to coat entities within the place of impact with a status effect. Subsequently, adding dragon's breath to a splash potion makes a lingering potion, creating a cloud that inflicts effects on entities that enter its area.",
+    "Splash potions and lingering potions can be modified in the same manner as their normal counterparts. For instance, a splash water bottle can be brewed with any of the base ingredients; the result remains a splash potion.\nThe lingering potions can also be used to craft their respective versions of tipped arrows.\nIn Bedrock Edition there is an easier way of using cauldrons for the same effect.\nSplash potions have the same duration as the drinkable form.\nLingering potions have only one-fourth of the duration of the drinkable form. For instance, a drinkable potion effect of 8:00 is reduced to 2:00 as a lingering potion.",
+    "In Bedrock Edition there is an easier way of using cauldrons for the same effect."
+  ],
+  "Effect ingredients[edit | edit source]": [
+    "Effect ingredients imbue an awkward potion with a particular effect but do not alter potion duration or intensity. When added directly to a water bottle, most of these ingredients produce a mundane potion. The exceptions to this are the golden carrot, pufferfish, turtle shell, and phantom membrane, which cannot be added directly to a water bottle. A corrupted version of a potion can be made by adding a fermented spider eye to it."
+  ],
+  "Brewing recipes[edit | edit source]": [],
+  "Base potions[edit | edit source]": [
+    "Base potions are potions without effects, brewed by adding a single base ingredient to a water bottle. Of these, only the awkward potion can be imbued with an effect ingredient to create a potion with an effect.‌[Java Edition  only]"
+  ],
+  "Effect potions[edit | edit source]": [
+    "Effect potions are primarily created by adding an effect ingredient to an awkward potion, which is created by adding nether wart to a water bottle. Certain effects require a potion to be corrupted by a fermented spider eye. The potion of Weakness can additionally be created by simply adding a fermented spider eye to a water bottle, and it is the only potion that can be brewed without nether wart.",
+    "Undead mobs react differently to effects than other mobs. They take damage from potions of Healing, gain health from potions of Harming, and are unaffected by potions of Poison and Regeneration."
+  ],
+  "Positive effects[edit | edit source]": [],
+  "Negative effects[edit | edit source]": [],
+  "Mixed effects[edit | edit source]": [],
+  "Bedrock Edition exclusive recipes[edit | edit source]": [
+    "Brewing recipes in Bedrock Edition are a superset of that in Java Edition, which means that all Java Edition recipes are also available in Bedrock Edition, but not the other way round."
+  ],
+  "Cures[edit | edit source]": [
+    "Cures are brewed from awkward potions using different elements. Drinking these removes the specified bad effect. They cannot be modified into splash, lingering, extended, or enhanced versions."
+  ],
+  "Unbrewable potions[edit | edit source]": [
+    "The potion of Luck‌[JE  only] and the potion of Decay‌[BE  only] cannot be brewed, and can be obtained only through commands or the Creative inventory."
+  ],
+  "Custom recipes[edit | edit source]": [
+    "In Bedrock Edition, brewing recipes can be customized through addons using the same system as other recipes."
+  ],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Brewing\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "Although Jeb said that in Java Edition Beta 1.9 Prerelease 3 there would be 161 possible different potion combinations with 2,653 in the future, in the actual third pre-release only 22 different potions could be made without the use of external programs. Of those, 19 potions had one of 8 different effects.\nBy modifying the item NBT using an editor or commands, it is possible to get a potion that cannot be upgraded into a splash potion."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Textures[edit | edit source]": [
+    "Texture file for the brewing user interface"
+  ],
+  "See also[edit | edit source]": [
+    "Crafting\nEnchanting\nMedicine‌[Minecraft Education  only]\nSmelting"
+  ],
+  "References[edit | edit source]": [
+    "↑ \"The Mundane Potion is a remnant of an abandoned procedural brewing system—meaning that the recipes were meant to be different each time you generated a Minecraft world. But this didn't turn out to be much fun for the player and the system was abandoned, leaving the Mundane Potion without a purpose. \"It's sort of like an appendix,\" says Jens\" – Tom Stone, February 21, 2017\n\n↑ \"A quick discussion with @notch led me in on a new way of doing the potion brewing. Cauldron is out...\"  – @jeb_ (Jens Bergensten) on X (formerly Twitter), September 30, 2011"
+  ],
+  "External links[edit | edit source]": [
+    "Minecraft Forum: All About Potions And Brewing - 1.9 Reference Guide\nMinecraft Potions - A Visual Guide\nMinecraft Commands - A Searchable Minecraft Database"
+  ],
+  "Navigation[edit | edit source]": []
+}

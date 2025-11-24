@@ -13,7 +13,16 @@ class Config:
         "Biomes",
         "Enchanting",
         "Redstone",
-        "Commands"
+        "Commands",
+        "Trading",
+        "Brewing",
+        "Tutorials",
+        "Structures",
+        "Smelting",
+        "Effects",
+        "Smithing",
+        "Commands",
+        "History",
     ]
     
     #Processing settings
@@ -21,7 +30,7 @@ class Config:
     MAX_TEXT_LENGTH = 1000
     
     #Model settings
-    OLLAMA_MODEL = "deepseek-r1:7b"
+    OLLAMA_MODEL = "deepseek-r1:14b"
     EMBEDDING_MODEL = "nomic-embed-text"
     
     #Paths

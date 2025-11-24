@@ -1,0 +1,56 @@
+{
+  "Introduction": [
+    "Smithing is a gameplay mechanic that allows players to upgrade tools and armor both in material and in appearance through the use of a smithing table."
+  ],
+  "Contents": [
+    "1 Equipment\n\n1.1 Upgrading\n\n1.1.1 Armor upgrading\n1.1.2 Tool upgrading\n\n\n1.2 Trimming\n\n1.2.1 Template\n1.2.2 Material\n1.2.3 List of color palettes for all materials\n1.2.4 List of tooltip text colors for all materials\n1.2.5 Armor trim renders\n\n\n\n\n2 Achievements\n3 Advancements\n4 History\n\n4.1 Java Edition\n4.2 Bedrock Edition\n\n\n5 Issues\n6 References\n7 Navigation",
+    "1.1 Upgrading\n\n1.1.1 Armor upgrading\n1.1.2 Tool upgrading\n\n\n1.2 Trimming\n\n1.2.1 Template\n1.2.2 Material\n1.2.3 List of color palettes for all materials\n1.2.4 List of tooltip text colors for all materials\n1.2.5 Armor trim renders",
+    "1.1.1 Armor upgrading\n1.1.2 Tool upgrading",
+    "1.2.1 Template\n1.2.2 Material\n1.2.3 List of color palettes for all materials\n1.2.4 List of tooltip text colors for all materials\n1.2.5 Armor trim renders",
+    "4.1 Java Edition\n4.2 Bedrock Edition"
+  ],
+  "Equipment[edit | edit source]": [
+    "A smithing table and three ingredients are required for each smithing action the player wishes to perform. Each time working on a smithing table, the player must provide a smithing template, armor/tool, and an augmenting material."
+  ],
+  "Upgrading[edit | edit source]": [
+    "Upgrading is a process for turning diamond gear into netherite gear. This is the only way that netherite gear can be obtained.",
+    "While upgrading, the newly crafted netherite gear retains the enchantments, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.",
+    "Using a smithing table to upgrade diamond gear to netherite gear costs no experience and does not increase the prior work penalty.",
+    "When upgraded to netherite, all items are granted resistance to fire and lava when dropped in the world, and their durability and enchantability are increased. Swords and tools (except for hoes in Java Edition) deal a higher attack damage and the mining speed of tools is improved as well. Each piece of netherite armor gives 10% of knockback reduction, protecting 40% with a full set. Armor toughness is also increased."
+  ],
+  "Armor upgrading[edit | edit source]": [],
+  "Tool upgrading[edit | edit source]": [],
+  "Trimming[edit | edit source]": [
+    "Trimming allows players to customize an armor piece's appearance by applying a material using one of the following smithing templates. During trimming, the decorative pattern applied to the armor corresponds to the trim used, with the color determined by the used material. The template is consumed in the process."
+  ],
+  "Template[edit | edit source]": [
+    "Bolt Armor Trim\nCoast Armor Trim\nDune Armor Trim\nEye Armor Trim\nFlow Armor Trim\nHost Armor Trim\nRaiser Armor Trim\nRib Armor Trim\nSentry Armor Trim\nShaper Armor Trim\nSilence Armor Trim\nSnout Armor Trim\nSpire Armor Trim\nTide Armor Trim\nVex Armor Trim\nWard Armor Trim\nWayfinder Armor Trim\nWild Armor Trim"
+  ],
+  "Material[edit | edit source]": [
+    "Amethyst Shard\nCopper Ingot\nDiamond\nEmerald\nGold Ingot\nIron Ingot\nLapis Lazuli\nNether Quartz\nNetherite Ingot\nRedstone Dust\nResin Brick",
+    "All trims are purely decorative, and don't impact gameplay in any way. Piglins do not pick up any gold-trimmed armor pieces and remain hostile towards players wearing gold-trimmed armor, unless the base armor is also golden. Non-netherite armor pieces trimmed with netherite still burn if dropped in fire or lava.",
+    "Most armor trims cover a small portion of the armor piece's surface with the trim material, except for the silence armor trim, which allows the trim material to cover a majority of the armor piece's surface.",
+    "Armor with a trim can be trimmed again by applying another template to it; the old trim pattern is overwritten in the process.[1] Therefore, one piece of armor cannot possess multiple trims at the same time."
+  ],
+  "List of color palettes for all materials[edit | edit source]": [
+    "-\n- (Darker: \n- (Darker: )\n-\n- (Darker: )\n- (Darker: )\n-\n-\n- (Darker: )\n-\n-"
+  ],
+  "List of tooltip text colors for all materials[edit | edit source]": [
+    "- #9A5CC6\n- #B4684D\n- #6EECD2\n- #11A036\n- #DEB12D\n- #ECECEC\n- #416E97\n- #E3D4C4\n- #625859\n- #971607\n- #FC7812"
+  ],
+  "Armor trim renders[edit | edit source]": [
+    "Bolt armor trim\n\n\n\nCoast armor trim\n\n\n\nDune armor trim\n\n\n\nEye armor trim\n\n\n\nFlow armor trim\n\n\n\nHost armor trim\n\n\n\nRaiser armor trim\n\n\n\nRib armor trim\n\n\n\nSentry armor trim\n\n\n\nShaper armor trim\n\n\n\nSilence armor trim\n\n\n\nSnout armor trim\n\n\n\nSpire armor trim\n\n\n\nTide armor trim\n\n\n\nVex armor trim\n\n\n\nWard armor trim\n\n\n\nWayfinder armor trim\n\n\n\nWild armor trim"
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Smithing\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "References[edit | edit source]": [
+    "↑ MC-262538 — When combining armor trims the new trim deletes the old one — resolved as \"Works As Intended\"."
+  ],
+  "Navigation[edit | edit source]": []
+}

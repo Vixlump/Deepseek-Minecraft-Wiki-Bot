@@ -1,0 +1,147 @@
+{
+  "Introduction": [
+    "Trading is a gameplay mechanic that allows players to exchange emeralds for items, and vice versa, with villagers and wandering traders."
+  ],
+  "Contents": [
+    "1 Mechanics\n\n1.1 Level\n1.2 Trades\n1.3 Sale prices\n\n\n2 Non-trading villagers\n\n2.1 Nitwit\n2.2 Unemployed villager\n2.3 Baby villagers\n\n\n3 Trade offers\n\n3.1 Armorer\n3.2 Butcher\n3.3 Cartographer\n3.4 Cleric\n3.5 Farmer\n3.6 Fisherman\n3.7 Fletcher\n3.8 Leatherworker\n3.9 Librarian\n3.10 Mason\n3.11 Shepherd\n3.12 Toolsmith\n3.13 Weaponsmith\n\n\n4 Wandering trader offers\n5 Notes\n6 Achievements\n7 Advancements\n8 Videos\n9 History\n\n9.1 Development\n9.2 Java Edition\n9.3 Bedrock Edition\n9.4 Legacy Console Edition\n\n\n10 Issues\n11 Trivia\n12 Gallery\n\n12.1 Renders\n12.2 Screenshots\n12.3 Development images\n\n\n13 See also\n14 References\n15 External links\n16 Navigation",
+    "1.1 Level\n1.2 Trades\n1.3 Sale prices",
+    "2.1 Nitwit\n2.2 Unemployed villager\n2.3 Baby villagers",
+    "3.1 Armorer\n3.2 Butcher\n3.3 Cartographer\n3.4 Cleric\n3.5 Farmer\n3.6 Fisherman\n3.7 Fletcher\n3.8 Leatherworker\n3.9 Librarian\n3.10 Mason\n3.11 Shepherd\n3.12 Toolsmith\n3.13 Weaponsmith",
+    "9.1 Development\n9.2 Java Edition\n9.3 Bedrock Edition\n9.4 Legacy Console Edition",
+    "12.1 Renders\n12.2 Screenshots\n12.3 Development images"
+  ],
+  "Mechanics[edit | edit source]": [
+    "Pressing use on an adult villager with a profession, or on a wandering trader, opens a menu, allowing a player to trade with that merchant. This action pauses any pathfinding the merchant was doing and makes it face you. If the merchant takes damage while trading, the trading menu closes. The same thing happens if they walk or are transported far enough away.",
+    "All transactions involve emeralds. Trading is the only method of acquiring the globe banner pattern, as well as all types of explorer maps except buried treasure maps in Survival mode. It is also the only renewable way to obtain bells, diamond gear,[note 1] lapis lazuli‌[BE  only], bottles o' enchanting, glass, sand, red sand, coral blocks, arrow of decay,‌[BE  only] and small dripleaves."
+  ],
+  "Level[edit | edit source]": [
+    "Villagers have five career levels that can be increased by trading with them. Each villager starts at the novice level. A villager's level can be seen in the trading menu. The badge that a villager wears can also be identified: stone for a novice, iron for an apprentice, gold for a journeyman, emerald for an expert, and diamond for a master. Trading until the villager's trading bar gets full unlocks the next level of trades. When a player trades with a villager, both the villager and the player gain experience. All villager trades reward the player with 3–6 experience plus an additional 5 experience if the villager levels up with the trade. Trading with a wandering trader also rewards the player with some experience, although the trader does not have experience levels to gain. A villager levels up when its experience bar becomes full and gains up to two‌[JE  only] or three‌[BE  only] new trades and retains its existing trades. Additionally, a villager receives a Regeneration effect and becomes surrounded by purple particles for ten seconds.",
+    "Trades from the master level would still reward the villager with experience, but it has no actual effect as the villager can't level up any further.",
+    "Each badge is 2x3 pixels except the novice (stone) badge, which is 4x4 pixels.",
+    "In Java Edition, villagers have a maximum of 10 trades. Each level unlocks a maximum of two new trades. If a level has a pool of more than two trades, the two offered trades are chosen randomly from the set.",
+    "In Bedrock Edition, villagers have 7–10 trade slots. A slot with multiple possible trades will display only one trade; for example, farmer villagers have 4 potential trades in their first trade slot, so each trade has a 1⁄4 chance to be chosen.‌[until Villager Trade Rebalancing][verify]",
+    "A villager's profession dictates the trading pool used to determine its trades. For example, villagers wearing straw hats are farmers, so their trades are based on the Farmer trade pool. Each profession unlocks a predefined and finite set of offers. Different professions are assigned to each villager based on their job-site block. This profession is indicated by their appearance and in the trading interface. Novice villagers who have not traded can lose their profession and change back into unemployed villagers if their claimed job site block is removed. Removing and then replacing a job site block can alter the trades offered, and a villager with no experience resets its trades every so often. Once a player trades with a villager, the villager keeps its profession forever and subsequently locks in the offered trades."
+  ],
+  "Trades[edit | edit source]": [
+    "Each trade can be used a maximum number of times, after which the villager runs out of stock and trade becomes disabled. The exact number is different for each item and referenced in the tables below. When villagers work at their job site blocks, they activate their offers again, up to twice per day. In Bedrock Edition, villagers need to be linked to a bed to restock their trades (it is not necessary for them to sleep, but require a bed nearby). When an offer is disabled, a red \"X\" appears in the trading interface in Java Edition, or the trading slot becomes red in Bedrock Edition, and the villager displays the same particle effect as an offer being created.",
+    "When buying items from players, villagers ignore additional item data; this allows, for example, selling renamed or enchanted items, as well as lodestone compasses instead of regular compasses in Java Edition. When the Villager Trade Rebalance experiment is enabled, taiga armorers can also accept armor of any durability."
+  ],
+  "Sale prices[edit | edit source]": [
+    "The price of an item rises and falls depending on three factors. Items with a high price multiplier (0.2) are affected by these changes more than items with a low multiplier (0.05). All price fluctuations affect only the first item involved in trade; for example, for an initial trade of 32 sticks for 1 emerald, the price might be driven down to 1 stick or up to 64 sticks for 1 emerald, but never for 2 emeralds. Additionally, no quantity can go lower than 1 or higher than the stack size.",
+    "The first factor is demand. An item that was sold out gets a price increase for all players when resupplied. If a player does not trade for a higher-priced item, the price is reduced the next time the villager resupplies. Demand is tracked per item, not per villager, so a villager can offer a higher-priced trade for a single item while other items are cheaper. Trades that have a price multiplier of 0 are not affected by demand.",
+    "The second way to affect prices is the Hero of the Village effect, gained from successfully completing a raid, which temporarily reduces prices for the affected player depending on the level of the effect.",
+    "Finally, players get personal discounts or penalties‌[Java Edition  only] based on their reputation with a particular villager. A positive reputation is gained by curing zombie villagers (the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers). Giving a zombie villager the Weakness effect and then feeding it a golden apple starts the curing process. After five minutes, it transforms into a villager. The permanent discount is capped at one cure, while the temporary discount is capped at eight cures[needs testing]. Players can also gain negative reputation by hitting or killing villagers, and positive reputation by trading. In Bedrock Edition, negative reputation can reduce or eliminate discounts but does not result in penalties."
+  ],
+  "Non-trading villagers[edit | edit source]": [
+    "If the player attempts to trade with a non-trading villager in Java Edition, it grunts and bobs its head, but if the player tries to do the same thing in Bedrock Edition, nothing happens."
+  ],
+  "Nitwit[edit | edit source]": [
+    "Nitwits are green-coated villagers. They cannot gain a profession.",
+    "While they can be used for breeding, it is not possible to get a baby nitwit by breeding adult nitwits."
+  ],
+  "Unemployed villager[edit | edit source]": [
+    "Villagers without a job cannot trade. They only wear their biome outfits. An unemployed villager gains a profession by claiming an unclaimed job site block. For example, an unclaimed cartography table converts an unemployed villager into a cartographer when the villager claims it, and both the villager and the table emit green particles. An inaccessible (or destroyed) job site block causes the connected villager to lose its profession, but that does not affect the player's popularity in the village."
+  ],
+  "Baby villagers[edit | edit source]": [
+    "The appearance of baby villagers is the same as that of the corresponding adult unemployed villagers, but their bodies are smaller. They can't get a job and trade."
+  ],
+  "Trade offers[edit | edit source]": [
+    "The villager pictured on the right is from the plains biome. To see villager professions dressed for other biomes, see Villagers § Professions.",
+    "In Java Edition, starting from Novice, at each level two additional trades become available, unless there is only one trade within that level. If there are more than two possible trades, two are randomly selected.",
+    "In Bedrock Edition, one trade is chosen randomly from each slot available. For example, if there are two items on the same slot, then only one of them will show up in the trade."
+  ],
+  "Armorer[edit | edit source]": [
+    "Armorers trade various foundry and armor items. Their job site block is the Blast Furnace.",
+    "↑ The price of this trade is the base price, 14 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ a b c d When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments.\n\n↑ a b The price of this trade is the base price, 8 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ The price of this trade is the base price, 16 emeralds, plus the random enchantment level chosen (5–19)."
+  ],
+  "Butcher[edit | edit source]": [
+    "Butchers trade meat and some other food items. Their job site block is the Smoker."
+  ],
+  "Cartographer[edit | edit source]": [
+    "Cartographers trade maps and related items. Their job site block is the Cartography Table.",
+    "↑ The structure that the map leads to depends on the biome the villager is from. Each of the three possible maps are counted as independent trades, so a villager trading multiple maps is possible.\n\n↑ a b In Java Edition, all copies of the map traded by a particular villager lead to the same structure. In worlds that do not have the structure, this trade is not offered.\nIn Bedrock Edition, cartographers adopting the profession in the Nether or the End do not offer explorer maps.\n\n↑ The list of possible offers contains individual offers for each color, so multiple colors may be offered by the same villager as separate trades."
+  ],
+  "Cleric[edit | edit source]": [
+    "Clerics trade magic items. Their job site block is the Brewing Stand."
+  ],
+  "Farmer[edit | edit source]": [
+    "Farmers trade crops and natural foods. Their job site block is the Composter.",
+    "↑ The stew gives 6 seconds of Blindness in Java Edition, or 5 seconds of Night Vision in Bedrock Edition.\n\n↑ The stew gives 8 seconds of Jump Boost in Java Edition, or 5 seconds of Night Vision in Bedrock Edition.\n\n↑ The stew gives 5 seconds of Night Vision.\n\n↑ The stew gives 14 seconds of Poison in Java Edition, or 5 seconds of Night Vision in Bedrock Edition.\n\n↑ The stew gives 0.35 seconds of Saturation in Java Edition, or 5 seconds of Night Vision in Bedrock Edition.\n\n↑ The stew gives 7 seconds of Weakness in Java Edition, or 5 seconds of Night Vision in Bedrock Edition."
+  ],
+  "Fisherman[edit | edit source]": [
+    "Fishermen trade fishing-related items. Their job site block is the Barrel.",
+    "↑ The price of this trade is the base price, 3 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments.\n\n↑ The type of boat trade depends on the biome outfit of the villager. Plains villagers buy oak boats, taiga and snowy villagers buy spruce boats, desert and jungle villagers buy jungle boats, savanna villagers buy acacia boats, and swamp villagers buy dark oak boats."
+  ],
+  "Fletcher[edit | edit source]": [
+    "Fletchers trade archery-related items. Their job site block is the Fletching Table.",
+    "↑ The price of this trade is the base price, 2 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ a b When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments.\n\n↑ The price of this trade is the base price, 3 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ In Java Edition, the type of arrow is chosen randomly from all possible brewable potions with effects, including extended and strengthened versions.\n\nIn Bedrock Edition, the type of arrow is randomly chosen from 15 options: Night Vision, Invisibility, Leaping, Fire Resistance, Swiftness, Slowness, Water Breathing, Healing, Harming, Poison, Regeneration, Strength, Weakness, Turtle Master, or Decay (Level 2)."
+  ],
+  "Leatherworker[edit | edit source]": [
+    "Leatherworkers trade animal products, including leather-related items. Their job site block is the Cauldron.",
+    "↑ a b c d e f g The leather armor has a random color created by two dyes (possibly the same dye twice.)"
+  ],
+  "Librarian[edit | edit source]": [
+    "Librarians trade books and related items. Their job site block is the Lectern.",
+    "↑ a b c d The enchantment is chosen randomly with equal chance of any enchantment type occurring (except for Soul Speed, Swift Sneak, and Wind Burst) and equal chance to get any level of the enchantment, meaning high-level enchantments are as likely as low-level enchantments. It is possible for a librarian to sell the same book more than once.\nThe price in emeralds depends on the enchantment level and \"treasure\" status. The minimum price of a book is given by 2 + 3 * (enchantment level), while the maximum price is 6 + 13 * (enchantment level). The possible values are 5–19 emeralds for Lvl I, 8–32 for Lvl II, 11–45 for Lvl III, 14–58 for Lvl IV, and 17–71 for Lvl V. For treasure enchantments the price is doubled. The cost is capped at 64 emeralds. All values below this cap are equally probable.\n\n↑ In Java Edition only one is requested per trade because of MC-248042 — Librarian's book and quill trade is always discounted to 1 since books are unstackable. In Bedrock Edition, the second book is placed in another slot instead."
+  ],
+  "Mason[edit | edit source]": [
+    "Masons trade various types of stone. Their job site block is the Stonecutter.",
+    "↑ a b The list of possible offers contains individual offers for each color, so multiple colors may be offered by the same villager as separate trades."
+  ],
+  "Shepherd[edit | edit source]": [
+    "Shepherds trade wool and dyed items. Their job site block is the Loom.",
+    "↑ a b c d The list of possible offers contains individual offers for each color, so multiple colors may be offered by the same villager as separate trades."
+  ],
+  "Toolsmith[edit | edit source]": [
+    "Toolsmiths trade tools and related materials. Their job site block is the Smithing Table.",
+    "↑ The price of this trade is the base price, 1 emerald, plus the random enchantment level chosen (5–19).\n\n↑ a b c d e f When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments.\n\n↑ The price of this trade is the base price, 2 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ The price of this trade is the base price, 3 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ The price of this trade is the base price, 12 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ The price of this trade is the base price, 5 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ The price of this trade is the base price, 13 emeralds, plus the random enchantment level chosen (5–19)."
+  ],
+  "Weaponsmith[edit | edit source]": [
+    "Weaponsmiths trade weapons and related materials. Their job site block is the Grindstone.",
+    "↑ The price of this trade is the base price, 2 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ a b c When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments.\n\n↑ The price of this trade is the base price, 12 emeralds, plus the random enchantment level chosen (5–19).\n\n↑ The price of this trade is the base price, 8 emeralds, plus the random enchantment level chosen (5–19)."
+  ],
+  "Wandering trader offers[edit | edit source]": [
+    "The wandering trader offers nine trades in total: two random trades from purchasing table, two random trades from special selling table, and five random trades from ordinary selling table. These trades are not divided into categories; for example, a single wandering trader can sell 2 different saplings. Each individual trade is equally likely.[verify]",
+    "In the trading GUI, the trade offers are always listed in this order:",
+    "2 purchasing trades\n2 special selling trades\n5 ordinary selling trades",
+    "↑ Duration: 8:00\n\n↑ The price of this trade is the base price, 1 emerald, plus the random enchantment level chosen (5–19).\n\n↑ When creating an enchantment offer, the game uses a random enchantment level form 5 to 19. The enchantments are never treasure enchantments."
+  ],
+  "Notes[edit | edit source]": [
+    "↑ Technically, diamond armor (not other types of diamond gear) can also be obtained renewably from zombies and skeletons; however, these mobs only have a 0.04% (1⁄25,000) chance to spawn with diamond armor, rendering this an extremely impractical way to obtain such armor."
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "Videos[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Development[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Trading\", \"Trades\", or \"Trade system\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "While diamonds are not renewable (except via vault, which is impractical in normal gameplay), many of their products (armor, tools, and weapons) are renewable via trading."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Renders[edit | edit source]": [
+    "An unemployed villager refuses a player trying to trade.\n\n\n\nA nitwit villager refuses a player trying to trade.\n\n\n\nA villager presenting their emeralds."
+  ],
+  "Screenshots[edit | edit source]": [
+    "The trading menu before Bedrock Edition 1.11.0.\n\n\n\nTrading options of a master-level weaponsmith."
+  ],
+  "Development images[edit | edit source]": [
+    "The first image of the trading system released by Jeb. The currency item (later updated to the emerald) can be seen in the inventory.\n\n\n\nAn enhanced version of Jeb's screenshot showing the original ore texture more clearly."
+  ],
+  "See also[edit | edit source]": [
+    "Bartering\nVillager\nArmorer\nButcher\nCartographer\nCleric\nFarmer\nFisherman\nFletcher\nLeatherworker\nLibrarian\nMason\nShepherd\nToolsmith\nWeaponsmith\nWandering Trader",
+    "Armorer\nButcher\nCartographer\nCleric\nFarmer\nFisherman\nFletcher\nLeatherworker\nLibrarian\nMason\nShepherd\nToolsmith\nWeaponsmith"
+  ],
+  "References[edit | edit source]": [
+    "↑ https://web.archive.org/web/20150316193400/http://www.minecraftforum.net/forums/archive/future-updates/384441-1-5-new-blocks-items#c11\n\n↑ MC-181190 — The discount for curing a villager is multiplied if the villager is reinfected and cured again — resolved as \"Fixed\"."
+  ],
+  "External links[edit | edit source]": [
+    "\"All villager jobs – Ranked\"     by James Nouch  – Minecraft.net, August 19, 2025."
+  ],
+  "Navigation[edit | edit source]": []
+}

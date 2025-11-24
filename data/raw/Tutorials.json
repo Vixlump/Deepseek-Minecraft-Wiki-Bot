@@ -1,0 +1,126 @@
+{
+  "Introduction": [
+    "The list below contains tutorials describing various factors and mechanics of Minecraft."
+  ],
+  "Contents": [
+    "1 Introductory\n\n1.1 Newcomer survival\n1.2 Shelters\n\n\n2 General\n\n2.1 Enchanting and smelting\n2.2 Non-standard survival\n2.3 Advanced\n\n\n3 Challenges\n\n3.1 Non-standard survival\n3.2 Challenge maps\n\n\n4 Construction\n\n4.1 Block breaking\n\n\n5 Farming\n\n5.1 Items\n5.2 Mobs\n\n\n6 Mechanisms\n\n6.1 Basic redstone\n6.2 Various devices\n6.3 Detectors\n6.4 Minecarts\n6.5 Traps\n6.6 Pistons\n6.7 Tripwire\n6.8 Advanced redstone\n\n\n7 Multiplayer\n\n7.1 Server setup\n\n\n8 Technical\n\n8.1 Maps\n8.2 Resource packs\n8.3 Data packs\n8.4 Creating Minecraft media\n8.5 Game installation\n\n\n9 Legacy tutorials\n10 Navigation",
+    "1.1 Newcomer survival\n1.2 Shelters",
+    "2.1 Enchanting and smelting\n2.2 Non-standard survival\n2.3 Advanced",
+    "3.1 Non-standard survival\n3.2 Challenge maps",
+    "6.1 Basic redstone\n6.2 Various devices\n6.3 Detectors\n6.4 Minecarts\n6.5 Traps\n6.6 Pistons\n6.7 Tripwire\n6.8 Advanced redstone",
+    "8.1 Maps\n8.2 Resource packs\n8.3 Data packs\n8.4 Creating Minecraft media\n8.5 Game installation"
+  ],
+  "Introductory[edit | edit source]": [
+    "These tutorials are designed to help newcomers to Minecraft get a basic understanding of the game.",
+    "Menu screen\nJava Edition\nBedrock Edition\nGlossary\nPlaying with a controller",
+    "Java Edition\nBedrock Edition"
+  ],
+  "Newcomer survival[edit | edit source]": [
+    "Beginner's guide\nYour first 10 minutes\nThe second day\nThe third day\nBest biomes to use\nHunger management\nThings to do\nThings not to do\nSimple tips and tricks",
+    "Your first 10 minutes\nThe second day\nThe third day"
+  ],
+  "Shelters[edit | edit source]": [
+    "Best biomes for homes\nBest building materials\nBuilding and construction\nNavigation\nShelters\nTypes"
+  ],
+  "General[edit | edit source]": [
+    "Getting to know the game better. These are for when the player is comfortably established.",
+    "Achievement guide\nLegacy Console Edition\nAdvancement guide\nMinecraft tab\nNether tab\nThe End tab\nAdventure tab\nHusbandry tab\nAdventuring\nBest enchantments guide\nBreaking a fall\nChunk loader\nCombat\nComplete main adventure\nCreating a village\nDual wielding\nExploring caves\nGetting food quickly\nGetting max gear\nHitboxes\nHorses\nMapping\nMeasuring distance\nMinecraft in education\nMining\nAncient Debris\nDiamonds\nFossils\nNether hub\nNether portals\nOrganization\nPillar jumping\nPhantom-proofing\nSpawn-proofing\nThings to do when bored\nTime-saving tips\nTransportation methods\nUnits of measure\nVillage mechanics\nTrading\nZombie siege defense",
+    "Legacy Console Edition",
+    "Minecraft tab\nNether tab\nThe End tab\nAdventure tab\nHusbandry tab",
+    "Ancient Debris\nDiamonds\nFossils"
+  ],
+  "Enchanting and smelting[edit | edit source]": [
+    "These tutorials provide information on how the furnaces and the enchantment system work.",
+    "Enchanting mechanics\n Anvil mechanics\n Automatic smelting\n Manual smelting"
+  ],
+  "Non-standard survival[edit | edit source]": [
+    "Adventure survival\n Custom maps\n Half hearted hardcore\n Hardcore mode\n Surviving in a single area indefinitely\n Infinite desert survival\n Island survival\n Manhunt\n Mob switch\n Nomadic experience\n Trapping every mob\n Skyblock survival\n Skywars survival\n Speedrunning\n Starting in the Nether\n Starting in the End\n Superflat survival\nJava Edition\nBedrock Edition\n‍ Ultra hardcore survival\n Getting to the world border\n Village only survival",
+    "Java Edition\nBedrock Edition"
+  ],
+  "Advanced[edit | edit source]": [
+    "Tutorials that require using exploits or commands.",
+    "Breaking bedrock\nHeadless pistons\nIndestructible end crystals\nSummoning jockeys\nX-ray glitches"
+  ],
+  "Challenges[edit | edit source]": [
+    "Acquiring a conduit\n Archaeology\n Curing a zombie villager\n Conquering a mountain\n Defeating a bastion remnant\n Defeating an End city\n Defeating a monster room\n Defeating an ocean monument\n Defeating a Nether fortress\n Defeating a pillager outpost\n Defeating a stronghold\n Defeating temples\n Defeating trial chambers\n Defeating a woodland mansion\n Defeating a village raid\n Defeating the ender dragon\n Exploring an ancient city\n Defeating the wither\nIf it goes rogue\n Locating a stronghold\n Obtaining every music disc\n Obtaining every block"
+  ],
+  "Challenge maps[edit | edit source]": [
+    "Beating a challenge map\nCreating a challenge map"
+  ],
+  "Construction[edit | edit source]": [
+    "Adding beauty to constructions\nAirlock\nArchitectural terms\nBuilding a cruise ship\nBuilding a metropolis\nBuilding a rollercoaster\nBuilding micro shelters\nBuilding safe homes\nBuilding water features\nChunk ban\nColor palette\nCreating shapes\nDefense\nElevators\nEndless circling pool\nFurniture\nGlazed terracotta patterns\nLag machine\nMaking nice floors\nPixel art\nRanches\nRoof types\nRoof construction guidelines\nSecret door\nSettlement guide\nUnderwater home\nWalls and buttresses\nWater gate\nWater-powered boat transportation",
+    "Roof construction guidelines"
+  ],
+  "Block breaking[edit | edit source]": [
+    "These tutorials provide information on how to break blocks automatically, usually by an explosion.",
+    "Blast chamber\n Igniting TNT underwater\n Wither cage"
+  ],
+  "Farming[edit | edit source]": [
+    "These tutorials provide information on crop and mob farming. In most cases, the player has a choice among a variety of farming methods and designs. While a huge automatic farm may be useful where large supplies of something are needed, it's important to remember that a small, simple farm can easily provide enough resources for an early-game player, or casual use in general."
+  ],
+  "Items[edit | edit source]": [
+    "Amethyst\nArmor\nAzalea\nBamboo\nBasalt\nBedrock\nBeetroot\nBlaze Rod\nBone Meal\nCactus\nCarrot\nCat gift\nChorus Fruit\nClay\nCobblestone\nCocoa Beans\nCopper\nDirt\nDragon's breath\nDripstone\nEgg\nEnchanted Golden Apple\nExperience\nFern\nFish\nFlower\nFroglight\nGhast Tear\nGlow Berries\nGlow Ink Sac\nGlow Lichen\nGoat Horn\nGold\nHanging Roots\nHoney\nIce\nIron\nKelp\nLava\nMeat\nMoss\nMud\nMushroom\nMusic Disc\nNautilus Shell\nNether growth\nNether vine\nNether Wart\nObsidian\nOminous Bottle\nPotato\nPowder Snow\nPumpkin, Melon\nResin Clump\nRooted Dirt\nSculk\nTurtle Scute\nSeagrass\nSea Pickle\nSnow\nSoul Soil\nSugar Cane\nSweet Berries\nTree\nTrident\nVine\nVillager trading hall\nWheat\nWither Rose\nWool\nDuplication"
+  ],
+  "Mobs[edit | edit source]": [
+    "Mob farming\nMob grinding\n Monster spawner traps\n Allay\n Animals\n Axolotl\n Bee\n Blaze\n Breeze\n Cat\n Cave spider\n Chicken\n Creaking\n Creeper\n Drowned\n Ender dragon\n Enderman\nFrog\n Ghast\n Glow squid\n Goat\n Guardian\n Hoglin\n Iron golem\n Magma cube\n Phantom\n Piglin bartering\n Pillager\n Raid\n Shulker\n Slime\n Squid\n Turtle\n Villager\n Wandering trader\n Warden\n Witch\n Wither\n Wither skeleton\n Zombie/Drowned\n Zombie villager\n Zombified piglin"
+  ],
+  "Mechanisms[edit | edit source]": [
+    "These tutorials provide information on redstone mechanisms."
+  ],
+  "Basic redstone[edit | edit source]": [
+    "Redstone tutorials: Roundup of all redstone-related tutorials (some are also linked below)\nRedstone dust: The core material that enables most redstone devices, being crafted into many of them and also placed to carry signals.\nRedstone mechanics: The basic game mechanics for redstone power and signals.\nRedstone components: The blocks that are used in and with redstone contraptions.\nRedstone circuits: Lists various types of reusable circuits that can be used to manipulate signals, with sub-pages giving examples of the various types.\nRedstone tips: Hints and advice for building your redstone devices."
+  ],
+  "Various devices[edit | edit source]": [
+    "Automatic respawn anchor recharger: Recharges respawn anchors so they can be used again.\nCombination locks: Locks that only open with the right combination entered.\nCommand blocks and functions: Making many contraptions using command blocks.\nCrafter: Automated crafting systems.\nFlying machines: Slime block contraptions that can fly.\nHopper: Hoppers are key for item handling and sorting.\nItem sorting: Sorts items.\nItem transportation: Moves items.\nMechanisms: Lists an assortment of complete devices using redstone.\nObserver stabilizer: Keeps observer-based contraptions from continuously firing.\nRandomizers: Generates random outputs.\nRedstone music: Creating music with note blocks and redstone circuits.\nRube Goldberg machine: Complexity and spectacle!\nShulker box storage: A storage system that relies on shulker boxes."
+  ],
+  "Detectors[edit | edit source]": [
+    "Block update detector: Sends a signal if a block state changes.\nComparator update detector: Sends a signal if a comparator detects a change in a block.\nDaylight detector: Sends a signal if the light changes."
+  ],
+  "Minecarts[edit | edit source]": [
+    "Minecarts: Large railway systems can benefit from redstone at the terminals.\nStorage minecarts: Loading and unloading chests and hopper minecarts.\nDigital: Digital method of loading and unloading chests and hopper minecarts.",
+    "Digital: Digital method of loading and unloading chests and hopper minecarts."
+  ],
+  "Traps[edit | edit source]": [
+    "Snow golems\n TNT cannons\n Trapdoor uses\nTraps and Trap design"
+  ],
+  "Pistons[edit | edit source]": [
+    "Piston uses\nPiston circuits\nQuasi-connectivity\nZero-ticking\nInstant repeaters"
+  ],
+  "Tripwire[edit | edit source]": [],
+  "Advanced redstone[edit | edit source]": [
+    "Advanced redstone circuits\nArithmetic logic\nCalculator\nCommand stats\nHourly clock\nMorse code\nPrinting\nRedstone computers\nRedstone telegraph"
+  ],
+  "Multiplayer[edit | edit source]": [
+    "These tutorials provide technical information on servers and tips for multiplayer.",
+    "Playing on servers\nMultiplayer survival\nSpawn jails for multiplayer\nGriefing prevention\nHiding chests\nPvP (Java Edition)\nPvP bases\nPvP (Bedrock Edition)\nPvP (Combat Tests)\nPvP (1.8)\nJoining a LAN world with alternate accounts"
+  ],
+  "Server setup[edit | edit source]": [
+    "Setting up a Java Edition server\nSetting up a Minecraft Forge server\nSetting up a Spigot server\nSetting up a Bedrock Edition server\nServer maintenance\nSetting up a LAN world\nServer startup script\nFreeBSD startup script\nOpenBSD startup script\nUbuntu startup script\nHamachi connection LAN\nRamdisk enabled server",
+    "Setting up a Minecraft Forge server\nSetting up a Spigot server",
+    "FreeBSD startup script\nOpenBSD startup script\nUbuntu startup script"
+  ],
+  "Technical[edit | edit source]": [
+    "These tutorials provide information on technical matters, such as mods and snapshots.",
+    "Moving structures using structure blocks from world to world\nImproving frame rate\nMinecraft help FAQ\nNote Block Studio\nPrograms and editors\nRunning the data generator\nUpdate Java to latest version\nSee Minecraft's code\nDowngrading\nCreating Forge mods\nMinecraft in VR"
+  ],
+  "Maps[edit | edit source]": [
+    "Custom maps\nMap downloads\nCommand NBT tags\nFalling blocks\nUpdating old terrain"
+  ],
+  "Resource packs[edit | edit source]": [
+    "Creating a resource pack\nLoading a resource pack\nModels\nSound directory\nMaking custom panoramas"
+  ],
+  "Data packs[edit | edit source]": [
+    "Creating a data pack\nImporting a data pack\nAdding a new dimension\nCustom structures\nAdding custom trims\nAdding custom paintings\nAdding custom enchantments\nRepairing a world corrupted by a data pack"
+  ],
+  "Creating Minecraft media[edit | edit source]": [
+    "Videos\nLivestreaming\nHide server IP"
+  ],
+  "Game installation[edit | edit source]": [
+    "Installing a version\nInstalling Minecraft Preview and beta versions\nObtaining a crash report\nCustom Minecraft directory\nPlaying and saving Minecraft on a thumb drive\nRecover corrupted saved world data\nRun Minecraft through Google Drive\nSave game data to Dropbox (world data only)\nSaving data Dropbox guide\nCreate a Mac OS X startup daemon\nJava Edition on Chrome OS"
+  ],
+  "Legacy tutorials[edit | edit source]": [
+    "The following tutorials are obsolete and intended for older versions of Minecraft. They are kept here for historical purposes.",
+    "Custom texture packs — texture packs are no longer used, resource packs use new file structure\nHow to get a crash report (old) — No longer works with the current launcher\nWater tram - Boat mechanics have been overhauled\nRepeater reboot system — A glitch that existed in Beta only\nUpdate LWJGL (Legacy) — Current launcher automatically updates libraries\nCustom lake — These methods are no longer needed since water is more obliging\nWater ladder — No longer works as given, water behavior has changed a lot since Beta\nInstalling mods - Modloader — ModLoader is no longer supported by its creator\nFar Lands — Only existed before Beta 1.8\nInstant wire — A glitch that existed in Beta\nUpdate Minecraft — Updating and downgrading Minecraft is automatic in the new launcher\nMinecart booster — Minecart boosters were fixed shortly after the introduction of powered rails.\nSurvival with no enabled data packs — Since 1.16, this is no longer possible as data packs are now validated before the world is created, and some tags are necessary for the data packs to be valid.\nDoor-based iron golem farming — Villages are no longer based around doors with the Village & Pillage update.\nLegacy village mechanics — Villages are no longer based around doors with the Village & Pillage update.\nVillage chaining — Villages are no longer based around doors with the Village & Pillage update.\nPotion farming — This method of potion farming was patched in version 1.17.30 as a result of being too overpowered. Witch farms can still give potions, however.\nEnd of light mob farms — Patched in 22w12a\nCustom world generation\nObtaining discontinued features — Information on how to obtain features that could only be collected in older versions but can be updated into future versions.\nPlaying and saving Minecraft on a thumb drive with the old launcher"
+  ],
+  "Navigation[edit | edit source]": []
+}

@@ -2022,5 +2022,1365 @@
     "content": "\"How to Use Commands in Minecraft\"     by Duncan Geere  – Minecraft. net, September 22, 2023.",
     "normalized_content": "how to use commands in minecraft by duncan geere minecraft net september 22 2023",
     "length": 93
+  },
+  {
+    "id": "Trading_Introduction_0",
+    "page": "Trading",
+    "section": "Introduction",
+    "content": "Trading is a gameplay mechanic that allows players to exchange emeralds for items, and vice versa, with villagers and wandering traders.",
+    "normalized_content": "trading is a gameplay mechanic that allows players to exchange emeralds for items and vice versa with villagers and wandering traders",
+    "length": 136
+  },
+  {
+    "id": "Trading_Contents_0",
+    "page": "Trading",
+    "section": "Contents",
+    "content": "1 Mechanics\n\n1. 1 Level\n1. 2 Trades\n1. 3 Sale prices\n\n\n2 Non-trading villagers\n\n2. 1 Nitwit\n2. 2 Unemployed villager\n2. 3 Baby villagers\n\n\n3 Trade offers\n\n3. 1 Armorer\n3. 2 Butcher\n3. 3 Cartographer\n3. 4 Cleric\n3. 5 Farmer\n3. 6 Fisherman\n3. 7 Fletcher\n3. 8 Leatherworker\n3. 9 Librarian\n3. 10 Mason\n3. 11 Shepherd\n3. 12 Toolsmith\n3. 13 Weaponsmith\n\n\n4 Wandering trader offers\n5 Notes\n6 Achievements\n7 Advancements\n8 Videos\n9 History\n\n9. 1 Development\n9. 2 Java Edition\n9. 3 Bedrock Edition\n9.",
+    "normalized_content": "1 mechanics 1 1 level 1 2 trades 1 3 sale prices 2 non trading villagers 2 1 nitwit 2 2 unemployed villager 2 3 baby villagers 3 trade offers 3 1 armorer 3 2 butcher 3 3 cartographer 3 4 cleric 3 5 farmer 3 6 fisherman 3 7 fletcher 3 8 leatherworker 3 9 librarian 3 10 mason 3 11 shepherd 3 12 toolsmith 3 13 weaponsmith 4 wandering trader offers 5 notes 6 achievements 7 advancements 8 videos 9 history 9 1 development 9 2 java edition 9 3 bedrock edition 9",
+    "length": 491
+  },
+  {
+    "id": "Trading_Contents_1",
+    "page": "Trading",
+    "section": "Contents",
+    "content": "4 Legacy Console Edition\n\n\n10 Issues\n11 Trivia\n12 Gallery\n\n12. 1 Renders\n12. 2 Screenshots\n12. 3 Development images\n\n\n13 See also\n14 References\n15 External links\n16 Navigation 1. 1 Level\n1. 2 Trades\n1. 3 Sale prices 2. 1 Nitwit\n2. 2 Unemployed villager\n2. 3 Baby villagers 3. 1 Armorer\n3. 2 Butcher\n3. 3 Cartographer\n3. 4 Cleric\n3. 5 Farmer\n3. 6 Fisherman\n3. 7 Fletcher\n3. 8 Leatherworker\n3. 9 Librarian\n3. 10 Mason\n3. 11 Shepherd\n3. 12 Toolsmith\n3. 13 Weaponsmith 9. 1 Development\n9.",
+    "normalized_content": "4 legacy console edition 10 issues 11 trivia 12 gallery 12 1 renders 12 2 screenshots 12 3 development images 13 see also 14 references 15 external links 16 navigation 1 1 level 1 2 trades 1 3 sale prices 2 1 nitwit 2 2 unemployed villager 2 3 baby villagers 3 1 armorer 3 2 butcher 3 3 cartographer 3 4 cleric 3 5 farmer 3 6 fisherman 3 7 fletcher 3 8 leatherworker 3 9 librarian 3 10 mason 3 11 shepherd 3 12 toolsmith 3 13 weaponsmith 9 1 development 9",
+    "length": 484
+  },
+  {
+    "id": "Trading_Contents_2",
+    "page": "Trading",
+    "section": "Contents",
+    "content": "2 Java Edition\n9. 3 Bedrock Edition\n9. 4 Legacy Console Edition 12. 1 Renders\n12. 2 Screenshots\n12. 3 Development images.",
+    "normalized_content": "2 java edition 9 3 bedrock edition 9 4 legacy console edition 12 1 renders 12 2 screenshots 12 3 development images",
+    "length": 121
+  },
+  {
+    "id": "Trading_Mechanics[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Mechanics[edit | edit source]",
+    "content": "Pressing use on an adult villager with a profession, or on a wandering trader, opens a menu, allowing a player to trade with that merchant. This action pauses any pathfinding the merchant was doing and makes it face you. If the merchant takes damage while trading, the trading menu closes. The same thing happens if they walk or are transported far enough away. All transactions involve emeralds.",
+    "normalized_content": "pressing use on an adult villager with a profession or on a wandering trader opens a menu allowing a player to trade with that merchant this action pauses any pathfinding the merchant was doing and makes it face you if the merchant takes damage while trading the trading menu closes the same thing happens if they walk or are transported far enough away all transactions involve emeralds",
+    "length": 396
+  },
+  {
+    "id": "Trading_Mechanics[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Mechanics[edit | edit source]",
+    "content": "Trading is the only method of acquiring the globe banner pattern, as well as all types of explorer maps except buried treasure maps in Survival mode. It is also the only renewable way to obtain bells, diamond gear,[note 1] lapis lazuli‌[BE  only], bottles o' enchanting, glass, sand, red sand, coral blocks, arrow of decay,‌[BE  only] and small dripleaves.",
+    "normalized_content": "trading is the only method of acquiring the globe banner pattern as well as all types of explorer maps except buried treasure maps in survival mode it is also the only renewable way to obtain bells diamond gear note 1 lapis lazuli be only bottles o enchanting glass sand red sand coral blocks arrow of decay be only and small dripleaves",
+    "length": 356
+  },
+  {
+    "id": "Trading_Level[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Level[edit | edit source]",
+    "content": "Villagers have five career levels that can be increased by trading with them. Each villager starts at the novice level. A villager's level can be seen in the trading menu. The badge that a villager wears can also be identified: stone for a novice, iron for an apprentice, gold for a journeyman, emerald for an expert, and diamond for a master. Trading until the villager's trading bar gets full unlocks the next level of trades.",
+    "normalized_content": "villagers have five career levels that can be increased by trading with them each villager starts at the novice level a villager s level can be seen in the trading menu the badge that a villager wears can also be identified stone for a novice iron for an apprentice gold for a journeyman emerald for an expert and diamond for a master trading until the villager s trading bar gets full unlocks the next level of trades",
+    "length": 428
+  },
+  {
+    "id": "Trading_Level[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Level[edit | edit source]",
+    "content": "When a player trades with a villager, both the villager and the player gain experience. All villager trades reward the player with 3–6 experience plus an additional 5 experience if the villager levels up with the trade. Trading with a wandering trader also rewards the player with some experience, although the trader does not have experience levels to gain.",
+    "normalized_content": "when a player trades with a villager both the villager and the player gain experience all villager trades reward the player with 3 6 experience plus an additional 5 experience if the villager levels up with the trade trading with a wandering trader also rewards the player with some experience although the trader does not have experience levels to gain",
+    "length": 358
+  },
+  {
+    "id": "Trading_Level[edit | edit source]_2",
+    "page": "Trading",
+    "section": "Level[edit | edit source]",
+    "content": "A villager levels up when its experience bar becomes full and gains up to two‌[JE  only] or three‌[BE  only] new trades and retains its existing trades. Additionally, a villager receives a Regeneration effect and becomes surrounded by purple particles for ten seconds. Trades from the master level would still reward the villager with experience, but it has no actual effect as the villager can't level up any further. Each badge is 2x3 pixels except the novice (stone) badge, which is 4x4 pixels.",
+    "normalized_content": "a villager levels up when its experience bar becomes full and gains up to two je only or three be only new trades and retains its existing trades additionally a villager receives a regeneration effect and becomes surrounded by purple particles for ten seconds trades from the master level would still reward the villager with experience but it has no actual effect as the villager can t level up any further each badge is 2x3 pixels except the novice stone badge which is 4x4 pixels",
+    "length": 497
+  },
+  {
+    "id": "Trading_Level[edit | edit source]_3",
+    "page": "Trading",
+    "section": "Level[edit | edit source]",
+    "content": "In Java Edition, villagers have a maximum of 10 trades. Each level unlocks a maximum of two new trades. If a level has a pool of more than two trades, the two offered trades are chosen randomly from the set. In Bedrock Edition, villagers have 7–10 trade slots. A slot with multiple possible trades will display only one trade; for example, farmer villagers have 4 potential trades in their first trade slot, so each trade has a 1⁄4 chance to be chosen.",
+    "normalized_content": "in java edition villagers have a maximum of 10 trades each level unlocks a maximum of two new trades if a level has a pool of more than two trades the two offered trades are chosen randomly from the set in bedrock edition villagers have 7 10 trade slots a slot with multiple possible trades will display only one trade for example farmer villagers have 4 potential trades in their first trade slot so each trade has a 1 4 chance to be chosen",
+    "length": 452
+  },
+  {
+    "id": "Trading_Level[edit | edit source]_4",
+    "page": "Trading",
+    "section": "Level[edit | edit source]",
+    "content": "‌[until Villager Trade Rebalancing][verify] A villager's profession dictates the trading pool used to determine its trades. For example, villagers wearing straw hats are farmers, so their trades are based on the Farmer trade pool. Each profession unlocks a predefined and finite set of offers. Different professions are assigned to each villager based on their job-site block. This profession is indicated by their appearance and in the trading interface.",
+    "normalized_content": "until villager trade rebalancing verify a villager s profession dictates the trading pool used to determine its trades for example villagers wearing straw hats are farmers so their trades are based on the farmer trade pool each profession unlocks a predefined and finite set of offers different professions are assigned to each villager based on their job site block this profession is indicated by their appearance and in the trading interface",
+    "length": 455
+  },
+  {
+    "id": "Trading_Level[edit | edit source]_5",
+    "page": "Trading",
+    "section": "Level[edit | edit source]",
+    "content": "Novice villagers who have not traded can lose their profession and change back into unemployed villagers if their claimed job site block is removed. Removing and then replacing a job site block can alter the trades offered, and a villager with no experience resets its trades every so often. Once a player trades with a villager, the villager keeps its profession forever and subsequently locks in the offered trades.",
+    "normalized_content": "novice villagers who have not traded can lose their profession and change back into unemployed villagers if their claimed job site block is removed removing and then replacing a job site block can alter the trades offered and a villager with no experience resets its trades every so often once a player trades with a villager the villager keeps its profession forever and subsequently locks in the offered trades",
+    "length": 417
+  },
+  {
+    "id": "Trading_Trades[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Trades[edit | edit source]",
+    "content": "Each trade can be used a maximum number of times, after which the villager runs out of stock and trade becomes disabled. The exact number is different for each item and referenced in the tables below. When villagers work at their job site blocks, they activate their offers again, up to twice per day. In Bedrock Edition, villagers need to be linked to a bed to restock their trades (it is not necessary for them to sleep, but require a bed nearby).",
+    "normalized_content": "each trade can be used a maximum number of times after which the villager runs out of stock and trade becomes disabled the exact number is different for each item and referenced in the tables below when villagers work at their job site blocks they activate their offers again up to twice per day in bedrock edition villagers need to be linked to a bed to restock their trades it is not necessary for them to sleep but require a bed nearby",
+    "length": 449
+  },
+  {
+    "id": "Trading_Trades[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Trades[edit | edit source]",
+    "content": "When an offer is disabled, a red \"X\" appears in the trading interface in Java Edition, or the trading slot becomes red in Bedrock Edition, and the villager displays the same particle effect as an offer being created. When buying items from players, villagers ignore additional item data; this allows, for example, selling renamed or enchanted items, as well as lodestone compasses instead of regular compasses in Java Edition.",
+    "normalized_content": "when an offer is disabled a red x appears in the trading interface in java edition or the trading slot becomes red in bedrock edition and the villager displays the same particle effect as an offer being created when buying items from players villagers ignore additional item data this allows for example selling renamed or enchanted items as well as lodestone compasses instead of regular compasses in java edition",
+    "length": 426
+  },
+  {
+    "id": "Trading_Trades[edit | edit source]_2",
+    "page": "Trading",
+    "section": "Trades[edit | edit source]",
+    "content": "When the Villager Trade Rebalance experiment is enabled, taiga armorers can also accept armor of any durability.",
+    "normalized_content": "when the villager trade rebalance experiment is enabled taiga armorers can also accept armor of any durability",
+    "length": 112
+  },
+  {
+    "id": "Trading_Sale prices[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Sale prices[edit | edit source]",
+    "content": "The price of an item rises and falls depending on three factors. Items with a high price multiplier (0. 2) are affected by these changes more than items with a low multiplier (0. 05). All price fluctuations affect only the first item involved in trade; for example, for an initial trade of 32 sticks for 1 emerald, the price might be driven down to 1 stick or up to 64 sticks for 1 emerald, but never for 2 emeralds. Additionally, no quantity can go lower than 1 or higher than the stack size.",
+    "normalized_content": "the price of an item rises and falls depending on three factors items with a high price multiplier 0 2 are affected by these changes more than items with a low multiplier 0 05 all price fluctuations affect only the first item involved in trade for example for an initial trade of 32 sticks for 1 emerald the price might be driven down to 1 stick or up to 64 sticks for 1 emerald but never for 2 emeralds additionally no quantity can go lower than 1 or higher than the stack size",
+    "length": 493
+  },
+  {
+    "id": "Trading_Sale prices[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Sale prices[edit | edit source]",
+    "content": "The first factor is demand. An item that was sold out gets a price increase for all players when resupplied. If a player does not trade for a higher-priced item, the price is reduced the next time the villager resupplies. Demand is tracked per item, not per villager, so a villager can offer a higher-priced trade for a single item while other items are cheaper. Trades that have a price multiplier of 0 are not affected by demand.",
+    "normalized_content": "the first factor is demand an item that was sold out gets a price increase for all players when resupplied if a player does not trade for a higher priced item the price is reduced the next time the villager resupplies demand is tracked per item not per villager so a villager can offer a higher priced trade for a single item while other items are cheaper trades that have a price multiplier of 0 are not affected by demand",
+    "length": 431
+  },
+  {
+    "id": "Trading_Sale prices[edit | edit source]_2",
+    "page": "Trading",
+    "section": "Sale prices[edit | edit source]",
+    "content": "The second way to affect prices is the Hero of the Village effect, gained from successfully completing a raid, which temporarily reduces prices for the affected player depending on the level of the effect. Finally, players get personal discounts or penalties‌[Java Edition  only] based on their reputation with a particular villager.",
+    "normalized_content": "the second way to affect prices is the hero of the village effect gained from successfully completing a raid which temporarily reduces prices for the affected player depending on the level of the effect finally players get personal discounts or penalties java edition only based on their reputation with a particular villager",
+    "length": 333
+  },
+  {
+    "id": "Trading_Sale prices[edit | edit source]_3",
+    "page": "Trading",
+    "section": "Sale prices[edit | edit source]",
+    "content": "A positive reputation is gained by curing zombie villagers (the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers). Giving a zombie villager the Weakness effect and then feeding it a golden apple starts the curing process. After five minutes, it transforms into a villager. The permanent discount is capped at one cure, while the temporary discount is capped at eight cures[needs testing].",
+    "normalized_content": "a positive reputation is gained by curing zombie villagers the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers giving a zombie villager the weakness effect and then feeding it a golden apple starts the curing process after five minutes it transforms into a villager the permanent discount is capped at one cure while the temporary discount is capped at eight cures needs testing",
+    "length": 447
+  },
+  {
+    "id": "Trading_Sale prices[edit | edit source]_4",
+    "page": "Trading",
+    "section": "Sale prices[edit | edit source]",
+    "content": "Players can also gain negative reputation by hitting or killing villagers, and positive reputation by trading. In Bedrock Edition, negative reputation can reduce or eliminate discounts but does not result in penalties.",
+    "normalized_content": "players can also gain negative reputation by hitting or killing villagers and positive reputation by trading in bedrock edition negative reputation can reduce or eliminate discounts but does not result in penalties",
+    "length": 218
+  },
+  {
+    "id": "Trading_Non-trading villagers[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Non-trading villagers[edit | edit source]",
+    "content": "If the player attempts to trade with a non-trading villager in Java Edition, it grunts and bobs its head, but if the player tries to do the same thing in Bedrock Edition, nothing happens.",
+    "normalized_content": "if the player attempts to trade with a non trading villager in java edition it grunts and bobs its head but if the player tries to do the same thing in bedrock edition nothing happens",
+    "length": 187
+  },
+  {
+    "id": "Trading_Nitwit[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Nitwit[edit | edit source]",
+    "content": "Nitwits are green-coated villagers. They cannot gain a profession. While they can be used for breeding, it is not possible to get a baby nitwit by breeding adult nitwits.",
+    "normalized_content": "nitwits are green coated villagers they cannot gain a profession while they can be used for breeding it is not possible to get a baby nitwit by breeding adult nitwits",
+    "length": 170
+  },
+  {
+    "id": "Trading_Unemployed villager[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Unemployed villager[edit | edit source]",
+    "content": "Villagers without a job cannot trade. They only wear their biome outfits. An unemployed villager gains a profession by claiming an unclaimed job site block. For example, an unclaimed cartography table converts an unemployed villager into a cartographer when the villager claims it, and both the villager and the table emit green particles.",
+    "normalized_content": "villagers without a job cannot trade they only wear their environment type outfits an unemployed villager gains a profession by claiming an unclaimed job site block for example an unclaimed cartography table converts an unemployed villager into a cartographer when the villager claims it and both the villager and the table emit green particles",
+    "length": 339
+  },
+  {
+    "id": "Trading_Unemployed villager[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Unemployed villager[edit | edit source]",
+    "content": "An inaccessible (or destroyed) job site block causes the connected villager to lose its profession, but that does not affect the player's popularity in the village.",
+    "normalized_content": "an inaccessible or destroyed job site block causes the connected villager to lose its profession but that does not affect the player s popularity in the village",
+    "length": 164
+  },
+  {
+    "id": "Trading_Baby villagers[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Baby villagers[edit | edit source]",
+    "content": "The appearance of baby villagers is the same as that of the corresponding adult unemployed villagers, but their bodies are smaller. They can't get a job and trade.",
+    "normalized_content": "the appearance of baby villagers is the same as that of the corresponding adult unemployed villagers but their bodies are smaller they can t get a job and trade",
+    "length": 163
+  },
+  {
+    "id": "Trading_Trade offers[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Trade offers[edit | edit source]",
+    "content": "The villager pictured on the right is from the plains biome. To see villager professions dressed for other biomes, see Villagers § Professions. In Java Edition, starting from Novice, at each level two additional trades become available, unless there is only one trade within that level. If there are more than two possible trades, two are randomly selected. In Bedrock Edition, one trade is chosen randomly from each slot available.",
+    "normalized_content": "the villager pictured on the right is from the plains biome to see villager professions dressed for other biomes see villagers professions in java edition starting from novice at each level two additional trades become available unless there is only one trade within that level if there are more than two possible trades two are randomly selected in bedrock edition one trade is chosen randomly from each slot available",
+    "length": 432
+  },
+  {
+    "id": "Trading_Trade offers[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Trade offers[edit | edit source]",
+    "content": "For example, if there are two items on the same slot, then only one of them will show up in the trade.",
+    "normalized_content": "for example if there are two items on the same slot then only one of them will show up in the trade",
+    "length": 102
+  },
+  {
+    "id": "Trading_Armorer[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Armorer[edit | edit source]",
+    "content": "Armorers trade various foundry and armor items. Their job site block is the Blast Furnace. ↑ The price of this trade is the base price, 14 emeralds, plus the random enchantment level chosen (5–19). ↑ a b c d When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments. ↑ a b The price of this trade is the base price, 8 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "armorers trade various foundry and armor items their job site block is the blast furnace the price of this trade is the base price 14 emeralds plus the random enchantment level chosen 5 19 a b c d when creating an enchantment offer the game uses a random enchantment level from 5 to 19 the enchantments are never treasure enchantments a b the price of this trade is the base price 8 emeralds plus the random enchantment level chosen 5 19",
+    "length": 458
+  },
+  {
+    "id": "Trading_Armorer[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Armorer[edit | edit source]",
+    "content": "↑ The price of this trade is the base price, 16 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "the price of this trade is the base price 16 emeralds plus the random enchantment level chosen 5 19",
+    "length": 106
+  },
+  {
+    "id": "Trading_Butcher[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Butcher[edit | edit source]",
+    "content": "Butchers trade meat and some other food items. Their job site block is the Smoker.",
+    "normalized_content": "butchers trade meat and some other food items their job site block is the smoker",
+    "length": 82
+  },
+  {
+    "id": "Trading_Cartographer[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Cartographer[edit | edit source]",
+    "content": "Cartographers trade maps and related items. Their job site block is the Cartography Table. ↑ The structure that the map leads to depends on the biome the villager is from. Each of the three possible maps are counted as independent trades, so a villager trading multiple maps is possible. ↑ a b In Java Edition, all copies of the map traded by a particular villager lead to the same structure. In worlds that do not have the structure, this trade is not offered.",
+    "normalized_content": "cartographers trade maps and related items their job site block is the cartography table the structure that the map leads to depends on the environment type the villager is from each of the three possible maps are counted as independent trades so a villager trading multiple maps is possible a b in java edition all copies of the map traded by a particular villager lead to the same structure in worlds that do not have the structure this trade is not offered",
+    "length": 461
+  },
+  {
+    "id": "Trading_Cartographer[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Cartographer[edit | edit source]",
+    "content": "In Bedrock Edition, cartographers adopting the profession in the Nether or the End do not offer explorer maps. ↑ The list of possible offers contains individual offers for each color, so multiple colors may be offered by the same villager as separate trades.",
+    "normalized_content": "in bedrock edition cartographers adopting the profession in the nether or the end do not offer explorer maps the list of possible offers contains individual offers for each color so multiple colors may be offered by the same villager as separate trades",
+    "length": 258
+  },
+  {
+    "id": "Trading_Cleric[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Cleric[edit | edit source]",
+    "content": "Clerics trade magic items. Their job site block is the Brewing Stand.",
+    "normalized_content": "clerics trade magic items their job site block is the brewing stand",
+    "length": 69
+  },
+  {
+    "id": "Trading_Farmer[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Farmer[edit | edit source]",
+    "content": "Farmers trade crops and natural foods. Their job site block is the Composter. ↑ The stew gives 6 seconds of Blindness in Java Edition, or 5 seconds of Night Vision in Bedrock Edition. ↑ The stew gives 8 seconds of Jump Boost in Java Edition, or 5 seconds of Night Vision in Bedrock Edition. ↑ The stew gives 5 seconds of Night Vision. ↑ The stew gives 14 seconds of Poison in Java Edition, or 5 seconds of Night Vision in Bedrock Edition. ↑ The stew gives 0.",
+    "normalized_content": "farmers trade crops and natural foods their job site block is the composter the stew gives 6 seconds of blindness in java edition or 5 seconds of night vision in bedrock edition the stew gives 8 seconds of jump boost in java edition or 5 seconds of night vision in bedrock edition the stew gives 5 seconds of night vision the stew gives 14 seconds of poison in java edition or 5 seconds of night vision in bedrock edition the stew gives 0",
+    "length": 458
+  },
+  {
+    "id": "Trading_Farmer[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Farmer[edit | edit source]",
+    "content": "35 seconds of Saturation in Java Edition, or 5 seconds of Night Vision in Bedrock Edition. ↑ The stew gives 7 seconds of Weakness in Java Edition, or 5 seconds of Night Vision in Bedrock Edition.",
+    "normalized_content": "35 seconds of saturation in java edition or 5 seconds of night vision in bedrock edition the stew gives 7 seconds of weakness in java edition or 5 seconds of night vision in bedrock edition",
+    "length": 195
+  },
+  {
+    "id": "Trading_Fisherman[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Fisherman[edit | edit source]",
+    "content": "Fishermen trade fishing-related items. Their job site block is the Barrel. ↑ The price of this trade is the base price, 3 emeralds, plus the random enchantment level chosen (5–19). ↑ When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments. ↑ The type of boat trade depends on the biome outfit of the villager.",
+    "normalized_content": "fishermen trade fishing related items their job site block is the barrel the price of this trade is the base price 3 emeralds plus the random enchantment level chosen 5 19 when creating an enchantment offer the game uses a random enchantment level from 5 to 19 the enchantments are never treasure enchantments the type of boat trade depends on the environment type outfit of the villager",
+    "length": 393
+  },
+  {
+    "id": "Trading_Fisherman[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Fisherman[edit | edit source]",
+    "content": "Plains villagers buy oak boats, taiga and snowy villagers buy spruce boats, desert and jungle villagers buy jungle boats, savanna villagers buy acacia boats, and swamp villagers buy dark oak boats.",
+    "normalized_content": "plains villagers buy oak boats taiga and snowy villagers buy spruce boats desert and jungle villagers buy jungle boats savanna villagers buy acacia boats and swamp villagers buy dark oak boats",
+    "length": 197
+  },
+  {
+    "id": "Trading_Fletcher[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Fletcher[edit | edit source]",
+    "content": "Fletchers trade archery-related items. Their job site block is the Fletching Table. ↑ The price of this trade is the base price, 2 emeralds, plus the random enchantment level chosen (5–19). ↑ a b When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments. ↑ The price of this trade is the base price, 3 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "fletchers trade archery related items their job site block is the fletching table the price of this trade is the base price 2 emeralds plus the random enchantment level chosen 5 19 a b when creating an enchantment offer the game uses a random enchantment level from 5 to 19 the enchantments are never treasure enchantments the price of this trade is the base price 3 emeralds plus the random enchantment level chosen 5 19",
+    "length": 442
+  },
+  {
+    "id": "Trading_Fletcher[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Fletcher[edit | edit source]",
+    "content": "↑ In Java Edition, the type of arrow is chosen randomly from all possible brewable potions with effects, including extended and strengthened versions. In Bedrock Edition, the type of arrow is randomly chosen from 15 options: Night Vision, Invisibility, Leaping, Fire Resistance, Swiftness, Slowness, Water Breathing, Healing, Harming, Poison, Regeneration, Strength, Weakness, Turtle Master, or Decay (Level 2).",
+    "normalized_content": "in java edition the type of arrow is chosen randomly from all possible brewable potions with effects including extended and strengthened versions in bedrock edition the type of arrow is randomly chosen from 15 options night vision invisibility leaping fire resistance swiftness slowness water breathing healing harming poison regeneration strength weakness turtle master or decay level 2",
+    "length": 411
+  },
+  {
+    "id": "Trading_Leatherworker[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Leatherworker[edit | edit source]",
+    "content": "Leatherworkers trade animal products, including leather-related items. Their job site block is the Cauldron. ↑ a b c d e f g The leather armor has a random color created by two dyes (possibly the same dye twice. ).",
+    "normalized_content": "leatherworkers trade animal products including leather related items their job site block is the cauldron a b c d e f g the leather armor has a random color created by two dyes possibly the same dye twice",
+    "length": 214
+  },
+  {
+    "id": "Trading_Librarian[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Librarian[edit | edit source]",
+    "content": "Librarians trade books and related items. Their job site block is the Lectern. ↑ a b c d The enchantment is chosen randomly with equal chance of any enchantment type occurring (except for Soul Speed, Swift Sneak, and Wind Burst) and equal chance to get any level of the enchantment, meaning high-level enchantments are as likely as low-level enchantments. It is possible for a librarian to sell the same book more than once.",
+    "normalized_content": "librarians trade books and related items their job site block is the lectern a b c d the enchantment is chosen randomly with equal chance of any enchantment type occurring except for soul speed swift sneak and wind burst and equal chance to get any level of the enchantment meaning high level enchantments are as likely as low level enchantments it is possible for a librarian to sell the same book more than once",
+    "length": 424
+  },
+  {
+    "id": "Trading_Librarian[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Librarian[edit | edit source]",
+    "content": "The price in emeralds depends on the enchantment level and \"treasure\" status. The minimum price of a book is given by 2 + 3 * (enchantment level), while the maximum price is 6 + 13 * (enchantment level). The possible values are 5–19 emeralds for Lvl I, 8–32 for Lvl II, 11–45 for Lvl III, 14–58 for Lvl IV, and 17–71 for Lvl V. For treasure enchantments the price is doubled. The cost is capped at 64 emeralds. All values below this cap are equally probable.",
+    "normalized_content": "the price in emeralds depends on the enchantment level and treasure status the minimum price of a book is given by 2 3 enchantment level while the maximum price is 6 13 enchantment level the possible values are 5 19 emeralds for level i 8 32 for level ii 11 45 for level iii 14 58 for level iv and 17 71 for level v for treasure enchantments the price is doubled the cost is capped at 64 emeralds all values below this cap are equally probable",
+    "length": 458
+  },
+  {
+    "id": "Trading_Librarian[edit | edit source]_2",
+    "page": "Trading",
+    "section": "Librarian[edit | edit source]",
+    "content": "↑ In Java Edition only one is requested per trade because of MC-248042 — Librarian's book and quill trade is always discounted to 1 since books are unstackable. In Bedrock Edition, the second book is placed in another slot instead.",
+    "normalized_content": "in java edition only one is requested per trade because of mc 248042 librarian s book and quill trade is always discounted to 1 since books are unstackable in bedrock edition the second book is placed in another slot instead",
+    "length": 231
+  },
+  {
+    "id": "Trading_Mason[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Mason[edit | edit source]",
+    "content": "Masons trade various types of stone. Their job site block is the Stonecutter. ↑ a b The list of possible offers contains individual offers for each color, so multiple colors may be offered by the same villager as separate trades.",
+    "normalized_content": "masons trade various types of stone their job site block is the stonecutter a b the list of possible offers contains individual offers for each color so multiple colors may be offered by the same villager as separate trades",
+    "length": 229
+  },
+  {
+    "id": "Trading_Shepherd[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Shepherd[edit | edit source]",
+    "content": "Shepherds trade wool and dyed items. Their job site block is the Loom. ↑ a b c d The list of possible offers contains individual offers for each color, so multiple colors may be offered by the same villager as separate trades.",
+    "normalized_content": "shepherds trade wool and dyed items their job site block is the loom a b c d the list of possible offers contains individual offers for each color so multiple colors may be offered by the same villager as separate trades",
+    "length": 226
+  },
+  {
+    "id": "Trading_Toolsmith[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Toolsmith[edit | edit source]",
+    "content": "Toolsmiths trade tools and related materials. Their job site block is the Smithing Table. ↑ The price of this trade is the base price, 1 emerald, plus the random enchantment level chosen (5–19). ↑ a b c d e f When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments. ↑ The price of this trade is the base price, 2 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "toolsmiths trade tools and related materials their job site block is the smithing table the price of this trade is the base price 1 emerald plus the random enchantment level chosen 5 19 a b c d e f when creating an enchantment offer the game uses a random enchantment level from 5 to 19 the enchantments are never treasure enchantments the price of this trade is the base price 2 emeralds plus the random enchantment level chosen 5 19",
+    "length": 455
+  },
+  {
+    "id": "Trading_Toolsmith[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Toolsmith[edit | edit source]",
+    "content": "↑ The price of this trade is the base price, 3 emeralds, plus the random enchantment level chosen (5–19). ↑ The price of this trade is the base price, 12 emeralds, plus the random enchantment level chosen (5–19). ↑ The price of this trade is the base price, 5 emeralds, plus the random enchantment level chosen (5–19). ↑ The price of this trade is the base price, 13 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "the price of this trade is the base price 3 emeralds plus the random enchantment level chosen 5 19 the price of this trade is the base price 12 emeralds plus the random enchantment level chosen 5 19 the price of this trade is the base price 5 emeralds plus the random enchantment level chosen 5 19 the price of this trade is the base price 13 emeralds plus the random enchantment level chosen 5 19",
+    "length": 425
+  },
+  {
+    "id": "Trading_Weaponsmith[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Weaponsmith[edit | edit source]",
+    "content": "Weaponsmiths trade weapons and related materials. Their job site block is the Grindstone. ↑ The price of this trade is the base price, 2 emeralds, plus the random enchantment level chosen (5–19). ↑ a b c When creating an enchantment offer, the game uses a random enchantment level from 5 to 19. The enchantments are never treasure enchantments. ↑ The price of this trade is the base price, 12 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "weaponsmiths trade weapons and related materials their job site block is the grindstone the price of this trade is the base price 2 emeralds plus the random enchantment level chosen 5 19 a b c when creating an enchantment offer the game uses a random enchantment level from 5 to 19 the enchantments are never treasure enchantments the price of this trade is the base price 12 emeralds plus the random enchantment level chosen 5 19",
+    "length": 451
+  },
+  {
+    "id": "Trading_Weaponsmith[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Weaponsmith[edit | edit source]",
+    "content": "↑ The price of this trade is the base price, 8 emeralds, plus the random enchantment level chosen (5–19).",
+    "normalized_content": "the price of this trade is the base price 8 emeralds plus the random enchantment level chosen 5 19",
+    "length": 105
+  },
+  {
+    "id": "Trading_Wandering trader offers[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Wandering trader offers[edit | edit source]",
+    "content": "The wandering trader offers nine trades in total: two random trades from purchasing table, two random trades from special selling table, and five random trades from ordinary selling table. These trades are not divided into categories; for example, a single wandering trader can sell 2 different saplings. Each individual trade is equally likely.",
+    "normalized_content": "the wandering trader offers nine trades in total two random trades from purchasing table two random trades from special selling table and five random trades from ordinary selling table these trades are not divided into categories for example a single wandering trader can sell 2 different saplings each individual trade is equally likely",
+    "length": 345
+  },
+  {
+    "id": "Trading_Wandering trader offers[edit | edit source]_1",
+    "page": "Trading",
+    "section": "Wandering trader offers[edit | edit source]",
+    "content": "[verify] In the trading GUI, the trade offers are always listed in this order: 2 purchasing trades\n2 special selling trades\n5 ordinary selling trades ↑ Duration: 8:00\n\n↑ The price of this trade is the base price, 1 emerald, plus the random enchantment level chosen (5–19). ↑ When creating an enchantment offer, the game uses a random enchantment level form 5 to 19. The enchantments are never treasure enchantments.",
+    "normalized_content": "verify in the trading gui the trade offers are always listed in this order 2 purchasing trades 2 special selling trades 5 ordinary selling trades duration 8 00 the price of this trade is the base price 1 emerald plus the random enchantment level chosen 5 19 when creating an enchantment offer the game uses a random enchantment level form 5 to 19 the enchantments are never treasure enchantments",
+    "length": 415
+  },
+  {
+    "id": "Trading_Notes[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Notes[edit | edit source]",
+    "content": "↑ Technically, diamond armor (not other types of diamond gear) can also be obtained renewably from zombies and skeletons; however, these mobs only have a 0. 04% (1⁄25,000) chance to spawn with diamond armor, rendering this an extremely impractical way to obtain such armor.",
+    "normalized_content": "technically diamond armor not other types of diamond gear can also be obtained renewably from zombies and skeletons however these mobs only have a 0 04 1 25 000 chance to spawn with diamond armor rendering this an extremely impractical way to obtain such armor",
+    "length": 273
+  },
+  {
+    "id": "Trading_Issues[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Issues[edit | edit source]",
+    "content": "Issues relating to \"Trading\", \"Trades\", or \"Trade system\" are maintained on the bug tracker. Issues should be reported and viewed there.",
+    "normalized_content": "issues relating to trading trades or trade system are maintained on the bug tracker issues should be reported and viewed there",
+    "length": 136
+  },
+  {
+    "id": "Trading_Trivia[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Trivia[edit | edit source]",
+    "content": "While diamonds are not renewable (except via vault, which is impractical in normal gameplay), many of their products (armor, tools, and weapons) are renewable via trading.",
+    "normalized_content": "while diamonds are not renewable except via vault which is impractical in normal gameplay many of their products armor tools and weapons are renewable via trading",
+    "length": 171
+  },
+  {
+    "id": "Trading_Renders[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Renders[edit | edit source]",
+    "content": "An unemployed villager refuses a player trying to trade. A nitwit villager refuses a player trying to trade. A villager presenting their emeralds.",
+    "normalized_content": "an unemployed villager refuses a player trying to trade a nitwit villager refuses a player trying to trade a villager presenting their emeralds",
+    "length": 146
+  },
+  {
+    "id": "Trading_Screenshots[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Screenshots[edit | edit source]",
+    "content": "The trading menu before Bedrock Edition 1. 11. 0. Trading options of a master-level weaponsmith.",
+    "normalized_content": "the trading menu before bedrock edition 1 11 0 trading options of a master level weaponsmith",
+    "length": 96
+  },
+  {
+    "id": "Trading_Development images[edit | edit source]_0",
+    "page": "Trading",
+    "section": "Development images[edit | edit source]",
+    "content": "The first image of the trading system released by Jeb. The currency item (later updated to the emerald) can be seen in the inventory. An enhanced version of Jeb's screenshot showing the original ore texture more clearly.",
+    "normalized_content": "the first image of the trading system released by jeb the currency item later updated to the emerald can be seen in the inventory an enhanced version of jeb s screenshot showing the original ore texture more clearly",
+    "length": 220
+  },
+  {
+    "id": "Trading_See also[edit | edit source]_0",
+    "page": "Trading",
+    "section": "See also[edit | edit source]",
+    "content": "Bartering\nVillager\nArmorer\nButcher\nCartographer\nCleric\nFarmer\nFisherman\nFletcher\nLeatherworker\nLibrarian\nMason\nShepherd\nToolsmith\nWeaponsmith\nWandering Trader Armorer\nButcher\nCartographer\nCleric\nFarmer\nFisherman\nFletcher\nLeatherworker\nLibrarian\nMason\nShepherd\nToolsmith\nWeaponsmith.",
+    "normalized_content": "bartering villager armorer butcher cartographer cleric farmer fisherman fletcher leatherworker librarian mason shepherd toolsmith weaponsmith wandering trader armorer butcher cartographer cleric farmer fisherman fletcher leatherworker librarian mason shepherd toolsmith weaponsmith",
+    "length": 282
+  },
+  {
+    "id": "Trading_References[edit | edit source]_0",
+    "page": "Trading",
+    "section": "References[edit | edit source]",
+    "content": "↑ https://web. archive. org/web/20150316193400/http://www. minecraftforum. net/forums/archive/future-updates/384441-1-5-new-blocks-items#c11\n\n↑ MC-181190 — The discount for curing a villager is multiplied if the villager is reinfected and cured again — resolved as \"Fixed\".",
+    "normalized_content": "https web archive org web 20150316193400 http www minecraftforum net forums archive future updates 384441 1 5 new blocks items c11 mc 181190 the discount for curing a villager is multiplied if the villager is reinfected and cured again resolved as fixed",
+    "length": 273
+  },
+  {
+    "id": "Trading_External links[edit | edit source]_0",
+    "page": "Trading",
+    "section": "External links[edit | edit source]",
+    "content": "\"All villager jobs – Ranked\"     by James Nouch  – Minecraft. net, August 19, 2025.",
+    "normalized_content": "all villager jobs ranked by james nouch minecraft net august 19 2025",
+    "length": 83
+  },
+  {
+    "id": "Brewing_Introduction_0",
+    "page": "Brewing",
+    "section": "Introduction",
+    "content": "Brewing is the process of creating potions, splash potions, lingering potions, and medicine‌[Minecraft Education  only] by adding various ingredients to water bottles in a brewing stand.",
+    "normalized_content": "brewing is the process of creating potions splash potions lingering potions and medicine minecraft education only by adding various ingredients to water bottles in a brewing stand",
+    "length": 186
+  },
+  {
+    "id": "Brewing_Contents_0",
+    "page": "Brewing",
+    "section": "Contents",
+    "content": "1 Brewing equipment\n2 Ingredients\n\n2. 1 Base ingredients and modifiers\n\n2. 1. 1 Enhancement\n2. 1. 2 Corrupting effect\n2. 1. 3 Splash and lingering potions\n\n\n2. 2 Effect ingredients\n\n\n3 Brewing recipes\n\n3. 1 Base potions\n3. 2 Effect potions\n\n3. 2. 1 Positive effects\n3. 2. 2 Negative effects\n3. 2. 3 Mixed effects\n3. 2. 4 Bedrock Edition exclusive recipes\n\n\n3. 3 Cures\n3. 4 Unbrewable potions\n3. 5 Custom recipes\n\n\n4 History\n\n4. 1 Java Edition\n4. 2 Bedrock Edition\n4.",
+    "normalized_content": "1 brewing equipment 2 ingredients 2 1 base ingredients and modifiers 2 1 1 enhancement 2 1 2 corrupting effect 2 1 3 splash and lingering potions 2 2 effect ingredients 3 brewing recipes 3 1 base potions 3 2 effect potions 3 2 1 positive effects 3 2 2 negative effects 3 2 3 mixed effects 3 2 4 bedrock edition exclusive recipes 3 3 cures 3 4 unbrewable potions 3 5 custom recipes 4 history 4 1 java edition 4 2 bedrock edition 4",
+    "length": 466
+  },
+  {
+    "id": "Brewing_Contents_1",
+    "page": "Brewing",
+    "section": "Contents",
+    "content": "3 Legacy Console Edition\n\n\n5 Issues\n6 Trivia\n7 Gallery\n\n7. 1 Textures\n\n\n8 See also\n9 References\n10 External links\n11 Navigation 2. 1 Base ingredients and modifiers\n\n2. 1. 1 Enhancement\n2. 1. 2 Corrupting effect\n2. 1. 3 Splash and lingering potions\n\n\n2. 2 Effect ingredients 2. 1. 1 Enhancement\n2. 1. 2 Corrupting effect\n2. 1. 3 Splash and lingering potions 3. 1 Base potions\n3. 2 Effect potions\n\n3. 2. 1 Positive effects\n3. 2. 2 Negative effects\n3. 2. 3 Mixed effects\n3. 2.",
+    "normalized_content": "3 legacy console edition 5 issues 6 trivia 7 gallery 7 1 textures 8 see also 9 references 10 external links 11 navigation 2 1 base ingredients and modifiers 2 1 1 enhancement 2 1 2 corrupting effect 2 1 3 splash and lingering potions 2 2 effect ingredients 2 1 1 enhancement 2 1 2 corrupting effect 2 1 3 splash and lingering potions 3 1 base potions 3 2 effect potions 3 2 1 positive effects 3 2 2 negative effects 3 2 3 mixed effects 3 2",
+    "length": 473
+  },
+  {
+    "id": "Brewing_Contents_2",
+    "page": "Brewing",
+    "section": "Contents",
+    "content": "4 Bedrock Edition exclusive recipes\n\n\n3. 3 Cures\n3. 4 Unbrewable potions\n3. 5 Custom recipes 3. 2. 1 Positive effects\n3. 2. 2 Negative effects\n3. 2. 3 Mixed effects\n3. 2. 4 Bedrock Edition exclusive recipes 4. 1 Java Edition\n4. 2 Bedrock Edition\n4. 3 Legacy Console Edition.",
+    "normalized_content": "4 bedrock edition exclusive recipes 3 3 cures 3 4 unbrewable potions 3 5 custom recipes 3 2 1 positive effects 3 2 2 negative effects 3 2 3 mixed effects 3 2 4 bedrock edition exclusive recipes 4 1 java edition 4 2 bedrock edition 4 3 legacy console edition",
+    "length": 274
+  },
+  {
+    "id": "Brewing_Ingredients[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Ingredients[edit | edit source]",
+    "content": "There is no provided in-game recipe book for brewing.",
+    "normalized_content": "there is no provided in game recipe book for brewing",
+    "length": 53
+  },
+  {
+    "id": "Brewing_Base ingredients and modifiers[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Base ingredients and modifiers[edit | edit source]",
+    "content": "Base ingredients are ingredients that can be added directly to a water bottle. Nether warts are used to make awkward potions, and are the fundamental of the base ingredients, as it is required to make the majority of potions. Modifiers are ingredients used to alter the properties of a potion or to change a potion effect into a different one. The fermented spider eye is unique as it is the only modifier that can convert a water bottle directly into a usable potion.",
+    "normalized_content": "base ingredients are ingredients that can be added directly to a water bottle nether warts are used to make awkward potions and are the fundamental of the base ingredients as it is required to make the majority of potions modifiers are ingredients used to alter the properties of a potion or to change a potion effect into a different one the fermented spider eye is unique as it is the only modifier that can convert a water bottle directly into a usable potion",
+    "length": 468
+  },
+  {
+    "id": "Brewing_Enhancement[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Enhancement[edit | edit source]",
+    "content": "Generally, upgrading a potion involves a trade-off between duration and potency. A potion with an enhanced effect has shorter duration, and a potion with extended duration cannot have an enhanced effect. However: Upgrading the effect of a potion that has no time parameter (e. g. Instant Health) with glowstone dust involves no trade-off. Increasing the time of a potion that has no effects with different levels (e. g. Fire Resistance) with redstone dust involves no trade-off.",
+    "normalized_content": "generally upgrading a potion involves a trade off between duration and potency a potion with an enhanced effect has shorter duration and a potion with extended duration cannot have an enhanced effect however upgrading the effect of a potion that has no time parameter e g instant health with glowstone dust involves no trade off increasing the time of a potion that has no effects with different levels e g fire resistance with redstone dust involves no trade off",
+    "length": 478
+  },
+  {
+    "id": "Brewing_Corrupting effect[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Corrupting effect[edit | edit source]",
+    "content": "A fermented spider eye changes a potion's base effect, often reversing it or producing a negative potion. A corrupted potion usually does the opposite of the original effect. Corrupting an enhanced or extended potion into an effect that supports the modifier results in a potion with the same modifier applied. Enhanced potions of Leaping or Swiftness cannot be corrupted. In Bedrock Edition, potions of Strength II corrupt into regular potions of Weakness.",
+    "normalized_content": "a fermented spider eye changes a potion s base effect often reversing it or producing a negative potion a corrupted potion usually does the opposite of the original effect corrupting an enhanced or extended potion into an effect that supports the modifier results in a potion with the same modifier applied enhanced potions of leaping or swiftness cannot be corrupted in bedrock edition potions of strength ii corrupt into regular potions of weakness",
+    "length": 457
+  },
+  {
+    "id": "Brewing_Corrupting effect[edit | edit source]_1",
+    "page": "Brewing",
+    "section": "Corrupting effect[edit | edit source]",
+    "content": "A potion of Invisibility is considered the \"corrupted\" version of a potion of Night Vision. Enhanced potions of Leaping or Swiftness cannot be corrupted. In Bedrock Edition, potions of Strength II corrupt into regular potions of Weakness.",
+    "normalized_content": "a potion of invisibility is considered the corrupted version of a potion of night vision enhanced potions of leaping or swiftness cannot be corrupted in bedrock edition potions of strength ii corrupt into regular potions of weakness",
+    "length": 238
+  },
+  {
+    "id": "Brewing_Splash and lingering potions[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Splash and lingering potions[edit | edit source]",
+    "content": "By adding gunpowder, a drinking potion can be turned into a splash potion, which can be thrown to coat entities within the place of impact with a status effect. Subsequently, adding dragon's breath to a splash potion makes a lingering potion, creating a cloud that inflicts effects on entities that enter its area. Splash potions and lingering potions can be modified in the same manner as their normal counterparts.",
+    "normalized_content": "by adding gunpowder a drinking potion can be turned into a splash potion which can be thrown to coat entities within the place of impact with a status effect subsequently adding dragon s breath to a splash potion makes a lingering potion creating a cloud that inflicts effects on entities that enter its area splash potions and lingering potions can be modified in the same manner as their normal counterparts",
+    "length": 416
+  },
+  {
+    "id": "Brewing_Splash and lingering potions[edit | edit source]_1",
+    "page": "Brewing",
+    "section": "Splash and lingering potions[edit | edit source]",
+    "content": "For instance, a splash water bottle can be brewed with any of the base ingredients; the result remains a splash potion. The lingering potions can also be used to craft their respective versions of tipped arrows. In Bedrock Edition there is an easier way of using cauldrons for the same effect. Splash potions have the same duration as the drinkable form. Lingering potions have only one-fourth of the duration of the drinkable form.",
+    "normalized_content": "for instance a splash water bottle can be brewed with any of the base ingredients the result remains a splash potion the lingering potions can also be used to craft their respective versions of tipped arrows in bedrock edition there is an easier way of using cauldrons for the same effect splash potions have the same duration as the drinkable form lingering potions have only one fourth of the duration of the drinkable form",
+    "length": 432
+  },
+  {
+    "id": "Brewing_Splash and lingering potions[edit | edit source]_2",
+    "page": "Brewing",
+    "section": "Splash and lingering potions[edit | edit source]",
+    "content": "For instance, a drinkable potion effect of 8:00 is reduced to 2:00 as a lingering potion. In Bedrock Edition there is an easier way of using cauldrons for the same effect.",
+    "normalized_content": "for instance a drinkable potion effect of 8 00 is reduced to 2 00 as a lingering potion in bedrock edition there is an easier way of using cauldrons for the same effect",
+    "length": 171
+  },
+  {
+    "id": "Brewing_Effect ingredients[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Effect ingredients[edit | edit source]",
+    "content": "Effect ingredients imbue an awkward potion with a particular effect but do not alter potion duration or intensity. When added directly to a water bottle, most of these ingredients produce a mundane potion. The exceptions to this are the golden carrot, pufferfish, turtle shell, and phantom membrane, which cannot be added directly to a water bottle. A corrupted version of a potion can be made by adding a fermented spider eye to it.",
+    "normalized_content": "effect ingredients imbue an awkward potion with a particular effect but do not alter potion duration or intensity when added directly to a water bottle most of these ingredients produce a mundane potion the exceptions to this are the golden carrot pufferfish turtle shell and phantom membrane which cannot be added directly to a water bottle a corrupted version of a potion can be made by adding a fermented spider eye to it",
+    "length": 433
+  },
+  {
+    "id": "Brewing_Base potions[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Base potions[edit | edit source]",
+    "content": "Base potions are potions without effects, brewed by adding a single base ingredient to a water bottle. Of these, only the awkward potion can be imbued with an effect ingredient to create a potion with an effect. ‌[Java Edition  only].",
+    "normalized_content": "base potions are potions without effects brewed by adding a single base ingredient to a water bottle of these only the awkward potion can be imbued with an effect ingredient to create a potion with an effect java edition only",
+    "length": 234
+  },
+  {
+    "id": "Brewing_Effect potions[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Effect potions[edit | edit source]",
+    "content": "Effect potions are primarily created by adding an effect ingredient to an awkward potion, which is created by adding nether wart to a water bottle. Certain effects require a potion to be corrupted by a fermented spider eye. The potion of Weakness can additionally be created by simply adding a fermented spider eye to a water bottle, and it is the only potion that can be brewed without nether wart. Undead mobs react differently to effects than other mobs.",
+    "normalized_content": "effect potions are primarily created by adding an effect ingredient to an awkward potion which is created by adding nether wart to a water bottle certain effects require a potion to be corrupted by a fermented spider eye the potion of weakness can additionally be created by simply adding a fermented spider eye to a water bottle and it is the only potion that can be brewed without nether wart undead mobs react differently to effects than other mobs",
+    "length": 457
+  },
+  {
+    "id": "Brewing_Effect potions[edit | edit source]_1",
+    "page": "Brewing",
+    "section": "Effect potions[edit | edit source]",
+    "content": "They take damage from potions of Healing, gain health from potions of Harming, and are unaffected by potions of Poison and Regeneration.",
+    "normalized_content": "they take damage from potions of healing gain health from potions of harming and are unaffected by potions of poison and regeneration",
+    "length": 136
+  },
+  {
+    "id": "Brewing_Bedrock Edition exclusive recipes[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Bedrock Edition exclusive recipes[edit | edit source]",
+    "content": "Brewing recipes in Bedrock Edition are a superset of that in Java Edition, which means that all Java Edition recipes are also available in Bedrock Edition, but not the other way round.",
+    "normalized_content": "brewing recipes in bedrock edition are a superset of that in java edition which means that all java edition recipes are also available in bedrock edition but not the other way round",
+    "length": 184
+  },
+  {
+    "id": "Brewing_Cures[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Cures[edit | edit source]",
+    "content": "Cures are brewed from awkward potions using different elements. Drinking these removes the specified bad effect. They cannot be modified into splash, lingering, extended, or enhanced versions.",
+    "normalized_content": "cures are brewed from awkward potions using different elements drinking these removes the specified bad effect they cannot be modified into splash lingering extended or enhanced versions",
+    "length": 192
+  },
+  {
+    "id": "Brewing_Unbrewable potions[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Unbrewable potions[edit | edit source]",
+    "content": "The potion of Luck‌[JE  only] and the potion of Decay‌[BE  only] cannot be brewed, and can be obtained only through commands or the Creative inventory.",
+    "normalized_content": "the potion of luck je only and the potion of decay be only cannot be brewed and can be obtained only through commands or the creative inventory",
+    "length": 151
+  },
+  {
+    "id": "Brewing_Custom recipes[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Custom recipes[edit | edit source]",
+    "content": "In Bedrock Edition, brewing recipes can be customized through addons using the same system as other recipes.",
+    "normalized_content": "in bedrock edition brewing recipes can be customized through addons using the same system as other recipes",
+    "length": 108
+  },
+  {
+    "id": "Brewing_Issues[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Issues[edit | edit source]",
+    "content": "Issues relating to \"Brewing\" are maintained on the bug tracker. Issues should be reported and viewed there.",
+    "normalized_content": "issues relating to brewing are maintained on the bug tracker issues should be reported and viewed there",
+    "length": 107
+  },
+  {
+    "id": "Brewing_Trivia[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "Trivia[edit | edit source]",
+    "content": "Although Jeb said that in Java Edition Beta 1. 9 Prerelease 3 there would be 161 possible different potion combinations with 2,653 in the future, in the actual third pre-release only 22 different potions could be made without the use of external programs. Of those, 19 potions had one of 8 different effects. By modifying the item NBT using an editor or commands, it is possible to get a potion that cannot be upgraded into a splash potion.",
+    "normalized_content": "although jeb said that in java edition beta 1 9 prerelease 3 there would be 161 possible different potion combinations with 2 653 in the future in the actual third pre release only 22 different potions could be made without the use of external programs of those 19 potions had one of 8 different effects by modifying the item nbt using an editor or commands it is possible to get a potion that cannot be upgraded into a splash potion",
+    "length": 440
+  },
+  {
+    "id": "Brewing_See also[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "See also[edit | edit source]",
+    "content": "Crafting\nEnchanting\nMedicine‌[Minecraft Education  only]\nSmelting.",
+    "normalized_content": "crafting enchanting medicine minecraft education only smelting",
+    "length": 66
+  },
+  {
+    "id": "Brewing_References[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "References[edit | edit source]",
+    "content": "↑ \"The Mundane Potion is a remnant of an abandoned procedural brewing system—meaning that the recipes were meant to be different each time you generated a Minecraft world. But this didn't turn out to be much fun for the player and the system was abandoned, leaving the Mundane Potion without a purpose. \"It's sort of like an appendix,\" says Jens\" – Tom Stone, February 21, 2017\n\n↑ \"A quick discussion with @notch led me in on a new way of doing the potion brewing. Cauldron is out.",
+    "normalized_content": "the mundane potion is a remnant of an abandoned procedural brewing system meaning that the recipes were meant to be different each time you generated a minecraft world but this didn t turn out to be much fun for the player and the system was abandoned leaving the mundane potion without a purpose it s sort of like an appendix says jens tom stone february 21 2017 a quick discussion with notch led me in on a new way of doing the potion brewing cauldron is out",
+    "length": 481
+  },
+  {
+    "id": "Brewing_References[edit | edit source]_1",
+    "page": "Brewing",
+    "section": "References[edit | edit source]",
+    "content": "\"  – @jeb_ (Jens Bergensten) on X (formerly Twitter), September 30, 2011.",
+    "normalized_content": "jeb_ jens bergensten on x formerly twitter september 30 2011",
+    "length": 73
+  },
+  {
+    "id": "Brewing_External links[edit | edit source]_0",
+    "page": "Brewing",
+    "section": "External links[edit | edit source]",
+    "content": "Minecraft Forum: All About Potions And Brewing - 1. 9 Reference Guide\nMinecraft Potions - A Visual Guide\nMinecraft Commands - A Searchable Minecraft Database.",
+    "normalized_content": "minecraft forum all about potions and brewing 1 9 reference guide minecraft potions a visual guide minecraft commands a searchable minecraft database",
+    "length": 158
+  },
+  {
+    "id": "Tutorials_Introduction_0",
+    "page": "Tutorials",
+    "section": "Introduction",
+    "content": "The list below contains tutorials describing various factors and mechanics of Minecraft.",
+    "normalized_content": "the list below contains tutorials describing various factors and mechanics of minecraft",
+    "length": 88
+  },
+  {
+    "id": "Tutorials_Contents_0",
+    "page": "Tutorials",
+    "section": "Contents",
+    "content": "1 Introductory\n\n1. 1 Newcomer survival\n1. 2 Shelters\n\n\n2 General\n\n2. 1 Enchanting and smelting\n2. 2 Non-standard survival\n2. 3 Advanced\n\n\n3 Challenges\n\n3. 1 Non-standard survival\n3. 2 Challenge maps\n\n\n4 Construction\n\n4. 1 Block breaking\n\n\n5 Farming\n\n5. 1 Items\n5. 2 Mobs\n\n\n6 Mechanisms\n\n6. 1 Basic redstone\n6. 2 Various devices\n6. 3 Detectors\n6. 4 Minecarts\n6. 5 Traps\n6. 6 Pistons\n6. 7 Tripwire\n6. 8 Advanced redstone\n\n\n7 Multiplayer\n\n7. 1 Server setup\n\n\n8 Technical\n\n8. 1 Maps\n8.",
+    "normalized_content": "1 introductory 1 1 newcomer survival 1 2 shelters 2 general 2 1 enchanting and smelting 2 2 non standard survival 2 3 advanced 3 challenges 3 1 non standard survival 3 2 challenge maps 4 construction 4 1 block breaking 5 farming 5 1 items 5 2 mobs 6 mechanisms 6 1 basic redstone 6 2 various devices 6 3 detectors 6 4 minecarts 6 5 traps 6 6 pistons 6 7 tripwire 6 8 advanced redstone 7 multiplayer 7 1 server setup 8 technical 8 1 maps 8",
+    "length": 481
+  },
+  {
+    "id": "Tutorials_Contents_1",
+    "page": "Tutorials",
+    "section": "Contents",
+    "content": "2 Resource packs\n8. 3 Data packs\n8. 4 Creating Minecraft media\n8. 5 Game installation\n\n\n9 Legacy tutorials\n10 Navigation 1. 1 Newcomer survival\n1. 2 Shelters 2. 1 Enchanting and smelting\n2. 2 Non-standard survival\n2. 3 Advanced 3. 1 Non-standard survival\n3. 2 Challenge maps 6. 1 Basic redstone\n6. 2 Various devices\n6. 3 Detectors\n6. 4 Minecarts\n6. 5 Traps\n6. 6 Pistons\n6. 7 Tripwire\n6. 8 Advanced redstone 8. 1 Maps\n8. 2 Resource packs\n8. 3 Data packs\n8. 4 Creating Minecraft media\n8.",
+    "normalized_content": "2 resource packs 8 3 data packs 8 4 creating minecraft media 8 5 game installation 9 legacy tutorials 10 navigation 1 1 newcomer survival 1 2 shelters 2 1 enchanting and smelting 2 2 non standard survival 2 3 advanced 3 1 non standard survival 3 2 challenge maps 6 1 basic redstone 6 2 various devices 6 3 detectors 6 4 minecarts 6 5 traps 6 6 pistons 6 7 tripwire 6 8 advanced redstone 8 1 maps 8 2 resource packs 8 3 data packs 8 4 creating minecraft media 8",
+    "length": 485
+  },
+  {
+    "id": "Tutorials_Introductory[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Introductory[edit | edit source]",
+    "content": "These tutorials are designed to help newcomers to Minecraft get a basic understanding of the game. Menu screen\nJava Edition\nBedrock Edition\nGlossary\nPlaying with a controller Java Edition\nBedrock Edition.",
+    "normalized_content": "these tutorials are designed to help newcomers to minecraft get a basic understanding of the game menu screen java edition bedrock edition glossary playing with a controller java edition bedrock edition",
+    "length": 204
+  },
+  {
+    "id": "Tutorials_Newcomer survival[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Newcomer survival[edit | edit source]",
+    "content": "Beginner's guide\nYour first 10 minutes\nThe second day\nThe third day\nBest biomes to use\nHunger management\nThings to do\nThings not to do\nSimple tips and tricks Your first 10 minutes\nThe second day\nThe third day.",
+    "normalized_content": "beginner s guide your first 10 minutes the second day the third day best biomes to use hunger management things to do things not to do simple tips and tricks your first 10 minutes the second day the third day",
+    "length": 209
+  },
+  {
+    "id": "Tutorials_Shelters[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Shelters[edit | edit source]",
+    "content": "Best biomes for homes\nBest building materials\nBuilding and construction\nNavigation\nShelters\nTypes.",
+    "normalized_content": "best biomes for homes best building materials building and construction navigation shelters types",
+    "length": 98
+  },
+  {
+    "id": "Tutorials_General[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "General[edit | edit source]",
+    "content": "Getting to know the game better. These are for when the player is comfortably established.",
+    "normalized_content": "getting to know the game better these are for when the player is comfortably established",
+    "length": 90
+  },
+  {
+    "id": "Tutorials_General[edit | edit source]_1",
+    "page": "Tutorials",
+    "section": "General[edit | edit source]",
+    "content": "Achievement guide\nLegacy Console Edition\nAdvancement guide\nMinecraft tab\nNether tab\nThe End tab\nAdventure tab\nHusbandry tab\nAdventuring\nBest enchantments guide\nBreaking a fall\nChunk loader\nCombat\nComplete main adventure\nCreating a village\nDual wielding\nExploring caves\nGetting food quickly\nGetting max gear\nHitboxes\nHorses\nMapping\nMeasuring distance\nMinecraft in education\nMining\nAncient Debris\nDiamonds\nFossils\nNether hub\nNether portals\nOrganization\nPillar jumping\nPhantom-proofing\nSpawn-proofing\nThings to do when bored\nTime-saving tips\nTransportation methods\nUnits of measure\nVillage mechanics\nTrading\nZombie siege defense Legacy Console Edition Minecraft tab\nNether tab\nThe End tab\nAdventure tab\nHusbandry tab Ancient Debris\nDiamonds\nFossils.",
+    "normalized_content": "achievement guide legacy console edition advancement guide minecraft tab nether tab the end tab adventure tab husbandry tab adventuring best enchantments guide breaking a fall chunk loader combat complete main adventure creating a village dual wielding exploring caves getting food quickly getting max gear hitboxes horses mapping measuring distance minecraft in education mining ancient debris diamonds fossils nether hub nether portals organization pillar jumping phantom proofing spawn proofing things to do when bored time saving tips transportation methods units of measure village mechanics trading zombie siege defense legacy console edition minecraft tab nether tab the end tab adventure tab husbandry tab ancient debris diamonds fossils",
+    "length": 746
+  },
+  {
+    "id": "Tutorials_Enchanting and smelting[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Enchanting and smelting[edit | edit source]",
+    "content": "These tutorials provide information on how the furnaces and the enchantment system work. Enchanting mechanics\n Anvil mechanics\n Automatic smelting\n Manual smelting.",
+    "normalized_content": "these tutorials provide information on how the furnaces and the enchantment system work enchanting mechanics anvil mechanics automatic smelting manual smelting",
+    "length": 164
+  },
+  {
+    "id": "Tutorials_Non-standard survival[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Non-standard survival[edit | edit source]",
+    "content": "Adventure survival\n Custom maps\n Half hearted hardcore\n Hardcore mode\n Surviving in a single area indefinitely\n Infinite desert survival\n Island survival\n Manhunt\n Mob switch\n Nomadic experience\n Trapping every mob\n Skyblock survival\n Skywars survival\n Speedrunning\n Starting in the Nether\n Starting in the End\n Superflat survival\nJava Edition\nBedrock Edition\n‍ Ultra hardcore survival\n Getting to the world border\n Village only survival Java Edition\nBedrock Edition.",
+    "normalized_content": "adventure survival custom maps half hearted hardcore hardcore mode surviving in a single area indefinitely infinite desert survival island survival manhunt monster switch nomadic experience trapping every monster skyblock survival skywars survival speedrunning starting in the nether starting in the end superflat survival java edition bedrock edition ultra hardcore survival getting to the world border village only survival java edition bedrock edition",
+    "length": 467
+  },
+  {
+    "id": "Tutorials_Advanced[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Advanced[edit | edit source]",
+    "content": "Tutorials that require using exploits or commands. Breaking bedrock\nHeadless pistons\nIndestructible end crystals\nSummoning jockeys\nX-ray glitches.",
+    "normalized_content": "tutorials that require using exploits or commands breaking bedrock headless pistons indestructible end crystals summoning jockeys x ray glitches",
+    "length": 146
+  },
+  {
+    "id": "Tutorials_Challenges[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Challenges[edit | edit source]",
+    "content": "Acquiring a conduit\n Archaeology\n Curing a zombie villager\n Conquering a mountain\n Defeating a bastion remnant\n Defeating an End city\n Defeating a monster room\n Defeating an ocean monument\n Defeating a Nether fortress\n Defeating a pillager outpost\n Defeating a stronghold\n Defeating temples\n Defeating trial chambers\n Defeating a woodland mansion\n Defeating a village raid\n Defeating the ender dragon\n Exploring an ancient city\n Defeating the wither\nIf it goes rogue\n Locating a stronghold\n Obtaining every music disc\n Obtaining every block.",
+    "normalized_content": "acquiring a conduit archaeology curing a zombie villager conquering a mountain defeating a bastion remnant defeating an end city defeating a monster room defeating an ocean monument defeating a nether fortress defeating a pillager outpost defeating a stronghold defeating temples defeating trial chambers defeating a woodland mansion defeating a village raid defeating the ender dragon exploring an ancient city defeating the wither if it goes rogue locating a stronghold obtaining every music disc obtaining every block",
+    "length": 541
+  },
+  {
+    "id": "Tutorials_Construction[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Construction[edit | edit source]",
+    "content": "Adding beauty to constructions\nAirlock\nArchitectural terms\nBuilding a cruise ship\nBuilding a metropolis\nBuilding a rollercoaster\nBuilding micro shelters\nBuilding safe homes\nBuilding water features\nChunk ban\nColor palette\nCreating shapes\nDefense\nElevators\nEndless circling pool\nFurniture\nGlazed terracotta patterns\nLag machine\nMaking nice floors\nPixel art\nRanches\nRoof types\nRoof construction guidelines\nSecret door\nSettlement guide\nUnderwater home\nWalls and buttresses\nWater gate\nWater-powered boat transportation Roof construction guidelines.",
+    "normalized_content": "adding beauty to constructions airlock architectural terms building a cruise ship building a metropolis building a rollercoaster building micro shelters building safe homes building water features chunk ban color palette creating shapes defense elevators endless circling pool furniture glazed terracotta patterns lag machine making nice floors pixel art ranches roof types roof construction guidelines secret door settlement guide underwater home walls and buttresses water gate water powered boat transportation roof construction guidelines",
+    "length": 543
+  },
+  {
+    "id": "Tutorials_Block breaking[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Block breaking[edit | edit source]",
+    "content": "These tutorials provide information on how to break blocks automatically, usually by an explosion. Blast chamber\n Igniting TNT underwater\n Wither cage.",
+    "normalized_content": "these tutorials provide information on how to break blocks automatically usually by an explosion blast chamber igniting tnt underwater wither cage",
+    "length": 151
+  },
+  {
+    "id": "Tutorials_Farming[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Farming[edit | edit source]",
+    "content": "These tutorials provide information on crop and mob farming. In most cases, the player has a choice among a variety of farming methods and designs. While a huge automatic farm may be useful where large supplies of something are needed, it's important to remember that a small, simple farm can easily provide enough resources for an early-game player, or casual use in general.",
+    "normalized_content": "these tutorials provide information on crop and monster farming in most cases the player has a choice among a variety of farming methods and designs while a huge automatic farm may be useful where large supplies of something are needed it s important to remember that a small simple farm can easily provide enough resources for an early game player or casual use in general",
+    "length": 376
+  },
+  {
+    "id": "Tutorials_Items[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Items[edit | edit source]",
+    "content": "Amethyst\nArmor\nAzalea\nBamboo\nBasalt\nBedrock\nBeetroot\nBlaze Rod\nBone Meal\nCactus\nCarrot\nCat gift\nChorus Fruit\nClay\nCobblestone\nCocoa Beans\nCopper\nDirt\nDragon's breath\nDripstone\nEgg\nEnchanted Golden Apple\nExperience\nFern\nFish\nFlower\nFroglight\nGhast Tear\nGlow Berries\nGlow Ink Sac\nGlow Lichen\nGoat Horn\nGold\nHanging Roots\nHoney\nIce\nIron\nKelp\nLava\nMeat\nMoss\nMud\nMushroom\nMusic Disc\nNautilus Shell\nNether growth\nNether vine\nNether Wart\nObsidian\nOminous Bottle\nPotato\nPowder Snow\nPumpkin, Melon\nResin Clump\nRooted Dirt\nSculk\nTurtle Scute\nSeagrass\nSea Pickle\nSnow\nSoul Soil\nSugar Cane\nSweet Berries\nTree\nTrident\nVine\nVillager trading hall\nWheat\nWither Rose\nWool\nDuplication.",
+    "normalized_content": "amethyst armor azalea bamboo basalt bedrock beetroot blaze rod bone meal cactus carrot cat gift chorus fruit clay cobblestone cocoa beans copper dirt dragon s breath dripstone egg enchanted golden apple experience fern fish flower froglight ghast tear glow berries glow ink sac glow lichen goat horn gold hanging roots honey ice iron kelp lava meat moss mud mushroom music disc nautilus shell nether growth nether vine nether wart obsidian ominous bottle potato powder snow pumpkin melon resin clump rooted dirt sculk turtle scute seagrass sea pickle snow soul soil sugar cane sweet berries tree trident vine villager trading hall wheat wither rose wool duplication",
+    "length": 667
+  },
+  {
+    "id": "Tutorials_Mobs[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Mobs[edit | edit source]",
+    "content": "Mob farming\nMob grinding\n Monster spawner traps\n Allay\n Animals\n Axolotl\n Bee\n Blaze\n Breeze\n Cat\n Cave spider\n Chicken\n Creaking\n Creeper\n Drowned\n Ender dragon\n Enderman\nFrog\n Ghast\n Glow squid\n Goat\n Guardian\n Hoglin\n Iron golem\n Magma cube\n Phantom\n Piglin bartering\n Pillager\n Raid\n Shulker\n Slime\n Squid\n Turtle\n Villager\n Wandering trader\n Warden\n Witch\n Wither\n Wither skeleton\n Zombie/Drowned\n Zombie villager\n Zombified piglin.",
+    "normalized_content": "monster farming monster grinding monster spawner traps allay animals axolotl bee blaze breeze cat cave spider chicken creaking creeper drowned ender dragon enderman frog ghast glow squid goat guardian hoglin iron golem magma cube phantom piglin bartering pillager raid shulker slime squid turtle villager wandering trader warden witch wither wither skeleton zombie drowned zombie villager zombified piglin",
+    "length": 437
+  },
+  {
+    "id": "Tutorials_Mechanisms[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Mechanisms[edit | edit source]",
+    "content": "These tutorials provide information on redstone mechanisms.",
+    "normalized_content": "these tutorials provide information on redstone mechanisms",
+    "length": 59
+  },
+  {
+    "id": "Tutorials_Basic redstone[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Basic redstone[edit | edit source]",
+    "content": "Redstone tutorials: Roundup of all redstone-related tutorials (some are also linked below)\nRedstone dust: The core material that enables most redstone devices, being crafted into many of them and also placed to carry signals. Redstone mechanics: The basic game mechanics for redstone power and signals. Redstone components: The blocks that are used in and with redstone contraptions.",
+    "normalized_content": "redstone tutorials roundup of all redstone related tutorials some are also linked below redstone dust the core material that enables most redstone devices being crafted into many of them and also placed to carry signals redstone mechanics the basic game mechanics for redstone power and signals redstone components the blocks that are used in and with redstone contraptions",
+    "length": 383
+  },
+  {
+    "id": "Tutorials_Basic redstone[edit | edit source]_1",
+    "page": "Tutorials",
+    "section": "Basic redstone[edit | edit source]",
+    "content": "Redstone circuits: Lists various types of reusable circuits that can be used to manipulate signals, with sub-pages giving examples of the various types. Redstone tips: Hints and advice for building your redstone devices.",
+    "normalized_content": "redstone circuits lists various types of reusable circuits that can be used to manipulate signals with sub pages giving examples of the various types redstone tips hints and advice for building your redstone devices",
+    "length": 220
+  },
+  {
+    "id": "Tutorials_Various devices[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Various devices[edit | edit source]",
+    "content": "Automatic respawn anchor recharger: Recharges respawn anchors so they can be used again. Combination locks: Locks that only open with the right combination entered. Command blocks and functions: Making many contraptions using command blocks. Crafter: Automated crafting systems. Flying machines: Slime block contraptions that can fly. Hopper: Hoppers are key for item handling and sorting. Item sorting: Sorts items. Item transportation: Moves items.",
+    "normalized_content": "automatic respawn anchor recharger recharges respawn anchors so they can be used again combination locks locks that only open with the right combination entered command blocks and functions making many contraptions using command blocks crafter automated crafting systems flying machines slime block contraptions that can fly hopper hoppers are key for item handling and sorting item sorting sorts items item transportation moves items",
+    "length": 450
+  },
+  {
+    "id": "Tutorials_Various devices[edit | edit source]_1",
+    "page": "Tutorials",
+    "section": "Various devices[edit | edit source]",
+    "content": "Mechanisms: Lists an assortment of complete devices using redstone. Observer stabilizer: Keeps observer-based contraptions from continuously firing. Randomizers: Generates random outputs. Redstone music: Creating music with note blocks and redstone circuits. Rube Goldberg machine: Complexity and spectacle. Shulker box storage: A storage system that relies on shulker boxes.",
+    "normalized_content": "mechanisms lists an assortment of complete devices using redstone observer stabilizer keeps observer based contraptions from continuously firing randomizers generates random outputs redstone music creating music with note blocks and redstone circuits rube goldberg machine complexity and spectacle shulker box storage a storage system that relies on shulker boxes",
+    "length": 375
+  },
+  {
+    "id": "Tutorials_Detectors[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Detectors[edit | edit source]",
+    "content": "Block update detector: Sends a signal if a block state changes. Comparator update detector: Sends a signal if a comparator detects a change in a block. Daylight detector: Sends a signal if the light changes.",
+    "normalized_content": "block update detector sends a signal if a block state changes comparator update detector sends a signal if a comparator detects a change in a block daylight detector sends a signal if the light changes",
+    "length": 207
+  },
+  {
+    "id": "Tutorials_Minecarts[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Minecarts[edit | edit source]",
+    "content": "Minecarts: Large railway systems can benefit from redstone at the terminals. Storage minecarts: Loading and unloading chests and hopper minecarts. Digital: Digital method of loading and unloading chests and hopper minecarts. Digital: Digital method of loading and unloading chests and hopper minecarts.",
+    "normalized_content": "minecarts large railway systems can benefit from redstone at the terminals storage minecarts loading and unloading chests and hopper minecarts digital digital method of loading and unloading chests and hopper minecarts digital digital method of loading and unloading chests and hopper minecarts",
+    "length": 302
+  },
+  {
+    "id": "Tutorials_Traps[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Traps[edit | edit source]",
+    "content": "Snow golems\n TNT cannons\n Trapdoor uses\nTraps and Trap design.",
+    "normalized_content": "snow golems tnt cannons trapdoor uses traps and trap design",
+    "length": 62
+  },
+  {
+    "id": "Tutorials_Pistons[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Pistons[edit | edit source]",
+    "content": "Piston uses\nPiston circuits\nQuasi-connectivity\nZero-ticking\nInstant repeaters.",
+    "normalized_content": "piston uses piston circuits quasi connectivity zero ticking instant repeaters",
+    "length": 78
+  },
+  {
+    "id": "Tutorials_Advanced redstone[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Advanced redstone[edit | edit source]",
+    "content": "Advanced redstone circuits\nArithmetic logic\nCalculator\nCommand stats\nHourly clock\nMorse code\nPrinting\nRedstone computers\nRedstone telegraph.",
+    "normalized_content": "advanced redstone circuits arithmetic logic calculator command stats hourly clock morse code printing redstone computers redstone telegraph",
+    "length": 140
+  },
+  {
+    "id": "Tutorials_Multiplayer[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Multiplayer[edit | edit source]",
+    "content": "These tutorials provide technical information on servers and tips for multiplayer. Playing on servers\nMultiplayer survival\nSpawn jails for multiplayer\nGriefing prevention\nHiding chests\nPvP (Java Edition)\nPvP bases\nPvP (Bedrock Edition)\nPvP (Combat Tests)\nPvP (1. 8)\nJoining a LAN world with alternate accounts.",
+    "normalized_content": "these tutorials provide technical information on servers and tips for multiplayer playing on servers multiplayer survival spawn jails for multiplayer griefing prevention hiding chests player versus player java edition player versus player bases player versus player bedrock edition player versus player combat tests player versus player 1 8 joining a lan world with alternate accounts",
+    "length": 310
+  },
+  {
+    "id": "Tutorials_Server setup[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Server setup[edit | edit source]",
+    "content": "Setting up a Java Edition server\nSetting up a Minecraft Forge server\nSetting up a Spigot server\nSetting up a Bedrock Edition server\nServer maintenance\nSetting up a LAN world\nServer startup script\nFreeBSD startup script\nOpenBSD startup script\nUbuntu startup script\nHamachi connection LAN\nRamdisk enabled server Setting up a Minecraft Forge server\nSetting up a Spigot server FreeBSD startup script\nOpenBSD startup script\nUbuntu startup script.",
+    "normalized_content": "setting up a java edition server setting up a minecraft forge server setting up a spigot server setting up a bedrock edition server server maintenance setting up a lan world server startup script freebsd startup script openbsd startup script ubuntu startup script hamachi connection lan ramdisk enabled server setting up a minecraft forge server setting up a spigot server freebsd startup script openbsd startup script ubuntu startup script",
+    "length": 441
+  },
+  {
+    "id": "Tutorials_Technical[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Technical[edit | edit source]",
+    "content": "These tutorials provide information on technical matters, such as mods and snapshots. Moving structures using structure blocks from world to world\nImproving frame rate\nMinecraft help FAQ\nNote Block Studio\nPrograms and editors\nRunning the data generator\nUpdate Java to latest version\nSee Minecraft's code\nDowngrading\nCreating Forge mods\nMinecraft in VR.",
+    "normalized_content": "these tutorials provide information on technical matters such as mods and snapshots moving structures using structure blocks from world to world improving frame rate minecraft help faq note block studio programs and editors running the data generator update java to latest version see minecraft s code downgrading creating forge mods minecraft in vr",
+    "length": 352
+  },
+  {
+    "id": "Tutorials_Maps[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Maps[edit | edit source]",
+    "content": "Custom maps\nMap downloads\nCommand NBT tags\nFalling blocks\nUpdating old terrain.",
+    "normalized_content": "custom maps map downloads command nbt tags falling blocks updating old terrain",
+    "length": 79
+  },
+  {
+    "id": "Tutorials_Resource packs[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Resource packs[edit | edit source]",
+    "content": "Creating a resource pack\nLoading a resource pack\nModels\nSound directory\nMaking custom panoramas.",
+    "normalized_content": "creating a resource pack loading a resource pack models sound directory making custom panoramas",
+    "length": 96
+  },
+  {
+    "id": "Tutorials_Data packs[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Data packs[edit | edit source]",
+    "content": "Creating a data pack\nImporting a data pack\nAdding a new dimension\nCustom structures\nAdding custom trims\nAdding custom paintings\nAdding custom enchantments\nRepairing a world corrupted by a data pack.",
+    "normalized_content": "creating a data pack importing a data pack adding a new dimension custom structures adding custom trims adding custom paintings adding custom enchantments repairing a world corrupted by a data pack",
+    "length": 198
+  },
+  {
+    "id": "Tutorials_Game installation[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Game installation[edit | edit source]",
+    "content": "Installing a version\nInstalling Minecraft Preview and beta versions\nObtaining a crash report\nCustom Minecraft directory\nPlaying and saving Minecraft on a thumb drive\nRecover corrupted saved world data\nRun Minecraft through Google Drive\nSave game data to Dropbox (world data only)\nSaving data Dropbox guide\nCreate a Mac OS X startup daemon\nJava Edition on Chrome OS.",
+    "normalized_content": "installing a version installing minecraft preview and beta versions obtaining a crash report custom minecraft directory playing and saving minecraft on a thumb drive recover corrupted saved world data run minecraft through google drive save game data to dropbox world data only saving data dropbox guide create a mac os x startup daemon java edition on chrome os",
+    "length": 365
+  },
+  {
+    "id": "Tutorials_Legacy tutorials[edit | edit source]_0",
+    "page": "Tutorials",
+    "section": "Legacy tutorials[edit | edit source]",
+    "content": "The following tutorials are obsolete and intended for older versions of Minecraft. They are kept here for historical purposes.",
+    "normalized_content": "the following tutorials are obsolete and intended for older versions of minecraft they are kept here for historical purposes",
+    "length": 126
+  },
+  {
+    "id": "Tutorials_Legacy tutorials[edit | edit source]_1",
+    "page": "Tutorials",
+    "section": "Legacy tutorials[edit | edit source]",
+    "content": "Custom texture packs — texture packs are no longer used, resource packs use new file structure\nHow to get a crash report (old) — No longer works with the current launcher\nWater tram - Boat mechanics have been overhauled\nRepeater reboot system — A glitch that existed in Beta only\nUpdate LWJGL (Legacy) — Current launcher automatically updates libraries\nCustom lake — These methods are no longer needed since water is more obliging\nWater ladder — No longer works as given, water behavior has changed a lot since Beta\nInstalling mods - Modloader — ModLoader is no longer supported by its creator\nFar Lands — Only existed before Beta 1.",
+    "normalized_content": "custom texture packs texture packs are no longer used resource packs use new file structure how to get a crash report old no longer works with the current launcher water tram boat mechanics have been overhauled repeater reboot system a glitch that existed in beta only update lwjgl legacy current launcher automatically updates libraries custom lake these methods are no longer needed since water is more obliging water ladder no longer works as given water behavior has changed a lot since beta installing mods modloader modloader is no longer supported by its creator far lands only existed before beta 1",
+    "length": 633
+  },
+  {
+    "id": "Tutorials_Legacy tutorials[edit | edit source]_2",
+    "page": "Tutorials",
+    "section": "Legacy tutorials[edit | edit source]",
+    "content": "8\nInstant wire — A glitch that existed in Beta\nUpdate Minecraft — Updating and downgrading Minecraft is automatic in the new launcher\nMinecart booster — Minecart boosters were fixed shortly after the introduction of powered rails. Survival with no enabled data packs — Since 1. 16, this is no longer possible as data packs are now validated before the world is created, and some tags are necessary for the data packs to be valid.",
+    "normalized_content": "8 instant wire a glitch that existed in beta update minecraft updating and downgrading minecraft is automatic in the new launcher minecart booster minecart boosters were fixed shortly after the introduction of powered rails survival with no enabled data packs since 1 16 this is no longer possible as data packs are now validated before the world is created and some tags are necessary for the data packs to be valid",
+    "length": 429
+  },
+  {
+    "id": "Tutorials_Legacy tutorials[edit | edit source]_3",
+    "page": "Tutorials",
+    "section": "Legacy tutorials[edit | edit source]",
+    "content": "Door-based iron golem farming — Villages are no longer based around doors with the Village & Pillage update. Legacy village mechanics — Villages are no longer based around doors with the Village & Pillage update. Village chaining — Villages are no longer based around doors with the Village & Pillage update. Potion farming — This method of potion farming was patched in version 1. 17. 30 as a result of being too overpowered. Witch farms can still give potions, however.",
+    "normalized_content": "door based iron golem farming villages are no longer based around doors with the village pillage update legacy village mechanics villages are no longer based around doors with the village pillage update village chaining villages are no longer based around doors with the village pillage update potion farming this method of potion farming was patched in version 1 17 30 as a result of being too overpowered witch farms can still give potions however",
+    "length": 471
+  },
+  {
+    "id": "Tutorials_Legacy tutorials[edit | edit source]_4",
+    "page": "Tutorials",
+    "section": "Legacy tutorials[edit | edit source]",
+    "content": "End of light mob farms — Patched in 22w12a\nCustom world generation\nObtaining discontinued features — Information on how to obtain features that could only be collected in older versions but can be updated into future versions. Playing and saving Minecraft on a thumb drive with the old launcher.",
+    "normalized_content": "end of light monster farms patched in 22w12a custom world generation obtaining discontinued features information on how to obtain features that could only be collected in older versions but can be updated into future versions playing and saving minecraft on a thumb drive with the old launcher",
+    "length": 295
+  },
+  {
+    "id": "Structures_Introduction_0",
+    "page": "Structures",
+    "section": "Introduction",
+    "content": "From a plural word to the page title in singular. (Discuss usefulness of this type).",
+    "normalized_content": "from a plural word to the page title in singular discuss usefulness of this type",
+    "length": 84
+  },
+  {
+    "id": "Smelting_Introduction_0",
+    "page": "Smelting",
+    "section": "Introduction",
+    "content": "Smelting is the process of obtaining refined goods from raw materials by heating them in a furnace or blast furnace. When items are smelted in either type of furnace, experience is dropped. Like crafting, smelting uses recipes to determine what item is produced. Smelting is one of the two functions of a furnace (the second being cooking food) and the sole function of a blast furnace.",
+    "normalized_content": "smelting is the process of obtaining refined goods from raw materials by heating them in a furnace or blast furnace when items are smelted in either type of furnace experience is dropped like crafting smelting uses recipes to determine what item is produced smelting is one of the two functions of a furnace the second being cooking food and the sole function of a blast furnace",
+    "length": 386
+  },
+  {
+    "id": "Smelting_Contents_0",
+    "page": "Smelting",
+    "section": "Contents",
+    "content": "1 Methods\n\n1. 1 Furnace\n1. 2 Blast furnace and smoker\n\n\n2 Recipes\n\n2. 1 Food\n2. 2 Ores\n2. 3 Gear\n2. 4 Furnace-only\n\n\n3 Fuel\n4 Hopper automation\n5 Achievements\n6 Advancements\n7 History\n\n7. 1 Java Edition\n7. 2 Bedrock Edition\n7. 3 New Nintendo 3DS Edition\n\n\n8 Issues\n9 Trivia\n10 Gallery\n\n10. 1 Screenshots\n\n\n11 See also\n12 References\n13 Navigation 1. 1 Furnace\n1. 2 Blast furnace and smoker 2. 1 Food\n2. 2 Ores\n2. 3 Gear\n2. 4 Furnace-only 7. 1 Java Edition\n7. 2 Bedrock Edition\n7.",
+    "normalized_content": "1 methods 1 1 furnace 1 2 blast furnace and smoker 2 recipes 2 1 food 2 2 ores 2 3 gear 2 4 furnace only 3 fuel 4 hopper automation 5 achievements 6 advancements 7 history 7 1 java edition 7 2 bedrock edition 7 3 new nintendo 3ds edition 8 issues 9 trivia 10 gallery 10 1 screenshots 11 see also 12 references 13 navigation 1 1 furnace 1 2 blast furnace and smoker 2 1 food 2 2 ores 2 3 gear 2 4 furnace only 7 1 java edition 7 2 bedrock edition 7",
+    "length": 478
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "The furnace interface contains three item slots: the upper left slot for the item that needs to be smelted, the lower left slot for fuel, and the right slot where output items accumulate and can be retrieved by the player. Flames above the fuel slot act as a gauge showing the amount of fuel left of the current fuel item. An arrow in the middle shows the progress of smelting the current item. The furnace takes 10 seconds (200 in-game ticks) to smelt an item.",
+    "normalized_content": "the furnace interface contains three item slots the upper left slot for the item that needs to be smelted the lower left slot for fuel and the right slot where output items accumulate and can be retrieved by the player flames above the fuel slot act as a gauge showing the amount of fuel left of the current fuel item an arrow in the middle shows the progress of smelting the current item the furnace takes 10 seconds 200 in game ticks to smelt an item",
+    "length": 461
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_1",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "It begins to smelt if both input item and fuel are placed into the corresponding slots, and there is space in the output slot. When starting, a fuel item is consumed immediately, filling the fuel gauge. Different fuels will fuel the furnace for different amounts of time. The fuel gauge indicates how much of that fuel's burn time remains, and gradually decreases even if the input slot becomes empty.",
+    "normalized_content": "it begins to smelt if both input item and fuel are placed into the corresponding slots and there is space in the output slot when starting a fuel item is consumed immediately filling the fuel gauge different fuels will fuel the furnace for different amounts of time the fuel gauge indicates how much of that fuel s burn time remains and gradually decreases even if the input slot becomes empty",
+    "length": 401
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_2",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "When a fuel item is fully consumed and the input slot is not empty, another one is taken from the fuel slot, and the gauge resets. The furnace processes one input item at a time, which remains in the input slot during the 10-second process. So if multiple types of items or more than one stack of item need to be smelted, the player need to move in the item manually or using hoppers. The arrow indicates the progress on how much the input has been smelted and how much more it needs to be smelted.",
+    "normalized_content": "when a fuel item is fully consumed and the input slot is not empty another one is taken from the fuel slot and the gauge resets the furnace processes one input item at a time which remains in the input slot during the 10 second process so if multiple types of items or more than one stack of item need to be smelted the player need to move in the item manually or using hoppers the arrow indicates the progress on how much the input has been smelted and how much more it needs to be smelted",
+    "length": 498
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_3",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "When the arrow is full, the input item is removed from the input stack and an output item is added to the output stack. Smelting of the next input item then begins immediately. Furnaces stop smelting under any of four conditions: When the furnace runs out of smeltable items: The input slot becomes empty or contains item that cannot be smelted. The furnace runs out of fuel: The fuel input slot is empty, and the current fuel item is fully consumed (that is, the fuel gauge becomes empty).",
+    "normalized_content": "when the arrow is full the input item is removed from the input stack and an output item is added to the output stack smelting of the next input item then begins immediately furnaces stop smelting under any of four conditions when the furnace runs out of smeltable items the input slot becomes empty or contains item that cannot be smelted the furnace runs out of fuel the fuel input slot is empty and the current fuel item is fully consumed that is the fuel gauge becomes empty",
+    "length": 490
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_4",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "The output slot becomes full: Either the slot has a full stack of the output, or the output contains the wrong output item for the current input item (for example, if the output contains iron ingots, but the input contains raw beef). In this case, smelting (but not fuel consumption) is paused until the output slot becomes available (usually because items were removed by either a player or a hopper).",
+    "normalized_content": "the output slot becomes full either the slot has a full stack of the output or the output contains the wrong output item for the current input item for example if the output contains iron ingots but the input contains raw beef in this case smelting but not fuel consumption is paused until the output slot becomes available usually because items were removed by either a player or a hopper",
+    "length": 402
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_5",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "If a fuel item burns out in this condition, a new one is not used until the output slot is again available. The furnace is broken: The contents of all the slots, any accumulated experience, and the furnace itself are dropped. The currently-burning fuel item is lost since it is removed from the fuel slot before burning begins. The furnace block itself may not be dropped if it was destroyed by an explosion.",
+    "normalized_content": "if a fuel item burns out in this condition a new one is not used until the output slot is again available the furnace is broken the contents of all the slots any accumulated experience and the furnace itself are dropped the currently burning fuel item is lost since it is removed from the fuel slot before burning begins the furnace block itself may not be dropped if it was destroyed by an explosion",
+    "length": 408
+  },
+  {
+    "id": "Smelting_Furnace[edit | edit source]_6",
+    "page": "Smelting",
+    "section": "Furnace[edit | edit source]",
+    "content": "If smelting stops while a fuel item is still burning, the furnace continues to run visually, but no more input items are processed. If the fuel has been exhausted when an item has been partly smelted, the smelting progress is undone at double speed, and the item remains in the input stack. Smelting is suspended if the chunk the furnace is in becomes unloaded. It resumes when the chunk is loaded again.",
+    "normalized_content": "if smelting stops while a fuel item is still burning the furnace continues to run visually but no more input items are processed if the fuel has been exhausted when an item has been partly smelted the smelting progress is undone at double speed and the item remains in the input stack smelting is suspended if the chunk the furnace is in becomes unloaded it resumes when the chunk is loaded again",
+    "length": 404
+  },
+  {
+    "id": "Smelting_Blast furnace and smoker[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Blast furnace and smoker[edit | edit source]",
+    "content": "Smokers and blast furnaces use the same GUI interface as regular furnaces and function similarly to regular furnaces. They smelt twice as quickly as furnaces, requiring only 5 seconds (100 game ticks) to smelt 1 item; they consume the same amount of fuel as regular furnaces per item smelted. Blast furnaces can only smelt ores, while smokers can only cook food; any other item can be smelted only in regular furnaces.",
+    "normalized_content": "smokers and blast furnaces use the same gui interface as regular furnaces and function similarly to regular furnaces they smelt twice as quickly as furnaces requiring only 5 seconds 100 game ticks to smelt 1 item they consume the same amount of fuel as regular furnaces per item smelted blast furnaces can only smelt ores while smokers can only cook food any other item can be smelted only in regular furnaces",
+    "length": 418
+  },
+  {
+    "id": "Smelting_Recipes[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Recipes[edit | edit source]",
+    "content": "All smelting recipes can be used in the furnace, but only subsets are available in the blast furnace and smoker. The furnace, blast furnace and smoker keep track of experience for each item as smelting is completed for them, accumulating it in a hidden counter. The counter remembers the total earned experience even if a hopper is used to remove the items from the output slot. Experience is awarded to the player who uses the interface to remove items manually, after which the counter is reset.",
+    "normalized_content": "all smelting recipes can be used in the furnace but only subsets are available in the blast furnace and smoker the furnace blast furnace and smoker keep track of experience for each item as smelting is completed for them accumulating it in a hidden counter the counter remembers the total earned experience even if a hopper is used to remove the items from the output slot experience is awarded to the player who uses the interface to remove items manually after which the counter is reset",
+    "length": 497
+  },
+  {
+    "id": "Smelting_Recipes[edit | edit source]_1",
+    "page": "Smelting",
+    "section": "Recipes[edit | edit source]",
+    "content": "If the player takes some of the output but leaves some in the slot, the experience corresponding to items left in the furnace is retained and not awarded to the player. For fractional experience values, first multiply this value by the number of smelted items removed from the furnace, then award the player the integer part, and if there is a fractional part remaining, this represents the chance of an additional experience point.",
+    "normalized_content": "if the player takes some of the output but leaves some in the slot the experience corresponding to items left in the furnace is retained and not awarded to the player for fractional experience values first multiply this value by the number of smelted items removed from the furnace then award the player the integer part and if there is a fractional part remaining this represents the chance of an additional experience point",
+    "length": 432
+  },
+  {
+    "id": "Smelting_Recipes[edit | edit source]_2",
+    "page": "Smelting",
+    "section": "Recipes[edit | edit source]",
+    "content": "For example, when smelting 1 coal ore and removing the coal, the value is 0. 1, so every ten coal removed grants one experience point on average. When smelting 6 sea pickles and removing all 6 lime dye, the value is 0. 2×6 = 1. 2, so this grants 1 point, plus a 20% chance of another 1 point. The fractional experience stays within the furnace when the final total is not an integer, so the leftover experience is attributed to the next round of smelting.",
+    "normalized_content": "for example when smelting 1 coal ore and removing the coal the value is 0 1 so every ten coal removed grants one experience point on average when smelting 6 sea pickles and removing all 6 lime dye the value is 0 2 6 1 2 so this grants 1 point plus a 20 chance of another 1 point the fractional experience stays within the furnace when the final total is not an integer so the leftover experience is attributed to the next round of smelting",
+    "length": 455
+  },
+  {
+    "id": "Smelting_Food[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Food[edit | edit source]",
+    "content": "All food recipes can be used in a furnace or smoker. Food can alternatively be cooked on a campfire.",
+    "normalized_content": "all food recipes can be used in a furnace or smoker food can alternatively be cooked on a campfire",
+    "length": 100
+  },
+  {
+    "id": "Smelting_Ores[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Ores[edit | edit source]",
+    "content": "All ore recipes can be used in a furnace or blast furnace. The following additional ores can be smelted, but it's more efficient to mine them with an appropriate pickaxe. In most cases mining them saves fuel and yields more product and experience, especially if the pickaxe has a Fortune enchantment. Smelting them, though, allows obtaining them from an automatic device. The ore blocks themselves can be obtained only with the Silk Touch enchantment.",
+    "normalized_content": "all ore recipes can be used in a furnace or blast furnace the following additional ores can be smelted but it s more efficient to mine them with an appropriate pickaxe in most cases mining them saves fuel and yields more product and experience especially if the pickaxe has a fortune enchantment smelting them though allows obtaining them from an automatic device the ore blocks themselves can be obtained only with the silk touch enchantment",
+    "length": 451
+  },
+  {
+    "id": "Smelting_Gear[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Gear[edit | edit source]",
+    "content": "These recipes can be used in a furnace or blast furnace to recycle unneeded gear (tools, weapons, armor and horse armor).",
+    "normalized_content": "these recipes can be used in a furnace or blast furnace to recycle unneeded gear tools weapons armor and horse armor",
+    "length": 121
+  },
+  {
+    "id": "Smelting_Fuel[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Fuel[edit | edit source]",
+    "content": "There are multiple fuels that can be used to smelt items. A single lava bucket or a block of coal can smelt more items than can fit in the furnace, a lava bucket being able to smelt 100 blocks and a block of coal being able to smelt 80 —both input and output are limited to a maximum of a stack. This is the specific table for all the fuels: ↑ All times given are for fuel burned in a furnace.",
+    "normalized_content": "there are multiple fuels that can be used to smelt items a single lava bucket or a block of coal can smelt more items than can fit in the furnace a lava bucket being able to smelt 100 blocks and a block of coal being able to smelt 80 both input and output are limited to a maximum of a stack this is the specific table for all the fuels all times given are for fuel burned in a furnace",
+    "length": 393
+  },
+  {
+    "id": "Smelting_Fuel[edit | edit source]_1",
+    "page": "Smelting",
+    "section": "Fuel[edit | edit source]",
+    "content": "When burned in a blast furnace or smoker, fuel is burned twice as fast but produces the same number of items. ↑ Items in red are not stackable, items in yellow only stack up to 16. ↑ Calculated as the burning time in seconds divided by the number of logs used to make one fuel when all wood ingredients are made from logs. Items in red are not made entirely of wood.",
+    "normalized_content": "when burned in a blast furnace or smoker fuel is burned twice as fast but produces the same number of items items in red are not stackable items in yellow only stack up to 16 calculated as the burning time in seconds divided by the number of logs used to make one fuel when all wood ingredients are made from logs items in red are not made entirely of wood",
+    "length": 366
+  },
+  {
+    "id": "Smelting_Fuel[edit | edit source]_2",
+    "page": "Smelting",
+    "section": "Fuel[edit | edit source]",
+    "content": "↑ Calculated as the burning time in seconds divided by the amount of bamboo used to make one fuel when all wood ingredient are made from bamboo. Items in red are not made entirely of bamboo. ↑ Requires 9 smelting operations to obtain, so net output is 11 operations. ↑ 80 seconds of fuel per log, but 10 seconds are needed to smelt the charcoal, so the net time is 70 seconds. ↑ a b c d e f Wooden slabs have the same burn time as planks due to a bug; see MCPE-94368.",
+    "normalized_content": "calculated as the burning time in seconds divided by the amount of bamboo used to make one fuel when all wood ingredient are made from bamboo items in red are not made entirely of bamboo requires 9 smelting operations to obtain so net output is 11 operations 80 seconds of fuel per log but 10 seconds are needed to smelt the charcoal so the net time is 70 seconds a b c d e f wooden slabs have the same burn time as planks due to a bug see mcpe 94368",
+    "length": 467
+  },
+  {
+    "id": "Smelting_Hopper automation[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Hopper automation[edit | edit source]",
+    "content": "The smelting process can be automated with hoppers on the top and bottom of the furnace. For larger smelting jobs, a third hopper on the side of the furnace can feed in fuel and, in case of lava being used as fuel, any empty buckets come out of the bottom hopper. This automatically feeds and empties the furnace so that different materials can be smelted in the same batch with no loss.",
+    "normalized_content": "the smelting process can be automated with hoppers on the top and bottom of the furnace for larger smelting jobs a third hopper on the side of the furnace can feed in fuel and in case of lava being used as fuel any empty buckets come out of the bottom hopper this automatically feeds and empties the furnace so that different materials can be smelted in the same batch with no loss",
+    "length": 387
+  },
+  {
+    "id": "Smelting_Hopper automation[edit | edit source]_1",
+    "page": "Smelting",
+    "section": "Hopper automation[edit | edit source]",
+    "content": "Whenever a hopper or minecart with hopper removes items from a furnace, any experience earned from cooking or smelting the removed items is saved in the furnace and awarded to the next player who either breaks the furnace or manually removes an item from the furnace's output slot. This saved experience is in addition to that earned for the manually removed item(s).",
+    "normalized_content": "whenever a hopper or minecart with hopper removes items from a furnace any experience earned from cooking or smelting the removed items is saved in the furnace and awarded to the next player who either breaks the furnace or manually removes an item from the furnace s output slot this saved experience is in addition to that earned for the manually removed item s",
+    "length": 367
+  },
+  {
+    "id": "Smelting_Issues[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Issues[edit | edit source]",
+    "content": "Issues relating to \"Smelting\" are maintained on the bug tracker. Issues should be reported and viewed there.",
+    "normalized_content": "issues relating to smelting are maintained on the bug tracker issues should be reported and viewed there",
+    "length": 108
+  },
+  {
+    "id": "Smelting_Trivia[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Trivia[edit | edit source]",
+    "content": "A wooden tool burns the same regardless of its remaining durability. A used-up tool is just as effective as fuel as a new tool. \"Smelting\" is a broad term in the context of Minecraft while in the real world, smelting has a more precise definition. [9].",
+    "normalized_content": "a wooden tool burns the same regardless of its remaining durability a used up tool is just as effective as fuel as a new tool smelting is a broad term in the context of minecraft while in the real world smelting has a more precise definition 9",
+    "length": 252
+  },
+  {
+    "id": "Smelting_Screenshots[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "Screenshots[edit | edit source]",
+    "content": "In game encyclopedia entry on Furnace: \"A Furnace allows you to cook or smelt items. For example, you can smelt Iron Ore into Iron Ingots. \".",
+    "normalized_content": "in game encyclopedia entry on furnace a furnace allows you to cook or smelt items for example you can smelt iron ore into iron ingots",
+    "length": 141
+  },
+  {
+    "id": "Smelting_See also[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "See also[edit | edit source]",
+    "content": "Smelting on Wikipedia\nBrewing\nCooked food\nCrafting\nEnchanting\nFurnace.",
+    "normalized_content": "smelting on wikipedia brewing cooked food crafting enchanting furnace",
+    "length": 70
+  },
+  {
+    "id": "Smelting_References[edit | edit source]_0",
+    "page": "Smelting",
+    "section": "References[edit | edit source]",
+    "content": "↑ MC-210211 — Smelting cactus gives too much experience since 1. 13\n\n↑ \"Crafting and Mining in Minecraft\"(archive)  – Nizzotch on YouTube, January 29, 2010\n\n↑ MC-7046 — Furnace with hopper not giving XP — resolved as \"Fixed\". ↑ MC-165990 — Crafting bamboo into scaffolding gives you 8 times the furnace fuel for free — resolved as \"Fixed\". ↑ MC-249316 — Mangrove fence, fence gate and boat cannot be used for fuel — resolved as \"Fixed\".",
+    "normalized_content": "mc 210211 smelting cactus gives too much experience since 1 13 crafting and mining in minecraft archive nizzotch on youtube january 29 2010 mc 7046 furnace with hopper not giving xp resolved as fixed mc 165990 crafting bamboo into scaffolding gives you 8 times the furnace fuel for free resolved as fixed mc 249316 mangrove fence fence gate and boat cannot be used for fuel resolved as fixed",
+    "length": 436
+  },
+  {
+    "id": "Smelting_References[edit | edit source]_1",
+    "page": "Smelting",
+    "section": "References[edit | edit source]",
+    "content": "↑ MC-260193 — Cherry wood, logs and saplings can't be used as fuel in furnaces — resolved as \"Fixed\". ↑ MC-260192 — You can't make Charcoal with Cherry Logs or Wood — resolved as \"Fixed\". ↑ MCPE-114216 — Nether bricks and iron and gold nuggets can be used as fuel in furnaces — resolved as \"Fixed\". ↑ \"Block of the Week: Furnace\"     by Duncan Geere  – Minecraft. net, September 15, 2017.",
+    "normalized_content": "mc 260193 cherry wood logs and saplings can t be used as fuel in furnaces resolved as fixed mc 260192 you can t make charcoal with cherry logs or wood resolved as fixed mcpe 114216 nether bricks and iron and gold nuggets can be used as fuel in furnaces resolved as fixed block of the week furnace by duncan geere minecraft net september 15 2017",
+    "length": 388
+  },
+  {
+    "id": "Effects_Introduction_0",
+    "page": "Effects",
+    "section": "Introduction",
+    "content": "From a plural word to the page title in singular. (Discuss usefulness of this type).",
+    "normalized_content": "from a plural word to the page title in singular discuss usefulness of this type",
+    "length": 84
+  },
+  {
+    "id": "Smithing_Introduction_0",
+    "page": "Smithing",
+    "section": "Introduction",
+    "content": "Smithing is a gameplay mechanic that allows players to upgrade tools and armor both in material and in appearance through the use of a smithing table.",
+    "normalized_content": "smithing is a gameplay mechanic that allows players to upgrade tools and armor both in material and in appearance through the use of a smithing table",
+    "length": 150
+  },
+  {
+    "id": "Smithing_Contents_0",
+    "page": "Smithing",
+    "section": "Contents",
+    "content": "1 Equipment\n\n1. 1 Upgrading\n\n1. 1. 1 Armor upgrading\n1. 1. 2 Tool upgrading\n\n\n1. 2 Trimming\n\n1. 2. 1 Template\n1. 2. 2 Material\n1. 2. 3 List of color palettes for all materials\n1. 2. 4 List of tooltip text colors for all materials\n1. 2. 5 Armor trim renders\n\n\n\n\n2 Achievements\n3 Advancements\n4 History\n\n4. 1 Java Edition\n4. 2 Bedrock Edition\n\n\n5 Issues\n6 References\n7 Navigation 1. 1 Upgrading\n\n1. 1. 1 Armor upgrading\n1. 1. 2 Tool upgrading\n\n\n1. 2 Trimming\n\n1. 2. 1 Template\n1. 2. 2 Material\n1. 2.",
+    "normalized_content": "1 equipment 1 1 upgrading 1 1 1 armor upgrading 1 1 2 tool upgrading 1 2 trimming 1 2 1 template 1 2 2 material 1 2 3 list of color palettes for all materials 1 2 4 list of tooltip text colors for all materials 1 2 5 armor trim renders 2 achievements 3 advancements 4 history 4 1 java edition 4 2 bedrock edition 5 issues 6 references 7 navigation 1 1 upgrading 1 1 1 armor upgrading 1 1 2 tool upgrading 1 2 trimming 1 2 1 template 1 2 2 material 1 2",
+    "length": 497
+  },
+  {
+    "id": "Smithing_Contents_1",
+    "page": "Smithing",
+    "section": "Contents",
+    "content": "3 List of color palettes for all materials\n1. 2. 4 List of tooltip text colors for all materials\n1. 2. 5 Armor trim renders 1. 1. 1 Armor upgrading\n1. 1. 2 Tool upgrading 1. 2. 1 Template\n1. 2. 2 Material\n1. 2. 3 List of color palettes for all materials\n1. 2. 4 List of tooltip text colors for all materials\n1. 2. 5 Armor trim renders 4. 1 Java Edition\n4. 2 Bedrock Edition.",
+    "normalized_content": "3 list of color palettes for all materials 1 2 4 list of tooltip text colors for all materials 1 2 5 armor trim renders 1 1 1 armor upgrading 1 1 2 tool upgrading 1 2 1 template 1 2 2 material 1 2 3 list of color palettes for all materials 1 2 4 list of tooltip text colors for all materials 1 2 5 armor trim renders 4 1 java edition 4 2 bedrock edition",
+    "length": 374
+  },
+  {
+    "id": "Smithing_Equipment[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Equipment[edit | edit source]",
+    "content": "A smithing table and three ingredients are required for each smithing action the player wishes to perform. Each time working on a smithing table, the player must provide a smithing template, armor/tool, and an augmenting material.",
+    "normalized_content": "a smithing table and three ingredients are required for each smithing action the player wishes to perform each time working on a smithing table the player must provide a smithing template armor tool and an augmenting material",
+    "length": 230
+  },
+  {
+    "id": "Smithing_Upgrading[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Upgrading[edit | edit source]",
+    "content": "Upgrading is a process for turning diamond gear into netherite gear. This is the only way that netherite gear can be obtained. While upgrading, the newly crafted netherite gear retains the enchantments, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.",
+    "normalized_content": "upgrading is a process for turning diamond gear into netherite gear this is the only way that netherite gear can be obtained while upgrading the newly crafted netherite gear retains the enchantments prior work penalty and number of durability points lost instead of the remaining durability from the diamond gear upgrading gear does not remove incompatible enchantments such as multiple different protection enchantments",
+    "length": 430
+  },
+  {
+    "id": "Smithing_Upgrading[edit | edit source]_1",
+    "page": "Smithing",
+    "section": "Upgrading[edit | edit source]",
+    "content": "Using a smithing table to upgrade diamond gear to netherite gear costs no experience and does not increase the prior work penalty. When upgraded to netherite, all items are granted resistance to fire and lava when dropped in the world, and their durability and enchantability are increased. Swords and tools (except for hoes in Java Edition) deal a higher attack damage and the mining speed of tools is improved as well.",
+    "normalized_content": "using a smithing table to upgrade diamond gear to netherite gear costs no experience and does not increase the prior work penalty when upgraded to netherite all items are granted resistance to fire and lava when dropped in the world and their durability and enchantability are increased swords and tools except for hoes in java edition deal a higher attack damage and the mining speed of tools is improved as well",
+    "length": 420
+  },
+  {
+    "id": "Smithing_Upgrading[edit | edit source]_2",
+    "page": "Smithing",
+    "section": "Upgrading[edit | edit source]",
+    "content": "Each piece of netherite armor gives 10% of knockback reduction, protecting 40% with a full set. Armor toughness is also increased.",
+    "normalized_content": "each piece of netherite armor gives 10 of knockback reduction protecting 40 with a full set armor toughness is also increased",
+    "length": 130
+  },
+  {
+    "id": "Smithing_Trimming[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Trimming[edit | edit source]",
+    "content": "Trimming allows players to customize an armor piece's appearance by applying a material using one of the following smithing templates. During trimming, the decorative pattern applied to the armor corresponds to the trim used, with the color determined by the used material. The template is consumed in the process.",
+    "normalized_content": "trimming allows players to customize an armor piece s appearance by applying a material using one of the following smithing templates during trimming the decorative pattern applied to the armor corresponds to the trim used with the color determined by the used material the template is consumed in the process",
+    "length": 314
+  },
+  {
+    "id": "Smithing_Template[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Template[edit | edit source]",
+    "content": "Bolt Armor Trim\nCoast Armor Trim\nDune Armor Trim\nEye Armor Trim\nFlow Armor Trim\nHost Armor Trim\nRaiser Armor Trim\nRib Armor Trim\nSentry Armor Trim\nShaper Armor Trim\nSilence Armor Trim\nSnout Armor Trim\nSpire Armor Trim\nTide Armor Trim\nVex Armor Trim\nWard Armor Trim\nWayfinder Armor Trim\nWild Armor Trim.",
+    "normalized_content": "bolt armor trim coast armor trim dune armor trim eye armor trim flow armor trim host armor trim raiser armor trim rib armor trim sentry armor trim shaper armor trim silence armor trim snout armor trim spire armor trim tide armor trim vex armor trim ward armor trim wayfinder armor trim wild armor trim",
+    "length": 302
+  },
+  {
+    "id": "Smithing_Material[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Material[edit | edit source]",
+    "content": "Amethyst Shard\nCopper Ingot\nDiamond\nEmerald\nGold Ingot\nIron Ingot\nLapis Lazuli\nNether Quartz\nNetherite Ingot\nRedstone Dust\nResin Brick All trims are purely decorative, and don't impact gameplay in any way. Piglins do not pick up any gold-trimmed armor pieces and remain hostile towards players wearing gold-trimmed armor, unless the base armor is also golden. Non-netherite armor pieces trimmed with netherite still burn if dropped in fire or lava.",
+    "normalized_content": "amethyst shard copper ingot diamond emerald gold ingot iron ingot lapis lazuli nether quartz netherite ingot redstone dust resin brick all trims are purely decorative and don t impact gameplay in any way piglins do not pick up any gold trimmed armor pieces and remain hostile towards players wearing gold trimmed armor unless the base armor is also golden non netherite armor pieces trimmed with netherite still burn if dropped in fire or lava",
+    "length": 448
+  },
+  {
+    "id": "Smithing_Material[edit | edit source]_1",
+    "page": "Smithing",
+    "section": "Material[edit | edit source]",
+    "content": "Most armor trims cover a small portion of the armor piece's surface with the trim material, except for the silence armor trim, which allows the trim material to cover a majority of the armor piece's surface. Armor with a trim can be trimmed again by applying another template to it; the old trim pattern is overwritten in the process. [1] Therefore, one piece of armor cannot possess multiple trims at the same time.",
+    "normalized_content": "most armor trims cover a small portion of the armor piece s surface with the trim material except for the silence armor trim which allows the trim material to cover a majority of the armor piece s surface armor with a trim can be trimmed again by applying another template to it the old trim pattern is overwritten in the process 1 therefore one piece of armor cannot possess multiple trims at the same time",
+    "length": 416
+  },
+  {
+    "id": "Smithing_List of color palettes for all materials[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "List of color palettes for all materials[edit | edit source]",
+    "content": "-\n- (Darker: \n- (Darker: )\n-\n- (Darker: )\n- (Darker: )\n-\n-\n- (Darker: )\n-\n-.",
+    "normalized_content": "darker darker darker darker darker",
+    "length": 76
+  },
+  {
+    "id": "Smithing_List of tooltip text colors for all materials[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "List of tooltip text colors for all materials[edit | edit source]",
+    "content": "- #9A5CC6\n- #B4684D\n- #6EECD2\n- #11A036\n- #DEB12D\n- #ECECEC\n- #416E97\n- #E3D4C4\n- #625859\n- #971607\n- #FC7812.",
+    "normalized_content": "9a5cc6 b4684d 6eecd2 11a036 deb12d ececec 416e97 e3d4c4 625859 971607 fc7812",
+    "length": 110
+  },
+  {
+    "id": "Smithing_Armor trim renders[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Armor trim renders[edit | edit source]",
+    "content": "Bolt armor trim\n\n\n\nCoast armor trim\n\n\n\nDune armor trim\n\n\n\nEye armor trim\n\n\n\nFlow armor trim\n\n\n\nHost armor trim\n\n\n\nRaiser armor trim\n\n\n\nRib armor trim\n\n\n\nSentry armor trim\n\n\n\nShaper armor trim\n\n\n\nSilence armor trim\n\n\n\nSnout armor trim\n\n\n\nSpire armor trim\n\n\n\nTide armor trim\n\n\n\nVex armor trim\n\n\n\nWard armor trim\n\n\n\nWayfinder armor trim\n\n\n\nWild armor trim.",
+    "normalized_content": "bolt armor trim coast armor trim dune armor trim eye armor trim flow armor trim host armor trim raiser armor trim rib armor trim sentry armor trim shaper armor trim silence armor trim snout armor trim spire armor trim tide armor trim vex armor trim ward armor trim wayfinder armor trim wild armor trim",
+    "length": 353
+  },
+  {
+    "id": "Smithing_Issues[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "Issues[edit | edit source]",
+    "content": "Issues relating to \"Smithing\" are maintained on the bug tracker. Issues should be reported and viewed there.",
+    "normalized_content": "issues relating to smithing are maintained on the bug tracker issues should be reported and viewed there",
+    "length": 108
+  },
+  {
+    "id": "Smithing_References[edit | edit source]_0",
+    "page": "Smithing",
+    "section": "References[edit | edit source]",
+    "content": "↑ MC-262538 — When combining armor trims the new trim deletes the old one — resolved as \"Works As Intended\".",
+    "normalized_content": "mc 262538 when combining armor trims the new trim deletes the old one resolved as works as intended",
+    "length": 108
   }
 ]
