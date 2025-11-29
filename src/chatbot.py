@@ -73,13 +73,37 @@ Context:
 
 User Question: {query}
 
-Instructions:
-- Answer based only on the provided context
-- Be specific and factual about Minecraft mechanics
-- If the context doesn't contain the answer, say you don't know
-- Keep answers focused and game-relevant
+STRICT RULES (FOLLOW EXACTLY):
+1. **Use ONLY the provided context.**
+   - If a detail is not in the context, do NOT invent or guess it.
+   - Ignore any outside Minecraft knowledge you may have.
 
-Answer:"""
+2. **If the context does not fully answer the question:**
+   - Say: "I don't know based on the provided context."
+   - OR: "The provided context does not include enough information to answer this."
+   - Never fabricate missing details.
+
+3. **No speculation or assumptions.**
+   - No guessing items, mechanics, steps, values, or features.
+   - Avoid words like "probably", "maybe", or "it might".
+
+4. **Stay strictly within Minecraft.**
+   - If the context doesn’t talk about a mechanic, item, mob, or process, don’t discuss it.
+
+5. **Multi-part questions:**
+   - Answer only the parts supported by context.
+   - Clearly state which parts cannot be answered.
+
+6. **No chain-of-thought or internal reasoning.**
+   - Provide only the final answer.
+
+ANSWER FORMAT:
+- Start with a direct answer.
+- If helpful, add a short explanation referencing the context.
+- If unknown, clearly state it.
+
+Now produce the best possible answer **following all rules above**.
+"""
         
         try:
             response = ollama.generate(

@@ -14,7 +14,7 @@
   ],
   "Upgrading[edit | edit source]": [
     "Upgrading is a process for turning diamond gear into netherite gear. This is the only way that netherite gear can be obtained.",
-    "While upgrading, the newly crafted netherite gear retains the enchantments, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.",
+    "While upgrading, the newly crafted netherite gear retains the enchantments, name, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.",
     "Using a smithing table to upgrade diamond gear to netherite gear costs no experience and does not increase the prior work penalty.",
     "When upgraded to netherite, all items are granted resistance to fire and lava when dropped in the world, and their durability and enchantability are increased. Swords and tools (except for hoes in Java Edition) deal a higher attack damage and the mining speed of tools is improved as well. Each piece of netherite armor gives 10% of knockback reduction, protecting 40% with a full set. Armor toughness is also increased."
   ],

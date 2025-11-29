@@ -13,7 +13,6 @@ class Config:
         "Biomes",
         "Enchanting",
         "Redstone",
-        "Commands",
         "Trading",
         "Brewing",
         "Tutorials",
@@ -22,8 +21,9 @@ class Config:
         "Effects",
         "Smithing",
         "Commands",
-        "History",
+        "History"
     ]
+
     
     #Processing settings
     MIN_TEXT_LENGTH = 50

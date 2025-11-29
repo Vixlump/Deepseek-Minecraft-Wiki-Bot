@@ -123,9 +123,9 @@
     "id": "Minecraft_Mobs[edit | edit source]_0",
     "page": "Minecraft",
     "section": "Mobs[edit | edit source]",
-    "content": "Mobs (short for \"mobiles\") are interactable creatures that inhabit the world. Hostile mobs attack the player while passive mobs do not. Neutral mobs attack when provoked (not all neutral mobs are provoked the same way). The Overworld contains many passive animal mobs that may be killed for food, bred with one another, or kept around for useful utilities. Mobs that drop food drop the raw version of their food unless killed while on fire or by an item enchanted with the Fire Aspect enchantment.",
-    "normalized_content": "mobs short for mobiles are interactable creatures that inhabit the world hostile mobs attack the player while passive mobs do not neutral mobs attack when provoked not all neutral mobs are provoked the same way the overworld contains many passive animal mobs that may be killed for food bred with one another or kept around for useful utilities mobs that drop food drop the raw version of their food unless killed while on fire or by an item enchanted with the fire aspect enchantment",
-    "length": 497
+    "content": "Mobs are interactable creatures that inhabit the world. Hostile mobs attack the player while passive mobs do not. Neutral mobs attack when provoked (not all neutral mobs are provoked the same way). The Overworld contains many passive animal mobs that may be killed for food, bred with one another, or kept around for useful utilities. Mobs that drop food drop the raw version of their food unless killed while on fire or by an item enchanted with the Fire Aspect enchantment.",
+    "normalized_content": "mobs are interactable creatures that inhabit the world hostile mobs attack the player while passive mobs do not neutral mobs attack when provoked not all neutral mobs are provoked the same way the overworld contains many passive animal mobs that may be killed for food bred with one another or kept around for useful utilities mobs that drop food drop the raw version of their food unless killed while on fire or by an item enchanted with the fire aspect enchantment",
+    "length": 475
   },
   {
     "id": "Minecraft_The Nether[edit | edit source]_0",
@@ -259,9 +259,9 @@
     "id": "Minecraft_Purchase and availability[edit | edit source]_4",
     "page": "Minecraft",
     "section": "Purchase and availability[edit | edit source]",
-    "content": "The Xbox 360, Xbox One, PlayStation 4,  Wii U, and Nintendo Switch editions are no longer available for direct digital purchase. The North American version of New Nintendo 3DS Edition can be purchased on physical media. It is no longer available for direct digital purchase. Minecraft Classic, a remake of an old version of Java Edition, can be played at classic. minecraft. net for free.",
-    "normalized_content": "the xbox 360 xbox one playstation 4 wii u and nintendo switch editions are no longer available for direct digital purchase the north american version of new nintendo 3ds edition can be purchased on physical media it is no longer available for direct digital purchase minecraft classic a remake of an old version of java edition can be played at classic minecraft net for free",
-    "length": 388
+    "content": "The Xbox 360, Xbox One, PlayStation 4,  Wii U, and Nintendo Switch editions are no longer available for direct digital purchase. The North American version of New Nintendo 3DS Edition can be purchased on physical media. It is no longer available for direct digital purchase, and the game never had a physical release in other regions. Minecraft Classic, a remake of an old version of Java Edition, can be played at classic. minecraft. net for free.",
+    "normalized_content": "the xbox 360 xbox one playstation 4 wii u and nintendo switch editions are no longer available for direct digital purchase the north american version of new nintendo 3ds edition can be purchased on physical media it is no longer available for direct digital purchase and the game never had a physical release in other regions minecraft classic a remake of an old version of java edition can be played at classic minecraft net for free",
+    "length": 448
   },
   {
     "id": "Minecraft_Java Edition[edit | edit source]_0",
@@ -347,9 +347,9 @@
     "id": "Minecraft_Add-ons[edit | edit source]_0",
     "page": "Minecraft",
     "section": "Add-ons[edit | edit source]",
-    "content": "Add-ons‌[Bedrock Edition  only] are the first step toward bringing customization to all editions of Minecraft and are officially supported by Mojang Studios/Minecraft. They currently allow players to transform the look of their worlds, change the behavior of mobs, and add entities, items and blocks, structures, functions and biomes.",
-    "normalized_content": "add ons bedrock edition only are the first step toward bringing customization to all editions of minecraft and are officially supported by mojang studios minecraft they currently allow players to transform the look of their worlds change the behavior of mobs and add entities items and blocks structures functions and biomes",
-    "length": 334
+    "content": "Add-ons‌[Bedrock Edition  only] are the first step towards bringing customization to all editions of Minecraft and are officially supported by Mojang Studios/Minecraft. They currently allow players to transform the look of their worlds, change the behavior of mobs, and add entities, items and blocks, structures, functions and biomes.",
+    "normalized_content": "add ons bedrock edition only are the first step towards bringing customization to all editions of minecraft and are officially supported by mojang studios minecraft they currently allow players to transform the look of their worlds change the behavior of mobs and add entities items and blocks structures functions and biomes",
+    "length": 335
   },
   {
     "id": "Minecraft_Behavior packs[edit | edit source]_0",
@@ -427,9 +427,9 @@
     "id": "Minecraft_Reception[edit | edit source]_0",
     "page": "Minecraft",
     "section": "Reception[edit | edit source]",
-    "content": "Metacritic ranked Minecraft as one of the best video games of the 2010s,[20] and Video Game Canon ranks Minecraft as one of the best games of all time. [21].",
-    "normalized_content": "metacritic ranked minecraft as one of the best video games of the 2010s 20 and video game canon ranks minecraft as one of the best games of all time 21",
-    "length": 157
+    "content": "Metacritic ranked Minecraft as one of the best video games of the 2010s,[20] and Video Game Canon ranks Minecraft as one of the best games of all time. [21][better source needed].",
+    "normalized_content": "metacritic ranked minecraft as one of the best video games of the 2010s 20 and video game canon ranks minecraft as one of the best games of all time 21 better source needed",
+    "length": 179
   },
   {
     "id": "Minecraft_Awards[edit | edit source]_0",
@@ -539,41 +539,49 @@
     "id": "Minecraft_References[edit | edit source]_0",
     "page": "Minecraft",
     "section": "References[edit | edit source]",
-    "content": "↑ Nintendo Switch 2 Compatibility Information\n\n↑ \"@johnmbergman The Pocket Edition is ported to C++\"  – @jeb_ (Jens Bergensten) on X (formerly Twitter), October 7, 2011\n\n↑ Minecraft coming to Nintendo Wii U - Mojang. com; December 7, 2015\n\n↑ Minecraft: Education Edition has launched. - Mojang. com; November 1, 2016\n\n↑ \n“Minecraft: China Edition is out. - mc. 163. com; August 8, 2017\n\n↑ \"Minecraft on new 3DS. \"     – Minecraft. net. ↑ Yes, we're being bought by Microsoft - Mojang.",
-    "normalized_content": "nintendo switch 2 compatibility information johnmbergman the pocket edition is ported to c jeb_ jens bergensten on x formerly twitter october 7 2011 minecraft coming to nintendo wii u mojang com december 7 2015 minecraft education edition has launched mojang com november 1 2016 minecraft china edition is out mc 163 com august 8 2017 minecraft on new 3ds minecraft net yes we re being bought by microsoft mojang",
-    "length": 484
+    "content": "↑ \"Nintendo Switch 2 Compatibility Information\". ↑ \"@johnmbergman The Pocket Edition is ported to C++\"  – @jeb_ (Jens Bergensten) on X (formerly Twitter), October 7, 2011\n\n↑ \"Minecraft coming to Nintendo Wii U\"   (Archive)  – Mojang. com, 2015-12-07. ↑ \"Minecraft: Education Edition has launched. \"   (Archive)  – Mojang. com, 2016-11-01. ↑ \"欢迎回家！《我的世界》中国版PC Java版今日开测\"   (Archive)  – mc. 163. com, 2017-08-08. ↑ \"Minecraft on new 3DS. \"     – Minecraft. net.",
+    "normalized_content": "nintendo switch 2 compatibility information johnmbergman the pocket edition is ported to c jeb_ jens bergensten on x formerly twitter october 7 2011 minecraft coming to nintendo wii u archive mojang com 2015 12 07 minecraft education edition has launched archive mojang com 2016 11 01 欢迎回家 我的世界 中国版pc java版今日开测 archive mc 163 com 2017 08 08 minecraft on new 3ds minecraft net",
+    "length": 459
   },
   {
     "id": "Minecraft_References[edit | edit source]_1",
     "page": "Minecraft",
     "section": "References[edit | edit source]",
-    "content": "com; September 15, 2014\n\n↑ \"It’s official, today we welcome Mojang to the Microsoft Studios family. We're excited for the possibilities ahead w/the Minecraft community. \"  – @xboxp3  on X (formerly Twitter), November 6, 2014\n\n↑ \"Quick info: Minecraft Realms isn't built for huge public servers. The sweetspot is a group of invited friends or as a family server. \"  – @danfrisk (Daniel Frisk) on X (formerly Twitter), March 13, 2013\n\n↑ https://web. archive. org/web/20160405102749/https://help.",
-    "normalized_content": "com september 15 2014 it s official today we welcome mojang to the microsoft studios family we re excited for the possibilities ahead w the minecraft community xboxp3 on x formerly twitter november 6 2014 quick info minecraft realms isn t built for huge public servers the sweetspot is a group of invited friends or as a family server danfrisk daniel frisk on x formerly twitter march 13 2013 https web archive org web 20160405102749 https help",
-    "length": 493
+    "content": "↑ \"Yes, we’re being bought by Microsoft\"   (Archive)  – Mojang. com, 2014-09-15. ↑ \"It’s official, today we welcome Mojang to the Microsoft Studios family. We're excited for the possibilities ahead w/the Minecraft community. \"  – @xboxp3  on X (formerly Twitter), November 6, 2014\n\n↑ \"Quick info: Minecraft Realms isn't built for huge public servers. The sweetspot is a group of invited friends or as a family server.",
+    "normalized_content": "yes we re being bought by microsoft archive mojang com 2014 09 15 it s official today we welcome mojang to the microsoft studios family we re excited for the possibilities ahead w the minecraft community xboxp3 on x formerly twitter november 6 2014 quick info minecraft realms isn t built for huge public servers the sweetspot is a group of invited friends or as a family server",
+    "length": 417
   },
   {
     "id": "Minecraft_References[edit | edit source]_2",
     "page": "Minecraft",
     "section": "References[edit | edit source]",
-    "content": "mojang. com/customer/en/portal/articles/325948-minecraft-system-requirements\n\n↑ https://play. google. com/details. id=com. mojang. minecraftpe\n\n↑ https://twitter. com/Kappische/status/122246496941899776\n\n↑ https://appleinformer. org/2011/11/minecraft-pocket-edition-for-ios-now-available-for-download\n\n↑ https://windowscentral. com/minecraft-pocket-edition-comes-windows-phone\n\n↑ Announcing: Minecraft: Windows 10 Edition Beta - Mojang. com; July 4, 2015\n\n↑ https://oculus.",
-    "normalized_content": "mojang com customer en portal articles 325948 minecraft system requirements https play google com details id com mojang minecraftpe https twitter com kappische status 122246496941899776 https appleinformer org 2011 11 minecraft pocket edition for ios now available for download https windowscentral com minecraft pocket edition comes windows phone announcing minecraft windows 10 edition beta mojang com july 4 2015 https oculus",
-    "length": 473
+    "content": "\"  – @danfrisk (Daniel Frisk) on X (formerly Twitter), March 13, 2013\n\n↑ \"Minecraft system requirements\"   (Archive)  – Mojang. com, 2015-12-04. ↑ \"Minecraft: Dream it, Build it. \"     – Google Play Store, 2025-11-27. ↑ https://twitter. com/Kappische/status/122246496941899776\n\n↑ \"Minecraft Pocket Edition for iOS Now Available for Download\"   (Archive)  – Apple Informer, 2011-11-17. ↑ \"Minecraft Pocket Edition comes to Windows Phone\"   (Archive)  – Windows Central, 2014-12-10.",
+    "normalized_content": "danfrisk daniel frisk on x formerly twitter march 13 2013 minecraft system requirements archive mojang com 2015 12 04 minecraft dream it build it google play store 2025 11 27 https twitter com kappische status 122246496941899776 minecraft pocket edition for ios now available for download archive apple informer 2011 11 17 minecraft pocket edition comes to windows phone archive windows central 2014 12 10",
+    "length": 480
   },
   {
     "id": "Minecraft_References[edit | edit source]_3",
     "page": "Minecraft",
     "section": "References[edit | edit source]",
-    "content": "com/blog/minecraft-now-available-on-oculus-for-gear-vr\n\n↑ \"Apple TV Edition released. \"     by Owen Jones  – Minecraft. net, December 19, 2016. ↑ https://amazon. com/dp/B01NCJDPER\n\n↑ Minecraft is coming to Raspberry Pi. - Mojang. com; November 24, 2012\n\n↑ https://web. archive. org/web/20230903185633/https://www. metacritic. com/feature/best-videogames-of-the-decade-2010s\n\n↑ https://videogamecanon. com\n\n↑ https://pcgamer. com/2010/12/31/pc-gamer-uks-game-of-the-year\n\n↑ https://indiegamesplus.",
-    "normalized_content": "com blog minecraft now available on oculus for gear vr apple tv edition released by owen jones minecraft net december 19 2016 https amazon com dp b01ncjdper minecraft is coming to raspberry pi mojang com november 24 2012 https web archive org web 20230903185633 https www metacritic com feature best videogames of the decade 2010s https videogamecanon com https pcgamer com 2010 12 31 pc gamer uks game of the year https indiegamesplus",
-    "length": 496
+    "content": "↑ \"Announcing: Minecraft: Windows 10 Edition Beta\"   (Archive)  – Mojang. com, 2015-07-04. ↑ \"Minecraft Now Available on Oculus for Gear VR\"     – Meta, 2016-04-27. ↑ \"Apple TV Edition released. \"     by Owen Jones  – Minecraft. net, December 19, 2016. ↑ \"Minecraft for Fire TV\"   (Archive)  – Amazon. com. ↑ \"Minecraft is coming to Raspberry Pi. \"   (Archive)  – Mojang. com, 2012-11-24.",
+    "normalized_content": "announcing minecraft windows 10 edition beta archive mojang com 2015 07 04 minecraft now available on oculus for gear vr meta 2016 04 27 apple tv edition released by owen jones minecraft net december 19 2016 minecraft for fire tv archive amazon com minecraft is coming to raspberry pi archive mojang com 2012 11 24",
+    "length": 388
   },
   {
     "id": "Minecraft_References[edit | edit source]_4",
     "page": "Minecraft",
     "section": "References[edit | edit source]",
-    "content": "com/2011/01/2011_independent_games_festiva_10\n\n↑ https://abc. net. au/tv/goodgame/stories/s3085956. htm\n\n↑ https://rockpapershotgun. com/2010/12/24/the-games-of-christmas-%E2%80%9910-day-24\n\n↑ https://indiedb. com/events/2010-indie-of-the-year-awards/winners\n\n↑ https://gamechoiceawards. com/archive/gdca_11th. html\n\n↑ https://youtube. com/playlist. list=PL8F008EC1BDE1692A.",
-    "normalized_content": "com 2011 01 2011_independent_games_festiva_10 https abc net au tv goodgame stories s3085956 htm https rockpapershotgun com 2010 12 24 the games of christmas e2 80 9910 day 24 https indiedb com events 2010 indie of the year awards winners https gamechoiceawards com archive gdca_11th html https youtube com playlist list pl8f008ec1bde1692a",
-    "length": 374
+    "content": "↑ \"The Best Video Games of the Decade (2010-19), According to Game Critics\"   (Archive)  – Metacritic, 2019-12-06. ↑ https://videogamecanon. com\n\n↑ \"Minecraft - PC Gamer UK's Game Of The Year\"   (Archive)  – PC Gamer UK, 2010-12-31. ↑ \"Indie Games Plus\"   (Archive), 2011-01-03. ↑ \"GG Awards 2010: Best Downloadable Game\"   (Archive)  – Good Game Stories, 2010-12-06. ↑ \"The Games Of Christmas ’10: Day 24\"   (Archive)  – Rock, Paper, Shotgun, 2010-12-24.",
+    "normalized_content": "the best video games of the decade 2010 19 according to game critics archive metacritic 2019 12 06 https videogamecanon com minecraft pc gamer uk s game of the year archive pc gamer uk 2010 12 31 indie games plus archive 2011 01 03 gg awards 2010 best downloadable game archive good game stories 2010 12 06 the games of christmas 10 day 24 archive rock paper shotgun 2010 12 24",
+    "length": 455
+  },
+  {
+    "id": "Minecraft_References[edit | edit source]_5",
+    "page": "Minecraft",
+    "section": "References[edit | edit source]",
+    "content": "↑ \"2010 Indie of the Year Awards\"   (Archive)  – IndieDB. ↑ \"11th Annual Game Developers Choice Awards\"   (Archive)  – Game Developers Choice Awards. ↑ https://youtube. com/playlist. list=PL8F008EC1BDE1692A.",
+    "normalized_content": "2010 indie of the year awards archive indiedb 11th annual game developers choice awards archive game developers choice awards https youtube com playlist list pl8f008ec1bde1692a",
+    "length": 207
   },
   {
     "id": "Gameplay_Introduction_0",
@@ -1051,9 +1059,9 @@
     "id": "Items_Introduction_0",
     "page": "Items",
     "section": "Introduction",
-    "content": "From a plural word to the page title in singular. (Discuss usefulness of this type).",
-    "normalized_content": "from a plural word to the page title in singular discuss usefulness of this type",
-    "length": 84
+    "content": "From a page which has been renamed to the target page of this redirect, usually to avoid breaking links to the old page name. From a plural word to the page title in singular. (Discuss usefulness of this type).",
+    "normalized_content": "from a page which has been renamed to the target page of this redirect usually to avoid breaking links to the old page name from a plural word to the page title in singular discuss usefulness of this type",
+    "length": 210
   },
   {
     "id": "Blocks_Introduction_0",
@@ -1067,9 +1075,9 @@
     "id": "Mobs_Introduction_0",
     "page": "Mobs",
     "section": "Introduction",
-    "content": "From a plural word to the page title in singular. (Discuss usefulness of this type).",
-    "normalized_content": "from a plural word to the page title in singular discuss usefulness of this type",
-    "length": 84
+    "content": "From a page which has been renamed to the target page of this redirect, usually to avoid breaking links to the old page name. From a plural word to the page title in singular. (Discuss usefulness of this type).",
+    "normalized_content": "from a page which has been renamed to the target page of this redirect usually to avoid breaking links to the old page name from a plural word to the page title in singular discuss usefulness of this type",
+    "length": 210
   },
   {
     "id": "Crafting_Introduction_0",
@@ -1728,302 +1736,6 @@
     "length": 52
   },
   {
-    "id": "Commands_Introduction_0",
-    "page": "Commands",
-    "section": "Introduction",
-    "content": "Commands (also known as console commands or slash commands) are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities.",
-    "normalized_content": "commands also known as console commands or slash commands are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities",
-    "length": 169
-  },
-  {
-    "id": "Commands_Contents_0",
-    "page": "Commands",
-    "section": "Contents",
-    "content": "1 Usage\n2 Commands guide\n\n2. 1 Syntax\n2. 2 Restrictions\n\n2. 2. 1 Cheats\n\n\n2. 3 Argument types\n2. 4 Parsing and execution\n\n2. 4. 1 Output\n2. 4. 2 Result\n\n\n\n\n3 List of commands\n\n3. 1 Available in Java Edition\n\n3. 1. 1 Debugging commands\n\n\n3. 2 Available in Bedrock Edition and Education\n3. 3 Hidden commands\n3. 4 Removed commands\n\n3. 4. 1 Removed from Java Edition\n3. 4. 2 Removed from Bedrock Edition or Education\n3. 4. 3 Other removed commands\n\n3. 4. 3. 1 Developer commands\n3. 4. 3.",
-    "normalized_content": "1 usage 2 commands guide 2 1 syntax 2 2 restrictions 2 2 1 cheats 2 3 argument types 2 4 parsing and execution 2 4 1 output 2 4 2 result 3 list of commands 3 1 available in java edition 3 1 1 debugging commands 3 2 available in bedrock edition and education 3 3 hidden commands 3 4 removed commands 3 4 1 removed from java edition 3 4 2 removed from bedrock edition or education 3 4 3 other removed commands 3 4 3 1 developer commands 3 4 3",
-    "length": 483
-  },
-  {
-    "id": "Commands_Contents_1",
-    "page": "Commands",
-    "section": "Contents",
-    "content": "2 Agent commands\n\n\n\n\n3. 5 Joke commands\n\n\n4 History\n\n4. 1 Command additions and changes\n\n4. 1. 1 Java Edition\n4. 1. 2 Bedrock Edition\n\n\n4. 2 April Fools commands\n\n\n5 Issues\n6 See also\n7 References\n8 External links\n9 Navigation 2. 1 Syntax\n2. 2 Restrictions\n\n2. 2. 1 Cheats\n\n\n2. 3 Argument types\n2. 4 Parsing and execution\n\n2. 4. 1 Output\n2. 4. 2 Result 2. 4. 1 Output\n2. 4. 2 Result 3. 1 Available in Java Edition\n\n3. 1. 1 Debugging commands\n\n\n3. 2 Available in Bedrock Edition and Education\n3.",
-    "normalized_content": "2 agent commands 3 5 joke commands 4 history 4 1 command additions and changes 4 1 1 java edition 4 1 2 bedrock edition 4 2 april fools commands 5 issues 6 see also 7 references 8 external links 9 navigation 2 1 syntax 2 2 restrictions 2 2 1 cheats 2 3 argument types 2 4 parsing and execution 2 4 1 output 2 4 2 result 2 4 1 output 2 4 2 result 3 1 available in java edition 3 1 1 debugging commands 3 2 available in bedrock edition and education 3",
-    "length": 494
-  },
-  {
-    "id": "Commands_Contents_2",
-    "page": "Commands",
-    "section": "Contents",
-    "content": "3 Hidden commands\n3. 4 Removed commands\n\n3. 4. 1 Removed from Java Edition\n3. 4. 2 Removed from Bedrock Edition or Education\n3. 4. 3 Other removed commands\n\n3. 4. 3. 1 Developer commands\n3. 4. 3. 2 Agent commands\n\n\n\n\n3. 5 Joke commands 3. 1. 1 Debugging commands 3. 4. 1 Removed from Java Edition\n3. 4. 2 Removed from Bedrock Edition or Education\n3. 4. 3 Other removed commands\n\n3. 4. 3. 1 Developer commands\n3. 4. 3. 2 Agent commands 3. 4. 3. 1 Developer commands\n3. 4. 3. 2 Agent commands 4.",
-    "normalized_content": "3 hidden commands 3 4 removed commands 3 4 1 removed from java edition 3 4 2 removed from bedrock edition or education 3 4 3 other removed commands 3 4 3 1 developer commands 3 4 3 2 agent commands 3 5 joke commands 3 1 1 debugging commands 3 4 1 removed from java edition 3 4 2 removed from bedrock edition or education 3 4 3 other removed commands 3 4 3 1 developer commands 3 4 3 2 agent commands 3 4 3 1 developer commands 3 4 3 2 agent commands 4",
-    "length": 493
-  },
-  {
-    "id": "Commands_Contents_3",
-    "page": "Commands",
-    "section": "Contents",
-    "content": "1 Command additions and changes\n\n4. 1. 1 Java Edition\n4. 1. 2 Bedrock Edition\n\n\n4. 2 April Fools commands 4. 1. 1 Java Edition\n4. 1. 2 Bedrock Edition.",
-    "normalized_content": "1 command additions and changes 4 1 1 java edition 4 1 2 bedrock edition 4 2 april fools commands 4 1 1 java edition 4 1 2 bedrock edition",
-    "length": 151
-  },
-  {
-    "id": "Commands_Usage[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Usage[edit | edit source]",
-    "content": "In the client, commands are entered via the chat window, which is displayed by pressing the T / ‌[BE  only] / ‌[BE  only] or / key. Using the / key also enters the forward-slash that commands require as a prefix, so it is a useful shortcut. The ↑ /  and ↓ /  keys can be used to view previously entered text, including all previously executed commands.",
-    "normalized_content": "in the client commands are entered via the chat window which is displayed by pressing the t be only be only or key using the key also enters the forward slash that commands require as a prefix so it is a useful shortcut the and keys can be used to view previously entered text including all previously executed commands",
-    "length": 352
-  },
-  {
-    "id": "Commands_Usage[edit | edit source]_1",
-    "page": "Commands",
-    "section": "Usage[edit | edit source]",
-    "content": "When the cursor is at a location corresponding to some types of argument (such as an entity ID), a list of applicable values appears above the text box. If the argument already contains characters, the list displays only those values containing the typed text. Pressing Tab ↹ while entering commands cycles through possible commands or arguments, and can be used to auto-enter them. Commands may also be entered in a multiplayer server's console but are not preceded by a / when entered this way.",
-    "normalized_content": "when the cursor is at a location corresponding to some types of argument such as an entity id a list of applicable values appears above the text box if the argument already contains characters the list displays only those values containing the typed text pressing tab while entering commands cycles through possible commands or arguments and can be used to auto enter them commands may also be entered in a multiplayer server s console but are not preceded by a when entered this way",
-    "length": 496
-  },
-  {
-    "id": "Commands_Usage[edit | edit source]_2",
-    "page": "Commands",
-    "section": "Usage[edit | edit source]",
-    "content": "A server owner running commands in this way is often referred to as \"ghosting\". Commands in command blocks can be preceded by a slash, but it is not required. Commands can be executed in the following ways: Entered by a player in the chat screen. Executed by a command block or a minecart with command block. In a dedicated server, entered in the console. In functions, in a data pack‌[JE  only] or behavior pack‌[BE  only]. Clicking a text component that has \"run_command\" action.",
-    "normalized_content": "a server owner running commands in this way is often referred to as ghosting commands in command blocks can be preceded by a slash but it is not required commands can be executed in the following ways entered by a player in the chat screen executed by a command block or a minecart with command block in a dedicated server entered in the console in functions in a data pack je only or behavior pack be only clicking a text component that has run_command action",
-    "length": 481
-  },
-  {
-    "id": "Commands_Usage[edit | edit source]_3",
-    "page": "Commands",
-    "section": "Usage[edit | edit source]",
-    "content": "‌[JE  only]\nRequested by a WebSocket server connected to a client. ‌[BE  only]\nBy an NPC dialogue. ‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only]. In animation controllers, in a behavior pack‌[BE  only]. In a block event response, in a behavior pack‌[BE  only]. In an entity event response, in a behavior pack‌[BE  only].",
-    "normalized_content": "je only requested by a websocket server connected to a client be only by an non player character dialogue be only in scripts in a behavior pack be only in animation controllers in a behavior pack be only in a block event response in a behavior pack be only in an entity event response in a behavior pack be only",
-    "length": 328
-  },
-  {
-    "id": "Commands_Syntax[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Syntax[edit | edit source]",
-    "content": "In both Java Edition and Bedrock Edition, square bracket decorator ([entry]) mean that an entry is optional. Entries decorated with square brackets can only be at the end of a command. Multiple entries decorated with square brackets are allowed at the end of a command, for example, a [b] [c] at the end of a command indicates that only a, a b, and a b c are valid.",
-    "normalized_content": "in both java edition and bedrock edition square bracket decorator entry mean that an entry is optional entries decorated with square brackets can only be at the end of a command multiple entries decorated with square brackets are allowed at the end of a command for example a b c at the end of a command indicates that only a a b and a b c are valid",
-    "length": 365
-  },
-  {
-    "id": "Commands_Restrictions[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Restrictions[edit | edit source]",
-    "content": "Most commands require the executor to have a high enough permission level. That means most commands are only available in the singleplayer world if cheats are enabled, and are only available in multiplayer servers if the player is an operator. See permission level for details. Some commands have restrictions on who can use the command or in what context. None: The command has no restriction. Cheats only‌[BE  only]: Applicable only to Bedrock Edition.",
-    "normalized_content": "most commands require the executor to have a high enough permission level that means most commands are only available in the singleplayer world if cheats are enabled and are only available in multiplayer servers if the player is an operator see permission level for details some commands have restrictions on who can use the command or in what context none the command has no restriction cheats only be only applicable only to bedrock edition",
-    "length": 454
-  },
-  {
-    "id": "Commands_Restrictions[edit | edit source]_1",
-    "page": "Commands",
-    "section": "Restrictions[edit | edit source]",
-    "content": "When executed by the server, or a script, the command is available no matter whether cheats are enabled. (Commands from the console, a scheduled function or a ticking function are executed by the server. ) When executed in other ways, the command is available only if cheats are enabled. When cheats are disabled, these commands can't be used unless executed by a server or a script, even if the executor has a high permission level.",
-    "normalized_content": "when executed by the server or a script the command is available no matter whether cheats are enabled commands from the console a scheduled function or a ticking function are executed by the server when executed in other ways the command is available only if cheats are enabled when cheats are disabled these commands can t be used unless executed by a server or a script even if the executor has a high permission level",
-    "length": 433
-  },
-  {
-    "id": "Commands_Restrictions[edit | edit source]_2",
-    "page": "Commands",
-    "section": "Restrictions[edit | edit source]",
-    "content": "In Java Edition, whether cheats are enabled only affects the permission level of a player. If an executor has a high enough permission level, it can use corresponding commands regardless of whether cheats are allowed. Dedicated server only: The command is available only on dedicated servers. No dedicated server: The command is not available on dedicated servers. In Java Edition, whether cheats are enabled only affects the permission level of a player.",
-    "normalized_content": "in java edition whether cheats are enabled only affects the permission level of a player if an executor has a high enough permission level it can use corresponding commands regardless of whether cheats are allowed dedicated server only the command is available only on dedicated servers no dedicated server the command is not available on dedicated servers in java edition whether cheats are enabled only affects the permission level of a player",
-    "length": 455
-  },
-  {
-    "id": "Commands_Restrictions[edit | edit source]_3",
-    "page": "Commands",
-    "section": "Restrictions[edit | edit source]",
-    "content": "If an executor has a high enough permission level, it can use corresponding commands regardless of whether cheats are allowed.",
-    "normalized_content": "if an executor has a high enough permission level it can use corresponding commands regardless of whether cheats are allowed",
-    "length": 126
-  },
-  {
-    "id": "Commands_Cheats[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Cheats[edit | edit source]",
-    "content": "Cheats can be enabled when creating a new world by Allow Commands‌[Java Edition  only] / Cheats‌[Bedrock Edition  only] options. In Java Edition, the \"Allow Commands\" option when creating a new world only affects the player in a singleplayer world or the owner of a LAN world. The \"Allow Commands\" option when opening a LAN world affects all players in the LAN world.",
-    "normalized_content": "cheats can be enabled when creating a new world by allow commands java edition only cheats bedrock edition only options in java edition the allow commands option when creating a new world only affects the player in a singleplayer world or the owner of a lan world the allow commands option when opening a lan world affects all players in the lan world",
-    "length": 367
-  },
-  {
-    "id": "Commands_Cheats[edit | edit source]_1",
-    "page": "Commands",
-    "section": "Cheats[edit | edit source]",
-    "content": "In Java Edition, in singleplayer worlds where cheats were not enabled at creation, they can be enabled on a temporary basis by opening the current game session to LAN play ( Esc → \"Open to LAN\", then \"Allow Cheats\" button and \"Start LAN World\"). The player does not actually need to be on a LAN or have others join. This is not permanent but allows the use of commands until the player quits the world, and changes the player makes via commands (items spawned, etc. ) are saved with the world.",
-    "normalized_content": "in java edition in singleplayer worlds where cheats were not enabled at creation they can be enabled on a temporary basis by opening the current game session to lan play esc open to lan then allow cheats button and start lan world the player does not actually need to be on a lan or have others join this is not permanent but allows the use of commands until the player quits the world and changes the player makes via commands items spawned etc are saved with the world",
-    "length": 493
-  },
-  {
-    "id": "Commands_Cheats[edit | edit source]_2",
-    "page": "Commands",
-    "section": "Cheats[edit | edit source]",
-    "content": "The player can do this each time the player starts playing the world again. Note that this disables game pausing for the duration, so while open to LAN, the player should get somewhere safe or reload their world before using the Game Menu. The player can disable the LAN world by reloading the world. To permanently enable cheats, the level. dat file has to be edited. In Bedrock Edition, cheats can be toggled at any time in the \"Cheats\" tab of the settings menu.",
-    "normalized_content": "the player can do this each time the player starts playing the world again note that this disables game pausing for the duration so while open to lan the player should get somewhere safe or reload their world before using the game menu the player can disable the lan world by reloading the world to permanently enable cheats the level dat file has to be edited in bedrock edition cheats can be toggled at any time in the cheats tab of the settings menu",
-    "length": 464
-  },
-  {
-    "id": "Commands_Cheats[edit | edit source]_3",
-    "page": "Commands",
-    "section": "Cheats[edit | edit source]",
-    "content": "Enabling cheats in a world permanently prevents players from unlocking achievements in that world, even if cheats are later turned off. In Bedrock Dedicated Server, /changesetting command can be used to toggle cheats.",
-    "normalized_content": "enabling cheats in a world permanently prevents players from unlocking achievements in that world even if cheats are later turned off in bedrock dedicated server changesetting command can be used to toggle cheats",
-    "length": 217
-  },
-  {
-    "id": "Commands_Argument types[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Argument types[edit | edit source]",
-    "content": "There are different argument types for arguments in commands. Coordinates, target selector, SNBT, text component, and so on are commonly used formats in arguments.",
-    "normalized_content": "there are different argument types for arguments in commands coordinates target selector snbt text component and so on are commonly used formats in arguments",
-    "length": 163
-  },
-  {
-    "id": "Commands_Parsing and execution[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Parsing and execution[edit | edit source]",
-    "content": "The command performing on the server side is divided into two stages: command parsing and command execution. During the command parsing stage, the game identifies the string as a command and checks whether the command is complete and whether arguments are specified correctly. During the command execution stage, the command fulfills its purpose.",
-    "normalized_content": "the command performing on the server side is divided into two stages command parsing and command execution during the command parsing stage the game identifies the string as a command and checks whether the command is complete and whether arguments are specified correctly during the command execution stage the command fulfills its purpose",
-    "length": 346
-  },
-  {
-    "id": "Commands_Parsing and execution[edit | edit source]_1",
-    "page": "Commands",
-    "section": "Parsing and execution[edit | edit source]",
-    "content": "When typing a command in the chat, or command block, the command is also be parsed in the client side first to provide autocompletion and help the player detect typing mistakes. In Bedrock Edition, when entering into a command block, the command is parsed on the server side once the command block screen is closed. If the command is unparseable in the server side, a syntax error message is outputted into its output box.",
-    "normalized_content": "when typing a command in the chat or command block the command is also be parsed in the client side first to provide autocompletion and help the player detect typing mistakes in bedrock edition when entering into a command block the command is parsed on the server side once the command block screen is closed if the command is unparseable in the server side a syntax error message is outputted into its output box",
-    "length": 422
-  },
-  {
-    "id": "Commands_Parsing and execution[edit | edit source]_2",
-    "page": "Commands",
-    "section": "Parsing and execution[edit | edit source]",
-    "content": "When attempting to execute an unparseable command, an error message is displayed. Commands in functions are all parsed when loading the function. If any command in a function file is unparseable, the function cannot be loaded by the game. In Java Edition, macro lines are parsed when attempting to run the function, see also Function (Java Edition) § Macros and Function (Java Edition) § Loading and parsing.",
-    "normalized_content": "when attempting to execute an unparseable command an error message is displayed commands in functions are all parsed when loading the function if any command in a function file is unparseable the function cannot be loaded by the game in java edition macro lines are parsed when attempting to run the function see also function java edition macros and function java edition loading and parsing",
-    "length": 408
-  },
-  {
-    "id": "Commands_Parsing and execution[edit | edit source]_3",
-    "page": "Commands",
-    "section": "Parsing and execution[edit | edit source]",
-    "content": "In Bedrock Edition, if a command in a script is unparseable, an error is thrown when trying to execute the command.",
-    "normalized_content": "in bedrock edition if a command in a script is unparseable an error is thrown when trying to execute the command",
-    "length": 115
-  },
-  {
-    "id": "Commands_Output[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Output[edit | edit source]",
-    "content": "After trying to execute a command, it may yield output values, including success count and stored values‌[Java Edition  only]. Success count is the value a command passes to the command block executing it. A command block can power a redstone comparator facing away from it (may be separated by a block) with signal strength being the success count. The signal strength reflects the success count of the last command executed.",
-    "normalized_content": "after trying to execute a command it may yield output values including success count and stored values java edition only success count is the value a command passes to the command block executing it a command block can power a redstone comparator facing away from it may be separated by a block with signal strength being the success count the signal strength reflects the success count of the last command executed",
-    "length": 426
-  },
-  {
-    "id": "Commands_Output[edit | edit source]_1",
-    "page": "Commands",
-    "section": "Output[edit | edit source]",
-    "content": "Even after the command block is deactivated, the success count is retained until the command is executed again. In Bedrock Edition, the success count is also returned to the script executing the command. In Java Edition, commands that cannot be executed in command blocks have no success count. In Bedrock Edition, commands that cannot be executed in command blocks or scripts still have a success count, but it cannot be obtained.",
-    "normalized_content": "even after the command block is deactivated the success count is retained until the command is executed again in bedrock edition the success count is also returned to the script executing the command in java edition commands that cannot be executed in command blocks have no success count in bedrock edition commands that cannot be executed in command blocks or scripts still have a success count but it cannot be obtained",
-    "length": 431
-  },
-  {
-    "id": "Commands_Output[edit | edit source]_2",
-    "page": "Commands",
-    "section": "Output[edit | edit source]",
-    "content": "In Java Edition, success count is always 0 or 1, except the /execute command. In Bedrock Edition, success count is an integer between 0 to 2,147,483,647 (both inclusive) related to the command (e. g. , the number of players affected by the command, the number of blocks that were altered, etc. ) Stored values‌[JE  only] include success value and result value, which are the values passed by other commands to the /execute command, when a command is executed by a /execute command.",
-    "normalized_content": "in java edition success count is always 0 or 1 except the execute command in bedrock edition success count is an integer between 0 to 2 147 483 647 both inclusive related to the command e g the number of players affected by the command the number of blocks that were altered etc stored values je only include success value and result value which are the values passed by other commands to the execute command when a command is executed by a execute command",
-    "length": 481
-  },
-  {
-    "id": "Commands_Output[edit | edit source]_3",
-    "page": "Commands",
-    "section": "Output[edit | edit source]",
-    "content": "These two values can be stored to a specified location by the store subcommand in the /execute command. The success value is always 0 or 1. The result value is an integer (rounded down if not). All commands may yield these two stored values after execution, with only two exceptions: /execute command itself does not yield these two stored values; /function command may not yield these two stored values in certain situation.",
-    "normalized_content": "these two values can be stored to a specified location by the store subcommand in the execute command the success value is always 0 or 1 the result value is an integer rounded down if not all commands may yield these two stored values after execution with only two exceptions execute command itself does not yield these two stored values function command may not yield these two stored values in certain situation",
-    "length": 425
-  },
-  {
-    "id": "Commands_Result[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Result[edit | edit source]",
-    "content": "After trying to execute a command, it has a certain result. Possible results include \"Unparseable\", \"Failed\", \"Successful\", \"Void\"‌[JE  only], \"Terminated\"‌[JE  only], and \"Error\"‌[JE  only].",
-    "normalized_content": "after trying to execute a command it has a certain result possible results include unparseable failed successful void je only terminated je only and error je only",
-    "length": 191
-  },
-  {
-    "id": "Commands_Debugging commands[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Debugging commands[edit | edit source]",
-    "content": "Debugging commands are not accessible by default, but can be enabled using debug properties.",
-    "normalized_content": "debugging commands are not accessible by default but can be enabled using debug properties",
-    "length": 92
-  },
-  {
-    "id": "Commands_Hidden commands[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Hidden commands[edit | edit source]",
-    "content": "These commands are unavailable in general cases. Most of them can be accessed with a Websocket Server, NPC, or the Scripting API. Note: You can easily check if a command is still in the game by typing /help <nameOfCommand> into a server console, or the ingame chat. If you do so, and it says syntax error, then the command does not exist.",
-    "normalized_content": "these commands are unavailable in general cases most of them can be accessed with a websocket server npc or the scripting api note you can easily check if a command is still in the game by typing help nameofcommand into a server console or the ingame chat if you do so and it says syntax error then the command does not exist",
-    "length": 338
-  },
-  {
-    "id": "Commands_Hidden commands[edit | edit source]_1",
-    "page": "Commands",
-    "section": "Hidden commands[edit | edit source]",
-    "content": "If it either gives help on the command or says unknown command, then it is still in the game - for example, the command /help gettopsolidblock will return Unknown command: gettopsolidblock. Please check that the command exists and that you have permission to use it. , while the command /help something will return Syntax error: Unexpected \"something\" at \"/help >>something<<\".",
-    "normalized_content": "if it either gives help on the command or says unknown command then it is still in the game for example the command help gettopsolidblock will return unknown command gettopsolidblock please check that the command exists and that you have permission to use it while the command help something will return syntax error unexpected something at help something",
-    "length": 377
-  },
-  {
-    "id": "Commands_Other removed commands[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Other removed commands[edit | edit source]",
-    "content": "Developer commands are only enabled in internal development builds of Bedrock Edition, and are not normally accessible in release versions. /move\n/turn\n/attack\n/destroy\n/drop\n/dropall\n/inspect\n/inspectdata\n/detect\n/detectredstone\n/transfer\n/createagent\n/tpagent\n/collect\n/till\n/place\n/getitemcount\n/getitemspace\n/getitemdetail.",
-    "normalized_content": "developer commands are only enabled in internal development builds of bedrock edition and are not normally accessible in release versions move turn attack destroy drop dropall inspect inspectdata detect detectredstone transfer createagent tpagent collect till place getitemcount getitemspace getitemdetail",
-    "length": 327
-  },
-  {
-    "id": "Commands_Joke commands[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Joke commands[edit | edit source]",
-    "content": "These commands only exist in April Fools' Day joke versions of the game. /debugdim\n/transform\n/vote\n/warp.",
-    "normalized_content": "these commands only exist in april fools day joke versions of the game debugdim transform vote warp",
-    "length": 106
-  },
-  {
-    "id": "Commands_Issues[edit | edit source]_0",
-    "page": "Commands",
-    "section": "Issues[edit | edit source]",
-    "content": "Issues relating to \"Commands\" are maintained on the bug tracker. Issues should be reported and viewed there.",
-    "normalized_content": "issues relating to commands are maintained on the bug tracker issues should be reported and viewed there",
-    "length": 108
-  },
-  {
-    "id": "Commands_See also[edit | edit source]_0",
-    "page": "Commands",
-    "section": "See also[edit | edit source]",
-    "content": "Argument types\nCoordinates\nEntity format\nFormatting codes\nText component format\nTarget selectors.",
-    "normalized_content": "argument types coordinates entity format formatting codes text component format target selectors",
-    "length": 97
-  },
-  {
-    "id": "Commands_References[edit | edit source]_0",
-    "page": "Commands",
-    "section": "References[edit | edit source]",
-    "content": "↑ bedrock samples for 1. 20. 80. 5 release metadata/command_modules/mojang-commands. json line 15868\n\n↑ bedrock samples for 1. 20. 80. 5 release metadata/command_modules/mojang-commands. json line 15874\n\n↑ bedrock samples for 1. 20. 80. 5 release metadata/command_modules/mojang-commands. json line 15886.",
-    "normalized_content": "bedrock samples for 1 20 80 5 release metadata command_modules mojang commands json line 15868 bedrock samples for 1 20 80 5 release metadata command_modules mojang commands json line 15874 bedrock samples for 1 20 80 5 release metadata command_modules mojang commands json line 15886",
-    "length": 305
-  },
-  {
-    "id": "Commands_External links[edit | edit source]_0",
-    "page": "Commands",
-    "section": "External links[edit | edit source]",
-    "content": "\"How to Use Commands in Minecraft\"     by Duncan Geere  – Minecraft. net, September 22, 2023.",
-    "normalized_content": "how to use commands in minecraft by duncan geere minecraft net september 22 2023",
-    "length": 93
-  },
-  {
     "id": "Trading_Introduction_0",
     "page": "Trading",
     "section": "Introduction",
@@ -2035,7 +1747,7 @@
     "id": "Trading_Contents_0",
     "page": "Trading",
     "section": "Contents",
-    "content": "1 Mechanics\n\n1. 1 Level\n1. 2 Trades\n1. 3 Sale prices\n\n\n2 Non-trading villagers\n\n2. 1 Nitwit\n2. 2 Unemployed villager\n2. 3 Baby villagers\n\n\n3 Trade offers\n\n3. 1 Armorer\n3. 2 Butcher\n3. 3 Cartographer\n3. 4 Cleric\n3. 5 Farmer\n3. 6 Fisherman\n3. 7 Fletcher\n3. 8 Leatherworker\n3. 9 Librarian\n3. 10 Mason\n3. 11 Shepherd\n3. 12 Toolsmith\n3. 13 Weaponsmith\n\n\n4 Wandering trader offers\n5 Notes\n6 Achievements\n7 Advancements\n8 Videos\n9 History\n\n9. 1 Development\n9. 2 Java Edition\n9. 3 Bedrock Edition\n9.",
+    "content": "1 Mechanics\n\n1. 1 Level\n1. 2 Trades\n1. 3 Sale prices\n\n\n2 Non-trading villagers\n\n2. 1 Nitwit\n2. 2 Unemployed villager\n2. 3 Baby villagers\n\n\n3 Trade offers\n\n3. 1 Armorer\n3. 2 Butcher\n3. 3 Cartographer\n3. 4 Cleric\n3. 5 Farmer\n3. 6 Fisherman\n3. 7 Fletcher\n3. 8 Leatherworker\n3. 9 Librarian\n3. 10 Mason\n3. 11 Shepherd\n3. 12 Toolsmith\n3. 13 Weaponsmith\n\n\n4 Wandering Trader offers\n5 Notes\n6 Achievements\n7 Advancements\n8 Videos\n9 History\n\n9. 1 Development\n9. 2 Java Edition\n9. 3 Bedrock Edition\n9.",
     "normalized_content": "1 mechanics 1 1 level 1 2 trades 1 3 sale prices 2 non trading villagers 2 1 nitwit 2 2 unemployed villager 2 3 baby villagers 3 trade offers 3 1 armorer 3 2 butcher 3 3 cartographer 3 4 cleric 3 5 farmer 3 6 fisherman 3 7 fletcher 3 8 leatherworker 3 9 librarian 3 10 mason 3 11 shepherd 3 12 toolsmith 3 13 weaponsmith 4 wandering trader offers 5 notes 6 achievements 7 advancements 8 videos 9 history 9 1 development 9 2 java edition 9 3 bedrock edition 9",
     "length": 491
   },
@@ -2163,25 +1875,17 @@
     "id": "Trading_Sale prices[edit | edit source]_2",
     "page": "Trading",
     "section": "Sale prices[edit | edit source]",
-    "content": "The second way to affect prices is the Hero of the Village effect, gained from successfully completing a raid, which temporarily reduces prices for the affected player depending on the level of the effect. Finally, players get personal discounts or penalties‌[Java Edition  only] based on their reputation with a particular villager.",
-    "normalized_content": "the second way to affect prices is the hero of the village effect gained from successfully completing a raid which temporarily reduces prices for the affected player depending on the level of the effect finally players get personal discounts or penalties java edition only based on their reputation with a particular villager",
-    "length": 333
+    "content": "The second way to affect prices is the Hero of the Village effect, gained from successfully completing a raid, which temporarily reduces prices for the affected player depending on the level of the effect. Players get personal discounts or penalties based on their reputation with a particular villager. A positive reputation is gained by curing zombie villagers (the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers).",
+    "normalized_content": "the second way to affect prices is the hero of the village effect gained from successfully completing a raid which temporarily reduces prices for the affected player depending on the level of the effect players get personal discounts or penalties based on their reputation with a particular villager a positive reputation is gained by curing zombie villagers the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers",
+    "length": 477
   },
   {
     "id": "Trading_Sale prices[edit | edit source]_3",
     "page": "Trading",
     "section": "Sale prices[edit | edit source]",
-    "content": "A positive reputation is gained by curing zombie villagers (the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers). Giving a zombie villager the Weakness effect and then feeding it a golden apple starts the curing process. After five minutes, it transforms into a villager. The permanent discount is capped at one cure, while the temporary discount is capped at eight cures[needs testing].",
-    "normalized_content": "a positive reputation is gained by curing zombie villagers the cured villager gives a much larger permanent discount than the temporary discount given by nearby villagers giving a zombie villager the weakness effect and then feeding it a golden apple starts the curing process after five minutes it transforms into a villager the permanent discount is capped at one cure while the temporary discount is capped at eight cures needs testing",
-    "length": 447
-  },
-  {
-    "id": "Trading_Sale prices[edit | edit source]_4",
-    "page": "Trading",
-    "section": "Sale prices[edit | edit source]",
-    "content": "Players can also gain negative reputation by hitting or killing villagers, and positive reputation by trading. In Bedrock Edition, negative reputation can reduce or eliminate discounts but does not result in penalties.",
-    "normalized_content": "players can also gain negative reputation by hitting or killing villagers and positive reputation by trading in bedrock edition negative reputation can reduce or eliminate discounts but does not result in penalties",
-    "length": 218
+    "content": "Giving a zombie villager the Weakness effect and then feeding it a golden apple starts the curing process. After five minutes, it transforms into a villager. The permanent discount is capped at one cure, while the temporary discount is capped at eight cures[needs testing]. Players can also gain negative reputation by hitting or killing villagers, and positive reputation by trading. In Bedrock Edition, negative reputation can reduce or eliminate discounts but does not result in penalties.",
+    "normalized_content": "giving a zombie villager the weakness effect and then feeding it a golden apple starts the curing process after five minutes it transforms into a villager the permanent discount is capped at one cure while the temporary discount is capped at eight cures needs testing players can also gain negative reputation by hitting or killing villagers and positive reputation by trading in bedrock edition negative reputation can reduce or eliminate discounts but does not result in penalties",
+    "length": 492
   },
   {
     "id": "Trading_Non-trading villagers[edit | edit source]_0",
@@ -2416,17 +2120,17 @@
     "length": 105
   },
   {
-    "id": "Trading_Wandering trader offers[edit | edit source]_0",
+    "id": "Trading_Wandering Trader offers[edit | edit source]_0",
     "page": "Trading",
-    "section": "Wandering trader offers[edit | edit source]",
+    "section": "Wandering Trader offers[edit | edit source]",
     "content": "The wandering trader offers nine trades in total: two random trades from purchasing table, two random trades from special selling table, and five random trades from ordinary selling table. These trades are not divided into categories; for example, a single wandering trader can sell 2 different saplings. Each individual trade is equally likely.",
     "normalized_content": "the wandering trader offers nine trades in total two random trades from purchasing table two random trades from special selling table and five random trades from ordinary selling table these trades are not divided into categories for example a single wandering trader can sell 2 different saplings each individual trade is equally likely",
     "length": 345
   },
   {
-    "id": "Trading_Wandering trader offers[edit | edit source]_1",
+    "id": "Trading_Wandering Trader offers[edit | edit source]_1",
     "page": "Trading",
-    "section": "Wandering trader offers[edit | edit source]",
+    "section": "Wandering Trader offers[edit | edit source]",
     "content": "[verify] In the trading GUI, the trade offers are always listed in this order: 2 purchasing trades\n2 special selling trades\n5 ordinary selling trades ↑ Duration: 8:00\n\n↑ The price of this trade is the base price, 1 emerald, plus the random enchantment level chosen (5–19). ↑ When creating an enchantment offer, the game uses a random enchantment level form 5 to 19. The enchantments are never treasure enchantments.",
     "normalized_content": "verify in the trading gui the trade offers are always listed in this order 2 purchasing trades 2 special selling trades 5 ordinary selling trades duration 8 00 the price of this trade is the base price 1 emerald plus the random enchantment level chosen 5 19 when creating an enchantment offer the game uses a random enchantment level form 5 to 19 the enchantments are never treasure enchantments",
     "length": 415
@@ -2795,7 +2499,7 @@
     "id": "Tutorials_Advanced[edit | edit source]_0",
     "page": "Tutorials",
     "section": "Advanced[edit | edit source]",
-    "content": "Tutorials that require using exploits or commands. Breaking bedrock\nHeadless pistons\nIndestructible end crystals\nSummoning jockeys\nX-ray glitches.",
+    "content": "Tutorials that require using exploits or commands. Breaking bedrock\nHeadless pistons\nIndestructible End crystals\nSummoning jockeys\nX-ray glitches.",
     "normalized_content": "tutorials that require using exploits or commands breaking bedrock headless pistons indestructible end crystals summoning jockeys x ray glitches",
     "length": 146
   },
@@ -3291,9 +2995,9 @@
     "id": "Smithing_Upgrading[edit | edit source]_0",
     "page": "Smithing",
     "section": "Upgrading[edit | edit source]",
-    "content": "Upgrading is a process for turning diamond gear into netherite gear. This is the only way that netherite gear can be obtained. While upgrading, the newly crafted netherite gear retains the enchantments, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.",
-    "normalized_content": "upgrading is a process for turning diamond gear into netherite gear this is the only way that netherite gear can be obtained while upgrading the newly crafted netherite gear retains the enchantments prior work penalty and number of durability points lost instead of the remaining durability from the diamond gear upgrading gear does not remove incompatible enchantments such as multiple different protection enchantments",
-    "length": 430
+    "content": "Upgrading is a process for turning diamond gear into netherite gear. This is the only way that netherite gear can be obtained. While upgrading, the newly crafted netherite gear retains the enchantments, name, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond gear. Upgrading gear does not remove incompatible enchantments, such as multiple different Protection enchantments.",
+    "normalized_content": "upgrading is a process for turning diamond gear into netherite gear this is the only way that netherite gear can be obtained while upgrading the newly crafted netherite gear retains the enchantments name prior work penalty and number of durability points lost instead of the remaining durability from the diamond gear upgrading gear does not remove incompatible enchantments such as multiple different protection enchantments",
+    "length": 436
   },
   {
     "id": "Smithing_Upgrading[edit | edit source]_1",
@@ -3382,5 +3086,301 @@
     "content": "↑ MC-262538 — When combining armor trims the new trim deletes the old one — resolved as \"Works As Intended\".",
     "normalized_content": "mc 262538 when combining armor trims the new trim deletes the old one resolved as works as intended",
     "length": 108
+  },
+  {
+    "id": "Commands_Introduction_0",
+    "page": "Commands",
+    "section": "Introduction",
+    "content": "Commands (also known as console commands or slash commands) are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities.",
+    "normalized_content": "commands also known as console commands or slash commands are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities",
+    "length": 169
+  },
+  {
+    "id": "Commands_Contents_0",
+    "page": "Commands",
+    "section": "Contents",
+    "content": "1 Usage\n2 Commands guide\n\n2. 1 Syntax\n2. 2 Restrictions\n\n2. 2. 1 Cheats\n\n\n2. 3 Argument types\n2. 4 Parsing and execution\n\n2. 4. 1 Output\n2. 4. 2 Result\n\n\n\n\n3 List of commands\n\n3. 1 Available in Java Edition\n\n3. 1. 1 Debugging commands\n\n\n3. 2 Available in Bedrock Edition and Education\n3. 3 Hidden commands\n3. 4 Removed commands\n\n3. 4. 1 Removed from Java Edition\n3. 4. 2 Removed from Bedrock Edition or Education\n3. 4. 3 Other removed commands\n\n3. 4. 3. 1 Developer commands\n3. 4. 3.",
+    "normalized_content": "1 usage 2 commands guide 2 1 syntax 2 2 restrictions 2 2 1 cheats 2 3 argument types 2 4 parsing and execution 2 4 1 output 2 4 2 result 3 list of commands 3 1 available in java edition 3 1 1 debugging commands 3 2 available in bedrock edition and education 3 3 hidden commands 3 4 removed commands 3 4 1 removed from java edition 3 4 2 removed from bedrock edition or education 3 4 3 other removed commands 3 4 3 1 developer commands 3 4 3",
+    "length": 483
+  },
+  {
+    "id": "Commands_Contents_1",
+    "page": "Commands",
+    "section": "Contents",
+    "content": "2 Agent commands\n\n\n\n\n3. 5 Joke commands\n\n\n4 History\n\n4. 1 Command additions and changes\n\n4. 1. 1 Java Edition\n4. 1. 2 Bedrock Edition\n\n\n4. 2 April Fools commands\n\n\n5 Issues\n6 See also\n7 References\n8 External links\n9 Navigation 2. 1 Syntax\n2. 2 Restrictions\n\n2. 2. 1 Cheats\n\n\n2. 3 Argument types\n2. 4 Parsing and execution\n\n2. 4. 1 Output\n2. 4. 2 Result 2. 4. 1 Output\n2. 4. 2 Result 3. 1 Available in Java Edition\n\n3. 1. 1 Debugging commands\n\n\n3. 2 Available in Bedrock Edition and Education\n3.",
+    "normalized_content": "2 agent commands 3 5 joke commands 4 history 4 1 command additions and changes 4 1 1 java edition 4 1 2 bedrock edition 4 2 april fools commands 5 issues 6 see also 7 references 8 external links 9 navigation 2 1 syntax 2 2 restrictions 2 2 1 cheats 2 3 argument types 2 4 parsing and execution 2 4 1 output 2 4 2 result 2 4 1 output 2 4 2 result 3 1 available in java edition 3 1 1 debugging commands 3 2 available in bedrock edition and education 3",
+    "length": 494
+  },
+  {
+    "id": "Commands_Contents_2",
+    "page": "Commands",
+    "section": "Contents",
+    "content": "3 Hidden commands\n3. 4 Removed commands\n\n3. 4. 1 Removed from Java Edition\n3. 4. 2 Removed from Bedrock Edition or Education\n3. 4. 3 Other removed commands\n\n3. 4. 3. 1 Developer commands\n3. 4. 3. 2 Agent commands\n\n\n\n\n3. 5 Joke commands 3. 1. 1 Debugging commands 3. 4. 1 Removed from Java Edition\n3. 4. 2 Removed from Bedrock Edition or Education\n3. 4. 3 Other removed commands\n\n3. 4. 3. 1 Developer commands\n3. 4. 3. 2 Agent commands 3. 4. 3. 1 Developer commands\n3. 4. 3. 2 Agent commands 4.",
+    "normalized_content": "3 hidden commands 3 4 removed commands 3 4 1 removed from java edition 3 4 2 removed from bedrock edition or education 3 4 3 other removed commands 3 4 3 1 developer commands 3 4 3 2 agent commands 3 5 joke commands 3 1 1 debugging commands 3 4 1 removed from java edition 3 4 2 removed from bedrock edition or education 3 4 3 other removed commands 3 4 3 1 developer commands 3 4 3 2 agent commands 3 4 3 1 developer commands 3 4 3 2 agent commands 4",
+    "length": 493
+  },
+  {
+    "id": "Commands_Contents_3",
+    "page": "Commands",
+    "section": "Contents",
+    "content": "1 Command additions and changes\n\n4. 1. 1 Java Edition\n4. 1. 2 Bedrock Edition\n\n\n4. 2 April Fools commands 4. 1. 1 Java Edition\n4. 1. 2 Bedrock Edition.",
+    "normalized_content": "1 command additions and changes 4 1 1 java edition 4 1 2 bedrock edition 4 2 april fools commands 4 1 1 java edition 4 1 2 bedrock edition",
+    "length": 151
+  },
+  {
+    "id": "Commands_Usage[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Usage[edit | edit source]",
+    "content": "In the client, commands are entered via the chat window, which is displayed by pressing the T / ‌[BE  only] / ‌[BE  only] or / key. Using the / key also enters the forward-slash that commands require as a prefix, so it is a useful shortcut. The ↑ /  and ↓ /  keys can be used to view previously entered text, including all previously executed commands.",
+    "normalized_content": "in the client commands are entered via the chat window which is displayed by pressing the t be only be only or key using the key also enters the forward slash that commands require as a prefix so it is a useful shortcut the and keys can be used to view previously entered text including all previously executed commands",
+    "length": 352
+  },
+  {
+    "id": "Commands_Usage[edit | edit source]_1",
+    "page": "Commands",
+    "section": "Usage[edit | edit source]",
+    "content": "When the cursor is at a location corresponding to some types of argument (such as an entity ID), a list of applicable values appears above the text box. If the argument already contains characters, the list displays only those values containing the typed text. Pressing Tab ↹ while entering commands cycles through possible commands or arguments, and can be used to auto-enter them. Commands may also be entered in a multiplayer server's console but are not preceded by a / when entered this way.",
+    "normalized_content": "when the cursor is at a location corresponding to some types of argument such as an entity id a list of applicable values appears above the text box if the argument already contains characters the list displays only those values containing the typed text pressing tab while entering commands cycles through possible commands or arguments and can be used to auto enter them commands may also be entered in a multiplayer server s console but are not preceded by a when entered this way",
+    "length": 496
+  },
+  {
+    "id": "Commands_Usage[edit | edit source]_2",
+    "page": "Commands",
+    "section": "Usage[edit | edit source]",
+    "content": "A server owner running commands in this way is often referred to as \"ghosting\". Commands in command blocks can be preceded by a slash, but it is not required. Commands can be executed in the following ways: Entered by a player in the chat screen. Executed by a command block or a minecart with command block. In a dedicated server, entered in the console. In functions, in a data pack‌[JE  only] or behavior pack‌[BE  only]. Clicking a text component that has \"run_command\" action.",
+    "normalized_content": "a server owner running commands in this way is often referred to as ghosting commands in command blocks can be preceded by a slash but it is not required commands can be executed in the following ways entered by a player in the chat screen executed by a command block or a minecart with command block in a dedicated server entered in the console in functions in a data pack je only or behavior pack be only clicking a text component that has run_command action",
+    "length": 481
+  },
+  {
+    "id": "Commands_Usage[edit | edit source]_3",
+    "page": "Commands",
+    "section": "Usage[edit | edit source]",
+    "content": "‌[JE  only]\nRequested by a WebSocket server connected to a client. ‌[BE  only]\nClicking a dialog's action button. ‌[JE  only]\nBy an NPC dialogue. ‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only]. In animation controllers, in a behavior pack‌[BE  only]. In a block event response, in a behavior pack‌[BE  only]. In an entity event response, in a behavior pack‌[BE  only].",
+    "normalized_content": "je only requested by a websocket server connected to a client be only clicking a dialog s action button je only by an non player character dialogue be only in scripts in a behavior pack be only in animation controllers in a behavior pack be only in a block event response in a behavior pack be only in an entity event response in a behavior pack be only",
+    "length": 375
+  },
+  {
+    "id": "Commands_Syntax[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Syntax[edit | edit source]",
+    "content": "In both Java Edition and Bedrock Edition, square bracket decorator ([entry]) mean that an entry is optional. Entries decorated with square brackets can only be at the end of a command. Multiple entries decorated with square brackets are allowed at the end of a command, for example, a [b] [c] at the end of a command indicates that only a, a b, and a b c are valid.",
+    "normalized_content": "in both java edition and bedrock edition square bracket decorator entry mean that an entry is optional entries decorated with square brackets can only be at the end of a command multiple entries decorated with square brackets are allowed at the end of a command for example a b c at the end of a command indicates that only a a b and a b c are valid",
+    "length": 365
+  },
+  {
+    "id": "Commands_Restrictions[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Restrictions[edit | edit source]",
+    "content": "Most commands require the executor to have a high enough permission level. That means most commands are only available in the singleplayer world if cheats are enabled, and are only available in multiplayer servers if the player is an operator. See permission level for details. Some commands have restrictions on who can use the command or in what context. None: The command has no restriction. Cheats only‌[BE  only]: Applicable only to Bedrock Edition.",
+    "normalized_content": "most commands require the executor to have a high enough permission level that means most commands are only available in the singleplayer world if cheats are enabled and are only available in multiplayer servers if the player is an operator see permission level for details some commands have restrictions on who can use the command or in what context none the command has no restriction cheats only be only applicable only to bedrock edition",
+    "length": 454
+  },
+  {
+    "id": "Commands_Restrictions[edit | edit source]_1",
+    "page": "Commands",
+    "section": "Restrictions[edit | edit source]",
+    "content": "When executed by the server, or a script, the command is available no matter whether cheats are enabled. (Commands from the console, a scheduled function or a ticking function are executed by the server. ) When executed in other ways, the command is available only if cheats are enabled. When cheats are disabled, these commands can't be used unless executed by a server or a script, even if the executor has a high permission level.",
+    "normalized_content": "when executed by the server or a script the command is available no matter whether cheats are enabled commands from the console a scheduled function or a ticking function are executed by the server when executed in other ways the command is available only if cheats are enabled when cheats are disabled these commands can t be used unless executed by a server or a script even if the executor has a high permission level",
+    "length": 433
+  },
+  {
+    "id": "Commands_Restrictions[edit | edit source]_2",
+    "page": "Commands",
+    "section": "Restrictions[edit | edit source]",
+    "content": "In Java Edition, whether cheats are enabled only affects the permission level of a player. If an executor has a high enough permission level, it can use corresponding commands regardless of whether cheats are allowed. Dedicated server only: The command is available only on dedicated servers. No dedicated server: The command is not available on dedicated servers. In Java Edition, whether cheats are enabled only affects the permission level of a player.",
+    "normalized_content": "in java edition whether cheats are enabled only affects the permission level of a player if an executor has a high enough permission level it can use corresponding commands regardless of whether cheats are allowed dedicated server only the command is available only on dedicated servers no dedicated server the command is not available on dedicated servers in java edition whether cheats are enabled only affects the permission level of a player",
+    "length": 455
+  },
+  {
+    "id": "Commands_Restrictions[edit | edit source]_3",
+    "page": "Commands",
+    "section": "Restrictions[edit | edit source]",
+    "content": "If an executor has a high enough permission level, it can use corresponding commands regardless of whether cheats are allowed.",
+    "normalized_content": "if an executor has a high enough permission level it can use corresponding commands regardless of whether cheats are allowed",
+    "length": 126
+  },
+  {
+    "id": "Commands_Cheats[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Cheats[edit | edit source]",
+    "content": "Cheats can be enabled when creating a new world by Allow Commands‌[Java Edition  only] / Cheats‌[Bedrock Edition  only] options. In Java Edition, the \"Allow Commands\" option when creating a new world only affects the player in a singleplayer world or the owner of a LAN world. The \"Allow Commands\" option when opening a LAN world affects all players in the LAN world.",
+    "normalized_content": "cheats can be enabled when creating a new world by allow commands java edition only cheats bedrock edition only options in java edition the allow commands option when creating a new world only affects the player in a singleplayer world or the owner of a lan world the allow commands option when opening a lan world affects all players in the lan world",
+    "length": 367
+  },
+  {
+    "id": "Commands_Cheats[edit | edit source]_1",
+    "page": "Commands",
+    "section": "Cheats[edit | edit source]",
+    "content": "In Java Edition, in singleplayer worlds where cheats were not enabled at creation, they can be enabled on a temporary basis by opening the current game session to LAN play ( Esc → \"Open to LAN\", then \"Allow Cheats\" button and \"Start LAN World\"). The player does not actually need to be on a LAN or have others join. This is not permanent but allows the use of commands until the player quits the world, and changes the player makes via commands (items spawned, etc. ) are saved with the world.",
+    "normalized_content": "in java edition in singleplayer worlds where cheats were not enabled at creation they can be enabled on a temporary basis by opening the current game session to lan play esc open to lan then allow cheats button and start lan world the player does not actually need to be on a lan or have others join this is not permanent but allows the use of commands until the player quits the world and changes the player makes via commands items spawned etc are saved with the world",
+    "length": 493
+  },
+  {
+    "id": "Commands_Cheats[edit | edit source]_2",
+    "page": "Commands",
+    "section": "Cheats[edit | edit source]",
+    "content": "The player can do this each time the player starts playing the world again. Note that this disables game pausing for the duration, so while open to LAN, the player should get somewhere safe or reload their world before using the Game Menu. The player can disable the LAN world by reloading the world. To permanently enable cheats, the level. dat file has to be edited. In Bedrock Edition, cheats can be toggled at any time in the \"Cheats\" tab of the settings menu.",
+    "normalized_content": "the player can do this each time the player starts playing the world again note that this disables game pausing for the duration so while open to lan the player should get somewhere safe or reload their world before using the game menu the player can disable the lan world by reloading the world to permanently enable cheats the level dat file has to be edited in bedrock edition cheats can be toggled at any time in the cheats tab of the settings menu",
+    "length": 464
+  },
+  {
+    "id": "Commands_Cheats[edit | edit source]_3",
+    "page": "Commands",
+    "section": "Cheats[edit | edit source]",
+    "content": "Enabling cheats in a world permanently prevents players from unlocking achievements in that world, even if cheats are later turned off. In Bedrock Dedicated Server, /changesetting command can be used to toggle cheats.",
+    "normalized_content": "enabling cheats in a world permanently prevents players from unlocking achievements in that world even if cheats are later turned off in bedrock dedicated server changesetting command can be used to toggle cheats",
+    "length": 217
+  },
+  {
+    "id": "Commands_Argument types[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Argument types[edit | edit source]",
+    "content": "There are different argument types for arguments in commands. Coordinates, target selector, SNBT, text component, and so on are commonly used formats in arguments.",
+    "normalized_content": "there are different argument types for arguments in commands coordinates target selector snbt text component and so on are commonly used formats in arguments",
+    "length": 163
+  },
+  {
+    "id": "Commands_Parsing and execution[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Parsing and execution[edit | edit source]",
+    "content": "The command performing on the server side is divided into two stages: command parsing and command execution. During the command parsing stage, the game identifies the string as a command and checks whether the command is complete and whether arguments are specified correctly. During the command execution stage, the command fulfills its purpose.",
+    "normalized_content": "the command performing on the server side is divided into two stages command parsing and command execution during the command parsing stage the game identifies the string as a command and checks whether the command is complete and whether arguments are specified correctly during the command execution stage the command fulfills its purpose",
+    "length": 346
+  },
+  {
+    "id": "Commands_Parsing and execution[edit | edit source]_1",
+    "page": "Commands",
+    "section": "Parsing and execution[edit | edit source]",
+    "content": "When typing a command in the chat, or command block, the command is also be parsed in the client side first to provide autocompletion and help the player detect typing mistakes. In Bedrock Edition, when entering into a command block, the command is parsed on the server side once the command block screen is closed. If the command is unparseable in the server side, a syntax error message is outputted into its output box.",
+    "normalized_content": "when typing a command in the chat or command block the command is also be parsed in the client side first to provide autocompletion and help the player detect typing mistakes in bedrock edition when entering into a command block the command is parsed on the server side once the command block screen is closed if the command is unparseable in the server side a syntax error message is outputted into its output box",
+    "length": 422
+  },
+  {
+    "id": "Commands_Parsing and execution[edit | edit source]_2",
+    "page": "Commands",
+    "section": "Parsing and execution[edit | edit source]",
+    "content": "When attempting to execute an unparseable command, an error message is displayed. Commands in functions are all parsed when loading the function. If any command in a function file is unparseable, the function cannot be loaded by the game. In Java Edition, macro lines are parsed when attempting to run the function, see also Function (Java Edition) § Macros and Function (Java Edition) § Loading and parsing.",
+    "normalized_content": "when attempting to execute an unparseable command an error message is displayed commands in functions are all parsed when loading the function if any command in a function file is unparseable the function cannot be loaded by the game in java edition macro lines are parsed when attempting to run the function see also function java edition macros and function java edition loading and parsing",
+    "length": 408
+  },
+  {
+    "id": "Commands_Parsing and execution[edit | edit source]_3",
+    "page": "Commands",
+    "section": "Parsing and execution[edit | edit source]",
+    "content": "In Bedrock Edition, if a command in a script is unparseable, an error is thrown when trying to execute the command.",
+    "normalized_content": "in bedrock edition if a command in a script is unparseable an error is thrown when trying to execute the command",
+    "length": 115
+  },
+  {
+    "id": "Commands_Output[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Output[edit | edit source]",
+    "content": "After trying to execute a command, it may yield output values, including success count and stored values‌[Java Edition  only]. Success count is the value a command passes to the command block executing it. A command block can power a redstone comparator facing away from it (may be separated by a block) with signal strength being the success count. The signal strength reflects the success count of the last command executed.",
+    "normalized_content": "after trying to execute a command it may yield output values including success count and stored values java edition only success count is the value a command passes to the command block executing it a command block can power a redstone comparator facing away from it may be separated by a block with signal strength being the success count the signal strength reflects the success count of the last command executed",
+    "length": 426
+  },
+  {
+    "id": "Commands_Output[edit | edit source]_1",
+    "page": "Commands",
+    "section": "Output[edit | edit source]",
+    "content": "Even after the command block is deactivated, the success count is retained until the command is executed again. In Bedrock Edition, the success count is also returned to the script executing the command. In Java Edition, commands that cannot be executed in command blocks have no success count. In Bedrock Edition, commands that cannot be executed in command blocks or scripts still have a success count, but it cannot be obtained.",
+    "normalized_content": "even after the command block is deactivated the success count is retained until the command is executed again in bedrock edition the success count is also returned to the script executing the command in java edition commands that cannot be executed in command blocks have no success count in bedrock edition commands that cannot be executed in command blocks or scripts still have a success count but it cannot be obtained",
+    "length": 431
+  },
+  {
+    "id": "Commands_Output[edit | edit source]_2",
+    "page": "Commands",
+    "section": "Output[edit | edit source]",
+    "content": "In Java Edition, success count is always 0 or 1, except the /execute command. In Bedrock Edition, success count is an integer between 0 to 2,147,483,647 (both inclusive) related to the command (e. g. , the number of players affected by the command, the number of blocks that were altered, etc. ) Stored values‌[JE  only] include success value and result value, which are the values passed by other commands to the /execute command, when a command is executed by a /execute command.",
+    "normalized_content": "in java edition success count is always 0 or 1 except the execute command in bedrock edition success count is an integer between 0 to 2 147 483 647 both inclusive related to the command e g the number of players affected by the command the number of blocks that were altered etc stored values je only include success value and result value which are the values passed by other commands to the execute command when a command is executed by a execute command",
+    "length": 481
+  },
+  {
+    "id": "Commands_Output[edit | edit source]_3",
+    "page": "Commands",
+    "section": "Output[edit | edit source]",
+    "content": "These two values can be stored to a specified location by the store subcommand in the /execute command. The success value is always 0 or 1. The result value is an integer (rounded down if not). All commands may yield these two stored values after execution, with only two exceptions: /execute command itself does not yield these two stored values; /function command may not yield these two stored values in certain situation.",
+    "normalized_content": "these two values can be stored to a specified location by the store subcommand in the execute command the success value is always 0 or 1 the result value is an integer rounded down if not all commands may yield these two stored values after execution with only two exceptions execute command itself does not yield these two stored values function command may not yield these two stored values in certain situation",
+    "length": 425
+  },
+  {
+    "id": "Commands_Result[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Result[edit | edit source]",
+    "content": "After trying to execute a command, it has a certain result. Possible results include \"Unparseable\", \"Failed\", \"Successful\", \"Void\"‌[JE  only], \"Terminated\"‌[JE  only], and \"Error\"‌[JE  only].",
+    "normalized_content": "after trying to execute a command it has a certain result possible results include unparseable failed successful void je only terminated je only and error je only",
+    "length": 191
+  },
+  {
+    "id": "Commands_Debugging commands[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Debugging commands[edit | edit source]",
+    "content": "Debugging commands are not accessible by default, but can be enabled using debug properties.",
+    "normalized_content": "debugging commands are not accessible by default but can be enabled using debug properties",
+    "length": 92
+  },
+  {
+    "id": "Commands_Hidden commands[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Hidden commands[edit | edit source]",
+    "content": "These commands are unavailable in general cases. Most of them can be accessed with a Websocket Server, NPC, or the Scripting API. Note: You can easily check if a command is still in the game by typing /help <nameOfCommand> into a server console, or the ingame chat. If you do so, and it says syntax error, then the command does not exist.",
+    "normalized_content": "these commands are unavailable in general cases most of them can be accessed with a websocket server npc or the scripting api note you can easily check if a command is still in the game by typing help nameofcommand into a server console or the ingame chat if you do so and it says syntax error then the command does not exist",
+    "length": 338
+  },
+  {
+    "id": "Commands_Hidden commands[edit | edit source]_1",
+    "page": "Commands",
+    "section": "Hidden commands[edit | edit source]",
+    "content": "If it either gives help on the command or says unknown command, then it is still in the game - for example, the command /help gettopsolidblock will return Unknown command: gettopsolidblock. Please check that the command exists and that you have permission to use it. , while the command /help something will return Syntax error: Unexpected \"something\" at \"/help >>something<<\".",
+    "normalized_content": "if it either gives help on the command or says unknown command then it is still in the game for example the command help gettopsolidblock will return unknown command gettopsolidblock please check that the command exists and that you have permission to use it while the command help something will return syntax error unexpected something at help something",
+    "length": 377
+  },
+  {
+    "id": "Commands_Other removed commands[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Other removed commands[edit | edit source]",
+    "content": "Developer commands are only enabled in internal development builds of Bedrock Edition, and are not normally accessible in release versions. /move\n/turn\n/attack\n/destroy\n/drop\n/dropall\n/inspect\n/inspectdata\n/detect\n/detectredstone\n/transfer\n/createagent\n/tpagent\n/collect\n/till\n/place\n/getitemcount\n/getitemspace\n/getitemdetail.",
+    "normalized_content": "developer commands are only enabled in internal development builds of bedrock edition and are not normally accessible in release versions move turn attack destroy drop dropall inspect inspectdata detect detectredstone transfer createagent tpagent collect till place getitemcount getitemspace getitemdetail",
+    "length": 327
+  },
+  {
+    "id": "Commands_Joke commands[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Joke commands[edit | edit source]",
+    "content": "These commands only exist in April Fools' Day joke versions of the game. /debugdim\n/transform\n/vote\n/warp.",
+    "normalized_content": "these commands only exist in april fools day joke versions of the game debugdim transform vote warp",
+    "length": 106
+  },
+  {
+    "id": "Commands_Issues[edit | edit source]_0",
+    "page": "Commands",
+    "section": "Issues[edit | edit source]",
+    "content": "Issues relating to \"Commands\" are maintained on the bug tracker. Issues should be reported and viewed there.",
+    "normalized_content": "issues relating to commands are maintained on the bug tracker issues should be reported and viewed there",
+    "length": 108
+  },
+  {
+    "id": "Commands_See also[edit | edit source]_0",
+    "page": "Commands",
+    "section": "See also[edit | edit source]",
+    "content": "Argument types\nCoordinates\nEntity format\nFormatting codes\nText component format\nTarget selectors.",
+    "normalized_content": "argument types coordinates entity format formatting codes text component format target selectors",
+    "length": 97
+  },
+  {
+    "id": "Commands_References[edit | edit source]_0",
+    "page": "Commands",
+    "section": "References[edit | edit source]",
+    "content": "↑ bedrock samples for 1. 20. 80. 5 release metadata/command_modules/mojang-commands. json line 15868\n\n↑ bedrock samples for 1. 20. 80. 5 release metadata/command_modules/mojang-commands. json line 15874\n\n↑ bedrock samples for 1. 20. 80. 5 release metadata/command_modules/mojang-commands. json line 15886.",
+    "normalized_content": "bedrock samples for 1 20 80 5 release metadata command_modules mojang commands json line 15868 bedrock samples for 1 20 80 5 release metadata command_modules mojang commands json line 15874 bedrock samples for 1 20 80 5 release metadata command_modules mojang commands json line 15886",
+    "length": 305
+  },
+  {
+    "id": "Commands_External links[edit | edit source]_0",
+    "page": "Commands",
+    "section": "External links[edit | edit source]",
+    "content": "\"How to Use Commands in Minecraft\"     by Duncan Geere  – Minecraft. net, September 22, 2023.",
+    "normalized_content": "how to use commands in minecraft by duncan geere minecraft net september 22 2023",
+    "length": 93
   }
 ]

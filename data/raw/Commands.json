@@ -19,7 +19,7 @@
     "Commands may also be entered in a multiplayer server's console but are not preceded by a / when entered this way. A server owner running commands in this way is often referred to as \"ghosting\".",
     "Commands in command blocks can be preceded by a slash, but it is not required.",
     "Commands can be executed in the following ways:",
-    "Entered by a player in the chat screen.\nExecuted by a command block or a minecart with command block.\nIn a dedicated server, entered in the console.\nIn functions, in a data pack‌[JE  only] or behavior pack‌[BE  only].\nClicking a text component that has \"run_command\" action.‌[JE  only]\nRequested by a WebSocket server connected to a client.‌[BE  only]\nBy an NPC dialogue.‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only].\nIn animation controllers, in a behavior pack‌[BE  only].\nIn a block event response, in a behavior pack‌[BE  only].\nIn an entity event response, in a behavior pack‌[BE  only]."
+    "Entered by a player in the chat screen.\nExecuted by a command block or a minecart with command block.\nIn a dedicated server, entered in the console.\nIn functions, in a data pack‌[JE  only] or behavior pack‌[BE  only].\nClicking a text component that has \"run_command\" action.‌[JE  only]\nRequested by a WebSocket server connected to a client.‌[BE  only]\nClicking a dialog's action button.‌[JE  only]\nBy an NPC dialogue.‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only].\nIn animation controllers, in a behavior pack‌[BE  only].\nIn a block event response, in a behavior pack‌[BE  only].\nIn an entity event response, in a behavior pack‌[BE  only]."
   ],
   "Commands guide[edit | edit source]": [],
   "Syntax[edit | edit source]": [
