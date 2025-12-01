@@ -17,7 +17,7 @@ ollama pull nomic-embed-text
 ```
 Install deepseek distilled with the following command
 ```
-ollama run deepseek-r1:14b
+ollama pull deepseek-r1:14b
 ```
 setup project with:
 ```
