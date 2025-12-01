@@ -11,7 +11,7 @@ also download ollama itself: https://ollama.com/download
 
 if you are on windows you need to add ollama to the PATH manually by entering "environment variables" and adding "C:\Users\<YourUsername>\AppData\Local\Programs\Ollama" to "PATH"
 
-Install embedder manually
+Install nomic embedder model for generating embeddings
 ```
 ollama pull nomic-embed-text
 ```
