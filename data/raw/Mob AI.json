@@ -1,0 +1,56 @@
+{
+  "Introduction": [
+    "This article describes the various components of a mob's AI that control the mob's behavior."
+  ],
+  "Contents": [
+    "1 Brain\n\n1.1 Sensor\n1.2 Task\n1.3 Memory\n\n\n2 Control\n\n2.1 Walking\n2.2 Swimming\n2.3 Flying\n\n\n3 Goals\n\n3.1 List of goals\n3.2 Lists of mob goals\n\n\n4 Pathfinding\n\n4.1 Pathfinding penalties\n4.2 Pathfinding on land\n4.3 Pathfinding in water\n4.4 Pathfinding in air\n\n\n5 See also\n6 Navigation",
+    "1.1 Sensor\n1.2 Task\n1.3 Memory",
+    "2.1 Walking\n2.2 Swimming\n2.3 Flying",
+    "3.1 List of goals\n3.2 Lists of mob goals",
+    "4.1 Pathfinding penalties\n4.2 Pathfinding on land\n4.3 Pathfinding in water\n4.4 Pathfinding in air"
+  ],
+  "Brain[edit | edit source]": [
+    "Some mobs use a complex AI system called a brain. A mob's brain stores memories (data), a list of tasks that can be performed, and a list of sensors used to determine which tasks it can perform."
+  ],
+  "Sensor[edit | edit source]": [
+    "Sensors are used to detect if a mob with a brain can perform certain tasks. Examples of sensors include, a sensor to detect if an armadillo should be scared, a sensor to detect the nearest player, and a sensor to detect if a mob is in water."
+  ],
+  "Task[edit | edit source]": [
+    "Tasks are activities that mobs with brain AI systems can perform. Sensors are used to determine if a task can be performed, and tasks may use information stored in memories. Examples of tasks include a villager walking to its jobsite, a piglin admiring an item, or a warden emerging."
+  ],
+  "Memory[edit | edit source]": [
+    "Memories are used to store data, and are used when mobs perform tasks. Examples of memories include a list of all visible mobs in range, the location of a villager's jobsite block, and any cooldowns the mob may have."
+  ],
+  "Control[edit | edit source]": [],
+  "Walking[edit | edit source]": [],
+  "Swimming[edit | edit source]": [],
+  "Flying[edit | edit source]": [],
+  "Goals[edit | edit source]": [
+    "Goals are a simple AI system used by mobs that don't use brain AI. Goals can range from wandering around, opening doors, attacking another mob, and more. Each type of mob that uses goals has its own defined list of goals, and each goal has a priority. Mobs attempt to perform the lowest priority goal they can, and may switch goals if there is an opportunity to pursue a lower priority goal. For example, if a zombie is targeting and chasing a villager (priority of 3) and a player comes within the detection range of the zombie, the zombie may target and chase the player (priority of 2) instead."
+  ],
+  "List of goals[edit | edit source]": [
+    "List of goals that are used by many different mobs."
+  ],
+  "Lists of mob goals[edit | edit source]": [
+    "Lists of goals and associated priorities for individual mobs."
+  ],
+  "Pathfinding[edit | edit source]": [],
+  "Pathfinding penalties[edit | edit source]": [
+    "When pathfinding to a target, mobs will sometimes avoid certain blocks (usually blocks that cause damage or slow the mob down). These blocks have a penalty associated with them. Generally, mobs try to path through blocks with the smallest penalty. There are some blocks that most mobs cannot path through; these all have a penalty of -1.",
+    "The following table is a list of all pathfinding penalties and their default values. Each type of pathfinding (land, water, air) uses its own subset of these penalties. Some mobs override these default values.",
+    "The following mobs override the default pathfinding penalty for some blocks:"
+  ],
+  "Pathfinding on land[edit | edit source]": [
+    "All entities Move based off of random targets that are generated every tick with a priority toward their entity specific goals.\nThese targets can be located anywhere in 3D space within the entity range and are only every generated when wandering or when they have no goals.\nFor every target a path is generated; with the entity preferring the path with the lowest score regarding the Pathfinding penalties.\nIf an entity cannot take any paths with a low enough score, or any paths without a score of -1 the entity will not move until one is found.\nIf an entity's target is located inside a block (including water), the target is moved to the nearest air block above it.",
+    "This means, every entitiy when wandering will always prefer to pathfind to a block with the most blocks below it within range.",
+    "Due to the higher chance that a target will be generated within the blocks below it and moved up to the nearest air block above before generating a path."
+  ],
+  "Pathfinding in water[edit | edit source]": [
+    "Pathfinding in water is roughly the same as land, however, most entities, excluding fish and drowned, will bounce on the surface preferring land due to the Pathfinding penalties of water."
+  ],
+  "Pathfinding in air[edit | edit source]": [
+    "Pathfinding in air is roughly the same as land, however, the few entities that can pathfind to air."
+  ],
+  "See also[edit | edit source]": [],
+  "Navigation[edit | edit source]": []
+}

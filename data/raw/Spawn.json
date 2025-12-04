@@ -1,0 +1,25 @@
+{
+  "Introduction": [],
+  "Contents": [
+    "1 Minecraft\n\n1.1 Gameplay\n1.2 Blocks\n1.3 Items\n1.4 Entities\n1.5 Commands\n\n\n2 Minecraft Dungeons\n3 See also",
+    "1.1 Gameplay\n1.2 Blocks\n1.3 Items\n1.4 Entities\n1.5 Commands"
+  ],
+  "Minecraft[edit | edit source]": [],
+  "Gameplay[edit | edit source]": [
+    "World Spawn\nMob spawning\nSpawn chunk\nSpawn event\nSpawn protection"
+  ],
+  "Blocks[edit | edit source]": [
+    "Monster Spawner\nRespawn Anchor\nFrogspawn\nSpawn Block, used in MinecraftEdu\nTrial Spawner"
+  ],
+  "Items[edit | edit source]": [],
+  "Entities[edit | edit source]": [
+    "Minecart with Spawner, a Java Edition exclusive entity"
+  ],
+  "Commands[edit | edit source]": [
+    "/spawnpoint\n/setworldspawn\n/clearspawnpoint\n/gamerule doImmediateRespawn"
+  ],
+  "Minecraft Dungeons[edit | edit source]": [
+    "Mob Spawner\nBlaze Spawner"
+  ],
+  "See also[edit | edit source]": []
+}

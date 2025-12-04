@@ -1,0 +1,57 @@
+{
+  "Introduction": [
+    "Fishing is the use of a fishing rod to obtain items, usually fish."
+  ],
+  "Contents": [
+    "1 Catching fish\n\n1.1 Notes\n\n\n2 Items obtainable\n\n2.1 Default catch possibilities in Java Edition\n2.2 Default catch possibilities in Bedrock Edition\n\n2.2.1 Notes\n\n\n\n\n3 Fishing rod durability\n4 Achievements\n5 Advancements\n6 History\n\n6.1 Java Edition\n6.2 Bedrock Edition\n6.3 Legacy Console Edition\n\n\n7 Issues\n8 Trivia\n9 External links\n10 Navigation",
+    "2.1 Default catch possibilities in Java Edition\n2.2 Default catch possibilities in Bedrock Edition\n\n2.2.1 Notes",
+    "6.1 Java Edition\n6.2 Bedrock Edition\n6.3 Legacy Console Edition"
+  ],
+  "Catching fish[edit | edit source]": [
+    "To fish, the player must use a fishing rod to cast the line into a body of water. The player's position does not matter; the player can be in the water, underwater, sitting in a boat, or standing on adjacent land. The depth, size or origin (player-created or generated) of the body of water has no effect on the player's ability to fish in it, but some of these parameters may affect wait times and the possibility of catching treasure; see below.",
+    "Once the bobber hits water, the wait time is determined, and the player must wait for a random period between 5 and 30 seconds (100 to 600 ticks at 20 ticks per second) before the hook catches something. Small splashes can be seen around the bobber while it is in the water.",
+    "In Java Edition, each level of the Lure enchantment on a fishing rod subtracts 5 seconds from both the minimum and maximum wait time. If it causes the wait time to be less than 0, a new wait time is generated in the next tick. In Bedrock Edition, each level of the Lure enchantment on a fishing rod also increases the chance of catching fish at the cost of reeling in treasure or junk[verify]​[more information needed].\nIf the bobber is not directly exposed to sun or moonlight, the wait time is approximately doubled (each tick has a 50% chance of not decrementing the count). For direct exposure, all blocks above the bobber must be transparent to sunlight, such as glass and carpet. Blocks that diffuse sky light (such as ice and leaves) negate direct exposure. The presence of clouds or rainfall has no effect on direct exposure.\nIf the bobber's block is being rained on, the wait time is reduced by approximately 20% (each tick has a 25% chance of counting down 2 instead of 1). The bobber must be located in a biome where it is currently raining and all blocks above it must not block movement (e.g. air, torch, tripwire).\nIf the bobber's block is not directly exposed to the sky and it is being rained on, the wait time is increased by approximately 33.3%. Note that this is different from the 60% increase you would expect if the two effects worked independently from each other.[note1 1]",
+    "After the wait period has passed, a trail of fishing particles appear, approaching the bobber in a serpentine path (provided that the Particles Video Setting is not set to Minimal). After 1 to 4 seconds, the particles reach the bobber, the bobber dips below the surface, and the player has a approximately half a second‌[Bedrock Edition  only] or evenly-distributed one to two seconds‌[Java Edition  only] to reel in the line before the waiting time resets. Removing the bobber from water during this interval secures the caught item on the line.",
+    "To reel in the bobber, the player must use the rod again. Upon a successful reel-in:",
+    "A raw cod, raw salmon, pufferfish, tropical fish, junk, or a treasure item appears, flies toward the player, and is added to the player's inventory. If the player's inventory is full, the item drops on the ground. While the item normally flies directly to the player's position, the item may hit blocks positioned between the bobber and the player, causing it to bounce off at an angle. Sudden player movement may also cause the item to miss the player entirely.\nThe rod's durability is reduced by 1 point. This can vary depending on the circumstances; see below.\nAn experience orb worth 1–6 experience points spawns at the position of the player. Consequently, a Mending-enchanted fishing rod used only for fishing never wears out, repairing itself if damaged.",
+    "Attempting to reel in the bobber while looking at a bed causes the bed to be used instead. The bobber remains where it is even if the player sleeps in the bed all night.",
+    "If the player wanders more than 32 blocks away from the bobber, or if the player stops holding the fishing rod, the bobber and fishing line disappear with no durability reduction to the rod.",
+    "The bobber floats up to the water's surface even if the fishing rod is used from underwater unless it hooks onto a mob such as squid or is obstructed by a block.",
+    "Fish mobs do not attempt to bite the fish hook and bobber, but can be hooked and reeled as with other mobs."
+  ],
+  "Notes[edit | edit source]": [
+    "↑ a b c The percentages in this table are in most places rounded for clarity.\n\n↑ a b c This does not vary depending on enchantments.\n\n↑ a b c d Bows and fishing rods caught from the Treasure category are enchanted at a random level between 22-30, and have 0-25% durability remaining. Enchantment probabilities are the same as a level-30 enchantment on an enchanting table. These can also include treasure enchantments that are unavailable via an enchanting table.\n\n↑ a b Enchantment probabilities are the same as a level-30 enchantment on an enchanting table, but the chance of multiple enchantments is not reduced. These can also include treasure enchantments that are unavailable via an enchanting table. However, the enchantments Swift Sneak, Soul Speed, and Wind Burst can not be obtained this way.\n\n↑ a b c d e f Fishing rods and leather boots caught from the junk category are 0%–90% damaged (i.e. have 10-100% durability remaining) and always unenchanted.\n\n↑ This table presents the loot possibilities that differ from the above table for a player fishing in one of the following biomes: jungle, sparse jungle, and bamboo jungle. Items listed in the above table but not the table below remain unchanged regardless of the biome in which the player is fishing.\nThe percentages for Unenchanted chance and Luck of the Sea of Junk item may be inaccurate.\n\n↑ This does not vary depending on enchantments.\n\n↑ In Bedrock Edition, cod and salmon are the only fish that can be caught in jungle biomes and variants. In Java Edition, the fish loot pool is the same as outside jungle biomes.\n\n↑ a b Fishing rods and leather boots caught from the junk category are 10%–100% damaged, and always unenchanted."
+  ],
+  "Items obtainable[edit | edit source]": [
+    "There are several items obtainable (and therefore renewable) by fishing, most notably fish itself.",
+    "The fishing rod usually yields fish, but can occasionally catch treasure or junk instead. A fishing rod without the Luck of the Sea enchantment has an 85% chance of catching fish, a 10% chance of catching junk, and a 5% chance of catching treasure. Each level of the Luck of the Sea enchantment increases the chance of catching a treasure at the expense of reducing the chances of catching fish and junk. The Luck status effect grants the same benefit.",
+    "In Java Edition, to catch items in the treasure category the bobber must be in open water, defined as the 5×4×5 vicinity around the bobber resting on the water surface (2 blocks away horizontally, 2 blocks above the water surface, and 2 blocks deep). Each horizontal layer in this area must consist only of either air and/or lily pads or water source blocks and/or waterlogged blocks without collision (such as signs, kelp, coral fans, or bubble columns), while flowing water is not allowed in any layers. These conditions are checked every tick to determine if the player is eligible to receive treasure from a fishing attempt.  Since the bobber can dip below the surface of the water by more than a full block, the region tested may sometimes start one block below the surface of the water, requiring a three block deep pool to be eligible for treasure items.  If the conditions are not met, only items in the fish and junk categories can be obtained from fishing."
+  ],
+  "Default catch possibilities in Java Edition[edit | edit source]": [
+    "In jungle biome variants the treasure and fish chances are the same, but the junk table was expanded with bamboo."
+  ],
+  "Default catch possibilities in Bedrock Edition[edit | edit source]": [
+    "In jungle biome variants the treasure chances are the same, but the fish table was altered to only include cod and salmon, while the junk table was expanded with bamboo and cocoa beans."
+  ],
+  "Fishing rod durability[edit | edit source]": [
+    "The fishing rod has 64 units of durability in Java Edition and 384 units in Bedrock Edition. Each use costs 1 point, and the rod breaks when all durability is consumed. The number of uses can be increased if the Unbreaking or Mending enchantments are applied.",
+    "Reeling in while the bobber is in the air or in the water with nothing caught on it costs no durability.\nReeling in and successfully catching fish, junk, or treasure costs 1 durability.\nReeling in while the bobber is stuck in a solid block costs 2 durability.\nReeling in a dropped item costs 3 durability.\nReeling in an entity that is not a dropped item costs 5 durability.\nA fishing rod with the Mending enchantment has effectively infinite durability from incrementally repairing itself if used for fishing only, and the player isn't wearing damaged Mending armor or holding a damaged Mending item in the offhand.",
+    "The durability cost is subtracted on reel-in, rather than on hooking. Therefore, no penalty is levied for switching to another item or dropping the rod instead of reeling in."
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Fishing\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "If the player casts the bobber into a waterfall, the bobber floats up the waterfall until it reaches the top and remains there until the player either pulls it back in or catches fish on the line. If a fish is caught on the line, the bobber then falls down the waterfall.\nThe player can catch fish even if occupying the same block space as the bobber.\nThe player can freely switch between fishing rods after casting the bobber, with the enchantments on the casting rod being preserved in the bobber. This means that one rod can hook an item and another can reel it in, and the durability cost is subtracted from the rod currently equipped.\nIf the bobber is too close to the land, the small splashes, as well as the trail of particles heading toward the bobber, can be seen on the land.\nIn Java Edition, the player can fish while using the fishing rod in the off-hand slot."
+  ],
+  "External links[edit | edit source]": [
+    "\"A fish out of water\"     by James Nouch  – Minecraft.net, February 7, 2025."
+  ],
+  "Navigation[edit | edit source]": []
+}

@@ -1,0 +1,130 @@
+{
+  "Introduction": [
+    "An anvil is a gravity-affected utility block used to rename items, combine enchantments and repair items without losing the enchantments. An anvil has limited durability, and as it is used or dropped too far, gradually becomes a chipped anvil, then a damaged anvil, then breaks and vanishes."
+  ],
+  "Contents": [
+    "1 Obtaining\n\n1.1 Breaking\n1.2 Natural generation\n1.3 Crafting\n\n\n2 Usage\n\n2.1 Repairing and renaming items\n\n2.1.1 Repairing\n2.1.2 Renaming\n\n\n2.2 Enchanted books\n2.3 Falling anvils\n2.4 Maps\n2.5 Becoming damaged\n\n\n3 Creative mode\n4 Sounds\n\n4.1 Generic\n4.2 Unique\n\n\n5 Data values\n\n5.1 ID\n5.2 Block states\n5.3 Falling block entity\n\n\n6 Achievements\n7 History\n\n7.1 Development\n7.2 Java Edition\n7.3 Bedrock Edition\n7.4 Legacy Console Edition\n7.5 New Nintendo 3DS Edition\n7.6 Data history\n\n7.6.1 Java Edition\n7.6.2 Bedrock Edition\n\n\n\n\n8 Issues\n9 Trivia\n10 Gallery\n\n10.1 Renders\n10.2 Screenshots\n10.3 Development images\n10.4 In other media\n\n\n11 References\n12 See also\n13 External links\n14 Navigation",
+    "1.1 Breaking\n1.2 Natural generation\n1.3 Crafting",
+    "2.1 Repairing and renaming items\n\n2.1.1 Repairing\n2.1.2 Renaming\n\n\n2.2 Enchanted books\n2.3 Falling anvils\n2.4 Maps\n2.5 Becoming damaged",
+    "2.1.1 Repairing\n2.1.2 Renaming",
+    "4.1 Generic\n4.2 Unique",
+    "5.1 ID\n5.2 Block states\n5.3 Falling block entity",
+    "7.1 Development\n7.2 Java Edition\n7.3 Bedrock Edition\n7.4 Legacy Console Edition\n7.5 New Nintendo 3DS Edition\n7.6 Data history\n\n7.6.1 Java Edition\n7.6.2 Bedrock Edition",
+    "7.6.1 Java Edition\n7.6.2 Bedrock Edition",
+    "10.1 Renders\n10.2 Screenshots\n10.3 Development images\n10.4 In other media"
+  ],
+  "Obtaining[edit | edit source]": [],
+  "Breaking[edit | edit source]": [
+    "The suitable tool to break anvil is pickaxe. Anvil needs to be broken using a pickaxe, otherwise the breaking time will increase and the block drops nothing.",
+    "incorrect tool, drops nothing\n correct tool, drops nothing or something other than the block itself\n correct tool, drops the block itself\nitalicized can be instant mined",
+    "↑ These durations ignore other influential factors (e.g., Mining Fatigue) and are measured in seconds. For more information, see Breaking § Speed.",
+    "Anvil drops itself when it's destroyed."
+  ],
+  "Natural generation[edit | edit source]": [
+    "A damaged anvil generates in the \"Forge room\" of the woodland mansion and in trail ruins."
+  ],
+  "Crafting[edit | edit source]": [
+    "A total of 31 iron ingots (including 27 for three blocks of iron) are required to craft an anvil."
+  ],
+  "Usage[edit | edit source]": [],
+  "Repairing and renaming items[edit | edit source]": [
+    "Anvils have two modes to repair items that have a durability rating:",
+    "As with the grindstone, a player may repair items by combining two similar items. With the anvil, however, the target retains its enchantments and may gain new ones from the sacrificed items.\nAlternatively, a player can use materials originally required in the crafting of the item (iron ingots for iron items with durability, diamonds for diamond items with durability) to repair a single item. One material can repair 25% of the target's maximum durability. This is a good deal in the case of a chestplate, for example; a full repair (four materials) would total only half of the item's original cost (eight materials). In the case of tools and weapons, however, this may be a significantly less economical option; combining two diamond shovels would cost two diamonds in total, while up to four diamonds could be required to directly repair one. Still, it may be worth making the more expensive upgrade if the enchantments are considered difficult to obtain.",
+    "If the items are unable to be combined, a red \"X\" appears over the arrow pointing to the slot of the resulting item. Also, if the target item is at full durability and the sacrifice does not have any enchantments, the anvil also refuses to combine the items, unless if renaming the item to a valid name.",
+    "In addition, the player can rename any item – not just items with durability – by using an anvil."
+  ],
+  "Repairing[edit | edit source]": [
+    "Repairing with materials works for the most part, but not with all items: in general, repairing works for items with their material in the default name. For example, an anvil can repair an iron pickaxe with materials (iron in this case) while an anvil cannot repair bows or shears except with other bows or shears. Special cases: chain armor can be repaired with iron ingots, turtle shells can be repaired with turtle scutes, maces can be repaired with breeze rods, and elytra can be repaired with phantom membranes. The repair does not need to be complete; one material repairs 1⁄4 of the item's maximum durability. Repair of an unenchanted item can cost more material than simply crafting a new item or combining damaged items. The exception is armor, which consumes less material at the cost of experience levels.",
+    "Repairing with a matching item works for any item with durability including bows, shears and so on. The items must be a matching tool and of a matching material. For example, a golden pickaxe cannot combine with a golden sword or iron pickaxe.",
+    "In both cases, the resulting durability is limited to the item's maximum, and there is no discount for \"over-repair\".",
+    "As a subset of repairing one item with another, the anvil can transfer enchantments from the sacrifice to the target. This can have a synergistic effect when both items share identical enchantments, or simply add to each other when they do not. Two Sharpness II swords can be combined to make a Sharpness III sword, for example, or a pickaxe with Efficiency can be combined with one that has Unbreaking. This can produce enchantments and combinations that are not possible with an enchanting table. But even so, some enchantments cannot be combined if they are similar, or contradicting, in terms of what they do. If the target is damaged, the player has to pay for the repair as well as the transfer.",
+    "Transferring high-level enchantments is more expensive, and renaming an item has an additional surcharge. The anvil has a limit of 39 levels; beyond that, repairs are refused. This limit is not present in Creative mode.",
+    "Every time armor or tools are repaired, the minimum experience cost doubles (e.g., 1 level, 2 levels, 4 levels, 8 levels, etc.)."
+  ],
+  "Renaming[edit | edit source]": [
+    "Any item or stack of items can be renamed at a cost of one level plus any prior-work penalty. If the player is only renaming, the maximum total cost is 39 levels. The maximum length for renaming is 30 characters‌[BE  only] or 50 characters‌[JE  only]. Renamed items are italicized by default, but formatting codes beginning with § are available in Bedrock Edition.",
+    "Some items have special effects when renamed:",
+    "A name tag must be renamed before it can be used.\nRenaming a bucket of fish, axolotl, or tadpole renames the mob inside as well, meaning a fish, axolotl or tadpole can be named without a name tag.‌[Java Edition  only][1]\nA renamed item (can be any item, doesn't need to be a weapon) that kills another player or tamed mob causes the name to appear in the death message.‌[Java Edition  only]\nA renamed spawn egg produces a mob with the same name.\nChests, trapped chests, shulker boxes, furnaces, hoppers, droppers, dispensers, minecarts with chests, minecarts with hoppers, enchantment tables, barrels, smokers, blast furnaces and brewing stands display the name in their GUI when placed.\nRenamed command blocks use their name in chat messages instead of [@].",
+    "Any name changes to items are applied to the item stack component {components:{\"minecraft:custom_name\":\"<name>\"}}.‌[Java Edition  only]",
+    "If the item name field is left blank, or is only whitespace or non-breaking spaces (or a combination of both), the default name for that item is used instead. Also, if the item name is unchanged from its current name (which can occur when renaming an item for the first time and using any of the aforementioned blank parameters), a red \"X\" appears on top of the arrow in the GUI.",
+    "Named items do not stack with unnamed or differently-named items of the same type."
+  ],
+  "Enchanted books[edit | edit source]": [
+    "Enchanted books can be used to enchant tools, armor and weapons. Enchanted books themselves can be combined to create higher-tiered books. This makes an anvil an alternative to the enchantment table."
+  ],
+  "Falling anvils[edit | edit source]": [
+    "Java Edition\n\n\n\nBedrock Edition",
+    "When there is no supporting block below an anvil, the anvil falls in the same way sand, gravel, concrete powder, and dragon eggs fall. A placed anvil cannot be pushed or pulled by pistons,‌[Java Edition  only] but a falling anvil can be pushed (though cannot be pulled), as it is an entity. This is different in Bedrock Edition where anvils can be pushed and pulled by pistons. Anvils make a metallic clang sound when they land.",
+    "A falling anvil damages any player or mob that it falls on. The damage amount depends on fall distance: 2HP per block fallen after the first (e.g., an anvil that falls 4 blocks deals 6HP damage). The damage is capped at 40HP × 20, no matter how far the anvil falls. Helmets take twice as much durability damage as other armor pieces, but do not provide any special protection other than the normal armor damage reduction.[2] When a player dies by an anvil falling on them, the death message \"<player> was squashed by a falling anvil\" appears. However, if a player is merely touched by a falling anvil entity, no damage is dealt unless the falling anvil becomes an anvil block in the same block where the player is located.",
+    "If an anvil falls onto a block with a solid top surface, but the same block it is in cannot be replaced (torch, slab, etc.), it breaks and drops as an item.",
+    "An anvil can fall into the void if there is a straight path to it.",
+    "When an anvil entity is in perpetual motion using slime blocks, it breaks after about 30 seconds."
+  ],
+  "Maps[edit | edit source]": [
+    "An anvil can be used instead of a crafting table to zoom a map out, to clone a map, or to place a player position marker on a map."
+  ],
+  "Becoming damaged[edit | edit source]": [
+    "With each use, an anvil has a 12% chance to become damaged – degrading one stage at a time, first becoming chipped, then damaged, then eventually destroyed. An anvil typically survives for 25 uses on average or approximately one use per 1.24 iron ingots used in crafting the anvil.",
+    "An anvil can be damaged and destroyed from falling. If it falls from a height greater than one block, the chance of degrading by one stage is 5% × the number of blocks fallen.",
+    "The damage state does not affect the anvil's function, but only anvils of the same damage state can stack in inventory.",
+    "When an anvil is destroyed, the player automatically leaves the anvil GUI and it disappears."
+  ],
+  "Creative mode[edit | edit source]": [
+    "In creative mode, the anvil functions a little differently than other game modes:",
+    "Any repair/enchant/rename operation may be done, regardless of the player's experience level. In Java Edition, incompatible enchantments are allowed as well.\nThe experience cost is not taken from the player.\nThe repair cost of tools does still increase.\nIt continues doubling with each repair, past the usual limit of 39 levels.\nWhen it reaches the capacity of signed 32-bit integers, no repair cost is shown and the \"product\" item cannot be taken out of the anvil. Tools in this state also cannot be renamed or enchanted.\nAnvils are not damaged on use.",
+    "The experience cost is not taken from the player.",
+    "It continues doubling with each repair, past the usual limit of 39 levels.\nWhen it reaches the capacity of signed 32-bit integers, no repair cost is shown and the \"product\" item cannot be taken out of the anvil. Tools in this state also cannot be renamed or enchanted."
+  ],
+  "Sounds[edit | edit source]": [],
+  "Generic[edit | edit source]": [
+    "Despite being composed entirely of iron, anvils do not use iron sounds.[3]"
+  ],
+  "Unique[edit | edit source]": [],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [
+    "↑ ID of block's direct item form, which is used in savegame files and addons.\n\n↑ a b c Available with /give command.\n\n↑ a b c d The block's direct item form has the same ID as the block.\n\n↑ Unavailable with /give command"
+  ],
+  "Block states[edit | edit source]": [],
+  "Falling block entity[edit | edit source]": [
+    "[NBT Compound / JSON Object] Dynamic block entity data\nTags common to all entities see Template:Nbt inherit/entity/template\n[NBT Compound / JSON Object] BlockState: The falling block represented by this entity.\n[String] Name: The resource location of the block.\n[NBT Compound / JSON Object] Properties: Optional. The block states of the block.\n[String] Name: The block state name and its value.\n[Byte] CancelDrop: 1 or 0 (true/false) - true if the block should be destroyed instead of placed after landing on a solid block. When true, the block is not dropped as an item, even if the DropItem tag is set to true. However, if the entity is deleted due to its Time value being too high, this tag is ignored and an item is dropped depending on the DropItem tag. CancelDrop defaults to 1 for falling suspicious sand and suspicious gravel, and 0 for the other vanilla falling blocks and any summoned falling block.\n[Byte] DropItem: 1 or 0 (true/false) – true if the block should drop as an item when it breaks. Any block that does not have an item form with the same ID as the block does not drop even if this is set.\n[Float] FallHurtAmount: Multiplied by the FallDistance to calculate the amount of damage to inflict. By default this value is 2HP for anvils, and 6HP for pointed dripstone.\n[Int] FallHurtMax: The maximum hit points of damage to inflict on entities that intersect this falling block. For vanilla falling blocks, always 40HP × 20.\n[Byte] HurtEntities: 1 or 0 (true/false) – true if the block should hurt entities it falls on. Defaults to 1 for anvils and pointed dripstone and to 0 for the other vanilla falling blocks and any summoned falling block.\n[NBT Compound / JSON Object] TileEntityData: Optional. The tags of the block entity for this block.\n[Int] Time: The number of ticks the entity has existed. When Time goes above 600, or above 100 while the block is at Y=-64 or is outside building height, the entity is deleted.",
+    "Tags common to all entities see Template:Nbt inherit/entity/template\n[NBT Compound / JSON Object] BlockState: The falling block represented by this entity.\n[String] Name: The resource location of the block.\n[NBT Compound / JSON Object] Properties: Optional. The block states of the block.\n[String] Name: The block state name and its value.\n[Byte] CancelDrop: 1 or 0 (true/false) - true if the block should be destroyed instead of placed after landing on a solid block. When true, the block is not dropped as an item, even if the DropItem tag is set to true. However, if the entity is deleted due to its Time value being too high, this tag is ignored and an item is dropped depending on the DropItem tag. CancelDrop defaults to 1 for falling suspicious sand and suspicious gravel, and 0 for the other vanilla falling blocks and any summoned falling block.\n[Byte] DropItem: 1 or 0 (true/false) – true if the block should drop as an item when it breaks. Any block that does not have an item form with the same ID as the block does not drop even if this is set.\n[Float] FallHurtAmount: Multiplied by the FallDistance to calculate the amount of damage to inflict. By default this value is 2HP for anvils, and 6HP for pointed dripstone.\n[Int] FallHurtMax: The maximum hit points of damage to inflict on entities that intersect this falling block. For vanilla falling blocks, always 40HP × 20.\n[Byte] HurtEntities: 1 or 0 (true/false) – true if the block should hurt entities it falls on. Defaults to 1 for anvils and pointed dripstone and to 0 for the other vanilla falling blocks and any summoned falling block.\n[NBT Compound / JSON Object] TileEntityData: Optional. The tags of the block entity for this block.\n[Int] Time: The number of ticks the entity has existed. When Time goes above 600, or above 100 while the block is at Y=-64 or is outside building height, the entity is deleted.",
+    "[String] Name: The resource location of the block.\n[NBT Compound / JSON Object] Properties: Optional. The block states of the block.\n[String] Name: The block state name and its value.",
+    "[String] Name: The block state name and its value."
+  ],
+  "Achievements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Development[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "New Nintendo 3DS Edition[edit | edit source]": [],
+  "Data history[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Anvil\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "If placed on top of exploding TNT blocks, the explosion does not affect the surrounding area. This is because the anvil falls into the space the TNT entity is occupying, and since the TNT's explosion power is not high enough to destroy the anvil, no blocks are destroyed.\nBefore they were added to Minecraft, anvils were already present in Minicraft.\nWithin the files of Minecraft Dungeons (Game\\UI\\Materials\\Merchant\\slot), a render of an anvil made for this wiki can be found."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Renders[edit | edit source]": [
+    "Anvil\n\n\n\nChipped Anvil\n\n\n\nDamaged Anvil",
+    "Anvil\n\n\n\nChipped Anvil\n\n\n\nDamaged Anvil\n\n\n\nDeprecated Anvil"
+  ],
+  "Screenshots[edit | edit source]": [
+    "The old anvil GUI in Pocket Edition (now Bedrock Edition)\n\n\n\nTop down view of the three stages of anvils. From left to right: anvil, chipped anvil, damaged anvil\n\n\n\n3D view of the three stages of anvils. From left to right: anvil, chipped anvil, damaged anvil"
+  ],
+  "Development images[edit | edit source]": [
+    "Merging pickaxe with efficiency 4.\n\n\n\nWith fortune 1 unbreaking 2.\n\n\n\nThe result is pickaxe with efficiency 4, fortune 1, unbreaking 2 for 33 levels\n\n\n\nMerging resulting pickaxe.\n\n\n\nWith efficiency 4, unbreaking 3.\n\n\n\nThe result is pickaxe with efficiency 5, fortune 1, unbreaking 3 for 46 levels.\n\n\n\nThe first screenshot of the anvil itself."
+  ],
+  "In other media[edit | edit source]": [
+    "A anvil in promotional artwork for the Pretty Scary Update.\n\n\n\nAn anvil as seen in A Minecraft Movie."
+  ],
+  "References[edit | edit source]": [
+    "↑ MCPE-57604\n\n↑ Per Talk:Damage#Falling_Block, helmets no longer provide a 25% damage reduction to falling blocks.\n\n↑ MC-279222 — Anvils do not use minecraft:block.iron.* sounds despite being made of iron — resolved as \"Invalid\".\n\n↑ MC-120158 — Anvils and other falling_blocks with HurtEntities set to true kill items and xp orbs — resolved as \"Fixed\"."
+  ],
+  "See also[edit | edit source]": [],
+  "External links[edit | edit source]": [
+    "Taking Inventory: Anvil – Minecraft.net on November 26, 2020"
+  ],
+  "Navigation[edit | edit source]": []
+}

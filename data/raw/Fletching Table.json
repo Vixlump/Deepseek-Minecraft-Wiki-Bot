@@ -1,0 +1,59 @@
+{
+  "Introduction": [
+    "The fletching table is a fletcher's job site block that can generate naturally in villages. It is used to turn an unemployed villager into a fletcher."
+  ],
+  "Contents": [
+    "1 Obtaining\n\n1.1 Breaking\n1.2 Natural generation\n1.3 Crafting\n\n\n2 Usage\n\n2.1 Placement\n2.2 Profession\n2.3 Fuel\n2.4 Note Blocks\n\n\n3 Sounds\n\n3.1 Generic\n3.2 Unique\n\n\n4 Data values\n\n4.1 ID\n\n\n5 History\n\n5.1 Java Edition\n5.2 Bedrock Edition\n5.3 PlayStation 4 Edition\n\n\n6 Issues\n7 References\n8 External links\n9 Navigation",
+    "1.1 Breaking\n1.2 Natural generation\n1.3 Crafting",
+    "2.1 Placement\n2.2 Profession\n2.3 Fuel\n2.4 Note Blocks",
+    "3.1 Generic\n3.2 Unique",
+    "5.1 Java Edition\n5.2 Bedrock Edition\n5.3 PlayStation 4 Edition"
+  ],
+  "Obtaining[edit | edit source]": [],
+  "Breaking[edit | edit source]": [
+    "The suitable tool to break fletching table is axe.",
+    "incorrect tool, drops nothing\n correct tool, drops nothing or something other than the block itself\n correct tool, drops the block itself\nitalicized can be instant mined",
+    "↑ These durations ignore other influential factors (e.g., Mining Fatigue) and are measured in seconds. For more information, see Breaking § Speed.",
+    "Fletching table drops itself when it's destroyed."
+  ],
+  "Natural generation[edit | edit source]": [
+    "Fletching tables can generate naturally inside fletcher houses in villages."
+  ],
+  "Crafting[edit | edit source]": [],
+  "Usage[edit | edit source]": [
+    "The fletching table currently has no right-click functionality; Its functionality was intended to be added in upcoming updates as of 2019.[1]"
+  ],
+  "Placement[edit | edit source]": [
+    "Regardless of the player's position while placement, the different textures of the block are always facing in the same position (the textures with the target are facing west and east, while the one with the knife and feather is facing up)."
+  ],
+  "Profession[edit | edit source]": [
+    "If a fletching table has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to fletcher and claim the fletching table as their job site block."
+  ],
+  "Fuel[edit | edit source]": [
+    "Fletching tables can be used as a fuel in furnaces, smelting 1.5 items per block."
+  ],
+  "Note Blocks[edit | edit source]": [
+    "Fletching tables can be placed under note blocks to produce \"bass\" sounds."
+  ],
+  "Sounds[edit | edit source]": [],
+  "Generic[edit | edit source]": [],
+  "Unique[edit | edit source]": [],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [
+    "↑ ID of block's direct item form, which is used in savegame files and addons.\n\n↑ Available with /give command.\n\n↑ The block's direct item form has the same ID as the block."
+  ],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "PlayStation 4 Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Fletching Table\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "References[edit | edit source]": [
+    "↑ \"Minecraft Snapshot 19w11b\"     – Minecraft.net."
+  ],
+  "External links[edit | edit source]": [
+    "Block of the Month: Fletching Table – Minecraft.net on November 3, 2022"
+  ],
+  "Navigation[edit | edit source]": []
+}

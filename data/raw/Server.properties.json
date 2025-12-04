@@ -1,0 +1,23 @@
+{
+  "Introduction": [
+    "server.properties is a file that specifies settings for the Minecraft server software. There exists a variant for server.jar in Java Edition, as well as for Bedrock Dedicated Server in Bedrock Edition. Those variants are not compatible, but serve a similar purpose with similar syntax."
+  ],
+  "Contents": [
+    "1 Java Edition\n\n1.1 Default content\n1.2 Keys\n\n\n2 Bedrock Edition\n\n2.1 Default content\n2.2 Keys\n\n\n3 Java Edition Classic\n4 History\n\n4.1 Java Edition\n4.2 Bedrock Edition\n\n\n5 External links\n6 Navigation",
+    "1.1 Default content\n1.2 Keys",
+    "2.1 Default content\n2.2 Keys",
+    "4.1 Java Edition\n4.2 Bedrock Edition"
+  ],
+  "Java Edition[edit | edit source]": [],
+  "Default content[edit | edit source]": [
+    "The following default server.properties comes with the server software as of 1.21.92.1:"
+  ],
+  "Keys[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Java Edition Classic[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "External links[edit | edit source]": [
+    "The website https://server.properties/ shows an example of Java Edition server.properties configuration, with additional comments written on the bottom."
+  ],
+  "Navigation[edit | edit source]": []
+}

@@ -1,0 +1,81 @@
+{
+  "Introduction": [
+    "A composter is a block that converts some biological material into bone meal. It also serves as a farmer villager's job site block."
+  ],
+  "Contents": [
+    "1 Obtaining\n\n1.1 Breaking\n1.2 Natural generation\n1.3 Crafting\n\n\n2 Usage\n\n2.1 Composting\n2.2 Profession\n2.3 Redstone component\n2.4 Hoppers\n2.5 Fuel\n2.6 Note blocks\n\n\n3 Sounds\n\n3.1 Generic\n3.2 Unique\n\n\n4 Data values\n\n4.1 ID\n4.2 Block states\n\n\n5 History\n\n5.1 Java Edition\n5.2 Bedrock Edition\n5.3 PlayStation 4 Edition\n\n\n6 Issues\n7 Trivia\n8 Gallery\n\n8.1 Renders\n\n8.1.1 Java Edition\n8.1.2 Bedrock Edition\n\n\n8.2 Screenshots\n\n\n9 References\n10 External links\n11 Navigation",
+    "1.1 Breaking\n1.2 Natural generation\n1.3 Crafting",
+    "2.1 Composting\n2.2 Profession\n2.3 Redstone component\n2.4 Hoppers\n2.5 Fuel\n2.6 Note blocks",
+    "3.1 Generic\n3.2 Unique",
+    "4.1 ID\n4.2 Block states",
+    "5.1 Java Edition\n5.2 Bedrock Edition\n5.3 PlayStation 4 Edition",
+    "8.1 Renders\n\n8.1.1 Java Edition\n8.1.2 Bedrock Edition\n\n\n8.2 Screenshots",
+    "8.1.1 Java Edition\n8.1.2 Bedrock Edition"
+  ],
+  "Obtaining[edit | edit source]": [],
+  "Breaking[edit | edit source]": [
+    "Composters can be broken using any tool, though an axe is the fastest. The composter does not retain the compost inside; instead, it drops empty.",
+    "incorrect tool, drops nothing\n correct tool, drops nothing or something other than the block itself\n correct tool, drops the block itself\nitalicized can be instant mined",
+    "↑ These durations ignore other influential factors (e.g., Mining Fatigue) and are measured in seconds. For more information, see Breaking § Speed."
+  ],
+  "Natural generation[edit | edit source]": [
+    "Composters generate in village farms. They can also generate in trail ruins."
+  ],
+  "Crafting[edit | edit source]": [],
+  "Usage[edit | edit source]": [
+    "Composters can be used to recycle a selection of food and plant items into bone meal. To do so, the player must use any of a selection of items on the composter. When an adjacent comparator is facing away from the composter, a comparator signal strength of up to 8 is emitted depending on the fullness of the block.",
+    "Composters appear to have an empty interior. As such, entities can enter and exit a composter through the top, but not the sides or bottom. The composter has a \"floor\", whose height depends on the fullness. When the composter is completely empty, this floor is slightly above the block below, and when it is completely full, there is a slight dip on top. In Bedrock Edition, when the composter’s fullness increases, any entities inside are pushed up accordingly."
+  ],
+  "Composting[edit | edit source]": [
+    "The composter can be filled with compost, which is done by adding compostable items to it. When successfully adding an item, a green particle () appears. The table below lists supported items, which have different levels of compostability. The higher the percentage of an item, the more likely it is for it to add another layer of compost. However, when the composter is empty, any compostable item added always creates the first layer of compost, regardless of its compostability.[1] Each layer of compost has a podzol-like appearance. When the composter reaches the 7th layer of compost and once 20 game ticks (10 redstone ticks; 1 second) have passed, the compost changes appearance indicating that bone meal can be collected by using the composter a final time or by breaking the composter.",
+    "The following table shows the items that can be used in a composter, the percent chance for an item to add a level of compost, and the average number of items needed to fill a composter. Smaller pieces (individual pieces of wheat, melon slices, etc.) produce more compost than the blocks or other items that can be made from them. The exception is cookies, because each recipe produces 8 cookies, and together those give more than 3 times the compost.",
+    "Despite being plants, it is not possible to compost bamboo,[2] dead bushes,[3] poisonous potatoes[4] and chorus plant products.[5] Meat items, fish, and bones are also not compostable.[6]",
+    "Interacting with a Composter while holding a Debug Stick will raise the level by one, the debug stick is not consumed."
+  ],
+  "Profession[edit | edit source]": [
+    "If a composter has not been claimed by a villager, any nearby unemployed villager has a chance to change their profession to farmer and claim the composter as their job site block. Also, farmer villagers can use composter to compost.[8]"
+  ],
+  "Redstone component[edit | edit source]": [
+    "A composter can act as a power source for a redstone comparator. With a composter behind it (either directly, or separated by an unpowered solid block), a comparator outputs a signal strength between 0 and 8, proportional to how full the composter is: 0 for empty, 1 for 1⁄7 full, 2 for 2⁄7 full, and so on to 6. 7 is for completely full but the bone meal is not ready to collect, and 8 for completely full and the bone meal is ready to collect. However, if there is a block between the composter and comparator, the comparator does not immediately update."
+  ],
+  "Hoppers[edit | edit source]": [
+    "Composters can interact with hoppers. A hopper directly below a composter pulls bone meal from it. A hopper or dropper facing downward directly above a composter pushes items into it. See Hopper § Redstone component for more details.",
+    "Hoppers cannot interact with the sides of a composter."
+  ],
+  "Fuel[edit | edit source]": [
+    "A composter can be used as fuel in a furnace to smelt 1.5 items."
+  ],
+  "Note blocks[edit | edit source]": [
+    "Composters can be placed under note blocks to produce \"bass\" sounds."
+  ],
+  "Sounds[edit | edit source]": [],
+  "Generic[edit | edit source]": [],
+  "Unique[edit | edit source]": [],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [
+    "↑ ID of block's direct item form, which is used in savegame files and addons.\n\n↑ Available with /give command.\n\n↑ The block's direct item form has the same ID as the block."
+  ],
+  "Block states[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "PlayStation 4 Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Composter\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "The compost texture is based on the podzol texture.\nIf planting crops specifically for composting, potatoes produce somewhat more than beets, carrots, or wheat. However, melons offer nearly the same yield per field space, and do not require replanting after harvest."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Renders[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "A composter generated in a village\n\n\n\n A full and partially filled composter in a farm\n\n\n\nAn official screenshot of a composter used on Minecraft.net.[13]"
+  ],
+  "References[edit | edit source]": [
+    "↑ MC-196452\n\n↑ MC-142452 — resolved as \"Works As Intended\".\n\n↑ MC-219904\n\n↑ MC-142373 — resolved as \"Works As Intended\".\n\n↑ MC-182287 — resolved as \"Works As Intended\".\n\n↑ \"Block of the Month: Composter\"     by Duncan Geere  – Minecraft.net, 23 March 2023. \"Most food and plant-based items can be composted, with the notable exception of bamboo (too fibrous), poisonous potatoes (too poisonous), dead bushes (too dead), and meat and fish (too stinky as it rots).\"\n\n↑ MCPE-140266\n\n↑ Villager#Farming\n\n↑ a b MC-150020\n\n↑ MC-177863\n\n↑ MC-249303\n\n↑ MC-249315\n\n↑ \"Block of the Month: Composter\"     by Duncan Geere  – Minecraft.net, March 23, 2023."
+  ],
+  "External links[edit | edit source]": [
+    "Block of the Week: Composter – Minecraft.net on March 23, 2023"
+  ],
+  "Navigation[edit | edit source]": []
+}

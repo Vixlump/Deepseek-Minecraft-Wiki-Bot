@@ -1,0 +1,22 @@
+{
+  "Introduction": [
+    "Materials in Minecraft classify blocks into different types, more or less indicating what the block is \"made of\"."
+  ],
+  "Contents": [
+    "1 Materials\n2 Blocks\n3 Effects\n4 History\n5 See also\n6 Navigation"
+  ],
+  "Materials[edit | edit source]": [
+    "The following materials exist in Minecraft. Each material gives certain properties to the block, although individual blocks may override them.",
+    "↑ The default  map base color of this material, but in fact most blocks do not use this default base color.\n\n↑ If yes, block-dependent blocks can be placed on this block, and it is considered when spawning structures.\n\n↑ Only used to determine if lava can set fire to blocks; not used for fire spreading.\n\n↑ If yes, the player succeeds in placing some other block in the spot occupied by this block.\n\n↑ If \"pushed\", the block is pushed by pistons. If \"replace\", the block is broken by pistons. If \"blocked\", the block prevents pistons from extending."
+  ],
+  "Blocks[edit | edit source]": [],
+  "Effects[edit | edit source]": [
+    "Material properties are often used in place of specific block property checks, which can sometimes lead to unexpected behavior. Other times, material properties may simply serve as a default, but individual blocks can override this default value.",
+    "Endermen teleport depending on materials that block movement, not whether the block itself is solid. They choose a random destination and then seek downward until they find a block with a movement-blocking material.\nVarious things that spawn on the \"surface\" similarly check material movement-blocking to find the surface.\nPaintings, Item frames, Banners, Signs, and Cakes are supported by any block with a solid material. This is why signs can be placed on each other without any visible connection. In addition, paintings and item frames can also be placed on the sides of the redstone comparator and repeater.\nPlayer spawning checks for obstruction based on whether the material is solid or fluid, apart from banners, pressure plates, and signs.\nCactus break depending on the solidity of an adjacent block's material and whether the adjacent block is lava or whether the material of the upper block is liquid.\nFarmland and dirt path turns to dirt if a solid-material block is placed on top, except fence gates. But moving pistons can be placed on farmland.\nWater and lava spread and currents generally depend on whether the block's materials blocks movement, while placement from a bucket depends on whether the material is solid or replaceable, except end portal and end gateway.\nWhen above a block with a replaceable material, the gravity-affected blocks can fall.\nOnly blocks with a solid-blocking material can be redstone conductors.\nIron golems can be spawned in air or liquid materials above a solid-blocking-material block whose collision box has a square upper surface by villagers.\nWhen broken, ice becomes water if above a block with a liquid or movement-blocking material.\nLava checks for a flammable material nearby when attempting to start fires. The fire itself uses its own list of flammable materials, which is why fire can start next to a wood block without consuming the block.\nBlock with a movement-blocking material and a full cube collision causes suffocation.\nVarious tools check for materials to get breaking speeds.\nRain and snowfall fall through blocks that have a non-liquid material that does not block movement.\nDungeon, lake, and nether portal generation checks for solid materials, rather than solid blocks.\nNote blocks check blocks or materials to determine some instruments. They check for a material of stone, sand, glass, and wood, with the resulting instrument being the base drum, snare, glass, and bass, respectively.\nDoors and trapdoors often use wood and metal materials to differentiate between wood and iron doors and trapdoors."
+  ],
+  "History[edit | edit source]": [],
+  "See also[edit | edit source]": [
+    "Tiers\nArmor materials"
+  ],
+  "Navigation[edit | edit source]": []
+}

@@ -1,0 +1,63 @@
+{
+  "Introduction": [
+    "Java Edition's user environment can be configured through the Options menus. A few additional options can be changed only by editing the options.txt file in a text editor."
+  ],
+  "Contents": [
+    "1 Options\n2 Online\n3 Skin Customization\n4 Music & Sounds\n5 Video Settings\n6 Controls\n7 Mouse Settings\n8 Language\n9 Font Settings\n10 Chat Settings\n11 Resource Packs\n12 Accessibility Settings\n13 Server Options\n14 Telemetry Data\n15 Credits & Attribution\n16 History\n\n16.1 Java Edition\n16.2 Legacy Console Edition\n\n\n17 Issues\n18 Gallery\n\n18.1 Options menus\n18.2 Development images\n18.3 Other\n\n\n19 See also\n20 Notes\n21 References\n22 Navigation",
+    "16.1 Java Edition\n16.2 Legacy Console Edition",
+    "18.1 Options menus\n18.2 Development images\n18.3 Other"
+  ],
+  "Options[edit | edit source]": [
+    "Selecting \"Options\" brings up the main options page:"
+  ],
+  "Online[edit | edit source]": [
+    "This is visible only in the main menu or when on a server."
+  ],
+  "Skin Customization[edit | edit source]": [],
+  "Music & Sounds[edit | edit source]": [],
+  "Video Settings[edit | edit source]": [],
+  "Controls[edit | edit source]": [
+    "From the main Options page, one can click down to Controls for these additional settings:"
+  ],
+  "Mouse Settings[edit | edit source]": [],
+  "Language[edit | edit source]": [
+    "Allows players to change the language that is viewed by their client."
+  ],
+  "Font Settings[edit | edit source]": [],
+  "Chat Settings[edit | edit source]": [],
+  "Resource Packs[edit | edit source]": [
+    "Allows the player to change their resource pack settings."
+  ],
+  "Accessibility Settings[edit | edit source]": [],
+  "Server Options[edit | edit source]": [],
+  "Telemetry Data[edit | edit source]": [
+    "This option shows information on what data the game can send to Mojang, stating that it helps Mojang improve Minecraft based on info relevant to players. The \"Give Feedback\" button opens a link to the feedback site while \"Open My Data\" shows the player information on telemetry data that is sent to Mojang, with the files removed after seven days. A link to the Microsoft privacy statement can be found on this page as well. A toggle for data collection is also available, though it is impossible to disable telemetry completely without client modifications."
+  ],
+  "Credits & Attribution[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Options\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Options menus[edit | edit source]": [
+    "The default main options menu.\n\n\n\nThe default online options menu.\n\n\n\nThe default skin customization options menu.\n\n\n\nThe default music and sound options menu.\n\n\n\nThe default video options menu.\n\n\n\nThe default controls menu.\n\n\n\nThe default language options menu.\n\n\n\nThe default chat options menu.\n\n\n\nThe default resource packs menu.\n\n\n\nThe default accessibility options menu.\n\n\n\nThe default key binds menu.\n\n\n\nThe default mouse settings menu."
+  ],
+  "Development images[edit | edit source]": [
+    "First screenshot of the VSync option.\n\n\n\nFirst screenshot teasing the super secret settings button.\n\n\n\nFirst screenshot of the auto jump option.\n\n\n\nFirst screenshot of the audio device option.\n\n\n\nFirst screenshot of the revamped controls menu in 1.7.2.\n\n\n\nFirst screenshot of the revamped sound options in 1.7.2."
+  ],
+  "Other[edit | edit source]": [
+    "A comparison between the five mipmap levels. Enlarge to view animation.\n\n\n\nA comparison between no biome blending and 5×5 biome blending.\n\n\n\nA comparison between a cave with smooth lighting enabled and the same cave without it."
+  ],
+  "See also[edit | edit source]": [
+    "Settings\nHeads-up display\nThird person view\nDebug screen\nHost privileges\noptions.txt\nMenu screen\nWorld Options"
+  ],
+  "Notes[edit | edit source]": [
+    "↑ Displays as \"Normal\" in-game.\n\n↑ Displays as \"Default\" in-game."
+  ],
+  "References[edit | edit source]": [
+    "↑ MC-42132 — The sounds of minecarts aren't controlled by the correct sound slider\n\n↑ \"1.8 has a brightness slider. Real miners play on the darkest setting, though.\"  – @notch (Markus Persson) on X (formerly Twitter), July 5, 2011\n\n↑ https://bugs.mojang.com/browse/MC-130179?focusedCommentId=455305&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-455305\n\n↑ MC-51418 — resolved as \"Fixed\".\n\n↑ MC-121376 — resolved as \"Fixed\"."
+  ],
+  "Navigation[edit | edit source]": []
+}

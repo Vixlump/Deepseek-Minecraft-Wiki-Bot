@@ -1,0 +1,166 @@
+{
+  "Introduction": [
+    "Trial chambers (inconsistently plural in-game[n 1]) are underground structures that serve as a mid-game combat challenge.[1] They consist mostly of copper blocks and tuff bricks, and are the only place where trial spawners and vaults naturally generate. Trial chambers are also the only place where breezes spawn, whose breeze rods can be used to craft wind charges. Various materials such as heavy cores and certain armor trims are obtained exclusively by unlocking vaults in trial chambers. As it is the only source of breeze rods and heavy cores, the structure is also the location where maces are obtained.",
+    "Ominous trials can also take place here through Bad Omen, where Trial Omen causes all trial spawners to become ominous, making them more difficult and providing greater rewards."
+  ],
+  "Contents": [
+    "1 Generation\n\n1.1 Locating\n\n\n2 Structure\n\n2.1 File structure\n2.2 Blocks\n2.3 Components\n\n2.3.1 Entrances\n2.3.2 Corridors, atriums, and ends\n2.3.3 Hallways\n2.3.4 Intersections\n2.3.5 Chambers\n2.3.6 Decor\n2.3.7 Dispensers\n2.3.8 Loot containers\n2.3.9 Trial spawners\n\n\n\n\n3 Mobs\n4 Loot\n\n4.1 Vaults\n\n4.1.1 Ominous vaults\n\n\n4.2 Chests\n\n4.2.1 Entrances\n4.2.2 Intersections\n4.2.3 Supply\n\n\n4.3 Barrels\n\n4.3.1 Intersection barrels\n4.3.2 Corridor barrels\n\n\n4.4 Decorated pots\n4.5 Dispensers\n\n4.5.1 Corridor dispenser\n4.5.2 Water dispenser\n\n\n4.6 Trial spawners\n\n4.6.1 Ominous trial spawners\n\n\n\n\n5 Data values\n\n5.1 ID\n\n\n6 Achievements\n7 Advancements\n8 Videos\n9 History\n\n9.1 Announcement and teaser\n9.2 Java Edition\n9.3 Bedrock Edition\n\n\n10 Issues\n11 Trivia\n12 Gallery\n\n12.1 Screenshots\n12.2 Mojang screenshots\n12.3 In other media\n12.4 Concept artwork\n\n\n13 Notes\n14 References\n15 External links\n16 Navigation",
+    "2.1 File structure\n2.2 Blocks\n2.3 Components\n\n2.3.1 Entrances\n2.3.2 Corridors, atriums, and ends\n2.3.3 Hallways\n2.3.4 Intersections\n2.3.5 Chambers\n2.3.6 Decor\n2.3.7 Dispensers\n2.3.8 Loot containers\n2.3.9 Trial spawners",
+    "2.3.1 Entrances\n2.3.2 Corridors, atriums, and ends\n2.3.3 Hallways\n2.3.4 Intersections\n2.3.5 Chambers\n2.3.6 Decor\n2.3.7 Dispensers\n2.3.8 Loot containers\n2.3.9 Trial spawners",
+    "4.1 Vaults\n\n4.1.1 Ominous vaults\n\n\n4.2 Chests\n\n4.2.1 Entrances\n4.2.2 Intersections\n4.2.3 Supply\n\n\n4.3 Barrels\n\n4.3.1 Intersection barrels\n4.3.2 Corridor barrels\n\n\n4.4 Decorated pots\n4.5 Dispensers\n\n4.5.1 Corridor dispenser\n4.5.2 Water dispenser\n\n\n4.6 Trial spawners\n\n4.6.1 Ominous trial spawners",
+    "4.2.1 Entrances\n4.2.2 Intersections\n4.2.3 Supply",
+    "4.3.1 Intersection barrels\n4.3.2 Corridor barrels",
+    "4.5.1 Corridor dispenser\n4.5.2 Water dispenser",
+    "4.6.1 Ominous trial spawners",
+    "9.1 Announcement and teaser\n9.2 Java Edition\n9.3 Bedrock Edition",
+    "12.1 Screenshots\n12.2 Mojang screenshots\n12.3 In other media\n12.4 Concept artwork"
+  ],
+  "Generation[edit | edit source]": [
+    "Trial chambers generate underground in the Overworld. The starting room generates at an altitude of between Y=-40 and -20, but the structure is not restricted to those Y levels. In fact, the majority of the structure's rooms tend to generate between Y=-20 and 0.[verify]",
+    "Trial chambers can only generate in new chunks, specifically ones that did not exist prior to Java Edition 1.21 and Bedrock Edition 1.21.0.",
+    "The generation of trial chambers follows a grid of 34×34 chunk regions centered on the world origin (X=0, Z=0). There is always one trial chambers structure generated in each region at a random location, unless a deep dark biome cancels the generation of the trial chambers.",
+    "While the origin point of the structure (corridor_end) cannot generate within a deep dark biome, other parts of it can intersect a deep dark biome."
+  ],
+  "Locating[edit | edit source]": [
+    "Trial chambers can be located using trial explorer maps, which are sold by journeyman-level cartographer villagers for 12 emeralds and a compass. The maps always point to the nearest trial chamber relative to the cartographer that does not already have a trial explorer map that points to it.",
+    "In Java Edition, a given villager always trades the same map, which is determined upon the trade unlocking.",
+    "An online seed map such as mcseedmap.net or chunkbase.com may be used instead."
+  ],
+  "Structure[edit | edit source]": [
+    "The starting room of the structure is corridor/end. This room connects to a chamber and a section of a corridor. At the end of the section of a corridor, an intersection links to another chamber and another section of a corridor is generated, but this time it ends on the atrium, which then leads to the entrance room.",
+    "The structure then branches out from some corridor/straight pieces."
+  ],
+  "File structure[edit | edit source]": [
+    "All trial chambers structures found below are located in the folder client.jar/data/minecraft/structure/trial_chambers‌[JE  only] or data/behavior_packs/vanilla/structures/trial_chambers‌[BE  only]."
+  ],
+  "Blocks[edit | edit source]": [
+    "Barrel[n 2]\nBlack Stained Glass\nBlock of Copper\nBlue Bed\nBone Block\nBrown Bed\nCactus\nCandle\nChest[n 2]\nChiseled Sandstone\nChiseled Tuff\nChiseled Tuff Bricks\nCobbled Deepslate\nCobblestone\nCobweb\nCrafting Table\nDead Bush\nDecorated Pot[n 3][n 2]\nDirt\nDispenser[n 2]\nFlower Pot\nGreen Bed\nHopper\nIron Chain\nLadder\nLight Gray Stained Glass\nMagenta Bed\nMagma Block\nMangrove Leaves\nMangrove Log\nMangrove Roots\nMangrove Wood\nMoss Block\nMoss Carpet\nMossy Cobblestone\nMud\nMuddy Mangrove Roots\nOak Button\nOak Fence\nOak Leaves\nOak Log\nOak Pressure Plate\nOak Slab\nOxidized Copper Trapdoor\nOxidized Cut Copper\nPacked Ice\nPodzol\nPointed Dripstone\nPolished Andesite\nPolished Tuff\nPolished Tuff Slab\nPotted Dead Bush\nPowder Snow\nPurple Bed\nRed Bed\nRed Candle\nRed Concrete\nRed Glazed Terracotta\nRed Mushroom\nRedstone Dust\nSand\nStone\nStone Bricks\nStone Button\nTrial Spawner[n 4]\nTripwire\nTripwire Hook\nTuff Bricks\n Vault\nVines\nWater\nWaxed Chiseled Copper\nWaxed Block of Copper\nWaxed Copper Bulb\nWaxed Copper Door\nWaxed Copper Grate\nWaxed Cut Copper\nWaxed Cut Copper Slab\nWaxed Cut Copper Stairs\nWaxed Oxidized Chiseled Copper\nWaxed Oxidized Copper\nWaxed Oxidized Copper Door\nWaxed Oxidized Copper Grate\nWaxed Oxidized Copper Trapdoor\nWaxed Oxidized Cut Copper\nWaxed Oxidized Cut Copper Slab\nWaxed Oxidized Cut Copper Stairs\nWhite Bed\nWhite Concrete\nWhite Stained Glass"
+  ],
+  "Components[edit | edit source]": [],
+  "Entrances[edit | edit source]": [
+    "In Java Edition and Bedrock Edition, each trial chambers entrance chest contains 2–3 item stacks,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Corridors, atriums, and ends[edit | edit source]": [
+    "The trial chambers feature two corridors (corridor/straight). One connects to a corridor/end; the other connects to corridor/atrium_1, which connects to corridor/entrance pieces. The corridors are divided by an intersection in different sides, making a L shape.",
+    "Addons such as decorated pots, flower pots, candles, tripwire traps, dispensers, chandeliers, stairs, platforms, vaults, and trial spawners may generate in the corridor/straight pieces. Trial spawners are either melee, small melee, or ranged mob spawners, but never spawn breeze spawners.",
+    "Some corridor/straight pieces have a copper door that can lead to either nothing (a stone wall)[3], a chamber, or a hallway."
+  ],
+  "Hallways[edit | edit source]": [
+    "Hallways are smaller branches connected to some corridor/straight pieces consisting of passageways, staircases, and a spiral staircase; they may contain chests. The other side of the hallway can generate either a stone wall, a dead end with a chest, or a chamber. Rarely, hallways generate in an intersection."
+  ],
+  "Intersections[edit | edit source]": [
+    "The room where the loot is stored isn't actually an intersection, it is a corridor end.\nIn Java Edition and Bedrock Edition, each trial chambers intersection chest contains 1–3 item stacks,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item.\n\n↑ a b The item has between 10% and 50% of its total durability."
+  ],
+  "Chambers[edit | edit source]": [
+    "Chambers are combat rooms, larger than encounters and can contain multiple trial spawners and vaults and at least one ominous vault. Multiple potential entrances can spawn in the chamber. Some can be sealed, but only one of these potential entrances can be connected to:",
+    "Hallways.\nIntersections.\nCorridor ends.\nSome corridor/straight pieces.",
+    "Most rooms generates a base in which various addons including copper grate hanging platforms and obstacles, corner and side structures, dispenser traps and corridor pots.",
+    "Each potential entrance, including the sealed ones, generates a disposal consisting of a hopper placed above a barrel, allowing the player to sort their inventory.[9]"
+  ],
+  "Decor[edit | edit source]": [
+    "Most decor pieces can be found in the corridor, beds can be found in intersections and the disposal can be found near the entrances of chambers."
+  ],
+  "Dispensers[edit | edit source]": [
+    "In Java Edition and Bedrock Edition, each trial chambers chamber dispenser contains 1 item stack,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Loot containers[edit | edit source]": [
+    "Vaults, ominous vault and \"supply\" chests generate in the structure with potential loot. 1 to 2 vaults generate at the topmost area of the entrance chamber, 1 ominous vault generates at the high area of the atrium, and 1 supply chest generates at the hallway variant (cache_1). Other vaults and ominous vaults can be found in the corridor, the end and the intersection."
+  ],
+  "Trial spawners[edit | edit source]": [
+    "When all mobs have been killed, the trial spawner has a 50% chance of picking the trial key, in which case it drops for all players. The other 50% of the time it drops one of the other items for each player.",
+    "In Java Edition and Bedrock Edition, each trial chambers trial spawner contains 1 item stack,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Mobs[edit | edit source]": [
+    "Natural hostile mob spawning is disabled within a trial chamber. Mobs spawn only from the trial spawners. The number of mobs spawned scales with the number of players in range of each spawner, and breezes are spawned less per spawner and per player than other mobs.",
+    "When a trial chamber structure generates, one mob from each of the following categories is randomly selected for the trial spawners in that structure. Every mob within the same category has an equal chance to be selected. The breeze is in its own category and is thus guaranteed to be found in certain chambers."
+  ],
+  "Loot[edit | edit source]": [
+    "Loot is available from vaults, chests, barrels, dispensers, and decorated pots from within the chambers. Players who defeat a trial spawner each receive rewards; this loot scales depending on the amount of people who defeat the trial spawner."
+  ],
+  "Vaults[edit | edit source]": [
+    "In Java Edition, each trial chambers vault and reward chest contains  items drawn from 3 pools,  with the following distribution:",
+    "In Bedrock Edition, each trial chambers vault and reward chest contains  items drawn from 3 pools,  with the following distribution:",
+    "↑ a b The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ a b The weight of this item relative to other items in the pool.\n\n↑ a b The odds of finding any of this item in a single chest.\n\n↑ a b The number of items expected per chest, averaged over a large number of chests.\n\n↑ a b The average number of chests the player should expect to search to find any of this item.\n\n↑ a b 'Nothing' does not refer to the chance of an empty chest.  Instead, it refers to the chance that the random loot generator does not add any loot on a single roll.\n\n↑ a b Ominous bottle level between I and II\n\n↑ a b The item has between 50% and 100% of its total durability.\n\n↑ a b c d e f g h Enchantment probabilities are the same as a level-5 to level-15 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchanted with a random level of Mending, Riptide, Loyalty, Channeling, or Impaling.\n\n↑ a b Enchanted with a random level of Sharpness, Bane of Arthropods, Efficiency, Fortune, Silk Touch, or Feather Falling.\n\n↑ a b Enchantment probabilities are the same as a level-5 to level-20 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchantment probabilities are the same as a level-0 to level-10 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced."
+  ],
+  "Ominous vaults[edit | edit source]": [
+    "In Java Edition and Bedrock Edition, each trial chambers ominous vault contains  items drawn from 3 pools,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item.\n\n↑ 'Nothing' does not refer to the chance of an empty chest.  Instead, it refers to the chance that the random loot generator does not add any loot on a single roll.\n\n↑ Ominous bottle level between III and V\n\n↑ Enchantment probabilities are the same as a level-5 to level-20 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchantment probabilities are the same as a level-10 to level-20 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ Enchanted with a random level of Breach, or Density.\n\n↑ Enchanted with a random level of Knockback, Punch, Smite, Looting, or Multishot.\n\n↑ Enchanted with level I of Wind Burst."
+  ],
+  "Chests[edit | edit source]": [],
+  "Supply[edit | edit source]": [
+    "In Java Edition and Bedrock Edition, each trial chambers supply chest contains 3–5 item stacks,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item.\n\n↑ The item has between 15% and 80% of its total durability."
+  ],
+  "Barrels[edit | edit source]": [],
+  "Intersection barrels[edit | edit source]": [
+    "In Java Edition, each trial chambers intersection barrel contains 1–3 item stacks,  with the following distribution:",
+    "In Bedrock Edition, each trial chambers intersection barrel contains 1–3 item stacks,  with the following distribution:",
+    "↑ a b The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ a b The weight of this item relative to other items in the pool.\n\n↑ a b The odds of finding any of this item in a single chest.\n\n↑ a b The number of items expected per chest, averaged over a large number of chests.\n\n↑ a b The average number of chests the player should expect to search to find any of this item.\n\n↑ a b c d e The item has between 15% and 80% of its total durability.\n\n↑ a b All enchantments are equally probable, including treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and any level of the enchantment is equally probable.\n\n↑ a b The item has between 40% and 90% of its total durability.\n\n↑ The item has between 10% and 50% of its total durability."
+  ],
+  "Corridor barrels[edit | edit source]": [
+    "Despite being barrels, the corridor containers are referred to as chests by the game.",
+    "In Java Edition and Bedrock Edition, each trial chambers corridor chest contains 1–3 item stacks,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item.\n\n↑ a b The item has between 15% and 80% of its total durability.\n\n↑ All enchantments are equally probable, including treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and any level of the enchantment is equally probable.\n\n↑ The item has between 40% and 90% of its total durability."
+  ],
+  "Decorated pots[edit | edit source]": [
+    "In addition to the below, decorated pots may have flow, guster, or scrape designs, which yield their respective pottery sherds when broken, along with bricks for any blank sides.",
+    "In Java Edition and Bedrock Edition, each trial chambers corridor pot contains 1 item stack,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Corridor dispenser[edit | edit source]": [
+    "In Java Edition and Bedrock Edition, each trial chambers corridor dispenser contains 1 item stack,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Water dispenser[edit | edit source]": [
+    "In Java Edition and Bedrock Edition, each trial chambers water dispenser contains 1 item stack,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Ominous trial spawners[edit | edit source]": [
+    "When all mobs have been killed, the ominous trial spawner has a 30% chance of picking the ominous trial key, in which case it drops for all players. The other 70% of the time it drops one of the other items for each player.",
+    "In Java Edition and Bedrock Edition, each trial chamber ominous trial spawner contains 1 item stack,  with the following distribution:",
+    "↑ The size of stacks (or for unstackable items, number) of this item on any given roll.\n\n↑ The weight of this item relative to other items in the pool.\n\n↑ The odds of finding any of this item in a single chest.\n\n↑ The number of items expected per chest, averaged over a large number of chests.\n\n↑ The average number of chests the player should expect to search to find any of this item."
+  ],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "Videos[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Announcement and teaser[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Trial Chambers\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "The idea of trial chambers evolved from CornerHard pitching in a meeting to revisit the monster room.[11]\nThe design of trial chambers was inspired by the architecture of Mesoamerican civilizations, whose geometric designs fit well into Minecraft. The design combines the aesthetic of ancient civilizations with a futuristic feel.[12]\nA scrapped chamber design appears in two YouTube videos showcasing the trial chambers and the trial spawners.[13][14] It includes a trial spawner, two chests, and two redstone lamps with levers on top.\nBrandon Pearce thinks that whoever created trial chambers in-universe seem to be \"pretty tinkery\".[15]\nIn Java Edition, if a Trial Chamber is generated in a superflat world after being upgraded from a version before 1.18, (e.g. using custom presets or by upgrading an old world with new terrain), and a Trial Spawner pedestal is positioned so that the spawner is at bedrock level, (Y:0), the surrounding bedrock blocks are cleared to make space for it. This appears to be part of the pedestal's placement behavior.\nAs of version 1.21.5, Trial Chambers do not generate naturally in superflat worlds."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "The main corridor in trial chambers.\n\n\n\nAn intersection room featuring 4 beds and a loot barrel.\n\n\n\nAn atrium inside the trial chambers.\n\n\n\nAn encounter inside the trial chambers.\n\n\n\nA trial chamber covered in sculk veins.\n\n\n\nA monster room connected to trial chambers.\n\n\n\nAnother monster room in a trial chamber.\n\n\n\nAn amethyst geode, mineshaft and a monster room generating together in a trial chamber within a lush cave.\n\n\n\nRuined portal generated inside a trial chamber\n\n\n\nA mural on a wall depicting the face of a bogged.\n\n\n\nA mural on a wall depicting the face of a breeze.\n\n\n\nA mural on a wall depicting the face of a spider.\n\n\n\nA mural on a wall depicting a spiral design.\n\n\n\nA screenshot depicting a strange behavior where Trial Spawner pedestals break through bedrock in a superflat world upgraded from a pre-1.18 version."
+  ],
+  "Mojang screenshots[edit | edit source]": [
+    "Trial chamber room.\n\n\n\nTrial chamber fountain room.\n\n\n\nTrial chamber corridor.\n\n\n\nDispensers in a trial chamber.\n\n\n\nA corridor inside a trial chamber.\n\n\n\nA corridor of the trial chamber.\n\n\n\nThe second floor of a trial chamber.\n\n\n\nA view of a corridor.\n\n\n\nAn ominous vault.\n\n\n\nA staircase at the end of a trial chamber hallway.\n\n\n\nA trap featuring a dispenser and two tripwires.\n\n\n\nA large room with a trial spawner in the middle.\n\n\n\nA trial chamber corridor with a trial spawner on the balcony.\n\n\n\nTrial chambers encapsulated in stone.\n\n\n\nTrial chambers not using the encapsulate terrain adaption type.\n\n\n\nTrial chambers in a lush caves biome.\n\n\n\nA vertical room with a vault.\n\n\n\nSunny in the trial chambers.\n\n\n\nEfe using a bow.\n\n\n\nMakena using the wind charge in the trial chambers.\n\n\n\nDitto.\n\n\n\nNoor using the mace in the trial chambers.\n\n\n\nAnother shot of Noor.\n\n\n\nDecorated intersection/intersection 3.\n\n\n\nAn entrance with a water fountain in the trial chamber.\n\n\n\nA bedroom in the trial chamber.\n\n\n\nA well decorated trial chamber.\n\n\n\nMusic & painting in the trial chamber.\n\n\n\nAlex and Kai in trial chambers.\n\n\n\nKai jumps across platforms in trial chambers.\n\n\n\nA trial chambers disposal unit."
+  ],
+  "In other media[edit | edit source]": [
+    "Tricky Trials key art, featuring trial chambers.\n\n\n\nAri, Noor, and Efe looting a trial spawner and receiving trial keys.\n\n\n\nAlex faces a breeze in trial chambers.\n\n\n\nA breeze fires a wind charge.\n\n\n\nAlex gets knocked back.\n\n\n\nAlex falls off the platform while the breeze watches.\n\n\n\nAri and Sunny entering the trial chambers.\n\n\n\nAri and Sunny fighting husks.\n\n\n\nAri and Sunny open a vault\n\n\n\nSteve, Makena, and many mobs caught in an explosion in the trial chambers.\n\n\n\nAn active trial.\n\n\n\nSteve, Alex, Efe, Sunny, Kai, and Makena entering a trial chamber through a hole.\n\n\n\nSteve and a wolf fighting several bogged.\n\n\n\nAnother shot of an active trial."
+  ],
+  "Concept artwork[edit | edit source]": [
+    "Trial chambers concept arts.\n\n\n\nDitto.\n\n\n\nDitto.\n\n\n\nDitto.\n\n\n\nDitto."
+  ],
+  "Notes[edit | edit source]": [
+    "↑ \ntrial_chambers in-game ID\n\"Step foot in a Trial Chamber\" – \"Minecraft: Trial(s) Edition\" advancement in Java Edition\n\"Trial Chambers\" – in-game structure name in Bedrock Edition.\n\n↑ a b c d Random loot table\n\n↑  4 bricks or 3 bricks with either 1 flow, guster or scrape pottery sherd. \n\n↑ Trial spawners become ominous as part of ominous trials, and these ominous trial spawners equip some mobs based on loot tables. More information on the ominous trial spawner page.\n\n↑ 2 loot containers in this area use the entrance loot.The loot for this area is found in loot_tables/chests/trial_chambers/entrance.\n\n↑ One loot container in this area use the reward loot.The loot for this area is found in loot_tables/chests/trial_chambers/reward.\n\n↑ a b All loot containers in this area use the entrance loot.The loot for this area is found in loot_tables/chests/trial_chambers/entrance.\n\n↑ All loot containers in this area use the intersection chest loot.The loot for this area is found in loot_tables/chests/trial_chambers/intersection.\n\n↑ This loot container in this area use the entrance loot.The loot for this area is found in loot_tables/chests/trial_chambers/reward.\n\n↑ The decorated pot always generates a flow pattern.\n\n↑ a b This loot container in this area use the intersection barrel loot.The loot for this area is found in loot_tables/chests/trial_chambers/intersection_barrel.\n\n↑ This loot container in this area use the corridor loot.The loot for this area is found in loot_tables/chests/trial_chambers/corridor.\n\n↑ a b c d One loot container in this area use the corridor pot loot.The loot for this area is found in loot_tables/pots/trial_chambers/corridor.\n\n↑ Colored beds correspond to the color of the structure file.\n\n↑ a b c This loot container in this area use the chamber dispenser loot.The loot for this area is found in loot_tables/dispensers/trial_chambers/chamber.\n\n↑ This loot container in this area use the supply loot.The loot for this area is found in loot_tables/chests/trial_chambers/supply.",
+    "trial_chambers in-game ID\n\"Step foot in a Trial Chamber\" – \"Minecraft: Trial(s) Edition\" advancement in Java Edition\n\"Trial Chambers\" – in-game structure name in Bedrock Edition."
+  ],
+  "References[edit | edit source]": [
+    "↑ \"Minecraft Snapshot 23w45a\"     – Minecraft.net, November 8, 2023.\n\n↑ MC-266613\n\n↑ MC-266451\n\n↑ a b MC-266778\n\n↑ MC-271719\n\n↑ MC-266441\n\n↑ MC-266441\n\n↑ MC-266441\n\n↑ \"If you are referring to chests being empty, it's actually intentional that they have empty chests to help you put junk in to manage your inventory.\"  – @kingbdogz  on X (formerly Twitter), June 14, 2024\n\n↑ MC-273812 — Intersection chests in trial chambers not generating correctly — resolved as \"Fixed\".)\n\n↑ https://clips.twitch.tv/KawaiiArbitraryNikudonKeyboardCat-BsrnVON_L8vehSz8 \n\n↑ \"ALL ABOUT THE TRIAL CHAMBERS\"  – Minecraft on YouTube\n\n↑ \" Minecraft 1.21: Early peek at trial chambers @ 0:40\"  – Minecraft on YouTube, November 16, 2023\n\n↑ \" Minecraft 1.21: A closer look at trial spawners @ 0:30\"  – Minecraft on YouTube, November 17, 2023\n\n↑ \"I think whoever or whatever built the Trial Chambers seems to be pretty tinkery - it doesn't feel much far off from what is already done with dispensers and traps in the structure.\"  – @kingbdogz  on X (formerly Twitter), August 1, 2024"
+  ],
+  "External links[edit | edit source]": [
+    "Building Blocks: Trial Chamber – Minecraft.net on September 19, 2024\n\"Trial Chamber prepping\"     by Per Landin  – Minecraft.net, June 4, 2024.\n\"Into the Trial Chambers: Weapons and Armor\"     by Duncan Geere  – Minecraft.net, June 11, 2024.\n\"The Chamber of Secrets\"     by Per Landin  – Minecraft.net, June 18, 2024.\n\"The rewards of Tricky Trials\"     by Sophie Austin  – Minecraft.net, June 26, 2024."
+  ],
+  "Navigation[edit | edit source]": []
+}

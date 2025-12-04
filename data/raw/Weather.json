@@ -1,0 +1,65 @@
+{
+  "Introduction": [
+    "Weather in Minecraft consists of occasional precipitation and storms that are temporary but global.[1]"
+  ],
+  "Contents": [
+    "1 Behavior\n2 Effects\n\n2.1 Rain\n2.2 Snow\n2.3 Thunderstorm\n\n2.3.1 Lightning\n\n\n2.4 End flash\n\n\n3 Video\n4 History\n\n4.1 Development\n4.2 Java Edition\n4.3 Bedrock Edition\n4.4 Legacy Console Edition\n\n\n5 Issues\n6 Trivia\n7 Gallery\n\n7.1 Screenshots\n\n\n8 References\n9 Navigation",
+    "2.1 Rain\n2.2 Snow\n2.3 Thunderstorm\n\n2.3.1 Lightning\n\n\n2.4 End flash",
+    "4.1 Development\n4.2 Java Edition\n4.3 Bedrock Edition\n4.4 Legacy Console Edition"
+  ],
+  "Behavior[edit | edit source]": [
+    "The type of weather that occurs depends on several variable factors, including the temperature of the current biome, and the altitude in which it occurs.",
+    "Players who have cheats enabled can change the current weather if they wish, using the /weather command. In Bedrock Edition, /toggledownfall also switches to inclement weather, or vice versa.",
+    "Weather changing with time can be toggled on or off using the doWeatherCycle game rule. When set to false, the weather stays the same indefinitely, unless altered using the /weather command."
+  ],
+  "Effects[edit | edit source]": [
+    "Inclement weather reduces the sky light level, depending on the severity of the storm. Because of this, villagers return to their homes until the storm passes.",
+    "The sky itself darkens, to the point where celestial bodies (including the sun, moon, and stars) are no longer visible. The clouds darken depending on the severity of the weather; note that the clouds themselves do not precipitate. Although the sun is not visible during rain, the glow associated with sunrise and sunset is still visible."
+  ],
+  "Rain[edit | edit source]": [
+    "Rain occurs only in biomes with a temperature of 0.15–0.95. Rainstorms reduce the light level to 12 in full daylight.[2]",
+    "Rain extinguishes fires (including flaming arrows[3]). However, it does not extinguish fires on netherrack,[4] and it does not solidify lava. Mobs that are on fire are extinguished on contact with rain; this prevents skeletons and zombies from burning during the day. Conversely, endermen and snow golems may die due to their weakness to water. Endermen teleport randomly until they find a dry place. Blazes and striders that are brought into the Overworld take damage and eventually die from being in contact with rain.",
+    "Other interesting effects caused by rain:",
+    "Fish are more abundant during rain.[5]\nWolves shake themselves dry if they are not moving (certain versions only).\nFarmland becomes hydrated if it isn't already.[6]\nRain fills up cauldrons with water, albeit slowly.",
+    "Rain particles make noise when they hit a block, and this noise can be heard at any point within 16 blocks. These particles can be disabled by setting Particles to \"Minimal\" in the Video Settings menu.‌[Java Edition  only]"
+  ],
+  "Snow[edit | edit source]": [
+    "Snowfall occurs only in biomes with a temperature less than 0.15, or above a sufficient altitude. Like rainstorms, snowfall reduces the light level to 12 in full daylight. In Bedrock Edition, leaves gradually take on a frosted appearance once snowfall begins in snowy biomes.",
+    "As it snows, snow layers regenerate over all non-transparent blocks.[7] In Bedrock Edition, these snow layers accumulate and grow over time. Snow does not cover transparent blocks.",
+    "Any entities on fire are not extinguished upon contact with snow."
+  ],
+  "Thunderstorm[edit | edit source]": [
+    "Thunderstorms may occur in any biome and are combined with rain, snowfall, or clear weather depending on the temperature. They reduce the internal sky light level. At noon the internal sky light level at surface is only 10. However, in mob spawning system, the light level from the sky is treated as if it were 0, allowing hostile mobs to spawn at any time of the day.[8]"
+  ],
+  "Lightning[edit | edit source]": [
+    "Lightning occurs frequently during thunderstorms, if there is rain. It strikes randomly, creating fires where it strikes, igniting any nearby flammable materials, but the rain usually puts the fire out before it can spread. Lightning can strike only blocks that are exposed to the rain.\nLightning does not occur naturally in biomes that are too hot or dry to have rain or so cold that it snows instead of rains, but can still be summoned with a channeling trident.",
+    "Lightning deals 5HP damage to entities on normal difficulty, not including the damage done by the fire it causes. It turns creepers into charged creepers, villagers into witches, pigs into zombified piglins, and mooshrooms into their brown variants.",
+    "Lightning may randomly spawn a \"skeleton trap\" skeletal horse, with a chance of 3.75–7.5% on Easy, 7.5–20% on Normal, and 11.25–33.75% on Hard, depending on the regional difficulty.",
+    "Thunder is a sound that occurs every time lightning strikes. It can be heard by the player up to 160,000 blocks away from the position of the lightning strike. Thunder is heard instantly, regardless the player's distance from the lightning strike itself.",
+    "Lightning may be manually summoned with the /summon lightning_bolt command. While it is summoned as an entity, it cannot be referred to by commands or selectors.",
+    "If the player throws a trident enchanted with channeling during a thunderstorm, it summons a lightning bolt at the thrown area."
+  ],
+  "End flash[edit | edit source]": [
+    "An end flash is a weather-like event that occurs in the End. Block lighting becomes purple tinted during the flash, which is more noticeable on lower brightness settings, and a sound effect plays. There is a 30 second delay between flashes, and each flash lasts between 5 and 19 seconds. End flashes are only visual, and thus do not affect gameplay. In Bedrock Edition, End flashes only occur when Vibrant Visuals is enabled, and are treated as global directional light sources, creating shadows."
+  ],
+  "Video[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Development[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Weather\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "Rain and snow still falls above the clouds. Notch's explanation is that the gray above the clouds during a storm is “another layer of clouds” and the origin of the rain.[11]\nRain and snow are both considered the same weather effect by the game. This explains why there is no /weather snow command.\nRain and snow actually fall one block into the void (Layer -1). This can be seen in Creative Mode by floating in the Void. No particles are emitted from the rain, due to the absence of a block below it for it to fall on.\nLightning does not have an image file associated with it. Thus, it is coded directly into the game engine, allowing for dynamic, realistic lightning.\nHelen Zbihlyj created a design document for a scientifically accurate rework of Minecraft's weather system.[12]"
+  ],
+  "Gallery[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "Rain in the forest biome.\n\n\n\nSnowfall in a grove.\n\n\n\nLightning during a thunderstorm.\n\n\n\nWeather darkens the sky to the extent of the sun being hidden from view.\n\n\n\nA combination of a thunderstorm and snowfall.\n\n\n\nA timelapse of leaves becoming frosted at the start of snowfall in Bedrock Edition.\n\n\n\nThe boundary between rain and dry weather in a desert in Java Edition.\n\n\n\nThe transition between rain and clear weather in Bedrock Edition.\n\n\n\nThe boundary between rain and snow in Java Edition.\n\n\n\nThe transition between snowfall and rainfall in Bedrock Edition.\n\n\n\nAll weather transitions seen at once at the border of a stony shore and a desert.\n\n\n\nAn End flash in Java Edition.\n\n\n\nAn image of snow and rain from Notch's twitter."
+  ],
+  "References[edit | edit source]": [
+    "↑ \"It's temporal and global\"  – @notch (Markus Persson) on X (formerly Twitter), April 7, 2011\n\n↑ \"You can't see sun/moon/stars while it's raining, and days are one level darker.\"  – @notch (Markus Persson) on X (formerly Twitter), April 7, 2011\n\n↑ \"I'm not making it solidify lava, as that would ruin all surface lava structures when the first rain hits. But it does put out fires.\"  – @notch (Markus Persson) on X (formerly Twitter), April 7, 2011\n\n↑ \"it will not!\"  – @notch (Markus Persson) on X (formerly Twitter), April 8, 2011\n\n↑ \"Higher odds of catching fish while raining.. Good one. :D I'll try making it fill small holes with water, but it might be annoying.. brb\"  – @notch (Markus Persson) on X (formerly Twitter), April 7, 2011\n\n↑ \"Wolves get wet in the rain. Crops get watered. Anything else it should affect?\"  – @notch (Markus Persson) on X (formerly Twitter), April 7, 2011\n\n↑ \"Ice and snow will regrow, farms will autowater\"  – @notch (Markus Persson) on X (formerly Twitter), April 7, 2011\n\n↑ \"MUOAHAHA! Thunder Storms lower the brightness. That means daytime monsters during storms. This is freakily atmospheric.\"  – @notch (Markus Persson) on X (formerly Twitter), April 11, 2011\n\n↑ http://www.youtube.com/watch?v=qy882ILYJMM\n\n↑ MC-63340 — Sleeping always resets time until rain — resolved as \"Fixed\".\n\n↑ \"there's another layer of clouds above the low one! That's why the sky turns gray.\"  – @notch (Markus Persson) on X (formerly Twitter), October 29, 2011\n\n↑ \"Fun fact: there’s already a design document at Mojang with a scientifically correct & complete reworking of the weather system that would still make it biome-appropriate as it goes by thermotropic weather patterns. I know because I designed it. So the design doc is there.\"  – @HelenAngel  on X (formerly Twitter), July 4, 2024"
+  ],
+  "Navigation[edit | edit source]": []
+}

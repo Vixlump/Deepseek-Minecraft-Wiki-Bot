@@ -1,0 +1,96 @@
+{
+  "Introduction": [
+    "Minecraft contains many music tracks, which play in various places in the game, including on the main menu, in Creative mode, in the Nether, in the End, and during the credits. The music tracks in the game are composed by C418, Lena Raine, Kumi Tanioka, Samuel Åberg, Aaron Cherof, Amos Roddy, and Hyper Potions."
+  ],
+  "Contents": [
+    "1 Playing\n2 List\n\n2.1 Overworld music\n2.2 Underwater music\n2.3 Nether music\n2.4 End music\n2.5 Extras\n\n\n3 Legacy Console Edition\n\n3.1 Mash-Up Packs\n\n3.1.1 Festive Mash-Up Pack\n3.1.2 Greek Mythology Mash-Up Pack\n3.1.3 Halloween 2015 Mash-Up Pack\n\n\n3.2 Mini Games\n\n3.2.1 Battle\n3.2.2 Tumble\n3.2.3 Glide\n\n\n\n\n4 Composers\n5 Data values\n6 History\n\n6.1 Development\n6.2 Java Edition\n6.3 Bedrock Edition\n6.4 Legacy Console Edition\n\n\n7 Issues\n8 Trivia\n9 See also\n10 Notes\n11 References\n12 Navigation",
+    "2.1 Overworld music\n2.2 Underwater music\n2.3 Nether music\n2.4 End music\n2.5 Extras",
+    "3.1 Mash-Up Packs\n\n3.1.1 Festive Mash-Up Pack\n3.1.2 Greek Mythology Mash-Up Pack\n3.1.3 Halloween 2015 Mash-Up Pack\n\n\n3.2 Mini Games\n\n3.2.1 Battle\n3.2.2 Tumble\n3.2.3 Glide",
+    "3.1.1 Festive Mash-Up Pack\n3.1.2 Greek Mythology Mash-Up Pack\n3.1.3 Halloween 2015 Mash-Up Pack",
+    "3.2.1 Battle\n3.2.2 Tumble\n3.2.3 Glide",
+    "6.1 Development\n6.2 Java Edition\n6.3 Bedrock Edition\n6.4 Legacy Console Edition"
+  ],
+  "Playing[edit | edit source]": [
+    "Music tracks can play at various points during gameplay. Some types of music are triggered by events, while others play randomly while certain criteria are met. The song \"Alpha\" always plays instantly during the credits, and the song \"Boss\" always plays instantly while the player is in the End if the ender dragon is undefeated or resummoned. Both of these tracks start playing in place of any already playing music. If the player is in the End and the ender dragon has been defeated, the normal End track plays 5 to 20 minutes after any currently playing tracks are finished.",
+    "If the player is underwater in an ocean or river biome, random underwater tracks play randomly 10 to 20 minutes after any currently playing tracks are finished.[1]",
+    "If none of the previous criteria are met, but the player is in the Nether, a random general Nether track or a Nether biome-specific track plays, except warped forests, which don't have any music. If the player is not in the Nether and is currently in Creative mode[note 1], a random track plays (Creative only on Bedrock). If the player is not in Creative but is currently playing (i.e., not on the menu screen), a random general track plays. These tracks all play 10 to 20 minutes after any currently playing tracks are finished.",
+    "If a music track is playing while the player is entering a pale garden, it fades into silence. The music resumes when the player exits the biome.",
+    "If the player is on the menu screen, a random menu track starts playing after 1 to 30 seconds.",
+    "Menu music stops playing in Java Edition when the player leaves the main menu and stops playing in Bedrock Edition when a loading screen finishes. Game music stops playing when the player quits the world. When the game is paused, game music continues to play in Java Edition, while in Bedrock Edition it pauses and resumes when the player exits the pause menu.",
+    "Music also stops playing on lagging for a very long time, especially when the memory usage is close to the allocation point and do not clear out for many seconds or even minutes.[verify]",
+    "All music as well as sounds in Minecraft are stored in the sound directory. In Java Edition, however, the sound files are obfuscated and cannot be directly accessed. To get around with this, the sound directory can be extracted by the methods showed in Tutorial:Sound directory. In Bedrock Edition, the music files are not obfuscated and can be found directly at game directory\\data\\resource_packs\\vanilla_music\\sounds\\music.",
+    "In Java Edition, the player can change how frequently music plays by changing the \"Music Frequency\" setting in the \"Music & Sounds\" menu.",
+    "In Java Edition, when the \"Show Music Toast\" setting is enabled in the \"Music & Sounds\" menu, a toast showing the track name and artist appears on-screen when a new track starts playing. This toast is also shown in the pause menu."
+  ],
+  "List[edit | edit source]": [],
+  "Overworld music[edit | edit source]": [
+    "These music tracks are played when the player is in the Overworld."
+  ],
+  "Underwater music[edit | edit source]": [
+    "These music tracks can be heard while the player's head is submerged in water in any river or ocean biome."
+  ],
+  "Nether music[edit | edit source]": [
+    "These music tracks play while the player is in the Nether."
+  ],
+  "End music[edit | edit source]": [
+    "These music tracks play while the player is in the End."
+  ],
+  "Extras[edit | edit source]": [
+    "These music tracks play in the main menu and during the End Poem and credits specifically."
+  ],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Mash-Up Packs[edit | edit source]": [],
+  "Festive Mash-Up Pack[edit | edit source]": [
+    "This soundtrack was written by C418 and features tracks from Minecraft - Volume Beta and Christmas inspired arrangements of other tracks from Minecraft - Volume Beta. These special arrangements do not appear on an album and do not have names. The tracks for the battle map were written by Gareth Coker and appeared on the Minecraft: Battle & Tumble (Original Soundtrack) album. These files are found in DLC/Festive/Data[note 4]."
+  ],
+  "Greek Mythology Mash-Up Pack[edit | edit source]": [
+    "This original soundtrack was composed by Gareth Coker, with the exception of one track, and was inspired by ancient Greek literature and culture. The menu track for this pack is Seikilo's Epitaph, which is the oldest surviving complete musical composition in human history, understood to be written by a man named Seikilos. These files are found in DLC/Greek Mythology/Data."
+  ],
+  "Halloween 2015 Mash-Up Pack[edit | edit source]": [
+    "This original soundtrack was written by C418 inspired by Halloween. Unlike other original Mash-Up Packs, none of these tracks have an official release nor names. The tracks for the battle map were written by Gareth Coker and appeared on the Minecraft: Battle & Tumble (Original Soundtrack) album. These files are found in DLC/Halloween 2015/Data[note 9]."
+  ],
+  "Mini Games[edit | edit source]": [
+    "The mini games for Legacy Console Edition also have their own unique soundtracks, composed by Gareth Coker and C418[note 3]. Each map is assigned a set of music tracks, either by using a Mash-Up pack that supports custom music, or a hardcoded TrackList for packs that don't by using the map's ThemeID. These tracks can be found in the music folder, or audio folder for Xbox 360 Edition prior to TU57, at the root of the game files. Mini game tracks that are part of a Mash-up pack can be found inside of the Data folder inside of its respective DLC folder."
+  ],
+  "Battle[edit | edit source]": [
+    "These music tracks play in the Battle mini game."
+  ],
+  "Tumble[edit | edit source]": [
+    "These music tracks play in the Tumble mini game. While there were map themes made for special occasions and holidays, there were no unique tracks made for them. If a Mash-Up pack with custom music was used and it lacked Tumble music definition, it would default to using the Overworld music from that pack. Otherwise the default themes would play."
+  ],
+  "Glide[edit | edit source]": [
+    "These music tracks play in the Glide mini game."
+  ],
+  "Composers[edit | edit source]": [
+    "Originally, all of Minecraft's music was composed by C418. According to Mojang, as the game got more popular (specifically starting with the Update Aquatic[6]), others were hired to produce music and soundtracks for the game. However, C418 has cited legal disputes between himself and Microsoft, who wanted to own the music he produced outright, as the real reason for additional composers. Since the Nether Update, new tracks composed by Lena Raine, Kumi Tanioka, Samuel Åberg, Aaron Cherof, Amos Roddy and Hyper Potions were added. Samuel Åberg also composed many recent ambient sounds. Original music created for mash-up packs and Minigames, created by 4J Studios for Legacy Console Edition, were composed by Gareth Coker."
+  ],
+  "Data values[edit | edit source]": [
+    "↑ a b c d e f g h i j k l m n o p q r s t u v w Included in music.creative via event-type sound music.game"
+  ],
+  "History[edit | edit source]": [
+    "Due to the way assets are downloaded in Java Edition, changes can be seen in development versions released before the change was made, due to them using the same assets index file."
+  ],
+  "Development[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Music\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "\"The End\" is heavily built on modified versions of several tracks from \"Minecraft - Volume Alpha\".[9]\n\"calm3.ogg\", or \"Sweden\", is a Passacaglia, with a changing melody over a repeated bass line.\nOn April Fools' Day 2014, Mojang played a bunch of villager themed pranks on the players, including temporarily replacing the track \"hal1.ogg\", or \"Subwoofer Lullaby\", with a version that had a villager singing along, as well as temporarily replacing all the menu songs with the villagers singing the Game Of Thrones theme song. This was reverted on April 2, 2014.\nhal3.ogg (Haggstrom) is in septuple meter (precisely 7/4 time).\nAccording to C418, the track \"Mice on Venus\" (game filename is piano3.ogg) was originally a short piano solo, but was then changed later in Minecraft's development and an addendum was added, which made the track that the game has currently.[10]\nThe warped forest and pale garden are the only biomes in the game devoid of music, but they accomplish this in different ways.\nThe warped forest simply doesn't play music when the game would normally start playing a new track, but any music that started playing before entering a warped forest will continue playing. A sound event does exist for it (named music.nether.warped_forest in Java Edition and music.game.warped_forest in Bedrock Edition), but it is unused by default.\nThe pale garden has special behavior which fades out any currently-playing tracks upon entering the biome.\nDespite never being implemented, the Legacy Console Edition code references the cancelled Build Off mini game with a call for MG04_01.binka. If the game's music player state is modified to be Build Off, the game will actually search for and play the file if it exists.\nOverworld music does not play in Creative mode in Legacy Console Edition.\nSome of the music tracks have a special title:\nThe word \"Shuniji\" (主虹) means \"primary rainbow\" in Japanese.\nThe title of the track \"So Below\" is a reference to \"As above, so below\"[11], a phrase associated with Hermeticism that is derived from a passage from the Emerald Tablet of Thoth, relating to the secrets of creating the philosopher's stone.\nThe word rubedo is Latin for \"redness\". The term was adopted by alchemists to refer to the final stage of creating the philosopher's stone.[12]\nThe word chrysopoeia (χρυσοποιία) is an alchemical term that describes the creation of the philosopher's stone, or the transmutation of a given object into gold.[13]\n\"Bromeliad\" refers to a taxonomic family of flowering plants. This family contains pitcher plants and species resembling torchflowers.",
+    "The warped forest simply doesn't play music when the game would normally start playing a new track, but any music that started playing before entering a warped forest will continue playing. A sound event does exist for it (named music.nether.warped_forest in Java Edition and music.game.warped_forest in Bedrock Edition), but it is unused by default.\nThe pale garden has special behavior which fades out any currently-playing tracks upon entering the biome.",
+    "The word \"Shuniji\" (主虹) means \"primary rainbow\" in Japanese.\nThe title of the track \"So Below\" is a reference to \"As above, so below\"[11], a phrase associated with Hermeticism that is derived from a passage from the Emerald Tablet of Thoth, relating to the secrets of creating the philosopher's stone.\nThe word rubedo is Latin for \"redness\". The term was adopted by alchemists to refer to the final stage of creating the philosopher's stone.[12]\nThe word chrysopoeia (χρυσοποιία) is an alchemical term that describes the creation of the philosopher's stone, or the transmutation of a given object into gold.[13]\n\"Bromeliad\" refers to a taxonomic family of flowering plants. This family contains pitcher plants and species resembling torchflowers."
+  ],
+  "See also[edit | edit source]": [
+    "Music Disc\nMusicians:\nC418\nLena Raine\nKumi Tanioka\nSamuel Åberg\nAaron Cherof\nAmos Roddy\nHyper Potions\nSoundtracks:\nMinecraft - Volume Alpha\nMinecraft - Volume Beta\nMinecraft: Nether Update (Original Game Soundtrack)\nMinecraft: Caves & Cliffs (Original Game Soundtrack)\nMinecraft: The Wild Update (Original Game Soundtrack)\nMinecraft: Trails & Tales (Original Game Soundtrack)\nMinecraft: Tricky Trials (Original Game Soundtrack)\nMinecraft: Chase the Skies (Original Game Soundtrack)",
+    "C418\nLena Raine\nKumi Tanioka\nSamuel Åberg\nAaron Cherof\nAmos Roddy\nHyper Potions",
+    "Minecraft - Volume Alpha\nMinecraft - Volume Beta\nMinecraft: Nether Update (Original Game Soundtrack)\nMinecraft: Caves & Cliffs (Original Game Soundtrack)\nMinecraft: The Wild Update (Original Game Soundtrack)\nMinecraft: Trails & Tales (Original Game Soundtrack)\nMinecraft: Tricky Trials (Original Game Soundtrack)\nMinecraft: Chase the Skies (Original Game Soundtrack)"
+  ],
+  "Notes[edit | edit source]": [
+    "↑ In Java Edition, rather than checking the player's gamemode directly, the game checks for both the instabuild and mayfly player abilities and plays Creative music if both are true.[2] Both are normally enabled upon entering Creative mode, but can be enabled or disabled individually by third-party means.\n\n↑ \"A Familiar Room\" does not play in Survival mode on Bedrock Edition due to a bug.[3]\n\n↑ a b c d e f This is not confirmed, although it is very likely that C418 composed the first four default battle tracks as he had collaborated with 4J Studios for the Festive and Halloween Mash Up packs prior to the release of Battle. C418 spoke about a bit about what appears to be his work with 4J Studios with Anthony Fantano.\n\n↑ Not to be confused with the Festive Skin Pack, which is located at DLC/Festive Skin Pack\n\n↑ It's possible that the piano playing is referencing another winter or Christmas song\n\n↑ a b Some Legacy Console Edition packs had tracks for the Menu, despite packs being unable to be loaded outside of actual gameplay. This was a clever feature by 4J Studios to ensure that a track of their choice would be guaranteed to be the first song to play in the pack 100% of the time due to the world loading screen technically being part of the menu.\n\n↑ This track is completely missing from the soundtrack and official releases for some reason\n\n↑ Demeter is a goddess. Going off of the naming scheme of the rest of the tracks in this album, this was very likely a mistake, and if not, just plain incorrect.\n\n↑ Not to be confused with the Halloween Texture Pack from 2013, which is located at DLC/Halloween.\n\n↑ The correct spelling for this Journey to the West character’s name is Zhu Bajie.\n\n↑ Underwater music was never added to Legacy Console Edition despite receiving the 1.13 update\n\n↑ There is no unique end boss event/track list in Legacy Console Edition\n\n↑ Credits music was never added to Legacy Console Edition despite receiving the 1.12 update\n\n↑ Can be heard in https://www.youtube.com/watch?v=jeP4U-IJHZ4 or https://www.youtube.com/watch?v=FNjoz09vmP8\n\n↑ Can be heard in https://www.youtube.com/watch?v=pWjXPNB-E7A or https://www.youtube.com/watch?v=oZ2EVZH6wI8"
+  ],
+  "References[edit | edit source]": [
+    "↑ a b MCPE-76213\n\n↑ 1.21.5.jar/net/minecraft/client/Minecraft.java lines 2425-2455: public MusicInfo getSituationalMusic()\n\n↑ MCPE-175998 — \"A Familiar Room\" doesn't play in Survival mode\n\n↑ https://twitter.com/4JStudios/status/657528284218052609\n\n↑ \"10 Years of the Minecraft Soundtrack | C418 INTERVIEW\" https://www.youtube.com/watch?v=4mn47MqhbFY&t=2627s\n\n↑ \"The Sound of Scary\"     – Minecraft.net.\n\n↑ MC-131360\n\n↑ MC-268091\n\n↑ https://genius.com/C418-the-end-lyrics#about - Genius's description\n\n↑ \"Minecraft Volume Alpha\"     – C418's Website. \n\n↑ \"Thirdly, it's time to talk about So Below!To note, this is not a valley girl re-imagining of the Capy game Below. It's actually half of a motto used in a lot of fun mystical stuff including alchemy, \"As above, so below\" usually referring to an astral realm or heaven etc.\" (archived) – @kuraine  on X (formerly Twitter), June 27, 2020\n\n↑ \"Meaning \"redness\", it signifies the final stage in an alchemical success.\" (archived) – @kuraine  on X (formerly Twitter), June 25, 2020\n\n↑ \"Chrysopoeia, in alchemy, is the transmutation of something into gold, and the ultimate goal of alchemists.\" (archived) – @kuraine  on X (formerly Twitter), June 23, 2020"
+  ],
+  "Navigation[edit | edit source]": []
+}

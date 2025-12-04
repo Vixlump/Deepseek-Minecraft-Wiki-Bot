@@ -1,0 +1,63 @@
+{
+  "Introduction": [
+    "Food refers to consumable items that, when eaten, restore hunger and saturation points, sometimes giving status effects. Food is essential for Survival, since the player can starve without it.",
+    "Food is eaten by holding use while having the food item selected in the hot bar or in the off-hand. All food items and ingredients can be stacked in the inventory slots, except for rabbit stew, mushroom stew, beetroot soup, suspicious stew, and cake‌[Java Edition  only]."
+  ],
+  "Contents": [
+    "1 Mechanics\n\n1.1 Saturation\n1.2 Hunger\n\n\n2 Usage\n\n2.1 Nourishment value\n\n\n3 Foods\n\n3.1 Ingredients\n\n\n4 Sounds\n5 Achievements\n6 Advancements\n7 History\n\n7.1 Development\n7.2 Java Edition\n7.3 Bedrock Edition\n7.4 Legacy Console Edition\n\n\n8 Issues\n9 Gallery\n\n9.1 Mojang screenshots\n\n\n10 Trivia\n11 References\n12 Navigation",
+    "1.1 Saturation\n1.2 Hunger",
+    "2.1 Nourishment value",
+    "7.1 Development\n7.2 Java Edition\n7.3 Bedrock Edition\n7.4 Legacy Console Edition",
+    "9.1 Mojang screenshots"
+  ],
+  "Mechanics[edit | edit source]": [
+    "Players have two different food statistics, one of which is visible: The hunger level is visible, and the saturation level is not."
+  ],
+  "Saturation[edit | edit source]": [
+    "Saturation is the first statistic to decrease when a player performs energy-intensive actions, and it must be completely depleted before the visible hunger meter begins decreasing. Although the current saturation level is generally hidden, the player can tell that their saturation level is completely depleted if the visible hunger meter begins displaying a jittering effect.",
+    "Eating a food item restores a fixed number of saturation points at an amount dependent on the type of food consumed. Saturation represents the time until the hunger bar begins depleting. In Java Edition, saturation is also used to replenish health faster, activating a saturation boost effect when reaching full hunger. A player's current saturation level can never exceed their current hunger level."
+  ],
+  "Hunger[edit | edit source]": [
+    "Hunger is the second statistic to decrease when the player performs energy-intensive actions. When hunger is at least 18 (), the player's health regenerates. If it falls to 6 (), the player loses the ability to sprint. If the hunger bar is at zero, the player's health depletes due to starvation.",
+    "Eating a food item restores a fixed number of hunger points at an amount dependent on the type of food consumed. In Java Edition when reaching full hunger (), saturation boost activates which consumes saturation to heal faster."
+  ],
+  "Usage[edit | edit source]": [
+    "Any food, except cake, can be eaten by hand, by using the food item in the main hand. It takes 1.61 seconds to eat most foods by hand, although dried kelp only takes 0.865 seconds to eat by hand. A player can hold and use food in their offhand in Java Edition.",
+    "Eating food by hand causes food particles to spew from the player's mouth, and produces a munching noise. The particles correlate with the respective food item. Eating also slows the user significantly.",
+    "Cake has to be eaten by placing it, then right-clicking on its block form. Eating a slice of cake is instant, and each cake has 7 edible slices. The cake becomes thinner as each slice is removed."
+  ],
+  "Nourishment value[edit | edit source]": [
+    "Nourishment is defined as the ratio of saturation to hunger points restored. Foods with higher nourishment values should be eaten when the hunger bar is more full.",
+    "The nourishment table below can help by categorizing foods by their saturation-to-hunger restoration ratios. See the more detailed Foods table for the exact hunger and saturation statistics of each food."
+  ],
+  "Foods[edit | edit source]": [
+    "↑ Food Points + Saturation, which gives roughly how long the food can last. See hunger for details.  This value is reduced if the player is near the food or saturation cap, as excess points of either type are wasted.\n\n↑ a b c Average expected food quality if food poisoning isn't cured. Food poisoning lasts 30 seconds from the last food that inflicted it, and drains nearly 2 shanks of hunger over that duration.  The loss comes from saturation before visible hunger.\n\n↑ Food quality if poison isn't cured; healing the damage from poison quickly drains the hunger bar.\n\n↑ The stew will always grant either 5-7 seconds of Blindness, or 7-10 seconds of Night Vision."
+  ],
+  "Ingredients[edit | edit source]": [
+    "The following items cannot be eaten on their own. Instead, they are used to craft consumable food items."
+  ],
+  "Sounds[edit | edit source]": [
+    "↑ Can be 0.5, 1.0, or 1.5"
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Development[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Food\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Mojang screenshots[edit | edit source]": [
+    "Food being cooked over a campfire."
+  ],
+  "Trivia[edit | edit source]": [
+    "In Java Edition, a player cannot see their own eating animation while in third-person view.[3]"
+  ],
+  "References[edit | edit source]": [
+    "↑ MC-201394\n\n↑ MC-273056\n\n↑ MC-77962 — Eating / drinking animation does not work in third person mode — resolved as \"Invalid\"."
+  ],
+  "Navigation[edit | edit source]": []
+}

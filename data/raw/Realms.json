@@ -1,0 +1,121 @@
+{
+  "Introduction": [
+    "Your Friends, Your Server",
+    "Minecraft Realms is an official subscription-based server hosting service that allows players to create and manage their own private Minecraft servers. Hosted by Mojang Studios, Realms provides a simple way to create servers and allows the owner to manage them from inside the game, without knowledge of hosting on the internet. Minecraft Realms also provides additional features such as player-made maps and Realms Stories. Only one player needs to own the subscription, while other players can be invited to a Realm for free. Realms are not intended for large public servers, but for groups of friends or as a family server.[1]",
+    "Realms internally uses Bedrock Dedicated Server on Bedrock Edition[2], and server.jar on Java Edition[note 1]."
+  ],
+  "Contents": [
+    "1 Requirements\n2 Subscriptions\n3 Usage\n\n3.1 Worlds\n\n3.1.1 Backups\n3.1.2 Realms saves\n\n\n3.2 Members\n\n3.2.1 Invite links\n\n\n3.3 Maps\n3.4 Realms Stories\n3.5 Settings\n\n\n4 Limitations\n5 History\n\n5.1 Minecraft version history\n\n5.1.1 Java Edition\n5.1.2 Bedrock Edition\n\n\n5.2 Realms version history\n\n5.2.1 Java Edition\n5.2.2 Bedrock Edition\n\n\n5.3 Availability\n\n\n6 Issues\n7 Trivia\n8 Gallery\n\n8.1 Artwork\n\n8.1.1 Realms Plus\n\n\n8.2 Minecraft Launcher\n8.3 Java Edition\n8.4 Bedrock Edition\n\n8.4.1 Development screenshots\n\n\n\n\n9 Notes\n10 References\n11 Navigation",
+    "3.1 Worlds\n\n3.1.1 Backups\n3.1.2 Realms saves\n\n\n3.2 Members\n\n3.2.1 Invite links\n\n\n3.3 Maps\n3.4 Realms Stories\n3.5 Settings",
+    "3.1.1 Backups\n3.1.2 Realms saves",
+    "5.1 Minecraft version history\n\n5.1.1 Java Edition\n5.1.2 Bedrock Edition\n\n\n5.2 Realms version history\n\n5.2.1 Java Edition\n5.2.2 Bedrock Edition\n\n\n5.3 Availability",
+    "5.1.1 Java Edition\n5.1.2 Bedrock Edition",
+    "5.2.1 Java Edition\n5.2.2 Bedrock Edition",
+    "8.1 Artwork\n\n8.1.1 Realms Plus\n\n\n8.2 Minecraft Launcher\n8.3 Java Edition\n8.4 Bedrock Edition\n\n8.4.1 Development screenshots",
+    "8.4.1 Development screenshots"
+  ],
+  "Requirements[edit | edit source]": [
+    "Realms is a service that can be used only by players who meet these requirements:[3]",
+    "The player must have purchased the full version of Java Edition or Bedrock Edition and must be signed in with a Microsoft account.\nThe player must have a stable Internet connection.\nParental consent is required for players under the age of 16 in the US and the EU, or 19 in South Korea.[4][verify]\nIf using a console, the player must also have an active subscription to either:\nXbox Game Pass Core or Xbox Game Pass Ultimate if using an Xbox console.\nNintendo Switch Online if using a Nintendo Switch.\nPlayStation Plus if using a PlayStation console.",
+    "Xbox Game Pass Core or Xbox Game Pass Ultimate if using an Xbox console.\nNintendo Switch Online if using a Nintendo Switch.\nPlayStation Plus if using a PlayStation console."
+  ],
+  "Subscriptions[edit | edit source]": [
+    "Realms is a subscription-based service. The link above goes to the player's Minecraft account page, which offers options to extend a current subscription or buy a new one. One player can have multiple active Realms subscriptions.",
+    "There are two types of subscriptions in Bedrock Edition: Realms Core (US$3.99 per month) and Realms Plus (US$7.99 per month).[5] The main difference is that Realms Core is limited to 2 players at a time active in a world, and Realms Plus is limited to 10 players. Realms Plus also includes a subscription to the Marketplace Pass, and a one-time 30 day free trial for each account. Realms Core subscriptions can be upgraded to Realms Plus at any time without the loss of the Realms server.",
+    "Any Realms subscription in Bedrock Edition also includes a free Realms server for Minecraft Preview, which exists separately from the default Realm but is connected to the same subscription.",
+    "There are two types of subscriptions in Java Edition (also known as Java Realms): a reoccurring monthly charge that automatically renews the subscription every 30 days (this can be canceled at any time), or a one-time charge that comes in 30-day, 90-day, and 180-day packages and needs to be renewed manually. Both subscriptions cost US$7.99 per month.[5] All players are able to have a 30-day free Realms trial, providing they have not already had a free trial on their account before.",
+    "Only the owner of a Realm needs a subscription to be able to manage the Realm. Other players can join the Realm for free if they have access granted by the owner."
+  ],
+  "Usage[edit | edit source]": [
+    "The main menu for Minecraft Realms, accessible from the title screen in Java Edition and the play screen in Bedrock Edition shows all Realms servers the player owns or has joined. A new Realms subscription can be purchased from this menu, and the player can join new Realms from invites or invite links.‌[BE  only] Invites sent by a Realms owner can be found in the invitations menu in the Realms screen in Java Edition and in the inbox screen in Bedrock Edition. In Bedrock Edition, the player can also enter an invite link provided by a Realms owner to join a Realm without an invite.",
+    "The main page of a Realm shows the Realm's name and description, as well as online players and the option to manage the Realm or leave the Realm. A Realm can be joined by pressing the \"Play\" button on a Realm, or by selecting the Realm through Quick Play in the Minecraft Launcher. Additionally, in Bedrock Edition, the player can create a desktop shortcut which lets the player directly join the Realm. The player needs to create an internet shortcut with minecraft://connectToRealm/?realmId= followed by the Realm's ID (or minecraft-preview://connectToRealm/?realmId= for Preview Realms), found in the URL of the Realm's page on minecraft.net."
+  ],
+  "Worlds[edit | edit source]": [
+    "A Realms server can store up to three worlds, from which one can be activated at a time. The Realms owner can select which world is activated and edit a world's settings (including add-ons),‌[BE  only] or manage the world files. Not all options from the regular edit world screen are available for Minecraft Realms, but this can be bypassed by uploading a local world to the Realm. A world slot on the Realm can be replaced by any local world of the Realms owner. The owner can also choose to download a world, or reset the world slot to a new default world. In Bedrock Edition, most world settings can also be changed from the pause menu while playing on the Realm.",
+    "In Bedrock Edition, any Realms subscription also allows access to the Realms Celebration Map, which is enabled in the third world slot by default."
+  ],
+  "Backups[edit | edit source]": [
+    "Java Realms automatically creates a backup every few hours when players are online. Each backup shows the time it was made and its size.",
+    "The owner of the Realm can choose to replace the world slot with the world data stored on a backup. Each backup can also be downloaded to the device as a singleplayer world."
+  ],
+  "Realms saves[edit | edit source]": [
+    "In addition to the three Realm slots, multiple world saves can be stored on Realms. Automatic saves are taken at the end of every Realms play session when the server shuts down, or every 30 minutes during a play session, and are only retained for a limited time.",
+    "Players can also manually save backups on the Realm. These saves are retained as long as the Realm exists. Automatic saves can be turned into manual saves to retain them for longer. However, the maximum storage for each Realm is limited for manual saves. Realms Plus subscriptions have 10GB of manual save storage, and Realms Core subscriptions have 5GB.",
+    "The owner of the Realm can find the Realms saves in the general Realm settings screen. The player can choose to replace a world slot with a save, or to download the save to the device."
+  ],
+  "Members[edit | edit source]": [
+    "The owner of the Realm can invite players by adding their player name to the Realm in Java Edition, or by adding an Xbox friend in the \"Members\" tab of the Realm's settings in Bedrock Edition. Players can be added as friends by entering the gamertag in the \"Search for players\" screen which can also be accessed from the \"Members\" tab.",
+    "Individual players can be removed at any time from the Realm, and they can also be banned to prevent them from joining with an invite link. For each player, the Realm owner can set the permission level or player permissions. In Java Edition, the owner can also promote players to grant them the right to change permission levels.",
+    "Members can also be managed from the pause menu in Bedrock Edition while playing on the Realm."
+  ],
+  "Invite links[edit | edit source]": [
+    "The owner of the Realm can create and activate invite links for the Realm. Any player can join the Realm by entering it in the \"Join a Realm\" screen in-game, or by entering https://realms.gg/ in the browser's search bar followed by the invite link. Invite links automatically expire in 7 days, but this can be disabled or set to a different time between 30 minutes and 7 days, with limited options. The owner can also enable or disable invite links directly."
+  ],
+  "Maps[edit | edit source]": [
+    "On Java Edition, besides generating new worlds and uploading singleplayer worlds, Realm owners can also choose to install a premade map from a curated selection. All available maps are ensured to be compatible with the latest stable version (which a Realm must always run on), have been reviewed by Mojang and published through the Java Realms Content Creator Program.",
+    "The full list of maps that have been submitted through the program, as well as whether they're currently available for install on Realms, can be found here.",
+    "A Realm can have three world slots that the owner can switch between at any time. An additional temporary world slot is reserved for premade maps categorized as Minigames. Unlike regular worlds, minigames do not save players' progress, and they reset whenever all players log out."
+  ],
+  "Realms Stories[edit | edit source]": [
+    "In Bedrock Edition, all members of a Realm have access to Realms Stories, an in-game social platform which allows players to communicate outside of the world. Players can post comments and screenshots, and like comments from other players. The game also creates stories known as Realm Events, which document an important event in the world, such as when a player defeats the Ender Dragon.",
+    "Players that are opted in also have access to the Timeline, a table which shows the playing activity for all members on the Realm. All players can also open each other's profile screens and view player permissions from the Members tab.",
+    "The Realm owner can also manage some settings related to Realms Stories, such as whether players are required to opt in to the Timeline to play on the Realm, whether Realm Events are enabled, and whether coordinates of Realm Events are shown.",
+    "Realms Stories can also be accessed from the pause menu while playing on the Realm."
+  ],
+  "Settings[edit | edit source]": [
+    "Exclusive settings exist for the Realm's owner to manage the Realm, including Realm name and description, and server region. The Realm owner can also choose to close the Realms server, which makes members unable to play on the Realm.",
+    "A custom server region for the Realm can be configured through the Realm's settings menu. The owner can choose whether Realms should automatically select the server region with the lowest ping for the first player to join a session, or always select a specific server region. The selected server region is shown in the loading world screen when joining a Realm.",
+    "In Java Edition, players can toggle the profanity filter in the in-game chat from the account settings on minecraft.net. In Bedrock Edition, the profanity filter can be toggled from the in-game settings.",
+    "On the profile page on minecraft.net, all owned Realms can be viewed and managed. Most Realm-wide settings can also be changed here, including name and description, invite links, activated world, and player permissions. Friends can be invited and members can be removed or banned."
+  ],
+  "Limitations[edit | edit source]": [
+    "Although Realms is hosted by Mojang Studios, it has some limitations. These limitations can be avoided by using standalone server software or a third-party hosting website.",
+    "In all versions and plans, the Realm has a player slot reserved for the owner only. The amount of other players who can play simultaneously are as follows:[6]\nIn Bedrock Edition, Realms Core allows up to 2 other players, while Realms Plus allows up to 10.\nIn Java Edition, a Realm can have up to 10 other players.\nIn Java Edition only:\nTo invite or uninvite a player, or give or revoke operator status, the operator/owner must quit to menu and open the Realm's config menu from there.\nIf a minigame is being played, all players have permission level 0 including the owner.\nWhen not playing a minigame, the owner's operator status cannot be revoked.​[more information needed]\nWorlds on Realms cannot use experimental settings. This applies to all user-uploaded worlds, as well as maps published through the Java Realms Content Creator Program.\nMods and plugins cannot be installed.\nThe render distance is always set to 12 chunks.[7][verify]\nIn Bedrock Edition only:\nThe render distance is always limited to 24 chunks.\nThe simulation distance is always limited to 4 chunks.\nThe player can't enable experiments, custom add-ons, and world creation options such as world seed, flat world, starting map, and bonus chest. However, all of these options are still available on Realms by uploading a local world with these options enabled to the Realm.\nThe world seed can't be viewed in the edit world screen for worlds on the Realm. The only way for a player to view the seed is by downloading the world.\nRealms must always use the latest stable or Preview version of the game,[8] except when the latest server version is backward-compatible with a client version.\nPlayers get kicked after 15 minutes of inactivity. This can be bypassed with an Endless circling pool.\nServers reset at midnight.​[more information needed][verify for Bedrock Edition]\nUsers under the age of 16 need parental consent to play on Realms.\nThis is due to the General Data Protection Regulation.\nTo set up parental consent on an account, visit minecraft.net/update-account.",
+    "In Bedrock Edition, Realms Core allows up to 2 other players, while Realms Plus allows up to 10.\nIn Java Edition, a Realm can have up to 10 other players.",
+    "To invite or uninvite a player, or give or revoke operator status, the operator/owner must quit to menu and open the Realm's config menu from there.\nIf a minigame is being played, all players have permission level 0 including the owner.\nWhen not playing a minigame, the owner's operator status cannot be revoked.​[more information needed]\nWorlds on Realms cannot use experimental settings. This applies to all user-uploaded worlds, as well as maps published through the Java Realms Content Creator Program.\nMods and plugins cannot be installed.\nThe render distance is always set to 12 chunks.[7][verify]",
+    "The render distance is always limited to 24 chunks.\nThe simulation distance is always limited to 4 chunks.\nThe player can't enable experiments, custom add-ons, and world creation options such as world seed, flat world, starting map, and bonus chest. However, all of these options are still available on Realms by uploading a local world with these options enabled to the Realm.\nThe world seed can't be viewed in the edit world screen for worlds on the Realm. The only way for a player to view the seed is by downloading the world.",
+    "This is due to the General Data Protection Regulation.\nTo set up parental consent on an account, visit minecraft.net/update-account."
+  ],
+  "History[edit | edit source]": [],
+  "Minecraft version history[edit | edit source]": [
+    "Originally, Realms updates were tied into regular Minecraft updates, until the release of 1.7.10. Below is a changelog of all those updates."
+  ],
+  "Java Edition[edit | edit source]": [
+    "The main screen that appears when the player clicks the \"Minecraft Realms\" button on the main menu.\n\n\n\nMinecraft Realms configuration screen. The player can completely manage the Realm from here.\n\n\n\nList of backups of the player's Realm.\n\n\n\nOld reset world menu.\n\n\n\nMenu that allows the player to reset their Realms with new conditions.\n\n\n\nThe list of World templates, Minigames, Adventures, and Experiences the player can play or use.\n\n\n\nMain Realms menu for players that have been invited to a Realm and have not yet accepted.\n\n\n\nList of Realms the player has been invited to, if any.\n\n\n\nWarning message that displays if the player wishes to leave a Realm.\n\n\n\nThe new realm interface. Note that two realms expired.\n\n\n\nPlayer activity tracker.\n\n\n\nSettings tab in the new 25w17a UI.\n\n\n\nRegion selection screen.\n\n\n\nConfigure Realm screen."
+  ],
+  "Bedrock Edition[edit | edit source]": [
+    "The main menu, with the Minecraft Realms button.\n\n\n\nThe main screen that appears when the player clicks the \"Minecraft Realms\" button on the main menu.\n\n\n\n\"Choose Your Plan\" page opens when you click on \"Buy now\" button on the Minecraft Realms screen.\n\n\n\nMinecraft Realms configuration screen. The player can completely manage the Realm from here.\n\n\n\nRealms Stories, a social media like for Realms in Bedrock Edition.\n\n\n\nThe original Realms tab in the play screen.\n\n\n\nRealms list (old UI).\n\n\n\nInvited friends list (old UI).\n\n\n\nWorld settings (old UI).\n\n\n\nInvites list (old UI).\n\n\n\nThe purchase screen for Realms Core.\n\n\n\nThe Realms Plus tab in the Marketplace.\n\n\n\nThe Minecraft Realms loading world screen.\n\n\n\nThe Realms tab in the Play screen.\n\n\n\nThe Realms settings.\n\n\n\nThe world settings.\n\n\n\nThe Ore UI version of the edit world screen for Minecraft Realms in Minecraft Preview."
+  ],
+  "Realms version history[edit | edit source]": [
+    "There are maybe other updates."
+  ],
+  "Availability[edit | edit source]": [
+    "The following chart shows when Realms was introduced in the respective countries."
+  ],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Realms\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "The Mojang blog closing signature was signed \"// The Minecraft and Minecraft Realms teams\" instead of the usual \"// The Minecraft team\" starting with the blog Minecraft Snapshot 13w09a.[17]\nThe world selection menu for Bedrock Edition Realms on minecraft.net shows the discontinued \"Cliffside Village\" seed template thumbnail."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Artwork[edit | edit source]": [
+    "Minecraft Realms logo\n\n\n\nOfficial Realms artwork.\n\n\n\nThe original Java Edition Realms banner\n\n\n\nThe original Realms official artwork (it can be still can be seen when a person invites their friends via a link).\n\n\n\nArt used for Pocket and Windows 10 Realms\n\n\n\nVariant used in gift cards\n\n\n\nThis is another one of the original Realms official artworks.\n\n\n\nPromotional render of Efe wearing the Day Dream outfit, the first set of character creator items to be distributed through the service.\n\n\n\nPixel art of Zuri leaping out of a portal with Efe and Noor nearby, representing Realms.[18]"
+  ],
+  "Realms Plus[edit | edit source]": [
+    "Minecraft Realms Plus logo\n\n\n\nMinecraft Realms Plus artwork"
+  ],
+  "Minecraft Launcher[edit | edit source]": [
+    "The Minecraft Launcher in the \"Realms\" tab, if Realms has not yet been bought and invites to Realms have not yet been sent.\n\n\n\nThe Minecraft Launcher in the \"Realms\" tab when Realms is bought or a Realms invite has been received."
+  ],
+  "Development screenshots[edit | edit source]": [
+    "A sneak peek of the Realms Stories in \"Timeline\" tab opt in to timeline message.[19]\n\n\n\nA sneak peek of the Play Screen in \"Realms\" tab - \"Add Members\" button.[20]"
+  ],
+  "Notes[edit | edit source]": [
+    "↑ Settings internal to Realms can be found in server.properties."
+  ],
+  "References[edit | edit source]": [
+    "↑ \"Quick info: Minecraft Realms isn't built for huge public servers. The sweetspot is a group of invited friends or a family server.\"  – @danfrisk (Daniel Frisk) on X (formerly Twitter), March 12, 2013\n\n↑ https://x.com/CornerHardMC/status/1857460825822474734\n\n↑ \"Realms!\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), May 19, 2014\n\n↑ \"Set Up Microsoft Family Groups for Parental Controls in Minecraft: Bedrock Edition\"     – Minecraft Help Center. \n\n↑ a b https://minecraft.net/realms\n\n↑ https://www.minecraft.net/en-us/realms\n\n↑ https://x.com/CornerHardMC/status/1559305720230662144\n\n↑ MC-121287 — Minecraft Realms button does absolutely nothing\n\n↑ \"The whitelist limit for PE and PC Realms has now been raised to an arbitrarily large, but maybe reachable number. Good luck hitting it now!\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), August 15, 2016\n\n↑ \"The PC Realms world upload limit has been bumped up significantly. Go nuts uploading those big city builds!\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), August 16, 2016\n\n↑ \"@OrbanAdrien 5GB\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), August 16, 2016\n\n↑ \"When we load new content into PC Realms, we'll now let you know when the new announcement blog post arrives. Informational!\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), January 12, 2017\n\n↑ \"As always, if you're not into Realms notifications (trial, invitations, and now news), you can turn 'em off here:\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), January 12, 2017\n\n↑ \"Mapmakers: we're launching a new category of maps on Realms called Experiences. Read on to learn more.\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), January 18, 2017\n\n↑ \"Drop\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), January 20, 2017\n\n↑ \"I wrote about @MCNoodlor's ChunkWorld, and opened up a new category of Realms content. https://minecraft.net/article/chunkworld-now-pc-realms\"  – @Marc_IRL (Marc Watson) on X (formerly Twitter), January 18, 2017\n\n↑ Minecraft Snapshot 13w09a by Jens Bergensten. Mojang.com, February 26, 2013\n\n↑ https://www.minecraft.net/en-us/about-minecraft\n\n↑ \"Realms upcoming feature sneak peek 👀Bedrock Realm owners will have the option to require that players opt-in to the Realm's Timeline if they want to play on the Realm.\"  – @CornerHardMC  on X (formerly Twitter), May 16, 2025\n\n↑ \"Small Realms improvement coming in 1.21.90: there's a new \"Add Members\" button that takes you directly to the screen that allows you to add members to your Realm\"  – @CornerHardMC  on X (formerly Twitter), May 24, 2025"
+  ],
+  "Navigation[edit | edit source]": []
+}

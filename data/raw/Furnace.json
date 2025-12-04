@@ -1,0 +1,105 @@
+{
+  "Introduction": [
+    "A furnace is a block with two functions: it can be used for either smelting or cooking, by placing fuel and an appropriate item inside together."
+  ],
+  "Contents": [
+    "1 Obtaining\n\n1.1 Breaking\n1.2 Natural generation\n1.3 Generated loot\n1.4 Crafting\n\n\n2 Usage\n\n2.1 Processing items\n2.2 Light source\n2.3 Crafting ingredient\n2.4 Custom name\n2.5 Lock\n2.6 Note blocks\n\n\n3 Sounds\n\n3.1 Generic\n3.2 Unique\n\n\n4 Data values\n\n4.1 ID\n4.2 Block states\n4.3 Block data\n\n\n5 Achievements\n6 Advancements\n7 Videos\n8 History\n\n8.1 Java Edition\n8.2 Bedrock Edition\n8.3 Legacy Console Edition\n8.4 New Nintendo 3DS Edition\n8.5 Data history\n\n8.5.1 Java Edition\n8.5.2 Bedrock Edition\n\n\n\n\n9 Issues\n10 Trivia\n11 Gallery\n\n11.1 Renders\n\n11.1.1 Java Edition\n11.1.2 Bedrock Edition\n\n\n11.2 Screenshots\n11.3 In other media\n\n\n12 See also\n13 References\n14 External links\n15 Navigation",
+    "1.1 Breaking\n1.2 Natural generation\n1.3 Generated loot\n1.4 Crafting",
+    "2.1 Processing items\n2.2 Light source\n2.3 Crafting ingredient\n2.4 Custom name\n2.5 Lock\n2.6 Note blocks",
+    "3.1 Generic\n3.2 Unique",
+    "4.1 ID\n4.2 Block states\n4.3 Block data",
+    "8.1 Java Edition\n8.2 Bedrock Edition\n8.3 Legacy Console Edition\n8.4 New Nintendo 3DS Edition\n8.5 Data history\n\n8.5.1 Java Edition\n8.5.2 Bedrock Edition",
+    "8.5.1 Java Edition\n8.5.2 Bedrock Edition",
+    "11.1 Renders\n\n11.1.1 Java Edition\n11.1.2 Bedrock Edition\n\n\n11.2 Screenshots\n11.3 In other media",
+    "11.1.1 Java Edition\n11.1.2 Bedrock Edition"
+  ],
+  "Obtaining[edit | edit source]": [],
+  "Breaking[edit | edit source]": [
+    "A furnace can be picked up using any pickaxe. If mined without a pickaxe, it does not drop itself.",
+    "Furnaces drop their contents when broken, including XP from processed items that were extracted by hoppers.",
+    "incorrect tool, drops nothing\n correct tool, drops nothing or something other than the block itself\n correct tool, drops the block itself\nitalicized can be instant mined",
+    "↑ These durations ignore other influential factors (e.g., Mining Fatigue) and are measured in seconds. For more information, see Breaking § Speed."
+  ],
+  "Natural generation[edit | edit source]": [
+    "Furnaces can be found in plains, desert, and some savanna village weaponsmiths. Furnaces also generate in some houses in snowy village, and in one of the taiga and snowy taiga‌[BE  only] village houses. They can also generate in ancient cities and trail ruins, and one furnace generates in every igloo."
+  ],
+  "Generated loot[edit | edit source]": [],
+  "Crafting[edit | edit source]": [
+    "The lit furnace can be obtained in Java Edition only with commands such as /give @s minecraft:furnace[minecraft:block_state={lit:\"true\"}], although it does not appear lit in the inventory. In Bedrock Edition, the lit furnace block can be obtained only by inventory editing. It always stays lit, despite containing no items."
+  ],
+  "Usage[edit | edit source]": [
+    "Furnaces cannot be pushed by pistons in Java Edition."
+  ],
+  "Processing items[edit | edit source]": [
+    "The purpose of a furnace is to process items by heating them up in order to change them into other items. Its interface can be opened by pressing the use item button on it. A fuel source (up to one stack of fuel items) is placed in the bottom slot, and the items to be processed (up to one stack) goes in the upper slot. A furnace runs at a speed of one item every 200 game ticks (10 seconds) or six items per minute.",
+    "The number of items that a fuel source can process depends on the type of fuel. As soon as the process begins, the fuel slot is decremented immediately, and that unit of fuel starts burning. The fuel continues burning until fully consumed, regardless of whether the upper slot has any items remaining to process. For example, a piece of coal burns for 80 seconds and can process eight items, but if only one item is processed (or if the item is pulled out before the process is complete), the coal still continues burning for the full 80 seconds, wasting seven items’ worth of processing. After it burns out, no additional fuel is decremented from the fuel slot if the upper slot is empty. If the fuel slot is empty and the burning fuel is consumed before an item completes processing, the process stops, the item is unchanged, and the process must be restarted with new fuel."
+  ],
+  "Light source[edit | edit source]": [
+    "Furnaces emit a light level of 13 when active, as well as smoke and flame particles."
+  ],
+  "Crafting ingredient[edit | edit source]": [],
+  "Custom name[edit | edit source]": [
+    "By default, the GUI of a furnace is labeled \"Furnace\", but this name can be customized by naming it in an anvil before placing it, or by changing the CustomName tag using the /data command‌[Java Edition  only]."
+  ],
+  "Lock[edit | edit source]": [
+    "In Java Edition, a furnace can be \"locked\" by setting its lock tag using the /data command. If a furnace's lock tag is not blank, the furnace cannot be opened unless the player is holding an item that matches the item predicate in the lock tag. For example, to lock a furnace at (0,64,0) so that the furnace cannot be opened unless the player is holding an item named \"Furnace Key\", use /data merge block 0 64 0 {lock:{components:{\"custom_name\":\"Furnace Key\"}}}."
+  ],
+  "Note blocks[edit | edit source]": [
+    "A furnace can be placed under note blocks to produce \"bass drum\" sounds."
+  ],
+  "Sounds[edit | edit source]": [],
+  "Generic[edit | edit source]": [],
+  "Unique[edit | edit source]": [
+    "↑ a b c MC-98316 — Wrong subtitles caused by missing distinction"
+  ],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [
+    "↑ ID of block's direct item form, which is used in savegame files and addons.\n\n↑ Available with /give command.\n\n↑ a b The block's direct item form has the same ID as the block.\n\n↑ Unavailable with /give command"
+  ],
+  "Block states[edit | edit source]": [],
+  "Block data[edit | edit source]": [
+    "A furnace has a block entity associated with it that holds additional data about the block.",
+    "[NBT Compound / JSON Object] Block entity data\nTags common to all block entities see Template:Nbt inherit/blockentity/template\n[Short] lit_time_remaining: Number of ticks left before the current fuel runs out.\n[Short] cooking_time_spent: Number of ticks the item has been smelting for. The item finishes smelting when this value reaches 200 (10 seconds). Is reset to 0 if lit_time_remaining reaches 0.\n[Short] cooking_total_time: Number of ticks it takes for the item to be smelted.\n[Short] lit_total_time: Represent the total time the furnace should be lit.\nTags common to all objects that can be renamed see Template:Nbt inherit/nameable/template\n[NBT List / JSON Array] Items: List of items in this container.\n[NBT Compound / JSON Object]: An item in the furnace, including the slot tag:Slot 0: The item(s) being smelted.Slot 1: The item(s) to use as the next fuel source.Slot 2: The item(s) in the result slot.\nAn item see Template:Nbt inherit/item/template\nTags common to all containers that can be locked see Template:Nbt inherit/lockable/template\n[NBT Compound / JSON Object] RecipesUsed: Which recipes have been used since the last time a recipe result item was manually removed from the GUI. Used to calculate experience given to the player when taking out the resulting item. Is not preserved when removed.\n[Int] recipe ID: How many times this specific recipe has been used. The recipe ID is the identifier of the smelting recipe, as a resource location, as used in the /recipe command.",
+    "Tags common to all block entities see Template:Nbt inherit/blockentity/template\n[Short] lit_time_remaining: Number of ticks left before the current fuel runs out.\n[Short] cooking_time_spent: Number of ticks the item has been smelting for. The item finishes smelting when this value reaches 200 (10 seconds). Is reset to 0 if lit_time_remaining reaches 0.\n[Short] cooking_total_time: Number of ticks it takes for the item to be smelted.\n[Short] lit_total_time: Represent the total time the furnace should be lit.\nTags common to all objects that can be renamed see Template:Nbt inherit/nameable/template\n[NBT List / JSON Array] Items: List of items in this container.\n[NBT Compound / JSON Object]: An item in the furnace, including the slot tag:Slot 0: The item(s) being smelted.Slot 1: The item(s) to use as the next fuel source.Slot 2: The item(s) in the result slot.\nAn item see Template:Nbt inherit/item/template\nTags common to all containers that can be locked see Template:Nbt inherit/lockable/template\n[NBT Compound / JSON Object] RecipesUsed: Which recipes have been used since the last time a recipe result item was manually removed from the GUI. Used to calculate experience given to the player when taking out the resulting item. Is not preserved when removed.\n[Int] recipe ID: How many times this specific recipe has been used. The recipe ID is the identifier of the smelting recipe, as a resource location, as used in the /recipe command.",
+    "[NBT Compound / JSON Object]: An item in the furnace, including the slot tag:Slot 0: The item(s) being smelted.Slot 1: The item(s) to use as the next fuel source.Slot 2: The item(s) in the result slot.\nAn item see Template:Nbt inherit/item/template",
+    "An item see Template:Nbt inherit/item/template",
+    "[Int] recipe ID: How many times this specific recipe has been used. The recipe ID is the identifier of the smelting recipe, as a resource location, as used in the /recipe command."
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "Videos[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [
+    "Facing south\n\n\n\nFacing south, lit\n\n\n\nFacing west\n\n\n\nFacing north\n\n\n\nFacing east\n\n\n\nFacing east, lit"
+  ],
+  "Bedrock Edition[edit | edit source]": [
+    "Facing south\n\n\n\nFacing south, lit\n\n\n\nFacing west or north\n\n\n\nFacing west or north, lit\n\n\n\nFacing east\n\n\n\nFacing east, lit"
+  ],
+  "Legacy Console Edition[edit | edit source]": [],
+  "New Nintendo 3DS Edition[edit | edit source]": [],
+  "Data history[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Furnace\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "Furnaces function as multiple real-world devices combined into one block: bloomeries and blast furnaces (for smelting ores), ovens (for baking and cooking), charcoal pits (for the charring of wood) and kilns (for baking of clay)."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Renders[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "Naturally occurring furnaces in a village.\n\n\n\nA furnace in a leatherworker house.\n\n\n\nA furnace emitting light from its front.\n\n\n\nA furnace not emitting light from its back.\n\n\n\nA furnace emitting light from its back, before 1.4.\n\n\n\nAn auto-smelter under construction.\n\n\n\nAnother auto-smelter.\n\n\n\nEfe standing around an ominous hoard of furnaces.[6]\n\n\n\nA player using a furnace to smelt Stone Bricks.\n\n\n\nIn game encyclopedia entry on Furnace\n\n\n\nIn game encyclopedia entry on Food"
+  ],
+  "In other media[edit | edit source]": [
+    "Ari putting a salmon into a furnace; note the perspective of the block compared to the characters.\n\n\n\nA furnace as it appeared in Minecraft Earth.\n\n\n\nA furnace as it appears in Minicraft.\n\n\n\nThe Survival Pack, an action figure pack containing Alex and a furnace.\n\n\n\nTwo furnaces as seen in A Minecraft Movie."
+  ],
+  "See also[edit | edit source]": [
+    "Blast Furnace\nSmoker\nMinecart with Furnace"
+  ],
+  "References[edit | edit source]": [
+    "↑ \"Guess what.. Furnaces should now face the opposite direction the player is facing when you plant them.\"  – @notch (Markus Persson) on X (formerly Twitter), October 30, 2010\n\n↑ \"The furnace only gives out light from the front now, unlike before where it'd be all directions!\"  – @Dinnerbone (Nathan Adams) on X (formerly Twitter), September 26, 2012\n\n↑ MC-7046 — Furnace with hopper not giving XP — resolved as \"Fixed\".\n\n↑ MC-1601 — Breaking a Furnace does not give you the experience for the smelted things inside — resolved as \"Fixed\".\n\n↑ MCPE-71651\n\n↑ https://x.com/Minecraft/status/1769743521936769385?s=20"
+  ],
+  "External links[edit | edit source]": [
+    "Block of the Week: Furnace – Minecraft.net on September 15, 2017"
+  ],
+  "Navigation[edit | edit source]": []
+}

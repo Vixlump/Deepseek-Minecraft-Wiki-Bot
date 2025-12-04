@@ -1,0 +1,65 @@
+{
+  "Introduction": [
+    "Multiplayer is the style of playing Minecraft that involves multiple players interacting on a single world, available on a server, allowing them to work together to mine ores, build structures, and fight mobs (or each other), or to simply play together."
+  ],
+  "Contents": [
+    "1 Gameplay\n\n1.1 Differences from singleplayer\n\n\n2 Server list\n3 LAN connections\n\n3.1 Java Edition\n3.2 Bedrock Edition\n\n\n4 Player list\n\n4.1 Java Edition\n4.2 Bedrock Edition\n\n\n5 Realms\n6 Video\n7 History\n\n7.1 Java Edition\n7.2 Legacy Console Edition\n7.3 New Nintendo 3DS Edition\n\n\n8 Issues\n9 Gallery\n\n9.1 Screenshots\n9.2 User interface\n9.3 Historical screenshots\n9.4 Development images\n9.5 In other media\n\n\n10 References\n11 Navigation",
+    "1.1 Differences from singleplayer",
+    "3.1 Java Edition\n3.2 Bedrock Edition",
+    "4.1 Java Edition\n4.2 Bedrock Edition",
+    "7.1 Java Edition\n7.2 Legacy Console Edition\n7.3 New Nintendo 3DS Edition",
+    "9.1 Screenshots\n9.2 User interface\n9.3 Historical screenshots\n9.4 Development images\n9.5 In other media"
+  ],
+  "Gameplay[edit | edit source]": [
+    "The gameplay of a multiplayer game still retains the same structure from the singleplayer counterpart. Take for example, in a Survival multiplayer game, players advance by gathering resources, fighting monsters, exploring the world, and reaching the End. However, multiplayer puts more emphasis on collaboration between players. Tasks such as resource gathering, farming, and building structures can be divided among players, making progression much faster compared to a singleplayer game.",
+    "Multiplayer allows for player-driven activities beyond the main game objectives. Players often establish in-game economy by building shops to trade valuable resources like diamonds and enchanted items. They can also engage in elaborate building for their homes and structures, such as houses, bridges, castles, pixel arts, statues, and more – usually forming into towns or cities.",
+    "Multiplayer games can also deviate from the base game experience; competitive games like player versus player (PvP) and many minigames are heavily community-based. In addition, most custom adventure maps are also playable in multiplayer. These activities often rely on the chat system for communication between players, which can be managed on the Social Interactions screen."
+  ],
+  "Differences from singleplayer[edit | edit source]": [
+    "The game runs an internal server for singleplayer mode, allowing for better parity between the multiplayer and singleplayer experience. However, there are still some differences between a multiplayer and singleplayer game, one being that the game cannot be paused by a player.",
+    "Opening the pause menu in multiplayer does not pause the game. For example, if the player has items being smelted in a furnace, pressing the pause button (Esc by default) does not stop the smelting process. Mobs and entities don't pause and continue to work regardless. Although, in Java Edition, server operators can simulate pausing by using /tick freeze command. In this state, non-player characters and interactions such as physics, daylight and weather cycle, mob AI and movements, item smelting, certain animations, and other actions are frozen. Players and player-ridden entities are still able to continue play, regardless if they are operator status or not.",
+    "In multiplayer mode, the locator bar is enabled and keeps track of other players' waypoints. This is absent in singleplayer, though in Java Edition, it can be enabled manually for tracking entities using /waypoint command and waypoint_transmit_range attribute."
+  ],
+  "Server list[edit | edit source]": [
+    "In order to join a Minecraft server, the game includes a menu where players can join a server, and save the ones they've visited. This feature is called the server list, and it's available inside the Multiplayer menu,‌[JE  only] or the Servers tab on the Play menu.‌[BE  only] From the list, players can check if a server is online, check their ping time to the server, and see how many players are in the game. In Bedrock Edition, the server list includes featured servers which are partnered with Mojang Studios. In the console versions, the featured servers are the only servers available to the players, and external servers cannot be added or accessed.",
+    "The Official Minecraft Server List by GamerSafer and Mojang features a variety of servers for the player to choose, which are categorized into options such as minigames, SMPs, and creative builds. All servers listed on the website are required to comply with Minecraft Usage Guidelines (MUG) and End-user license agreement (EULA), and have been vetted by both GamerSafer and the Mojang Enforcement Team."
+  ],
+  "LAN connections[edit | edit source]": [
+    "Minecraft lets players host their singleplayer world as a multiplayer game on the local area network (LAN), usually in Wi-Fi or router, allowing other players on the same network to join their game."
+  ],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [
+    "Online players in the server can be seen in the pause menu. Each player is shown with their player permission, and their Xbox profile picture next to the username; otherwise, it shows a LAN icon indicating they are not signed in to Microsoft account. If a scoreboard objective is set to the list display slot, the player's score for that objective is shown here."
+  ],
+  "Player list[edit | edit source]": [],
+  "Realms[edit | edit source]": [
+    "Players can pay a subscription service to create their own private Minecraft server. This service is called Realms, and it is provided by Mojang Studios on Java and Bedrock editions. Realms are not available in the server list, players can join Realms only if they're invited by the realm owner. Additionally, realm owners can get custom maps and minigames to play on Realms, included within the subscription."
+  ],
+  "Video[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "New Nintendo 3DS Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Multiplayer\" or \"Server\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "A multiplayer group.\n\n\n\nTwo players building on a server.\n\n\n\nTwo players mining on a server.\n\n\n\nTwo players fighting on a server.\n\n\n\nTwo players in a cave.\n\n\n\nTwo players in boats."
+  ],
+  "User interface[edit | edit source]": [
+    "The disclaimer that appears in Java Edition before going to the multiplayer menu screen.\n\n\n\nBanned from a Minecraft server.\n\n\n\nBanned from online play and Realms.\n\n\n\nTitle screen with inaccessible multiplayer and Realms buttons when banned from online play.\n\n\n\nAn error message which can appear on the Friends list in Bedrock Edition."
+  ],
+  "Historical screenshots[edit | edit source]": [
+    "A multiplayer group taken in Java Edition Beta.\n\n\n\nA player-made creeper structure in multiplayer Java Edition Beta.\n\n\n\nA player-made great pillars, assuming to be a massive castle.\n\n\n\nPlayer statues, a common trait of creative multiplayer servers.\n\n\n\nNumerous players on a Pocket Edition server in 2014.\n\n\n\nAn early multiplayer game on Java Edition Alpha.\n\n\n\nAn early Spleef minigame on Java Edition Classic.\n\n\n\nAn early Creative mode server on Java Edition Classic."
+  ],
+  "Development images[edit | edit source]": [
+    "Notch testing multiplayer.\n\n\n\nEarly multiplayer.\n\n\n\nEarly multiplayer.\n\n\n\nEarly multiplayer."
+  ],
+  "In other media[edit | edit source]": [
+    "A multiplayer game on a rainy night.\n\n\n\nPlayers gaining achievements with add-ons enabled."
+  ],
+  "References[edit | edit source]": [
+    "↑ \"How to Join a Friend’s Online World in Minecraft: Bedrock Edition\"     – Minecraft Help Center. \n\n↑ \"How do I play Minecraft on a local network with multiple Nintendo Switches?\"     by Superman.Lopez  – Arqade Stack Exchange, 2024-12-16. \n\n↑ \"I Love The Switch's Local Wireless Multiplayer (Here's How to Use It and What to Play)\"     by Sydney Butler  – How-To Geek, 2024-04-29. \n\n↑ The player list implementation can be seen on PlayerTabOverlay class in the game's code. (Mojang mapping)\n\n↑ The calculation can be checked on ServerCommonPacketListenerImpl#handleKeepAlive() method. (Mojang mapping)"
+  ],
+  "Navigation[edit | edit source]": []
+}

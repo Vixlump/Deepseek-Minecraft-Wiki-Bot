@@ -1,0 +1,111 @@
+{
+  "Introduction": [
+    "The Overworld is the primary dimension in which all players begin their Minecraft world. It is the dimension with the most biomes, blocks, and mobs, and is where most players spend the majority of their time."
+  ],
+  "Contents": [
+    "1 Creation\n\n1.1 Seeds\n\n\n2 Environment\n\n2.1 Biomes\n2.2 Natural structures\n2.3 Daylight cycle\n2.4 Mobs\n\n2.4.1 Animals and miscellaneous\n2.4.2 Monsters\n2.4.3 Related mobs\n\n\n\n\n3 Generation\n\n3.1 Limitations\n3.2 Terrain features\n3.3 Blocks\n\n3.3.1 Naturally generated\n3.3.2 Naturally created\n3.3.3 Structures\n\n\n\n\n4 Technical information\n\n4.1 ID\n4.2 Folder\n\n\n5 Achievements\n6 Advancements\n7 History\n\n7.1 Java Edition\n7.2 Bedrock Edition\n7.3 Legacy Console Edition\n\n\n8 Issues\n9 Gallery\n\n9.1 Screenshots\n9.2 In other media\n\n\n10 Trivia\n11 See also\n12 References\n13 Navigation",
+    "2.1 Biomes\n2.2 Natural structures\n2.3 Daylight cycle\n2.4 Mobs\n\n2.4.1 Animals and miscellaneous\n2.4.2 Monsters\n2.4.3 Related mobs",
+    "2.4.1 Animals and miscellaneous\n2.4.2 Monsters\n2.4.3 Related mobs",
+    "3.1 Limitations\n3.2 Terrain features\n3.3 Blocks\n\n3.3.1 Naturally generated\n3.3.2 Naturally created\n3.3.3 Structures",
+    "3.3.1 Naturally generated\n3.3.2 Naturally created\n3.3.3 Structures",
+    "7.1 Java Edition\n7.2 Bedrock Edition\n7.3 Legacy Console Edition",
+    "9.1 Screenshots\n9.2 In other media"
+  ],
+  "Creation[edit | edit source]": [
+    "The Overworld is the only dimension created when the player creates a new world. The other dimensions (The Nether and The End) aren't created until a player enters the corresponding dimension for the first time."
+  ],
+  "Seeds[edit | edit source]": [
+    "A new world in Minecraft is generated through the use of a randomly generated seed, which is an integer used as a starting point for the world generation formula. The player can specify a seed or allow the game to generate one randomly. If given a non-integer input (such as the word \"Glacier\"), the game converts it into a corresponding integer (such as 1772835215).",
+    "A given seed generates almost exactly the same world every time, provided the same edition, game version, and world type are used. Although the exact spawn point varies, the coordinates of all terrain features are the same. All seeds within the 32-bit integer limit in Java and Bedrock editions may also generate worlds with the same terrain shape and biome map, but the placement of terrain features, structures, and carver caves may vary."
+  ],
+  "Environment[edit | edit source]": [
+    "The Overworld is an incredibly complex environment with a wide variety of features."
+  ],
+  "Biomes[edit | edit source]": [
+    "The Overworld is divided into 54 biomes of various types. A biome's type determines the basic characteristics of the terrain within it, such as the blocks composing the surface or the plants that thrive in it. The biome type also determines which mobs can spawn within it and affects how environmental behaviors such as weather are expressed within it."
+  ],
+  "Natural structures[edit | edit source]": [
+    "The Overworld is composed of 17 terrain patterns, called generated structures, whose arrangement varies widely from one seed to another. The exact structures are unique to each world, while the types of structures that can be generated at a given place are determined by the biome type. Structures are meant to represent real-world equivalents such as mountains, caves, and lakes. \"Impossible\" (in the real world) formations, such as floating islands, can also be found throughout the Overworld.",
+    "Along with terrain features, natural structures include naturally-generated buildings, such as villages, monster rooms, mineshafts, and ruined portals."
+  ],
+  "Daylight cycle[edit | edit source]": [
+    "The Overworld is the only dimension with a daylight cycle and the only one where the environment reflects the passage of time. In contrast to time zones in the real world, Overworld time is universal; it is always the same time for every player in the dimension regardless of how far apart they might be, even in an \"infinite\" world.",
+    "During the daytime, the sun acts as a powerful light source, with a light level of 15, the maximum. Sunlight is strong enough to grow plants and affect the way mobs spawn, among other interesting effects. During the nighttime, the moon is the only natural light source. However, moonlight is comparatively dim; the light level falls to a minimum of 4, allowing hostile mobs to spawn. Other than during thunderstorms, nighttime is the only time players may sleep in a bed.",
+    "The daylight cycle can effectively be measured using a clock, which allows players to determine the approximate Minecraft time anywhere in the Overworld. Time can also be changed or stopped with the use of the /time command.",
+    "The sun rises in the east and sets in the west, just as it does in the real world, though the sun will always be directly overhead at noon. Observing its motion is a simple method of telling direction without a compass."
+  ],
+  "Mobs[edit | edit source]": [
+    "The Overworld is home to the vast majority of Minecraft's mobs. Mobs vary greatly in behavior and the level of danger they present to the player. Different mobs spawn at different times and places depending on the light level and the biome, among other factors. On occasion, a mob can move between the Overworld and another dimension, such as The Nether, by using a portal, but this is uncommon. Boss mobs like the ender dragon and the wither cannot enter portals."
+  ],
+  "Animals and miscellaneous[edit | edit source]": [
+    "Allay\nArmadillo\nAxolotl\nBat\nBee\nCamel\nCat\nChicken\nCod\nCow\nDolphin\nDonkey\nFox\nFrog\nGlow Squid\nGoat\nHorse\nIron Golem\nLlama\nMooshroom\nNautilus​[upcoming Mounts of Mayhem]\nOcelot\nParrot\nPanda\nPig\nPolar Bear\nPufferfish\nRabbit\nSalmon\nSheep\nSquid\nTrader Llama\nTropical Fish\nTurtle\nVillager\nWandering Trader\nWolf"
+  ],
+  "Monsters[edit | edit source]": [
+    "Bogged\nBreeze\nCamel Husk​[upcoming Mounts of Mayhem]\nCave Spider\nCreaking\nCreeper\nDrowned\nElder Guardian\nEnderman\nEvoker\nGuardian\nHusk\nParched​[upcoming Mounts of Mayhem]\nPhantom\nPillager\nRavager\nSilverfish\nSkeleton\nSkeleton Horse\nSlime\nSpider\nStray\nVex\nVindicator\nWarden\nWitch\nZombie\nZombie Horse​[upcoming Mounts of Mayhem]\nZombie Nautilus​[upcoming Mounts of Mayhem]\nZombie Villager\nZombified Piglin"
+  ],
+  "Related mobs[edit | edit source]": [
+    "Additionally, some mobs can't naturally spawn without player interaction, but are related to the Overworld dimension:",
+    "Copper Golem\nHappy Ghast\nMule\nSniffer\nSnow Golem\nTadpole\nZoglin"
+  ],
+  "Generation[edit | edit source]": [
+    "As with all other dimensions in the game, the Overworld can generate infinitely. However, there are some limitations, as detailed below. Like the other dimensions, it is divided into 16×384×16 block sections called chunks.",
+    "The Overworld encompasses a three-dimensional volume that extends vertically from the Void up to the build limit (y=-64 to 320), and horizontally for a virtually infinite distance in each direction. This volume is filled (virtually speaking) with air, terrain, and structures. Technically, the terrain is formed by generating multiple noise maps to produce differing elevations, general land shapes, and complex mountain and cave systems."
+  ],
+  "Limitations[edit | edit source]": [
+    "While the world is virtually infinite, the number of blocks a player may physically reach is limited with where the limits are depending on the edition of the game and the world type being played.",
+    "In Java Edition, the map contains a world border located by default at X/Z coordinates ±29,999,984. The world border is an animated wall of blue stripes. Standing near the border results in a red vignette appearing around the screen. Most entities are unable to pass the border, except by teleporting. Players who breach the border receive constant damage unless they are in Creative or Spectator mode. The player can teleport past the world border and continue as far as X/Z ±29,999,999, where there is an invisible wall. However, the player can travel a few chunks further by riding horses, pigs, minecarts and boats through it.",
+    "In Bedrock Edition, worlds have no fixed horizontal limits, but either generation stops or normal game behavior begins to break down at extreme distances; the exact details depend on the platform. However, experiments suggest that players can generally reach at least X/Z ±30,000,000 before many such problems occur."
+  ],
+  "Terrain features[edit | edit source]": [
+    "The Overworld contains numerous terrain features, at a wide variety of scales."
+  ],
+  "Blocks[edit | edit source]": [],
+  "Naturally generated[edit | edit source]": [
+    "\"Naturally generated\" includes blocks that are created through the world seed.",
+    "Air\nCave Air‌[JE  only]\nVoid Air‌[JE  only]\nBedrock\nStone\nDeepslate\nGranite\nDiorite\nAndesite\nTuff\nCalcite\nDripstone Block\nPointed Dripstone\nSmooth Basalt\nCoal Ore\nDeepslate Coal Ore\nIron Ore\nDeepslate Iron Ore\nCopper Ore\nDeepslate Copper Ore\nGold Ore\nDeepslate Gold Ore\nRedstone Ore\nDeepslate Redstone Ore\nEmerald Ore\nDeepslate Emerald Ore\nLapis Lazuli Ore\nDeepslate Lapis Lazuli Ore\nDiamond Ore\nDeepslate Diamond Ore\nBlock of Raw Iron\nBlock of Raw Copper\nBlock of Amethyst\nBudding Amethyst\nSmall Amethyst Bud\nMedium Amethyst Bud\nLarge Amethyst Bud\nAmethyst Cluster\nGrass Block\nMycelium\nPodzol\nDirt\nCoarse Dirt\nRooted Dirt\nMoss Block\nMoss Carpet\nPale Moss Block\nPale Moss Carpet\nClay\nMud\nWater\nLava\nSand\nRed Sand\nGravel\nSandstone\nRed Sandstone\nSnow\nSnow Block\nPowder Snow\nIce\nPacked Ice\nBlue Ice\nOak Log\nSpruce Log\nBirch Log\nJungle Log\nAcacia Log\nDark Oak Log\nMangrove Log\nCherry Log\nPale Oak Log\nOak Leaves\nSpruce Leaves\nBirch Leaves\nJungle Leaves\nAcacia Leaves\nDark Oak Leaves\nAzalea Leaves\nFlowering Azalea Leaves\nMangrove Leaves\nMangrove Propagule\nMangrove Roots\nMuddy Mangrove Roots\nCherry Leaves\nPale Oak Leaves\nShort Grass\nTall Grass\nFern\nLarge Fern\nDead Bush\nDandelion\nPoppy\nBlue Orchid\nAllium\nAzure Bluet\nRed Tulip\nOrange Tulip\nWhite Tulip\nPink Tulip\nOxeye Daisy\nCornflower\nLily of the Valley\nEyeblossom\nPink Petals\nSunflower\nLilac\nRose Bush\nPeony\nBrown Mushroom\nRed Mushroom\nBrown Mushroom Block\nRed Mushroom Block\nMushroom Stem\nCactus\nSugar Cane\nPumpkin\nMelon\nVines\nLily Pad\nCocoa\nBamboo\nSweet Berry Bush\nInfested Stone\nInfested Deepslate\nTerracotta\nRed Terracotta\nOrange Terracotta\nYellow Terracotta\nBrown Terracotta\nWhite Terracotta\nLight Gray Terracotta\nMagma Block\nKelp\nKelp Plant\nSeagrass\nTall Seagrass\nSea Pickle\nBubble Column\nTube Coral\nTube Coral Fan\nTube Coral Block\nDead Tube Coral‌[BE  only]\nDead Tube Coral Fan‌[BE  only]\nDead Tube Coral Block‌[BE  only]\nBrain Coral\nBrain Coral Fan\nBrain Coral Block\nDead Brain Coral‌[BE  only]\nDead Brain Coral Fan‌[BE  only]\nDead Brain Coral Block‌[BE  only]\nBubble Coral\nBubble Coral Fan\nBubble Coral Block\nDead Bubble Coral‌[BE  only]\nDead Bubble Coral Fan‌[BE  only]\nDead Bubble Coral Block‌[BE  only]\nFire Coral\nFire Coral Fan\nFire Coral Block\nDead Fire Coral‌[BE  only]\nDead Fire Coral Fan‌[BE  only]\nDead Fire Coral Block‌[BE  only]\nHorn Coral\nHorn Coral Fan\nHorn Coral Block\nDead Horn Coral‌[BE  only]\nDead Horn Coral Fan‌[BE  only]\nDead Horn Coral Block‌[BE  only]\nBee Nest\nGlow Lichen\nCave Vines\nCave Vines Plant\nAzalea\nFlowering Azalea\nSmall Dripleaf\nBig Dripleaf\nBig Dripleaf Stem\nHanging Roots\nPale Hanging Moss\nSculk\nSculk Sensor\nSculk Catalyst\nSculk Shrieker\nSculk Vein\nBone Block\nCobblestone\nMossy Cobblestone\nMonster Spawner\nCreaking Heart\nChest\nSuspicious Sand\nSandstone Slab"
+  ],
+  "Naturally created[edit | edit source]": [
+    "\"Naturally created\" means a combination of events that cause a new block to be placed by natural causes, not the player. Some of these blocks may also be created as part of world generation.",
+    "Air\nSmall Amethyst Bud\nMedium Amethyst Bud\nLarge Amethyst Bud\nAmethyst Cluster\nGrass Block\nDirt\nMycelium\nWater\nRed Mushroom\nBrown Mushroom\nKelp\nKelp Plant\nCave Vines\nCave Vines Plant\nPointed Dripstone\nCobblestone\nStone\nObsidian\nFire\nSnow\nIce\nCactus\nSugar Cane\nVines"
+  ],
+  "Structures[edit | edit source]": [
+    "These blocks are created only with the \"Generate Structures\" option enabled.",
+    "Polished Granite\nPolished Diorite\nPolished Andesite\nPolished Tuff\nNetherrack\nSoul Sand\nSoul Fire\nOak Wood\nSpruce Wood\nAcacia Wood\nStripped Oak Log\nStripped Spruce Log\nStripped Jungle Log‌[BE  only]\nStripped Acacia Log\nStripped Dark Oak Log‌[BE  only]\nStripped Oak Wood\nStripped Spruce Wood\nOak Planks\nSpruce Planks\nBirch Planks\nJungle Planks\nAcacia Planks\nDark Oak Planks\nAcacia Sapling\nDark Oak Sapling\nChiseled Sandstone\nCut Sandstone\nSmooth Stone\nSmooth Sandstone\nWhite Wool\nRed Wool\nOrange Wool\nLight Blue Wool\nYellow Wool\nLime Wool\nGray Wool\nLight Gray Wool\nCyan Wool\nBlue Wool\nBrown Wool\nGreen Wool\nBlack Wool\nWhite Carpet\nOrange Carpet\nMagenta Carpet\nGray Carpet\nLight Blue Carpet\nYellow Carpet\nLime Carpet\nPink Carpet\nLight Gray Carpet\nCyan Carpet\nPurple Carpet\nBlue Carpet\nBrown Carpet\nGreen Carpet\nRed Carpet\nBlack Carpet\nBricks\nIron Chain\nTorch\nLantern\nSoul Lantern\nCandle\nWhite Candle\nBrown Candle\nGreen Candle\nPurple Candle\nRed Candle\nBlock of Coal\nBlock of Copper\nOxidized Cut Copper\nWaxed Chiseled Copper\nWaxed Block of Copper\nWaxed Copper Grate\nWaxed Cut Copper\nWaxed Oxidized Chiseled Copper\nWaxed Oxidized Copper\nWaxed Oxidized Copper Grate\nWaxed Oxidized Cut Copper\nBlock of Lapis Lazuli\nBlock of Gold\nBlock of Diamond\nCrying Obsidian\nTrapped Chest\nFurnace\nCrafting Table\nFarmland\nLadder\nBookshelf\nCobweb\nMelon Stem\nCarved Pumpkin\nJack o'Lantern\nPumpkin Stem\nRail\nLever\nStone Button\nOak Button\nJungle Button\nStone Pressure Plate\nOak Pressure Plate\nSpruce Pressure Plate\nAcacia Pressure Plate\nOak Fence\nSpruce Fence\nJungle Fence\nAcacia Fence\nDark Oak Fence\nOak Fence Gate\nSpruce Fence Gate\nJungle Fence Gate\nAcacia Fence Gate\nDark Oak Fence Gate\nOak Trapdoor\nSpruce Trapdoor\nJungle Trapdoor\nAcacia Trapdoor‌[BE  only]\nDark Oak Trapdoor\nIron Trapdoor\nWaxed Oxidized Copper Trapdoor\nOxidized Copper Trapdoor\nBrick Wall\nCobblestone Wall\nDiorite Wall\nGranite Wall\nSandstone Wall\nCobbled Deepslate Wall\nPolished Deepslate Wall\nDeepslate Brick Wall\nDeepslate Tile Wall\nIron Bars\nGlass\nWhite Stained Glass\nLight Gray Stained Glass\nBlack Stained Glass\nGlass Pane\nBrown Stained Glass Pane\nWhite Stained Glass Pane\nOrange Stained Glass Pane\nYellow Stained Glass Pane\nStone Bricks\nCracked Stone Bricks\nMossy Stone Bricks\nChiseled Stone Bricks\nInfested Stone Bricks\nInfested Mossy Stone Bricks\nInfested Chiseled Stone Bricks\nInfested Cobblestone\nCauldron\nBrewing Stand\nEnd Portal Frame\nEnd Portal\nDecorated Pot\nFlower Pot\nPotted Dandelion\nPotted Poppy\nPotted Blue Orchid\nPotted Allium\nPotted Azure Bluet\nPotted Red Tulip\nPotted White Tulip\nPotted Oxeye Daisy\nPotted Dead Bush\nPotted Spruce Sapling\nPotted Birch Sapling\nPotted Red Mushroom\nPotted Cactus\nDamaged Anvil\nHay Bale\nLight Blue Terracotta\nLime Terracotta\nGray Terracotta\nCyan Terracotta\nBlue Terracotta\nPrismarine\nPrismarine Bricks\nDark Prismarine\nSea Lantern\nWet Sponge\nDirt Path\nOminous Wall Banner\nGray Wall Banner\n Light Gray Wall Banner\nBrown Wall Banner\nBlack Wall Banner\nWhite Glazed Terracotta\nOrange Glazed Terracotta\nLight Blue Glazed Terracotta\nYellow Glazed Terracotta\nLime Glazed Terracotta\nLight Gray Glazed Terracotta\nCyan Glazed Terracotta\nPurple Glazed Terracotta\nRed Glazed Terracotta\nBlack Glazed Terracotta\nIron Door\nWaxed Copper Door\nWaxed Oxidized Copper Door\nOak Door\nSpruce Door\nJungle Door\nAcacia Door\nDark Oak Door\nOak Wall Sign\nSpruce Wall Sign\nWaxed Cut Copper Stairs\nWaxed Oxidized Cut Copper Stairs\nOak Stairs\nBirch Stairs\nSpruce Stairs\nJungle Stairs\nAcacia Stairs\nDark Oak Stairs\nDiorite Stairs\nGranite Stairs\nSandstone Stairs\nSmooth Sandstone Stairs\nCobblestone Stairs\nMossy Cobblestone Stairs\nStone Brick Stairs\nMossy Stone Brick Stairs\nCobbled Deepslate Stairs\nPolished Deepslate Stairs\nDeepslate Brick Stairs\nDeepslate Tile Stairs\nBrick Stairs\nMud Brick Stairs\nOak Slab\nSpruce Slab\nJungle Slab\nAcacia Slab\nDark Oak Slab\nStone Slab\nSmooth Sandstone Slab\nCobblestone Slab\nMossy Cobblestone Slab\nSmooth Stone Slab\nStone Brick Slab\nPolished Tuff Slab\nMossy Stone Brick Slab\nCobbled Deepslate Slab\nPolished Deepslate Slab\nDeepslate Brick Slab\nDeepslate Tile Slab\nBrick Slab\nMud Brick Slab\nWaxed Cut Copper Slab\nWaxed Oxidized Cut Copper Slab\nTripwire Hook\nTripwire\nRedstone Dust\nRedstone Repeater\nRedstone Comparator\nRedstone Torch\nBlock of Redstone\nSticky Piston\nDispenser\nHopper\nTNT\nTarget\nNote Block\nRedstone Lamp\nWaxed Copper Bulb\nWheat\nCarrots\nPotatoes\nBeetroots\nWhite Bed\nBrown Bed\nOrange Bed\nYellow Bed\nCyan Bed\nPurple Bed\nMagenta Bed\nBlue Bed\nGreen Bed\nRed Bed\nTrial Spawner\nVault\nBell\nLoom\nCampfire\nBarrel\nLectern\nBlast Furnace\nSmoker\nCartography Table\nComposter\nStonecutter\nGrindstone\nSmithing Table\nFletching Table\nSkeleton Skull\nTuff Bricks\nChiseled Tuff\nChiseled Tuff Bricks\nCobbled Deepslate\nReinforced Deepslate\nChiseled Deepslate\nDeepslate Bricks\nCracked Deepslate Bricks\nDeepslate Tiles\nCracked Deepslate Tiles\nPolished Deepslate\nPolished Basalt\nMud Bricks\nWhite Concrete\nCyan Concrete\nRed Concrete\nPacked Mud\nSuspicious Gravel"
+  ],
+  "Technical information[edit | edit source]": [],
+  "ID[edit | edit source]": [],
+  "Folder[edit | edit source]": [
+    "In Java Edition, information on the Overworld is stored in the region folder of the .minecraft/saves/worldname directory, with \"worldname\" being the name of the player's world.",
+    "Deleting the region folder resets the Overworld so that all player-made changes and buildings in that dimension are undone."
+  ],
+  "Achievements[edit | edit source]": [
+    "Some achievements and advancements are obtained only in the Overworld, as their conditions cannot be replicated in the Nether or the End at all."
+  ],
+  "Advancements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Overworld\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "The classic finite generator used in late 2009.\n\n\n\nThe version of the terrain generator used prior to Alpha v1.2.0.\n\n\n\nThe world generator used from Alpha v1.2.0 to Beta 1.7.3.\n\n\n\nThe world generator used from Java Edition Beta 1.8 to 1.6.4.\n\n\n\nThe world generator used from release 1.7.2 to 1.17.1.\n\n\n\nThe world generator used from Java Edition 1.18.\n\n\n\nAnother view of post-1.18 world generation."
+  ],
+  "In other media[edit | edit source]": [
+    "Artwork of an island base.\n\n\n\nArtwork for the 15th anniversary of Minecraft, showing a view of the Overworld with many mobs, including nearly every character.\n\n\n\nThe Overworld as it appears in Around the Minecraft World in 80 Biomes.[2]\n\n\n\nThe Overworld as it appears in Sonic Racing: CrossWorlds.\n\n\n\nOfficial T-shirt \"Line Time\" depicting the overworld made by JINX.\n\n\n\nPoster of the Overworld."
+  ],
+  "Trivia[edit | edit source]": [
+    "The maximum number of blocks that can be generated in the Overworld is approximately 921.6 quadrillion (9.216×1017) blocks, assuming a distance of 30,000,000 blocks in either direction.\nThe total area is about 8 times the surface of the Earth.\nThis means that storing a filled world, with no entities or block entities, would require 3.6864 quintillion (3.6864×1018) bits (409 petabytes) for the block data alone, based on the fact that each standard block is assigned 4 bits of information.\nBy manually modifying the game, it is possible to generate the world up to 2,147,483,647 blocks (the 32-bit integer limit) in either direction.\nA 1:1 (1 block = 1 meter) scale map of the Earth, built-in Minecraft, would be 510.9 trillion (5.109×1014) blocks in size.\nAssuming the map is one block deep and uses 1 byte per block, its size would be approximately 475,800 GB (464.7 TB).\nA Moon-sized map would be made of 37.95 trillion (3.795×1013) blocks. Its data size would be 35,340 GB (34.52 TB).",
+    "The total area is about 8 times the surface of the Earth.\nThis means that storing a filled world, with no entities or block entities, would require 3.6864 quintillion (3.6864×1018) bits (409 petabytes) for the block data alone, based on the fact that each standard block is assigned 4 bits of information.\nBy manually modifying the game, it is possible to generate the world up to 2,147,483,647 blocks (the 32-bit integer limit) in either direction.",
+    "Assuming the map is one block deep and uses 1 byte per block, its size would be approximately 475,800 GB (464.7 TB).\nA Moon-sized map would be made of 37.95 trillion (3.795×1013) blocks. Its data size would be 35,340 GB (34.52 TB)."
+  ],
+  "See also[edit | edit source]": [
+    "Tutorial:Navigation – Tips for navigating at the Overworld\nSurvival\nThe Nether\nThe End"
+  ],
+  "References[edit | edit source]": [
+    "↑ http://www.minecraftforum.net/topic/1981051-it-seems-that-the-underground-is-no-longer-swiss-cheese-anymore/page__hl__cave%20generation%20swiss%20cheese\n\n↑ \"Trailer - Around the Minecraft World in 80 Biomes\"  – Minecraft on YouTube, November 6, 2022"
+  ],
+  "Navigation[edit | edit source]": []
+}

@@ -1,0 +1,95 @@
+{
+  "Introduction": [
+    "Minecraft offers controls tailored for different input methods.  While Java Edition is playable only with a keyboard and mouse, Bedrock Edition has a wider variety of control schemes in order to accommodate players across all platforms. These controls can be changed in the options menu."
+  ],
+  "Contents": [
+    "1 Java Edition\n\n1.1 Visual map\n1.2 Non-configurable controls\n\n1.2.1 Menu controls\n\n\n1.3 Semi-configurable controls\n1.4 Configurable controls\n\n\n2 Bedrock Edition\n\n2.1 Keyboard & Mouse\n2.2 Controller\n2.3 Touch\n\n\n3 Legacy versions\n\n3.1 Pi Edition\n3.2 Pocket Edition: Xperia Play\n3.3 Legacy Console Edition\n\n3.3.1 Notes\n3.3.2 Gameplay\n3.3.3 In crafting\n\n\n3.4 New Nintendo 3DS Edition\n\n\n4 History\n\n4.1 Java Edition\n4.2 Bedrock Edition\n4.3 Minecraft Education\n4.4 Legacy Console Edition\n\n\n5 Issues\n6 Gallery\n\n6.1 Screenshots\n\n\n7 Ore UI control icons\n\n7.1 Keyboard and mouse controls\n7.2 Controller controls\n\n\n8 See also\n9 References\n10 External links\n11 Navigation",
+    "1.1 Visual map\n1.2 Non-configurable controls\n\n1.2.1 Menu controls\n\n\n1.3 Semi-configurable controls\n1.4 Configurable controls",
+    "2.1 Keyboard & Mouse\n2.2 Controller\n2.3 Touch",
+    "3.1 Pi Edition\n3.2 Pocket Edition: Xperia Play\n3.3 Legacy Console Edition\n\n3.3.1 Notes\n3.3.2 Gameplay\n3.3.3 In crafting\n\n\n3.4 New Nintendo 3DS Edition",
+    "3.3.1 Notes\n3.3.2 Gameplay\n3.3.3 In crafting",
+    "4.1 Java Edition\n4.2 Bedrock Edition\n4.3 Minecraft Education\n4.4 Legacy Console Edition",
+    "7.1 Keyboard and mouse controls\n7.2 Controller controls"
+  ],
+  "Java Edition[edit | edit source]": [],
+  "Visual map[edit | edit source]": [],
+  "Non-configurable controls[edit | edit source]": [
+    "Java Edition uses a combination of the mouse and keyboard for controls, generically known as \"mouselook/keymove.\" Many prior games (such as DOOM and Quake) have used such a scheme, but those who have not played such a game before may need practice to get around effectively. Creative mode or Peaceful difficulty in Survival mode are helpful for a player to gain familiarity with the controls."
+  ],
+  "Menu controls[edit | edit source]": [
+    "Menus out of the game and some in-game menus can be full navigated using the keyboard. Notable exception that can't be fully navigated are the various inventories and the Advancements screen."
+  ],
+  "Semi-configurable controls[edit | edit source]": [
+    "While aspects of these controls can be modified to an extent, full control over them is not possible."
+  ],
+  "Configurable controls[edit | edit source]": [
+    "These are controls that a user may change at their preference."
+  ],
+  "Bedrock Edition[edit | edit source]": [],
+  "Keyboard & Mouse[edit | edit source]": [
+    "The keyboard and mouse controls are similar to Java Edition, with a few differences. These controls can be changed in the Options. Keyboard controls are unavailable on the Nintendo Switch and are normally unavailable on Android, iOS, iPadOS, and Fire, but are possible to use from connected external keyboards. Mouse controls are unavailable on the Nintendo Switch.",
+    "The game will enter keyboard & mouse mode when it receives a mouse event, but key event won't.[needs testing]",
+    "If \"Full Keyboard Gameplay\" is enabled, the following inputs are made available/used instead."
+  ],
+  "Controller[edit | edit source]": [
+    "The \"Controller\" controls for gamepads are similar to the Xbox One, Nintendo Switch, and PlayStation 4 editions, with some differences. All of these controls, except the control sticks and menu controls, can be changed in the Options. The Nintendo Switch version can be played with a pair of Joy-Con or Joy-Con 2 controllers, the Nintendo Switch Pro Controller, the Nintendo Switch 2 Pro Controller, or the Nintendo Switch Lite. It cannot be played with a single Joy-Con or Joy-Con 2 controller, as they do not have enough buttons or control sticks. If the gamepad has two control sticks, then the left stick (////) would be used for moving and the right stick (////) would be used for looking. The blank spaces mean that the function is, by default, left unassigned and it is up to the player to assign a button to it. All platforms support gamepads.",
+    "Default Xbox controller diagram.\n\n\n\nDefault Nintendo Switch controller diagram.\n\n\n\nDefault PS4 controller diagram."
+  ],
+  "Touch[edit | edit source]": [
+    "\"Touch\" controls for touchscreen devices use controls shown on the screen. Split-touch controls displays a cross hair, which can be set in Settings. Movement and interact controls can be changed by selecting control mode in Settings, with the ability to customize the buttons. Touch controls are available on devices that is touch-enabled except the Nintendo Switch, where the touchscreen can only be used to interact with the hotbar, inventory, and menus.",
+    "The game will enter touch mode when it receives a touch event.[needs testing]"
+  ],
+  "Legacy versions[edit | edit source]": [
+    "These versions have either been discontinued or long forgotten about. However, their controls are documented here for historical purposes."
+  ],
+  "Pi Edition[edit | edit source]": [
+    "All of the controls in the Pi Edition are fixed and cannot be changed."
+  ],
+  "Pocket Edition: Xperia Play[edit | edit source]": [
+    "Note: For Xperia Play owners using the gamepad, while in Creative mode, the lowest two rows of items are beneath the screen, and one cannot scroll down to see them. They are still accessible, but it requires either remembering how many times one has to press the directional buttons to access them, or trial-and-error. This is most prominent in the 4.0 update, as the amount of items has increased, and now sixteen items are hidden. The only way to see them is to turn on the option to use touch controls in the options menu."
+  ],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Notes[edit | edit source]": [
+    "On the PlayStation Vita Edition (when playing on the PlayStation Vita), Wii U Edition (when playing on the Wii U GamePad), and Nintendo Switch Edition (when playing in Tabletop or Handheld mode), the touchscreen can be used to control the tooltips shown at the bottom of the screen (if enabled), as well as the menus and inventory.\nLikewise, on the PlayStation 4 Edition, the Touch pad can be used to move the inventory cursor as well as control the menus by swiping.\nThe Wii U Edition can be played with a Wii U GamePad, Wii U Pro Controller, Classic Controller, or Classic Controller Pro. It cannot be played with a Wii Remote, Wii Remote Plus, or Nunchuk.\nNote: While the Wii U Edition can not be played with a Wii Remote or Wii Remote Plus, a Wii Remote or Wii Remote Plus is required to play with a Classic Controller or Classic Controller Pro.\nThe Nintendo Switch Edition can be played with a pair of Joy-Con, the Nintendo Switch Pro Controller, or the Nintendo Switch Lite. It cannot be played with a single Joy-Con, as it does not have enough buttons or control sticks.",
+    "Likewise, on the PlayStation 4 Edition, the Touch pad can be used to move the inventory cursor as well as control the menus by swiping.",
+    "Note: While the Wii U Edition can not be played with a Wii Remote or Wii Remote Plus, a Wii Remote or Wii Remote Plus is required to play with a Classic Controller or Classic Controller Pro."
+  ],
+  "Gameplay[edit | edit source]": [
+    "↑ a b Wii U GamePad and Wii U Pro Controller.\n\n↑ a b Classic Controller and Classic Controller Pro.\n\n↑ There is no actual \"throw\" command; \"drop\" (default //////) tosses an object approximately 2 to 3 blocks from the player. Eggs and snowballs can be thrown by the \"use\" command (default //////). The eggs and snowballs fly in an arc."
+  ],
+  "In crafting[edit | edit source]": [],
+  "New Nintendo 3DS Edition[edit | edit source]": [
+    "All of the controls in the New Nintendo 3DS Edition are fixed and cannot be changed."
+  ],
+  "History[edit | edit source]": [
+    "Missing information from Java Edition and legacy console, when each button had its action added or changed?"
+  ],
+  "Minecraft Education[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Controls\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "Xbox 360 Edition 1.66.0016.0 controls\n\n\n\nXbox 360 Edition 1.66.0033.0 controls\n\n\n\nXbox 360 Edition 0.66.0054.0 controls\n\n\n\nXbox 360 Edition TU1 controls\n\n\n\nXbox 360 Edition TU5 controls\n\n\n\nXbox 360 Edition TU7 controls\n\n\n\nXbox 360 Edition TU9 controls\n\n\n\nXbox 360 Edition TU12 controls\n\n\n\nXbox 360 Edition TU14 controls\n\n\n\nXbox 360 Edition TU20 controls\n\n\n\nXbox 360 Edition TU31 controls\n\n\n\nXbox 360 Edition TU36 controls\n\n\n\nXbox 360 Edition TU43 controls\n\n\n\nXbox 360 Edition TU46 controls\n\n\n\nXbox 360 Edition TU57 controls\n\n\n\nXbox 360 Edition TU69 controls"
+  ],
+  "Ore UI control icons[edit | edit source]": [],
+  "Keyboard and mouse controls[edit | edit source]": [
+    "Key A\n Key B\n Key C\n Key D\n Key E\n Key F\n Key G\n Key H\n Key I\n Key J\n Key K\n Key L\n Key M\n Key N\n Key O\n Key P\n Key Q\n Key R\n Key S\n Key T\n Key U\n Key V\n Key W\n Key X\n Key Y\n Key Z\n Key F2\n Key arrow up\n Key arrow right\n Key arrow down\n Key arrow left\n Key bracket close\n Key bracket close small\n Key bracket open\n Key bracket open small\n Key /\n Key alt\n Key ctrl\n Key ctrl small\n Key enter\n Key esc\n Key shift\n Key space\n Key tab\n Mouse\n Mouse left click\n Mouse right click\n Mouse scroll click\n Mouse scroll wheel\n Touch selection"
+  ],
+  "Controller controls[edit | edit source]": [
+    "X button\n A button\n B button\n Y button\n Up button\n Right button\n Down button\n Left button\n Menu button, d-pad\n Select button\n Right stick\n Right bumper\n Right trigger\n Right stick click\n Left stick\n Left bumper\n Left trigger\n Left stick click",
+    "Triangle button\n O button\n X button\n Square button\n Up, d-pad\n Right, d-pad\n Down, d-pad\n Left, d-pad\n Menu / select buttons\n Touch pad\n Right srick\n Right bumper\n Right trigger\n Right stick click\n Left stick\n Left bumper\n Left trigger\n Left stick click",
+    "Triangle button\n O button\n X button\n Square button\n Up, d-pad\n Right, d-pad\n Down, d-pad\n Left, d-pad\n Menu buttons\n Touch pad\n Right srick\n Right bumper\n Right trigger\n Right stick click\n Left stick\n Left bumper\n Left trigger\n Left stick click",
+    "Y button\n B button\n A button\n X button\n Up, d-pad\n Right, d-pad\n Down, d-pad\n Left, d-pad\n Menu button\n Select button\n Right stick\n Right bumper\n Right trigger\n Right stick click\n Left stick\n Left bumper\n Left trigger\n Left stick click"
+  ],
+  "See also[edit | edit source]": [
+    "Options\nSettings\nHeads-up display\nDebug screen\nOre UI, the Bedrock Edition UI refresh"
+  ],
+  "References[edit | edit source]": [
+    "↑ MCPE-90947\n\n↑ MCPE-90947"
+  ],
+  "External links[edit | edit source]": [
+    "Hotkeys in Minecraft: Java Edition – Minecraft Help Center"
+  ],
+  "Navigation[edit | edit source]": []
+}

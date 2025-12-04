@@ -1,0 +1,194 @@
+{
+  "Introduction": [
+    "Redstone components are the blocks used to build redstone circuits. Redstone components include power source components (such as redstone torches, buttons, and pressure plates), transmission components (such as redstone dust and redstone repeaters), and mechanism components (such as pistons, doors, and redstone lamps).",
+    "This article assumes familiarity with the basics of redstone structures. This article also limits its discussion of each component to its role in redstone structures; for full details about a component, see the main article for the block."
+  ],
+  "Contents": [
+    "1 Power components\n\n1.1 Block of redstone\n1.2 Button\n1.3 Calibrated sculk sensor\n1.4 Daylight detector\n1.5 Detector rail\n1.6 Jukebox\n1.7 Lectern\n1.8 Lever\n1.9 Lightning rod\n1.10 Observer\n1.11 Pressure plate\n1.12 Redstone torch\n1.13 Sculk sensor\n1.14 Target\n1.15 Trapped chest\n1.16 Tripwire hook\n\n\n2 Transmission components\n\n2.1 Redstone dust\n2.2 Redstone repeater\n2.3 Redstone comparator\n\n\n3 Mechanism components\n\n3.1 Activator rail\n3.2 Bell\n3.3 Big dripleaf\n3.4 Copper bulb\n3.5 Crafter\n3.6 Dispenser\n3.7 Door\n3.8 Dragon head\n3.9 Dropper\n3.10 Fence gate\n3.11 Hopper\n3.12 Note block\n3.13 Piglin Head\n3.14 Piston\n3.15 Powered rail\n3.16 Rail\n3.17 Redstone lamp\n3.18 TNT\n3.19 Trapdoor\n3.20 Command block\n3.21 Structure block\n\n\n4 Mobile components\n\n4.1 Boat with chest\n4.2 Minecart\n4.3 Minecart with chest\n4.4 Minecart with command block\n4.5 Minecart with furnace\n4.6 Minecart with hopper\n4.7 Minecart with TNT\n\n\n5 Video\n6 Navigation",
+    "1.1 Block of redstone\n1.2 Button\n1.3 Calibrated sculk sensor\n1.4 Daylight detector\n1.5 Detector rail\n1.6 Jukebox\n1.7 Lectern\n1.8 Lever\n1.9 Lightning rod\n1.10 Observer\n1.11 Pressure plate\n1.12 Redstone torch\n1.13 Sculk sensor\n1.14 Target\n1.15 Trapped chest\n1.16 Tripwire hook",
+    "2.1 Redstone dust\n2.2 Redstone repeater\n2.3 Redstone comparator",
+    "3.1 Activator rail\n3.2 Bell\n3.3 Big dripleaf\n3.4 Copper bulb\n3.5 Crafter\n3.6 Dispenser\n3.7 Door\n3.8 Dragon head\n3.9 Dropper\n3.10 Fence gate\n3.11 Hopper\n3.12 Note block\n3.13 Piglin Head\n3.14 Piston\n3.15 Powered rail\n3.16 Rail\n3.17 Redstone lamp\n3.18 TNT\n3.19 Trapdoor\n3.20 Command block\n3.21 Structure block",
+    "4.1 Boat with chest\n4.2 Minecart\n4.3 Minecart with chest\n4.4 Minecart with command block\n4.5 Minecart with furnace\n4.6 Minecart with hopper\n4.7 Minecart with TNT"
+  ],
+  "Power components[edit | edit source]": [
+    "Power components create redstone signals, either permanently or in response to player, mob, and environmental activity."
+  ],
+  "Block of redstone[edit | edit source]": [
+    "A block of redstone provides a constant redstone signal. It can be moved by pistons.",
+    "activates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters and redstone comparators facing away from the block with a redstone signal of strength 15\nwhen placed adjacent to a redstone comparator, the comparator behaves as if a redstone dust with a power of 15 was placed next to it, this is different from having a powered block next to the comparator"
+  ],
+  "Button[edit | edit source]": [
+    "A button is used to generate a redstone pulse. A button may be of three types: wooden, stone, or polished blackstone.",
+    "powers the block it is attached to\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and adjacent redstone repeaters and comparators facing away from the button with a redstone signal of strength 15"
+  ],
+  "Calibrated sculk sensor[edit | edit source]": [
+    "A calibrated sculk sensor functions similar to a sculk sensor (emitting a redstone signal when it detects a vibration), but with twice the range and half the cooldown of a sculk sensor. It can be filtered using a redstone signal strength level to make it only detect a specific vibration frequency.",
+    "powers the block beneath it\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust and adjacent redstone repeaters facing away from the sensor with a redstone signal whose strength that depends on the distance of the source of the vibration\npowers redstone comparators facing away from the sensor with a redstone signal whose strength depends on the type of vibration"
+  ],
+  "Daylight detector[edit | edit source]": [
+    "A daylight detector that emits a redstone signal based on time of day, weather, and internal skylight levels.",
+    "A daylight detector updates its output 20 game ticks (1 second) after a change in light level, or after being placed.",
+    "activates adjacent redstone mechanism components\npowers adjacent redstone dust, redstone repeaters and redstone comparators facing away from the detector with a redstone signal whose strength depends on the current time of day, weather, and internal skylight"
+  ],
+  "Detector rail[edit | edit source]": [
+    "A detector rail is used to detect the passage of a minecart.",
+    "powers the block it is attached to\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters facing away from it with a redstone signal of strength 15",
+    "powers redstone comparators facing away from the rail when activated by a minecart with chest or a minecart with hopper with a redstone signal whose strength depends on the fullness of the minecart"
+  ],
+  "Jukebox[edit | edit source]": [
+    "A jukebox with a music disc playing emits a redstone signal.",
+    "activates adjacent redstone mechanism components\npowers adjacent redstone dust and redstone repeaters facing away from the jukebox with a redstone signal of strength 15\npowers redstone comparators facing away from the jukebox with a signal strength that depends on the inserted music disc. Comparators are powered as long as the disc is stored in the jukebox, even if it has stopped playing."
+  ],
+  "Lectern[edit | edit source]": [
+    "A lectern is a block that can hold a book and quill or a written book and can produce a redstone pulse or a constant redstone signal.",
+    "powers the block beneath it\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters facing away from the lectern with a redstone signal of strength 15"
+  ],
+  "Lever[edit | edit source]": [
+    "A lever is a power source that can be toggled on or off.",
+    "powers the block it is attached to\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters and redstone comparators facing away from the lever with a signal of strength 15"
+  ],
+  "Lightning rod[edit | edit source]": [
+    "A lightning rod emits a redstone signal when struck by lightning.",
+    "A lightning rod is activated when struck by lightning during a thunderstorm, including when the player throws a trident enchanted with Channeling at the lightning rod. The lightning rod remains activated for 8 game ticks (0.4 seconds)",
+    "powers the block it is attached to\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters and redstone comparators facing away from the lightning rod with a redstone signal of strength 15"
+  ],
+  "Observer[edit | edit source]": [
+    "An observer produces a redstone signal when it detects a block change.",
+    "power a block\nactivate a redstone mechanism component\npower redstone dust, a redstone repeater, or a redstone comparator facing away from the observer's output with a signal of strength 15"
+  ],
+  "Pressure plate[edit | edit source]": [
+    "A pressure plate emits a redstone signal when it detects players, mobs, items, or other entities. There are four types of pressure plates: wood, stone, light weighted, and heavy weighted.",
+    "powers the block it is attached to\nactivates adjacent redstone mechanism components\npowers redstone dust, and redstone repeaters and redstone comparators facing away from the pressure plate",
+    "wood and stone pressure plates emit redstone signals of strength 15\nlight and heavy weighted pressure plates emit a redstone signal whose strength depends on the number of entities on the pressure plate"
+  ],
+  "Redstone torch[edit | edit source]": [
+    "A redstone torch provides a constant redstone signal.",
+    "powers the block above it\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters and redstone comparators facing away from the torch with a redstone signal of strength 15"
+  ],
+  "Sculk sensor[edit | edit source]": [
+    "A sculk sensor emits a redstone signal when it detects a vibration.",
+    "powers the block beneath it\nactivate adjacent redstone mechanism components\npowers adjacent redstone dust and adjacent redstone repeaters facing away from the sensor with a redstone signal whose strength that depends on the distance of the source of the vibration\npowers redstone comparators facing away from the sensor with a redstone signal whose strength depends on the type of vibration"
+  ],
+  "Target[edit | edit source]": [
+    "A target emits a redstone signal when hit by a projectile (including arrows, tridents, eggs, snowballs, splash potions, fire charges fired from dispensers, and lingering potions, but excluding ender pearls and eyes of ender).",
+    "activates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters and redstone comparators facing away from the target with a redstone signal whose strength depends on how close the projectile hits the target. The signal strength is 1 at the edge and 15 at the center."
+  ],
+  "Trapped chest[edit | edit source]": [
+    "A trapped chest produces a redstone signal when accessed by players.",
+    "powers the block beneath it\npowers adjacent redstone dust, and redstone repeaters facing away from the chest with a redstone signal whose strength depends on the number of players simultaneously accessing the chest (up to 15)\npowers redstone comparators facing away from the chest with a signal strength that depends on the fullness of the chest"
+  ],
+  "Tripwire hook[edit | edit source]": [
+    "A tripwire hook produces a redstone signal when it detects players, mobs, or other entities.",
+    "powers the block it is attached to\nactivates adjacent redstone mechanism components\npowers adjacent redstone dust, and redstone repeaters and comparators facing away from the tripwire hook with a redstone signal of strength 15"
+  ],
+  "Transmission components[edit | edit source]": [
+    "Transmission components propagate signals and pulses from power components to mechanism components. Complex effects can also be produced by allowing a signal to affect itself or its circuit."
+  ],
+  "Redstone dust[edit | edit source]": [
+    "Redstone dust transmits a redstone signal."
+  ],
+  "Redstone repeater[edit | edit source]": [
+    "A redstone repeater can transmit, strengthen, and delay redstone signals."
+  ],
+  "Redstone comparator[edit | edit source]": [
+    "A redstone comparator can retransmit a redstone signal, compare or subtract redstone signals, or read the block state of certain blocks (for example, the fullness of containers).",
+    "In comparison mode, if the comparator's back input is greater than or equal to the largest side input, the comparator outputs the back signal; otherwise it outputs no signal.",
+    "In subtraction mode, the comparator outputs a signal equal to: back input minus largest side input, and outputs no signal if the answer is 0 or negative.",
+    "See main article for details."
+  ],
+  "Mechanism components[edit | edit source]": [
+    "Mechanism components are blocks that are activated when they receive a redstone signal and perform an action, such as moving a block, producing light or sound, exploding, etc. These components can be activated by a power or transmission component, or by a powered block."
+  ],
+  "Activator rail[edit | edit source]": [
+    "An activator rail causes unique actions with different kinds of minecarts.",
+    "Regular minecarts with an entity riding it (mob or player) eject that entity if the activator rail is active.\nA minecart with hopper is deactivated by an activated activator rail (it stops sucking up items in its path, or transferring items to containers as it passes them), and re-activated by an unactivated activator rail.\nA minecart with TNT is ignited by an active activator rail.\nA minecart with command block executes its command every 4 game ticks (5 times per second).\nMinecarts with chest and minecarts with furnace are not affected by activator rails."
+  ],
+  "Bell[edit | edit source]": [
+    "Bells can be rung using a redstone signal."
+  ],
+  "Big dripleaf[edit | edit source]": [
+    "Big dripleaf is a unique plant block that provides a temporary horizontal barrier for mobs and entities, and can place the player in a crawl, similar to a trapdoor. A redstone signal can be used to prevent the big dripleaf from collapsing, and to restore it to its original state."
+  ],
+  "Copper bulb[edit | edit source]": [
+    "A copper bulb is a light source that can be toggled on or off using a redstone pulse."
+  ],
+  "Crafter[edit | edit source]": [
+    "A crafter is a block that can be used for automatic crafting."
+  ],
+  "Dispenser[edit | edit source]": [
+    "A dispenser ejects items into the world, or performs a unique action when it contains certain items."
+  ],
+  "Door[edit | edit source]": [
+    "A door is a switchable barrier that can allow or prevent mobs and entities from moving through it. A wooden door can be manually opened or closed by the player, or with a redstone signal. An iron door can only be opened with a redstone signal."
+  ],
+  "Dragon head[edit | edit source]": [
+    "The dragon head opens and closes its mouth repeatedly while activated."
+  ],
+  "Dropper[edit | edit source]": [
+    "A dropper can eject items into the world or into containers (including other droppers)."
+  ],
+  "Fence gate[edit | edit source]": [
+    "A fence gate is a switchable barrier that can allow or prevent mobs and entities from moving through it."
+  ],
+  "Hopper[edit | edit source]": [
+    "A hopper is used to move items to and from containers (including other hoppers)."
+  ],
+  "Note block[edit | edit source]": [
+    "A note block is used to produce a player-chosen sound."
+  ],
+  "Piglin Head[edit | edit source]": [
+    "The piglin head moves its ears repeatedly while activated."
+  ],
+  "Piston[edit | edit source]": [
+    "A piston is used to move blocks or entities. A piston may be of two types: a regular piston only pushes blocks, while a sticky piston pushes and pulls blocks."
+  ],
+  "Powered rail[edit | edit source]": [
+    "A powered rail is used to propel a minecart."
+  ],
+  "Rail[edit | edit source]": [
+    "A rail is used to switch the track of a minecart."
+  ],
+  "Redstone lamp[edit | edit source]": [
+    "A redstone lamp is used to provide light."
+  ],
+  "TNT[edit | edit source]": [
+    "TNT is used to create an explosion."
+  ],
+  "Trapdoor[edit | edit source]": [
+    "A trapdoor is a switchable barrier that can allow or prevent mobs and entities from moving through it. A wooden trapdoor can be open or closed manually by the player or using a redstone signal. An iron trapdoor can only be opened with a redstone signal."
+  ],
+  "Command block[edit | edit source]": [
+    "A command block is used to execute a server command. Command blocks can be obtained only by placing it or giving it to the player with commands.",
+    "A command block have 3 types: impulse (execute a command once), chain (execute a command when triggered), and repeat (execute a command for 2 or more ticks when powered)",
+    "A command block is a conductive block, so powering it directly can activate adjacent mechanism components (including other command blocks) as well."
+  ],
+  "Structure block[edit | edit source]": [
+    "A Structure Block is used to save and load structures. Structure blocks can be obtained only by placing it or giving it to the player with commands."
+  ],
+  "Mobile components[edit | edit source]": [
+    "Mobile components are blocks (entities) that can travel from the stationary blocks in a circuit and perform actions such as collecting or transporting items or mobs."
+  ],
+  "Boat with chest[edit | edit source]": [
+    "A boat with chest can be used to transport mobs and items over water."
+  ],
+  "Minecart[edit | edit source]": [
+    "A minecart is used to transport a mob or player over rails."
+  ],
+  "Minecart with chest[edit | edit source]": [
+    "A minecart with chest is used to store and transport items over rails."
+  ],
+  "Minecart with command block[edit | edit source]": [
+    "A minecart with command block is used to execute commands."
+  ],
+  "Minecart with furnace[edit | edit source]": [
+    "A minecart with furnace‌[Java Edition  only] (a.k.a. furnace minecart, powered minecart) is used to push other minecarts over rails."
+  ],
+  "Minecart with hopper[edit | edit source]": [
+    "A minecart with hopper is used to collect, transport, and distribute items over rails."
+  ],
+  "Minecart with TNT[edit | edit source]": [
+    "A minecart with TNT is used to create explosions."
+  ],
+  "Video[edit | edit source]": [],
+  "Navigation[edit | edit source]": []
+}

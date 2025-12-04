@@ -1,0 +1,238 @@
+{
+  "Introduction": [
+    "Armor is a category of items that provide players and mobs with some amount of protection from common types of damage. These items include helmets, chestplates, leggings, and boots, which can be placed in designated slots in a player's inventory."
+  ],
+  "Contents": [
+    "1 List of armor items\n\n1.1 Armor materials\n\n\n2 Obtaining\n\n2.1 Crafting\n2.2 Upgrading\n2.3 Natural generation\n2.4 Generated loot\n2.5 Mob loot\n2.6 Trading\n2.7 Bartering\n2.8 Fishing\n\n\n3 Usage\n\n3.1 Equipping\n3.2 Statistics\n3.3 Damage reduction\n\n3.3.1 Armor points\n3.3.2 Armor toughness\n3.3.3 Damage formulas\n3.3.4 Damage sources\n\n\n3.4 Knockback resistance\n3.5 Enchantments\n3.6 Durability\n3.7 Mob interactions\n3.8 Block interactions\n3.9 Locator bar\n3.10 Repairing\n\n3.10.1 Unit repair\n\n\n3.11 Dyeing leather armor\n3.12 Armor trims\n3.13 Smelting ingredient\n\n\n4 Mob armor\n\n4.1 Armor equipped on mobs\n4.2 Natural armor\n4.3 Other types of armor\n\n4.3.1 Horse armor\n4.3.2 Wolf armor\n4.3.3 Nautilus armor\n\n\n\n\n5 Sounds\n6 Data values\n\n6.1 ID\n6.2 Item data\n\n\n7 Achievements\n8 Advancements\n9 History\n\n9.1 Before Minecraft\n9.2 Java Edition\n9.3 Bedrock Edition\n9.4 Legacy Console Edition\n9.5 New Nintendo 3DS Edition\n9.6 Other\n\n\n10 Issues\n11 Trivia\n12 Gallery\n\n12.1 Renders\n\n12.1.1 Helmets\n12.1.2 Chestplates\n12.1.3 Leggings\n12.1.4 Boots\n\n\n12.2 Full Armor Sets\n12.3 Screenshots\n12.4 In other media\n\n\n13 See also\n14 Notes\n15 References\n16 Navigation",
+    "2.1 Crafting\n2.2 Upgrading\n2.3 Natural generation\n2.4 Generated loot\n2.5 Mob loot\n2.6 Trading\n2.7 Bartering\n2.8 Fishing",
+    "3.1 Equipping\n3.2 Statistics\n3.3 Damage reduction\n\n3.3.1 Armor points\n3.3.2 Armor toughness\n3.3.3 Damage formulas\n3.3.4 Damage sources\n\n\n3.4 Knockback resistance\n3.5 Enchantments\n3.6 Durability\n3.7 Mob interactions\n3.8 Block interactions\n3.9 Locator bar\n3.10 Repairing\n\n3.10.1 Unit repair\n\n\n3.11 Dyeing leather armor\n3.12 Armor trims\n3.13 Smelting ingredient",
+    "3.3.1 Armor points\n3.3.2 Armor toughness\n3.3.3 Damage formulas\n3.3.4 Damage sources",
+    "4.1 Armor equipped on mobs\n4.2 Natural armor\n4.3 Other types of armor\n\n4.3.1 Horse armor\n4.3.2 Wolf armor\n4.3.3 Nautilus armor",
+    "4.3.1 Horse armor\n4.3.2 Wolf armor\n4.3.3 Nautilus armor",
+    "9.1 Before Minecraft\n9.2 Java Edition\n9.3 Bedrock Edition\n9.4 Legacy Console Edition\n9.5 New Nintendo 3DS Edition\n9.6 Other",
+    "12.1 Renders\n\n12.1.1 Helmets\n12.1.2 Chestplates\n12.1.3 Leggings\n12.1.4 Boots\n\n\n12.2 Full Armor Sets\n12.3 Screenshots\n12.4 In other media",
+    "12.1.1 Helmets\n12.1.2 Chestplates\n12.1.3 Leggings\n12.1.4 Boots"
+  ],
+  "List of armor items[edit | edit source]": [
+    "Leather Cap\nCopper Helmet\nGolden Helmet\nChainmail Helmet\nIron Helmet\nDiamond Helmet\nNetherite Helmet\nTurtle Shell",
+    "Leather Tunic\nCopper Chestplate\nGolden Chestplate\nChainmail Chestplate\nIron Chestplate\nDiamond Chestplate\nNetherite Chestplate",
+    "Leather Pants\nCopper Leggings\nGolden Leggings\nChainmail Leggings\nIron Leggings\nDiamond Leggings\nNetherite Leggings",
+    "Leather Boots\nCopper Boots\nGolden Boots\nChainmail Boots\nIron Boots\nDiamond Boots\nNetherite Boots",
+    "Leather Horse Armor\nCopper Horse Armor\nIron Horse Armor\nGolden Horse Armor\nDiamond Horse Armor\nNetherite Horse Armor​[upcoming Mounts of Mayhem]",
+    "Nautilus Armor​[upcoming Mounts of Mayhem]",
+    "Copper Nautilus Armor\nIron Nautilus Armor\nGolden Nautilus Armor\nDiamond Nautilus Armor\nNetherite Nautilus Armor",
+    "These items can be worn in armor slots, but do not provide protection against damage:",
+    "Elytra\nCarved pumpkin\n Mob or Player heads"
+  ],
+  "Armor materials[edit | edit source]": [
+    "There are eight different types of materials of armor, including turtle shells. The seven full sets are shown below in order from weakest to strongest.",
+    "Leather (on Steve)\n\n\n\nLeather (on Alex)\n\n\n\nCopper (on Steve)\n\n\n\nCopper (on Alex)\n\n\n\nGolden (on Steve)\n\n\n\nGolden (on Alex)\n\n\n\n Chainmail (on Steve)\n\n\n\n Chainmail (on Alex)\n\n\n\nIron (on Steve)\n\n\n\nIron (on Alex)\n\n\n\nDiamond (on Steve)\n\n\n\nDiamond (on Alex)\n\n\n\nNetherite (on Steve)\n\n\n\nNetherite (on Alex)"
+  ],
+  "Obtaining[edit | edit source]": [],
+  "Crafting[edit | edit source]": [
+    "A full set of leather, copper, iron, golden, or diamond armor requires 24 units of a given material to craft. Netherite armor cannot be crafted directly, and is obtained by upgrading diamond armor in a smithing table. A turtle shell is a type of helmet, but no other armor items can be crafted from turtle scutes. Chainmail armor is uncraftable, and can be obtained only from mob drops, trading, and generated loot."
+  ],
+  "Upgrading[edit | edit source]": [
+    "Netherite armor is obtained by upgrading diamond armor in a smithing table. Each piece of netherite armor requires a netherite ingot and a netherite upgrade smithing template. A full set of netherite armor requires 4 netherite ingots and 4 netherite upgrade smithing templates.",
+    "Netherite armor retains the enchantments, prior work penalty, and number of durability points lost (instead of the remaining durability) from the diamond armor."
+  ],
+  "Natural generation[edit | edit source]": [
+    "Two armor stands are found in each taiga village outdoor armory, one equipped with an iron helmet, the other with an iron chestplate."
+  ],
+  "Generated loot[edit | edit source]": [
+    "↑ a b c d e f g h All enchantments are equally probable, including treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and any level of the enchantment is equally probable.\n\n↑ a b c d e f g h Enchantment probabilities are the same as a level-20 to level-39 enchantment would be on an enchanting table that had no cap at level 30, and that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b c d The item has between 80% and 100% of its total durability.",
+    "↑ a b c d e f g h All enchantments are equally probable, including treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and any level of the enchantment is equally probable.\n\n↑ a b c d e f g h Enchantment probabilities are the same as a level-20 to level-39 enchantment would be on an enchanting table that had no cap at level 30, and that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchantment probabilities are the same as a level-0 to level-10 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchantment probabilities are the same as a level-5 to level-15 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchantment probabilities are the same as a level-10 to level-20 enchantment would be on an enchanting table that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b c d The item has between 80% and 100% of its total durability.",
+    "↑ a b c d e f g h All enchantments are equally probable, including treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and any level of the enchantment is equally probable.\n\n↑ a b c d e f g h Enchantment probabilities are the same as a level-20 to level-39 enchantment would be on an enchanting table that had no cap at level 30, and that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchantment probabilities are the same as a level-30 to level-50 enchantment would be on an enchanting table that had no cap at level 30, and that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b c d The item has between 80% and 100% of its total durability.",
+    "↑ a b c d e f g h All enchantments are equally probable, including treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and any level of the enchantment is equally probable.\n\n↑ a b c d e f g h Enchantment probabilities are the same as a level-20 to level-39 enchantment would be on an enchanting table that had no cap at level 30, and that was able to apply treasure enchantments (except Soul Speed, Swift Sneak, and Wind Burst), and where the chance of multiple enchantments is not reduced.\n\n↑ a b Enchanted with a random level of Soul Speed.\n\n↑ a b c d The item has between 80% and 100% of its total durability."
+  ],
+  "Mob loot[edit | edit source]": [
+    "Zombies, husks, zombie villagers, skeletons, strays, bogged, and piglins that spawn with armor have an 8.5% chance of dropping their armor when killed by the player. The dropped armor has a random durability and retains any enchantments it has.",
+    "In Bedrock Edition, pillagers and vindicators that spawn in raids have a small chance to drop an iron helmet, iron chestplate, iron leggings, or iron boots, in a badly damaged state, with a possibility of having a random enchantment.",
+    "In Java Edition, armorer villagers throw chainmail armor to players who have the Hero of the Village status effect."
+  ],
+  "Trading[edit | edit source]": [
+    "Leather armor can be bought from leatherworker villagers. These armor pieces have randomly determined color.",
+    "Iron armor, chainmail armor and enchanted diamond armor can be bought from armorer villagers."
+  ],
+  "Bartering[edit | edit source]": [
+    "Piglins may barter iron boots enchanted with a random level of Soul Speed when given a gold ingot."
+  ],
+  "Fishing[edit | edit source]": [
+    "Leather boots, often badly damaged, can be obtained as a junk item from fishing."
+  ],
+  "Usage[edit | edit source]": [
+    "Armor can be worn by a player or mob in order to protect them. See § Mechanics for more details."
+  ],
+  "Equipping[edit | edit source]": [
+    "A player can equip a piece of armor by placing it in the correct slot in the inventory, by using it while it's in the main hand or offhand, or by dispensing it from a dispenser onto themself. When using the armor piece, any equipped armor corresponding to the same slot is swapped out. Each armor piece fills one inventory slot, and armor pieces cannot be stacked."
+  ],
+  "Statistics[edit | edit source]": [
+    "The following tables represent the statistics of the different armor types, including the following values: armor, armor toughness, durability, enchantability, and knockback resistance."
+  ],
+  "Damage reduction[edit | edit source]": [
+    "Wearing armor reduces incoming damage according to two values: armor, and armor toughness. Each piece of armor provides a given armor and armor toughness value, and the values from each armor piece are added together when calculating damage reduction.",
+    "The strength of incoming damage also determines the damage reduction of worn armor, as armor does not protect in a linear fashion, and instead drops off more and more as incoming damage increases. For example, a full set of diamond armor reduces the damage of a zombie's attack by 77%, but reduces the damage of a piglin brute's attack by only 67%. The total damage reduction of armor cannot drop off below 20% of its maximum.",
+    "The following tables represent the damage reduction of the different armor types depending on the incoming damage, accounting for armor toughness:"
+  ],
+  "Armor points[edit | edit source]": [
+    "Armor, also known as armor points, represents the base defensive value of worn armor. The total number of armor points that the player has is the sum of the armor points of the individual pieces of armor worn, and is visually represented by the armor bar. The armor increases the player's armor attribute while worn. Armor points determine the minimum amount of damage armor reduces. See Damage formulas below to see how damage reduction is calculated.",
+    "The armor attribute is capped at 30. If commands are used to give the player armor with more than 30 armor points, or to set the player's armor attribute above 30, damage is calculated as if the player had 30 armor points. The armor bar does not show armor points above 20."
+  ],
+  "Armor toughness[edit | edit source]": [
+    "Armor becomes less effective for higher damage values, reducing the damage by smaller and smaller percentages until it reaches the minimum percentage. Armor toughness mitigates this behavior to a degree. The amount of damage reduced still decreases for higher damage values, but not as much. The total number of armor toughness the player has is the sum of the armor toughness of the individual pieces of armor worn. Armor toughness does not have a visual indicator like armor points. Armor increases the player's armor_toughness attribute while worn. See Damage reduction below to see how armor toughness affects damage calculation.",
+    "Only diamond and netherite armor have armor toughness.",
+    "The armor_toughness attribute is capped at 20. If commands are used to give the player armor with more than 20 armor toughness, or to set the player's armor_toughness attribute above 20, damage is calculated as if the player has 20 armor toughness.",
+    "The following table shows the amount of armor toughness given by armor that can be worn by the player."
+  ],
+  "Damage formulas[edit | edit source]": [
+    "Since without commands, the toughness of 20 is impossible, this can be simplified to:",
+    "Damage reduction %=min⁡(80,max⁡(45×armorPoints, 4×armorPoints−16×damagetoughness+8))",
+    "We can define from this equation a meaningful representation for total armor:",
+    "TotalArmor=armorPoints×(toughness+8)5",
+    "This value of total armor represents the amount of damage of an attack required to \"break through\" the toughness of the armor (so that only regular armor points are used to mitigate the damage). Therefore, the formula above can be rewritten as:",
+    "Damage reduction %={45×armorPoints,if damage≥TotalArmor4×armorPoints−16×damagetoughness+8,if damage<TotalArmor    capped at maximum 80%.",
+    "Note that even without toughness, there is still a \"breakthrough\" point of damage where the armor just starts being less effective. For armor sets that do not include any armor with toughness (no diamond or netherite), it is simpler to understand as:",
+    "Damage reduction %={45×armorPoints,if damagearmorPoints≥854×armorPoints−2×damage,if damagearmorPoints<85    capped at maximum 80%.",
+    "Therefore, another way to describe toughness is: A value that decreases the amount of reduction to the reduction of damage caused by higher amounts of damage.",
+    "In tabular form (with a toughness of 0), damages are:",
+    "These damage values are lower if a player wears pieces of diamond or netherite armor or has toughness added to the armor through commands."
+  ],
+  "Damage sources[edit | edit source]": [
+    "The following types of damage are reduced by armor and, consequently, damage the armor itself:",
+    "Direct (melee) attacks from mobs and players. This includes the Strength and the Weakness effects and damage-increasing enchantments.\nGetting hit with an arrow, a shulker bullet or a thrown trident. This includes extra damage from enchantments (except shulker bullets).\nGetting hit with a fireball from a ghast or blaze, or a fire charge.\nLaser beam of a guardian or an elder guardian.\nDamage from Thorns enchantment, or spikes of guardians and elder guardians.\nTouching a damaging block (fire, lava, magma block, cactus or sweet berry bush).\nThis excludes netherite armor which is not damaged by fire-related sources.\nTouching a pufferfish.\nExplosions.\nFireworks with at least a firework star in the recipe.\nLightning.\nGetting hit with a falling anvil.\nGetting hit with a snowball from a player​[upcoming JE Combat Tests] or snow golem.​[more information needed]\nGetting hit with an egg from a player​[upcoming JE Combat Tests]",
+    "This excludes netherite armor which is not damaged by fire-related sources.",
+    "The following types of damage are not reduced by armor and have no effect on the armor itself:",
+    "Ranged sonic boom attacks from the warden.\nFall damage (including using ender pearls).\nOngoing damage from being on fire.\nSuffocating inside a block or due to entity cramming (also includes the world border)‌[JE  only].\nDrowning in water (partially for turtle shells).\nStarvation.\nColliding with a block while flying with elytra.\n\nMagic (Evoker fangs, status effects and instant damage from a potion of Harming or Dragon's Breath) (but Protection does reduce magical damage.)\nFalling into the void or /kill.\nBeing inside of a powder snow block.\nThis excludes if the player or mob wears any piece of leather armor.",
+    "This excludes if the player or mob wears any piece of leather armor.",
+    "All the types of damage that are not italicized can be reduced by the protection enchantments."
+  ],
+  "Knockback resistance[edit | edit source]": [
+    "Each netherite armor piece gives a knockback resistance of 1 (10%), which results in a knockback reduction of 40% with a full set. The Blast Protection enchantment can be applied to armor to increase the user's explosion knockback resistance."
+  ],
+  "Enchantments[edit | edit source]": [
+    "Armor can be enchanted to provide various benefits. Enchantments can provide more protection or allow armor to resist certain types of damage that armor doesn't normally protect against, such as fall damage or fire. Damage reduction from enchantments does not decrease the armor's durability. Armor enchantments do not appear on the armor bar. The strength of enchantments received through an enchanting table is dependent on the armor piece's enchantability.",
+    "As with several enchantments, several different levels of protection are possible. The maximum level of a protection enchantment is IV (4). Protection enchantments from multiple pieces of armor stack together.",
+    "Each protection enchantment protects against specific types of damage. The amount of damage reduction depends on the Enchantment Protection Factor (EPF) provided by that enchantment.",
+    "When a player or mob wearing armor is subjected to damage, the EPFs of all applicable enchantments are added together, having a maximum of 20, and a minimum of 0 (when the game is calculating the reduced damage). The damage reduction is resultingEPF / 25, giving a minimum reduction of 0 and a maximum reduction of 20⁄25 or 80%. This means the player cannot be immune to damage from projectile or explosion in a world without cheating, even they wear armors with the maximum level of relative enchantments applied on every part of them.",
+    "Because of the caps in the calculation, it is possible to achieve maximum protection against specific types of damage with just three pieces of armor. For example, two pieces of armor with Blast Protection IV (EPF 8 each) and a single piece with Protection IV (EPF 4) would give a total EPF of 20 versus explosions. Any additional EPF would be wasted against explosions (but might be useful against other types of damage, if applicable).",
+    "If the damage is of a type that armor protects against normally, this reduction applies only to the damage that got through the armor.",
+    "It is possible using /give to obtain armor with an enchantment level higher than what is normally obtainable via normal survival. Using this method, a player could give themselves, for example, a full set of diamond armor with a Protection V enchantment on every piece. Following the algorithm above, we find that, because Protection V has an EPF of 5, the armor reaches the maximum EPF of 20 for all types of damage. Any higher Protection enchantments could be used to reach the cap with just one level XX (20) enchantment, rather than having a full set of enchanted armor, but would be wasted if all pieces shared the same level enchantment.",
+    "The table below shows all armor enchantments at their max levels:",
+    "Only one form of protection can be applied to a piece of armor (i.e. a chestplate cannot have both Fire Protection and Blast Protection, unless using commands to get all protection enchants in one piece of armor). Feather Falling, Frost Walker, Depth Strider and Soul Speed are enchantments applicable only to boots. Respiration and Aqua Affinity are enchantments applicable only to helmets. Swift Sneak is an enchantment applicable only to leggings."
+  ],
+  "Durability[edit | edit source]": [
+    "Any hit from a damage source that can be blocked by armor removes one point of durability from each piece of armor worn for every 4HP of incoming damage (rounded down, but never below 1).",
+    "The chart below shows the durability per unit of material for each piece of armor, compared to that of the boots. The durability per unit does not depend on the tier of the armor.",
+    "This means that for the same number of leather/iron ingots/gold ingots/chainmail/diamond, boots can take 1.5 more damage than leggings. Thus, chestplates and leggings offer more defense points per unit, but have less durability per unit.",
+    "This other chart shows the durability of each piece of armor in a set, as a percentage of the chestplate's durability. Additionally, the maximum durability of the chestplate is always a multiple of 16, leggings a multiple of 15, boots a multiple of 13, and helmets a multiple of 11.",
+    "Armor worn by a non-player mob does not lose durability when attacked by any means. Helmets that are worn by undead mobs lose durability when exposed to sunlight due to absorbing the mob's damage from sunlight.",
+    "Netherite armor does not lose durability from lava or fire damage."
+  ],
+  "Mob interactions[edit | edit source]": [],
+  "Block interactions[edit | edit source]": [],
+  "Locator bar[edit | edit source]": [
+    "Wearing heads or carved pumpkins hides the player from the locator bar."
+  ],
+  "Repairing[edit | edit source]": [
+    "Armor, like tools and weapons, can be repaired by placing two pieces of the same type (e.g., iron helmets) in a grindstone or in the crafting grid.",
+    "A piece of armor can be repaired in an anvil by adding units of the armor material's repair material, with each repair material restoring 25% of the armor item's maximum durability, rounded down. Chainmail armor can be repaired in an anvil using iron ingots, and netherite armor can be repaired in an anvil using netherite ingots."
+  ],
+  "Dyeing leather armor[edit | edit source]": [
+    "In Java Edition, leather armor can be dyed by crafting it together with 1 or more dyes.\nIn Bedrock Edition, leather armor can be dyed by using it on a cauldron filled with dyed water. This consumes 1 layer of water but does not change the color of the water.\nDyed leather armor also be undyed by using it on a cauldron with undyed water. This changes the water's color to the color of the armor's dye, and changes the leather armor to have no dye color.",
+    "Dyed leather armor also be undyed by using it on a cauldron with undyed water. This changes the water's color to the color of the armor's dye, and changes the leather armor to have no dye color.",
+    "Default color HEX code for leather armor is  #A06540."
+  ],
+  "Armor trims[edit | edit source]": [
+    "Armor can be given trims using an armor trim smithing template, a trim material and any armor piece. Trimmed armor has different patterns and different colors depending on the template and material used."
+  ],
+  "Smelting ingredient[edit | edit source]": [],
+  "Mob armor[edit | edit source]": [],
+  "Armor equipped on mobs[edit | edit source]": [
+    "Some mobs have a chance to spawn with armor equipped. When a mob spawns with armor, the number of pieces of armor, the type of armor pieces, and whether the armor is enchanted, depends on the difficulty; although, the tier of armor (leather, gold, etc.) has a fixed probability. Mobs can spawn with trimmed armor when spawned from an ominous trial spawner. Some mobs also have a chance to spawn with the ability to pick up armor on the ground and equip it. ​[more information needed]",
+    "It is impossible for zombies, skeletons, and their variants to naturally spawn with turtle shells, netherite armor, or mob heads.",
+    "The protection provided by armor and armor enchantments works the same for mobs as it does with players.",
+    "The following mobs can spawn with armor:",
+    "Zombie\nBaby Zombie\nZombie Villager‌[JE  only]\nBaby Zombie Villager‌[JE  only]\nHusk\nBaby Husk\nSkeleton\nStray\nBogged\nPiglin[1]",
+    "Baby Zombie\nZombie Villager‌[JE  only]\nBaby Zombie Villager‌[JE  only]\nHusk\nBaby Husk",
+    "Baby Zombie Villager‌[JE  only]",
+    "The following mobs do not naturally spawn with armor, but they can pick up dropped armor (on Normal and Hard difficulty):",
+    "Drowned\nBaby Drowned\nZombified Piglin\nBaby Zombified Piglin\nWither Skeleton\nZombie Villager‌[BE  only]\nBaby Zombie Villager‌[BE  only]",
+    "Baby Zombified Piglin",
+    "Baby Zombie Villager‌[BE  only]",
+    "The following mobs do not naturally spawn with armor, and their armor does not render, but they can pick up dropped armor:",
+    "Fox‌[BE  only]\nBaby Fox‌[BE  only]",
+    "This mob can have armor equipped on it via a dispenser, and the armor does render, but this mob cannot pick up the armor:",
+    "These mobs can have armor equipped on them via a dispenser‌[Java Edition  only][2] or via commands, but the armor does not render, and these mobs cannot pick up the armor:",
+    "Villager\nBaby Villager",
+    "These mobs do not spawn with armor and it cannot be equipped in Survival mode, but if equipped with commands, their armor is visible:",
+    "Giant‌[Java Edition  only]\nPillager‌[Bedrock Edition  only]\nVindicator‌[Bedrock Edition  only]\nEvoker‌[Bedrock Edition  only]",
+    "All other mobs can be equipped with armor via commands, but the armor cannot be seen.",
+    "A helmet protects a mob that burns in sunlight (mainly undead mobs) from burning, but this depletes the helmet's durability as it absorbs the damage. Eventually, the helmet loses all of its durability and breaks, and then the mob burns in the sunlight. A carved pumpkin, mob head, or anything placed into the head slot using commands, can also protect the mob from burning in sunlight. These do not have a durability and as such cannot break.",
+    "Damage caused by any other source does not cause a mob's armor durability to decrease, unless the armor is wolf armor.",
+    "Leather (on a zombie, or giant)\n\n\n\nCopper (on a zombie)\n\n\n\nGolden (on a zombie)\n\n\n\n Chainmail (on a zombie)\n\n\n\nIron (on a zombie)\n\n\n\nDiamond (on a zombie)\n\n\n\nNetherite (on a zombie)",
+    "Leather (on a skeleton)\n\n\n\nCopper (on a skeleton)\n\n\n\nGolden (on a skeleton)\n\n\n\n Chainmail (on a skeleton)\n\n\n\nIron (on a skeleton)\n\n\n\nDiamond (on a skeleton)\n\n\n\nNetherite (on a skeleton)\n\n\n\nA skeleton horseman spawned by a skeleton trap horse, with an enchanted iron helmet and bow."
+  ],
+  "Natural armor[edit | edit source]": [
+    "Some mobs have armor points even when they are not wearing armor. These \"natural\" armor points stack with any armor worn by the mob."
+  ],
+  "Other types of armor[edit | edit source]": [],
+  "Horse armor[edit | edit source]": [
+    "Horse armor can be equipped on a horse to protect it from most forms of damage similarly to player armor. Horse armor does not have a durability and does not break. Golden horse armor is more protective than iron horse armor."
+  ],
+  "Wolf armor[edit | edit source]": [
+    "Wolf armor can be equipped on a tamed wolf to protect it from most forms of damage, including ones that normal armor does not protect against such as fall damage and burning. Wolf armor functions differently than player armor and horse armor. Instead, it absorbs all damage it protects against, and decreases its durability by the number of points of damage absorbed. The armor can be repaired using armadillo scutes."
+  ],
+  "Nautilus armor[edit | edit source]": [
+    "Nautilus armor can be equipped on a tamed nautilus to protect it from most forms of damage.\nLike horse armor, nautilus armor does not have a durability and does not break. Golden nautilus armor is more protective than iron nautilus armor."
+  ],
+  "Sounds[edit | edit source]": [],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [],
+  "Item data[edit | edit source]": [
+    "[NBT Compound / JSON Object] components: the item's components tag.\n[Int] minecraft:dyed_color: The color applied of this leather armor or wolf armor item. More generally, it is used as the minecraft:dye color provider in item model definitions. If present on an item, a gray and italic \"Dyed\" text is added to the tooltip (If you have \"Advanced tooltips\" on, you will see it an non-italic \"Color: #<hex color code>\" instead). Color codes are the hex code of the color converted to a decimal number, or can be calculated from the red, green and blue components using this formula:( Red << 16) + ( Green << 8) +  Blue[note 2] An interactive widget is being loaded. If this does not work for you, please reload the page or check if JavaScript is working or enabled.\n[NBT List / JSON Array] minecraft:dyed_color: Another format. A list containing 3 floats corresponding to red, green and blue values as a fraction (ranged 0 to 1, inclusive) that is automatically converted to the int format.",
+    "[Int] minecraft:dyed_color: The color applied of this leather armor or wolf armor item. More generally, it is used as the minecraft:dye color provider in item model definitions. If present on an item, a gray and italic \"Dyed\" text is added to the tooltip (If you have \"Advanced tooltips\" on, you will see it an non-italic \"Color: #<hex color code>\" instead). Color codes are the hex code of the color converted to a decimal number, or can be calculated from the red, green and blue components using this formula:( Red << 16) + ( Green << 8) +  Blue[note 2] An interactive widget is being loaded. If this does not work for you, please reload the page or check if JavaScript is working or enabled.\n[NBT List / JSON Array] minecraft:dyed_color: Another format. A list containing 3 floats corresponding to red, green and blue values as a fraction (ranged 0 to 1, inclusive) that is automatically converted to the int format.",
+    "[NBT Compound / JSON Object] minecraft:trim: Contains the trim applied to this armor piece. If present on an item, information about the armor trim is added to the item's tooltip.\n[String] pattern: The ID of the trim pattern.\n[String] material: The ID of the trim material, which applies a color to the trim.",
+    "[NBT Compound / JSON Object] minecraft:trim: Contains the trim applied to this armor piece. If present on an item, information about the armor trim is added to the item's tooltip.\n[String] pattern: The ID of the trim pattern.\n[String] material: The ID of the trim material, which applies a color to the trim.",
+    "[String] pattern: The ID of the trim pattern.\n[String] material: The ID of the trim material, which applies a color to the trim."
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Before Minecraft[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "New Nintendo 3DS Edition[edit | edit source]": [],
+  "Other[edit | edit source]": [
+    "February 20, 2024:     A Mojang video about bugs shows early textures of netherite items, including armor: [1].",
+    "First image of armor.\n\n\n\nNotch wearing multiple armor types.\n\n\n\nDinnerbone's first screenshot of dyed armor.\n\n\n\nFirst screenshot of armor in the Pocket Edition.\n\n\n\nEquipping armor in the early Pocket Edition.\n\n\n\nJeb showing advanced armor tooltips.\n\n\n\nA comparison of the two historical armor models\n\n\n\nPlate armor.\n\n\n\nChain armor.\n\n\n\nHow the plate would look on a player.\n\n\n\nA zombie wearing a plate helmet.\n\n\n\nA zombie wearing a plate chestplate.\n\n\n\nA zombie wearing a full set of plate armor.\n\n\n\nA skeleton wearing a plate helmet.\n\n\n\nA skeleton wearing a plate chestplate.\n\n\n\nFirst image of dyed armor in Bedrock Edition."
+  ],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Armor\" or \"Armour\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Trivia[edit | edit source]": [
+    "Considering all 29 armor pieces, 16,777,216 colors of dyed leather armor, 18 armor trims, 11 trim materials, every durability level of each armor piece and every survival-obtainable combination of armor enchantments, the total number of armor pieces obtainable in survival is 40,139,103,939,010,560 or 40 quadrillion.\nHelmets have 20,480 enchantment combinations, chestplates have 2,560, leggings have 10,240, and boots have 153,600.",
+    "Helmets have 20,480 enchantment combinations, chestplates have 2,560, leggings have 10,240, and boots have 153,600."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Renders[edit | edit source]": [],
+  "Helmets[edit | edit source]": [],
+  "Chestplates[edit | edit source]": [],
+  "Leggings[edit | edit source]": [],
+  "Boots[edit | edit source]": [],
+  "Full Armor Sets[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "Trading for chainmail armor with a villager.\n\n\n\nA player equipped with a full set of dyed leather armor.\n\n\n\nAn entire set of enchanted netherite armor on an armor stand.\n\n\n\nA display of all armor trims in every color on netherite armor.\n\n\n\nA display of all armor trims on netherite armor, using emerald as the trim material.\n\n\n\nA display of all armor trim colors, using the ward trim on a netherite helmet.\n\n\n\nNoor in trimmed iron armor.\n\n\n\nDitto, but in netherite armor.\n\n\n\nA zombified piglin with full netherite armor.\n\n\n\nA bogged wearing full diamond armor."
+  ],
+  "In other media[edit | edit source]": [
+    "Pixel art of Alex in trimmed iron armor.\n\n\n\nAlex wearing iron armor in the Nether.\n\n\n\nChampion’s Armor, a unique armor set featured in Minecraft Dungeons.\n\n\n\nThe Diamond Armor Mii Swordfighter costume in Super Smash Bros. Ultimate.\n\n\n\nA crafting grid for a diamond chestplate for official T-shirts made by JINX.\n\n\n\nStill of old netherite items taken from \"WHAT IS YOUR FAVORITE BUG FROM MINECRAFT?\"\n\n\n\nA set of golden armor as seen in A Minecraft Movie."
+  ],
+  "See also[edit | edit source]": [],
+  "Notes[edit | edit source]": [
+    "↑ The turtle shell is not pictured. The turtle shell is between iron and diamond, having equal armor points and greater durability than iron, but less than diamond.\n\n↑ For positive values larger than 0x00FFFFFF, the top byte is ignored. All negative values produce white."
+  ],
+  "References[edit | edit source]": [
+    "↑ Piglins spawn naturally only with gold, although other armor types can be picked up.\n\n↑ \"Villagers cannot be equipped with anything by a dispenser, but that would be a separate issue and a feature request rather than a bug.\" — Cannot dispense armor or mob heads onto villagers or zombies — resolved as \"Cannot Reproduce\".\n\n↑ MC-182478\n\n↑ \"[MC-172110] Texture of turtle shells is missing when worn by a piglin or zombified piglin - Jira\"     – Mojira, February 14, 2020. \n\n↑ /assets/minecraft/textures/models/armor/piglin_leather_layer_1.png\n\n↑ /assets/minecraft/textures/models/armor/piglin_leather_layer_1_overlay.png\n\n↑ MC-94060 — Equipping armor/elytra through inventory or dispenser doesn't play sounds — resolved as \"Fixed\".\n\n↑ MC-216270 — resolved as \"Fixed\"."
+  ],
+  "Navigation[edit | edit source]": []
+}

@@ -1,0 +1,29 @@
+{
+  "Introduction": [
+    "Power is an enchantment applied to bows that increases arrow damage."
+  ],
+  "Contents": [
+    "1 Obtaining\n2 Usage\n\n2.1 Specific cases\n\n\n3 Data values\n\n3.1 ID\n\n\n4 History\n\n4.1 Java Edition\n4.2 Bedrock Edition\n4.3 Legacy Console Edition\n4.4 New Nintendo 3DS Edition\n\n\n5 Issues\n6 Navigation",
+    "4.1 Java Edition\n4.2 Bedrock Edition\n4.3 Legacy Console Edition\n4.4 New Nintendo 3DS Edition"
+  ],
+  "Obtaining[edit | edit source]": [
+    "Power can be obtained from enchanting tables, drops from mobs that have spawned in a raid,‌[Bedrock Edition  only] books obtained by fishing, monster room chests, librarian villagers, and non-village structure loot."
+  ],
+  "Usage[edit | edit source]": [
+    "Power increases arrow damage by 25% × (level + 1), rounded up to nearest half-heart."
+  ],
+  "Specific cases[edit | edit source]": [
+    "If Power is applied to a crossbow by use of commands or an anvil in Creative, the enchantment boosts the weapon's projectile damage when using arrows as ammo, but not when using firework rockets as ammo. If Power is applied to a trident by use of commands or an anvil in Creative, the enchantment does not boost the weapon's projectile damage, and instead Sharpness has this effect."
+  ],
+  "Data values[edit | edit source]": [],
+  "ID[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "New Nintendo 3DS Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Power\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Navigation[edit | edit source]": []
+}

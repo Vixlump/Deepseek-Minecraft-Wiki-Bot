@@ -1,0 +1,119 @@
+{
+  "Introduction": [
+    "World generation (sometimes abbreviated as worldgen) is the procedural generation process Minecraft uses to algorithmically generate terrain, biomes, features, and thus ultimately decides which blocks are placed where. Minecraft worlds are made of 16×16 blocks wide chunks stretching the full height of the dimension. Because there are more than 18 quintillion (18×1018, or 264264) possible worlds, the game generates them using randomness, algorithms, and some manually built decorations. The benefits of procedural world generation include smaller game file size and practically infinite possibilities of gameplay."
+  ],
+  "Contents": [
+    "1 Randomness\n2 Steps\n3 Biomes\n\n3.1 Overworld\n3.2 The Nether\n3.3 The End\n\n\n4 Terrain\n\n4.1 3D noise\n4.2 Splines\n4.3 Noise caves\n4.4 Aquifers\n4.5 Ore veins\n\n\n5 Surface\n\n5.1 Overworld\n5.2 The Nether\n5.3 The End\n\n\n6 Carvers\n7 Structures\n8 Features\n\n8.1 Decoration steps\n8.2 Generation\n\n\n9 Lighting\n10 Mob spawning\n11 Heightmaps\n12 Videos\n13 History\n14 Issues\n15 References\n16 External links\n17 Navigation",
+    "3.1 Overworld\n3.2 The Nether\n3.3 The End",
+    "4.1 3D noise\n4.2 Splines\n4.3 Noise caves\n4.4 Aquifers\n4.5 Ore veins",
+    "5.1 Overworld\n5.2 The Nether\n5.3 The End",
+    "8.1 Decoration steps\n8.2 Generation"
+  ],
+  "Randomness[edit | edit source]": [
+    "In order to generate a different world every time, the game uses random numbers generated from a seed. However, pure randomness makes terrain and biomes too chaotic with no continuity.[1]",
+    "To solve this problem, the game makes use of gradient noise algorithms, like Perlin noise.[2] This makes sure blocks and chunks fit with their neighbors and gives the world both continuity and randomness.",
+    "Even though noise looks random and continuous, using it to generate terrain still lacks variation like hills and valleys that stand out and have a large height difference. To solve this, multiple noise functions are generated with different frequencies and amplitudes and then added up, which gives a more natural result. These noise functions are called octaves.",
+    "Pure randomness (also known as white noise) is too chaotic.\n\n\n\nPerlin noise makes it random and continuous.\n\n\n\nMultiple octaves are combined to create variation."
+  ],
+  "Steps[edit | edit source]": [
+    "World generation happens in multiple steps. The game may freeze some chunks that are far from players at an early generation step for better performance, as shown on the graph. As the player approaches these chunks, the chunks advance through the generation steps again until they finish generating. Incomplete chunks that are temporarily frozen at a step are called proto-chunks, while chunks that are ready and accessible to players are called level chunks. In Java Edition, the steps of world generation are sorted into:",
+    "empty: The chunk is not yet loaded or generated.\n structures_starts: This step calculates the starting points for structure pieces. For structures that start in this chunk, the position of all pieces are generated and stored.\n structures_references: A reference to nearby chunks that have a structures' starting point are stored.\n biomes: Biomes are determined and stored. No terrain is generated at this stage.\n noise: The base terrain shape and liquid bodies are placed.\n surface: The surface of the terrain is replaced with biome-dependent blocks.\n carvers: Carvers carve certain parts of the terrain and replace solid blocks with air.\n features: Features and structure pieces are placed and heightmaps are generated.\n initialize_light: The lighting engine is initialized and light sources are identified.\n light: The lighting engine calculates the light level for blocks.\n spawn: Mobs are spawned.\n full: Generation is done and a chunk can now be loaded. The proto-chunk is now converted to a level chunk and all block updates deferred in the above steps are executed."
+  ],
+  "Biomes[edit | edit source]": [],
+  "Overworld[edit | edit source]": [],
+  "The Nether[edit | edit source]": [],
+  "The End[edit | edit source]": [
+    "↑ Above preliminary surface (aka. not in noise caves)\n\n↑ a b c d e f g h i j Only the top layer of the floor surface\n\n↑ a b Surface noise within -0.909~-0.5454, -0.1818~0.1818, or 0.5454~0.909\n\n↑ Swamp surface noise ≥ 0\n\n↑ a b Special hardcoded rule that places the bands of terracotta\n\n↑ a b c d e f g h Only the top layer of the ceiling surface\n\n↑ a b c d e f A hole in the terrain, where the surface noise is 0\n\n↑ Whether it is cold enough to snow here\n\n↑ a b c d e The vertical gradient of the north and south side is greater than 2\n\n↑ Packed ice noise within 0~0.2\n\n↑ a b Powder snow noise within 0.35~0.6\n\n↑ a b Gravel noise within -0.05~0.05\n\n↑ a b The top few layers of the floor surface\n\n↑ Packed ice noise within -0.5~0.2\n\n↑ a b Powder snow noise within 0.45~0.58"
+  ],
+  "Terrain[edit | edit source]": [
+    "Terrain shaping determines which blocks should be solid and which blocks should be filled with air."
+  ],
+  "3D noise[edit | edit source]": [
+    "If the noise is in two dimensions, it controls only surface height and it is impossible to add terrain above the surface. To add overhangs and 3D shapes, the game uses 3D Perlin noise function that gives an output called density for every single block. A density > 0 means it is filled with solid block, otherwise it is filled with air.",
+    "Density is then given a height bias and a base height. Height bias \"squeezes\" the blocks. Base height is the base of the squeezing process where the density is left unchanged. Changing base height moves the ground up and down.",
+    "In the Overworld, there is a single pair of height bias and base height, meaning the higher the block is, the less density it has and vice versa. Height bias and base height are both configured by a couple of different noises. Notably, amplified worlds are generated by tuning height bias to be lower than default, so that terrain stretch in the vertical direction more.\nIn the Nether, there are two pairs of base heights that create the thick, solid ceiling and ground, and the hollow space between them.\nIn the End, these parameters are configured to squeeze the map into a big island located relatively at the bottom of the dimension.",
+    "The side view of a world using a single noise\n\n\n\nThe side view of a world using 3D noise, creating overhangs"
+  ],
+  "Splines[edit | edit source]": [
+    "To give the world some dramatic terrain shapes like cliffs, fjords and plateaus, the game uses three 2D noise maps. These noises are mapped using splines to calculate the height offset and a vertical stretch factor. The same noises are also used in biome generation, which creates a soft link between biome and terrain. For example, a mountainous area generates mountainous biome and plains biomes are generally flatter.",
+    "The larger the continentalness, the higher the average terrain height. Continentalness is used mainly for differentiating ocean and land.",
+    "The erosion parameter affects inland terrain during terrain generation. Erosion is mainly used to create large areas of flat ground. The higher the erosion at a location, the lower the terrain height and the flatter the terrain.",
+    "The peaks and valleys (PV) value is calculated from weirdness. As the name suggests, it is mainly used for generating better peaks and valleys. The higher the PV value, the higher the terrain. Usually, at places with low continentalness or high erosion, when the PV level is \"Valleys\", the terrain is low enough to generate rivers. At high terrain, negative weirdness values lead to taller and more jagged and point peaks. When the erosion level is approximately 5, positive weirdness values result in weird inland terrain that is shattered and extremely precipitous and craggy.",
+    "Continentalness creates distinction between land and ocean\n\n\n\nLarge area of flat plains is created by high erosion.\n\n\n\nPV creates peaks and valleys like this fjord."
+  ],
+  "Noise caves[edit | edit source]": [
+    "Noise caves are part of the base terrain generation and are generated using 3D Perlin noises. They come in the form of cheese caves, spaghetti caves, and noodle caves. Three noise maps, frequency, hollowness, and thickness, are parameters that control this process. Frequency controls the frequency of the cave generation.",
+    "Cheese caves are pocket areas of the underground that come in various sizes. They are generated by taking the white area in a Perlin noise map. Hollowness controls the size of cheese caves.\nSpaghetti caves are long, narrow caves that wind their way through the underground. When generating, the edge of black and white part of noise image becomes air, making it look like long and wide spaghetti. Thickness controls the thickness of spaghetti caves.\nNoodle caves are a thinner and squigglier variant of spaghetti caves. They consist of tunnels usually 1 to 5 blocks in width. Its generating mechanism is similar to that of spaghetti caves. Thickness controls the thickness of noodle caves.",
+    "Additionally, noise pillars generate inside big cheese cave chambers. Frequency controls the frequency of the pillar generation while thickness control the thickness of them.",
+    "Inside of a cheese cave.\n\n\n\nInside of a spaghetti cave.\n\n\n\nInside of a noodle cave."
+  ],
+  "Aquifers[edit | edit source]": [
+    "Aquifers are liquid systems used in the Overworld to determine the fluid in all empty areas. Without aquifers all empty areas between sea-level and y=-54 would be filled with water. Areas below y=-55 are always filled with lava. To avoid all caves being flooded, aquifers are used to determine the fluid state of each position instead. Aquifers don't change the lava below y=-55. An aquifer can be in 3 different states, with a state selected for each position:",
+    "Empty: Always filled with air\nFlooded: As if aquifers didn't exist: filled with air above the sea-level and a fluid below.\nLocal fluid level: Picks a local liquid level and fills areas below with a liquid and areas above with air.",
+    "For positions above the preliminary surface, the aquifer state is \"Flooded\". In areas of the deep dark (Erosion < -0.22 and Depth > 0.9) the state is always \"Empty\". Otherwise the state is determined bases on a noise. Values below 0.4 are \"Empty\", values above 0.8 are \"Flooded\", otherwise a local fluid level is used.",
+    "In positions near areas where the preliminary surface is below the sea-level the area of the \"Flooded\" aquifer state reaches slightly below the preliminary surface. In these areas the cutoff values for the noise are linearly decreased from 64 blocks below the preliminary surface upward. At the surface they are below -0.8 for \"Empty\" and above -0.3 for \"Flooded\". This causes the \"Flooded\" state to be much more common directly below rivers and oceans.",
+    "The local water level is determined in cells of size 16x40x16 blocks using a different noise. Whether to place water or lava is determined in cells of 64x40x64 blocks based on a third noise. Areas above y=-10 always use water.",
+    "Barriers are used to separate areas of different liquids and to separate liquids from air. The height of the barriers is dependent on a fourth noise, causing water or lava to sometimes spill over the barrier."
+  ],
+  "Ore veins[edit | edit source]": [
+    "Ore veins generate only in the Overworld. Three noises are used for vein generation: toggle, ridge, and gap.",
+    "Toggle is always 0 outside Y=-60 to Y=51 and can be negative or positive inside the range. The game attempts to generate an iron or a copper vein depending on whether toggle is < 0 or > 0. The attempts might fail because veins have a configured generating height.",
+    "Ridge is always -0.08 if Y level is outside the range. If ridge is > 0, the game skips the block.",
+    "Gap determines the ratio of ore-to-filler material, between 10% and 30% for any given vein. For non-filler blocks, 98% generate as normal ore blocks, while 2% are generated as raw ore blocks (Block of Raw Copper and Block of Raw Iron, respectively).",
+    "The blocks used in vein generation are hardcoded, though their size can be changed with datapacks."
+  ],
+  "Surface[edit | edit source]": [
+    "After the base terrain is generated, the game replaces some blocks with grass blocks, sand, dirt, etc., depending on the biome and other conditions."
+  ],
+  "Carvers[edit | edit source]": [
+    "Carvers include carver caves and carver canyons. As the name suggest, they \"carve\" through the ground.",
+    "Carver caves and carver canyons are configured to have different probability to be generated in each chunk. If the carver generates, it carves through the ground in random directions starting at the configured start Y level:",
+    "Carver caves generate from Y=-56 to Y=180. The probability of cave generation is higher at Y=-56 to Y=47. Carver caves sometimes include a main room and can have branches.\nNether carver caves generate Y=0 to Y=126.\nCanyons can start at levels 10 to 72.",
+    "Nether carver caves generate Y=0 to Y=126.",
+    "A carver cave in the Overworld with a main room.\n\n\n\nSoul Sand Valley with a Nether carver cave.\n\n\n\nA canyon in the Overworld."
+  ],
+  "Structures[edit | edit source]": [
+    "Structures are grouped into structure sets. A structure set determines the placement positions of the structures and places a structure at these positions based on the biome. If no structure matches the biome, then no structure is placed at a given position. The structure positions are usually calculated based on the spacing, separation, and frequency parameters of the structure set. Spacing determines the average distance between structure placement position in chunks, and separation determines the minimum distance. Frequency controls the probability that a determined position is used. If the biome at the placement attempt does not match the requirement, the structure is not placed. An exception are strongholds in Java Edition, which are placed as concentric rings, see Stronghold#Generation.",
+    "In the structures_starts generation step, the game determines if the chunk is suitable for a structure. If a structure is selected, the starting point of the structure and layout of the pieces is determined. In the structures_references generation step, every chunk near a chunk with a structure start stores a reference to that chunk. This allows finding the structure pieces that are inside each chunk. When a chunk is generating its decoration in the features step, the chunk is checked for a structure reference. If a structure reference is found, the stored pieces are placed in the world. (see #Features).",
+    "The following table gives the placement parameters for each structure set, as they are in Java Edition.",
+    "↑ Also requires surrounding to be river and ocean biomes only.\n\n↑ Can't be placed within 10 chunks of any placement position of the \"Villages\" structure set.\n\n↑ Strongholds are placed using concentric rings, see Stronghold#Generation.\n\n↑ The placement position is biased toward most land biomes, away from river and ocean biomes."
+  ],
+  "Features[edit | edit source]": [
+    "The generation of features and placement of structure pieces (see #Structures) happens in the same step and are called decorations collectively. Each biome has a list of allowed features and structures that are possible to generate in them."
+  ],
+  "Decoration steps[edit | edit source]": [
+    "Features and structures generate in 11 steps after each other called decoration steps.",
+    "raw_generation: Small end islands\nlakes: Lava lakes\nlocal_modifications: Amethyst geodes and icebergs\nunderground_structures: Trial chambers, buried treasure, mineshafts, trail ruins, monster rooms and fossils\nsurface_structures: All other structures, desert wells and blue ice patches\nstrongholds: Unused, strongholds use the surface_structures step\nunderground_ores: Ore blobs and sand/gravel/clay disks\nunderground_decoration: Infested block blobs, nether gravel and blackstone blobs, and all nether ore blobs\nfluid_springs: Water and lava springs\nvegetal_decoration: Trees, bamboo, cacti, kelp, and other ground and ocean vegetation\ntop_layer_modification: Freeze top layer feature"
+  ],
+  "Generation[edit | edit source]": [
+    "To generate features in a chunk, the game first determines a list of biomes that appear in that chunk or the 8 surrounding chunks. Using that biome list the game constructs a list of features that are possible to generate in those biomes. For each decoration step, first the matching structure pieces are placed, followed by the features. When a structure piece crosses a chunk border, only the part in the current chunk is placed. Each feature has its own placement rules including the number of placement attempts and where in the chunk should the feature try to be placed. The game follows the rules to select a block in the chunk then checks if the biome, block and its surroundings at the current position allows that feature to spawn, and if so places the feature. Features can place block outside the current chunk's boundaries but are limited in the nearby 3×3 area.",
+    "When features are generated, they can spill over into neighboring chunks that have already had their features generated. Thus, the feature order specified above is not always adhered to. It is therefore also possible for two worlds generated with the same seed, from the same version of Minecraft, to differ slightly depending on the players' travel routes, because the chunk generation order may determine which of two conflicting features overwrite or suppress the other.[5]"
+  ],
+  "Lighting[edit | edit source]": [
+    "As one of the last steps of chunk generation, the light levels for each block are calculated. Before this step, no block placement updates light, and light updates are instead deferred to this step."
+  ],
+  "Mob spawning[edit | edit source]": [
+    "In Java Edition many animals generate upon initial chunk creation. One in ten newly-generated chunks attempts to generate animal mobs, usually in packs of up to 4 of the same species.",
+    "In Bedrock Edition animals do not spawn during chunk generation, but they continually attempt to spawn as part of the environmental spawning algorithm.",
+    "Notably, mobs that spawn with a structure (e.g. elder guardian in ocean monuments) are immediately spawned when the structure is placed and are not spawned in this step."
+  ],
+  "Heightmaps[edit | edit source]": [
+    "In Java Edition, heightmaps are technically calculated at every step of world generation. Before features are placed, there are only 2 heightmaps – OCEAN_FLOOR_WG and WORLD_SURFACE_WG. After feature placement, OCEAN_FLOOR, WORLD_SURFACE, MOTION_BLOCKING and MOTION_BLOCKING_NO_LEAVES are calculated."
+  ],
+  "Videos[edit | edit source]": [
+    "Videos by Henrik Kniberg:"
+  ],
+  "History[edit | edit source]": [
+    "A world generation algorithm has been included in the game since its very inception. World generation was often changed significantly before the release of Java Edition. Notably, after its release, world generation has changed greatly in Java Edition 1.7.2 and Java Edition 1.18. For Bedrock Edition, significant changes were made in Pocket Edition v0.9.0 alpha and Bedrock Edition 1.18.0."
+  ],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"World generation\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "References[edit | edit source]": [
+    "↑ \"Minecraft terrain generation in a nutshell\"  – Henrik Kniberg on YouTube, February 6, 2022\n\n↑ \"2D Perlin Noise; lecture notes for CMSC 425 (Game Programming)\"     by Dave Mount and Roger Eastman, Spring 2018. \n\n↑ MC-262252 — The generation of lush caves and dripstone caves is poorly defined\n\n↑ \"I get a lot of questions about how the new Minecraft noise caves work, and why we call them silly things like Cheese caves and Spaghetti caves. Here's an attempt to summarize it in a picture, hope it makes some kind of sense :)\"  – @henrikkniberg  on X (formerly Twitter), February 23, 2021\n\n↑ MC-55596 — Some chunks in the same world seed seem to have different versions"
+  ],
+  "External links[edit | edit source]": [
+    "More information on xoroshiro128++, the PRNG algorithm Minecraft uses for Overworld generation by University of Milan\nMore information on Perlin noise by Raouf Touti"
+  ],
+  "Navigation[edit | edit source]": []
+}

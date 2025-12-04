@@ -1,0 +1,46 @@
+{
+  "Introduction": [
+    "Taming is a mechanic that allows the player to domesticate and tame a wild mob."
+  ],
+  "Contents": [
+    "1 List of mobs\n\n1.1 Tameable\n1.2 Trusting\n1.3 Rideable\n\n\n2 Mechanics\n\n2.1 Trusting\n\n\n3 Special items\n4 Achievements\n5 Advancements\n6 History\n\n6.1 Java Edition\n6.2 Bedrock Edition\n6.3 Legacy Console Edition\n\n\n7 Issues\n8 Gallery\n\n8.1 Screenshots\n\n\n9 Navigation",
+    "1.1 Tameable\n1.2 Trusting\n1.3 Rideable",
+    "6.1 Java Edition\n6.2 Bedrock Edition\n6.3 Legacy Console Edition"
+  ],
+  "List of mobs[edit | edit source]": [],
+  "Tameable[edit | edit source]": [
+    "Donkey\nHorse\nLlama\nMule\nNautilus​[upcoming mounts of mayhem]\nSkeleton Horse‌[JE  only]\nTrader Llama\nZombie Horse‌[JE  only]‌[until mounts of mayhem]\nZombie Nautilus​[upcoming mounts of mayhem]"
+  ],
+  "Trusting[edit | edit source]": [
+    "Some mobs can never be tamed per se, but the player can still gain their trust. Trusting mobs stop fleeing from players, and they do not despawn.",
+    "A fox's trust actually can't be gained if the animal spawned naturally, but they can still be bred by the player. Baby foxes bred this way trust players. A trusting fox defends the player against a number of mobs.",
+    "An ocelot's trust can be gained by feeding it raw cod or salmon."
+  ],
+  "Rideable[edit | edit source]": [
+    "Some mobs are always rideable, without needing to tame them. Riding these mobs usually requires them to be equipped with a saddle.",
+    "Camel\nCamel Husk​[upcoming mounts of mayhem]\nHappy Ghast\nPig\nSkeleton Horse‌[BE  only]\nStrider"
+  ],
+  "Mechanics[edit | edit source]": [
+    "Each animal can be tamed via different mechanics. Wolves can be tamed by giving the animal bones. Cats and parrots can be tamed by giving the animal its favorite food. Once tamed, these animals follow the player unless told to sit. Tamed wolves fight alongside their master. Tamed wolves and cats can be bred, and they stop hunting animals by themselves. Tamed parrots can ride on the player's shoulder and mimic nearby mob sounds.",
+    "Horses, donkeys, mules, llamas, trader llamas, and zombie horses​[upcoming Mounts of Mayhem] can be tamed by repeatedly mounting the animal until it stops bucking the player off. Feeding them their favorite foods makes taming them easier. Once tamed, these animals can be bred and given equipment. Tamed horses, donkeys and mules can be controlled while riding, but only if equipped with a saddle. Camels are always tamed and can be controlled with a saddle.",
+    "In Bedrock Edition, skeleton horses do not need a saddle to be controlled while riding, while in Java Edition, Skeleton horses are tamed by default after their skeleton rider is killed.",
+    "Upon the death of a pet wolf, cat, or parrot the message is broadcast to the pet's owner in Java Edition or to all players in the server in Bedrock Edition. In Bedrock Edition, death messages are also produced upon the death of a pet horse, donkey, mule, llama, or trader llama."
+  ],
+  "Special items[edit | edit source]": [
+    "These are the foods and other items that are helpful in taming animals or otherwise gaining their trust. No items are required for taming camels, skeleton horses, and zombie horses."
+  ],
+  "Achievements[edit | edit source]": [],
+  "Advancements[edit | edit source]": [],
+  "History[edit | edit source]": [],
+  "Java Edition[edit | edit source]": [],
+  "Bedrock Edition[edit | edit source]": [],
+  "Legacy Console Edition[edit | edit source]": [],
+  "Issues[edit | edit source]": [
+    "Issues relating to \"Taming\" are maintained on the bug tracker. Issues should be reported and viewed there."
+  ],
+  "Gallery[edit | edit source]": [],
+  "Screenshots[edit | edit source]": [
+    "A cat and a wolf sitting on a carpet\n\n\n\nThree tamed wolves following the player around\n\n\n\nMany tamed wolves sitting\n\n\n\nA group of begging tamed wolves\n\n\n\nA tamed baby wolf sitting\n\n\n\nMany tamed cats\n\n\n\nA pair of tamed horses\n\n\n\nMany tamed skeleton horses with saddles\n\n\n\nA player riding a skeleton horse underwater\n\n\n\nA camel sitting next to a player"
+  ],
+  "Navigation[edit | edit source]": []
+}
