@@ -214,7 +214,7 @@ class Config:
     MAX_TEXT_LENGTH = 1000
     
     #Model settings
-    OLLAMA_MODEL = "deepseek-r1:7b"
+    OLLAMA_MODEL = "deepseek-r1:14b"
     EMBEDDING_MODEL = "nomic-embed-text"
     
     #Paths
