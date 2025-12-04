@@ -1251,9 +1251,9 @@
     "id": "Enchanting_Contents_0",
     "page": "Enchanting",
     "section": "Contents",
-    "content": "1 Enchanting equipment\n2 Enchanting methods\n\n2. 1 Enchanting table\n\n2. 1. 1 Affecting offered enchantments\n\n\n2. 2 Anvil combinations\n2. 3 Enchanted books\n\n2. 3. 1 Best Enchanting order\n\n\n\n\n3 Disenchanting\n4 Summary of enchantments\n5 Summary of enchantments by item\n6 Maximum effective values for enchantments\n7 Data values\n\n7. 1 Item data\n\n\n8 Sounds\n9 Video\n10 History\n\n10. 1 Reveal\n10. 2 Java Edition\n10. 3 Bedrock Edition\n10. 4 Legacy Console Edition\n10.",
-    "normalized_content": "1 enchanting equipment 2 enchanting methods 2 1 enchanting table 2 1 1 affecting offered enchantments 2 2 anvil combinations 2 3 enchanted books 2 3 1 best enchanting order 3 disenchanting 4 summary of enchantments 5 summary of enchantments by item 6 maximum effective values for enchantments 7 data values 7 1 item data 8 sounds 9 video 10 history 10 1 reveal 10 2 java edition 10 3 bedrock edition 10 4 legacy console edition 10",
-    "length": 456
+    "content": "1 Enchanting equipment\n2 Enchanting methods\n\n2. 1 Enchanting table\n\n2. 1. 1 Affecting offered enchantments\n\n\n2. 2 Anvil combinations\n2. 3 Enchanted books\n\n2. 3. 1 Best Enchanting order\n\n\n\n\n3 Disenchanting\n4 Summary of enchantments\n5 Summary of enchantments by item\n6 Maximum effective values for enchantments\n7 Data values\n\n7. 1 Item data\n\n\n8 Sounds\n9 Videos\n10 History\n\n10. 1 Reveal\n10. 2 Java Edition\n10. 3 Bedrock Edition\n10. 4 Legacy Console Edition\n10.",
+    "normalized_content": "1 enchanting equipment 2 enchanting methods 2 1 enchanting table 2 1 1 affecting offered enchantments 2 2 anvil combinations 2 3 enchanted books 2 3 1 best enchanting order 3 disenchanting 4 summary of enchantments 5 summary of enchantments by item 6 maximum effective values for enchantments 7 data values 7 1 item data 8 sounds 9 videos 10 history 10 1 reveal 10 2 java edition 10 3 bedrock edition 10 4 legacy console edition 10",
+    "length": 457
   },
   {
     "id": "Enchanting_Contents_1",
@@ -2155,9 +2155,9 @@
     "id": "Trading_Trivia[edit | edit source]_0",
     "page": "Trading",
     "section": "Trivia[edit | edit source]",
-    "content": "While diamonds are not renewable (except via vault, which is impractical in normal gameplay), many of their products (armor, tools, and weapons) are renewable via trading.",
-    "normalized_content": "while diamonds are not renewable except via vault which is impractical in normal gameplay many of their products armor tools and weapons are renewable via trading",
-    "length": 171
+    "content": "While diamonds are not renewable (except via vault, which is impractical in normal gameplay), many of their products (armor, tools, and weapons) are renewable through trading.",
+    "normalized_content": "while diamonds are not renewable except via vault which is impractical in normal gameplay many of their products armor tools and weapons are renewable through trading",
+    "length": 175
   },
   {
     "id": "Trading_Renders[edit | edit source]_0",
@@ -2739,9 +2739,9 @@
     "id": "Smelting_Introduction_0",
     "page": "Smelting",
     "section": "Introduction",
-    "content": "Smelting is the process of obtaining refined goods from raw materials by heating them in a furnace or blast furnace. When items are smelted in either type of furnace, experience is dropped. Like crafting, smelting uses recipes to determine what item is produced. Smelting is one of the two functions of a furnace (the second being cooking food) and the sole function of a blast furnace.",
-    "normalized_content": "smelting is the process of obtaining refined goods from raw materials by heating them in a furnace or blast furnace when items are smelted in either type of furnace experience is dropped like crafting smelting uses recipes to determine what item is produced smelting is one of the two functions of a furnace the second being cooking food and the sole function of a blast furnace",
-    "length": 386
+    "content": "Smelting is the process of obtaining refined goods from raw materials by heating them in a furnace, blast furnace or smoker. When items are smelted in either type of furnace, experience is dropped. Like crafting, smelting uses recipes to determine what item is produced.",
+    "normalized_content": "smelting is the process of obtaining refined goods from raw materials by heating them in a furnace blast furnace or smoker when items are smelted in either type of furnace experience is dropped like crafting smelting uses recipes to determine what item is produced",
+    "length": 270
   },
   {
     "id": "Smelting_Contents_0",
@@ -3091,8 +3091,8 @@
     "id": "Commands_Introduction_0",
     "page": "Commands",
     "section": "Introduction",
-    "content": "Commands (also known as console commands or slash commands) are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities.",
-    "normalized_content": "commands also known as console commands or slash commands are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities",
+    "content": "Commands (also known as console commands or slash commands) are a mechanic that execute specific actions when entered as text or triggered by blocks or certain entities.",
+    "normalized_content": "commands also known as console commands or slash commands are a mechanic that execute specific actions when entered as text or triggered by blocks or certain entities",
     "length": 169
   },
   {
@@ -3155,9 +3155,17 @@
     "id": "Commands_Usage[edit | edit source]_3",
     "page": "Commands",
     "section": "Usage[edit | edit source]",
-    "content": "‌[JE  only]\nRequested by a WebSocket server connected to a client. ‌[BE  only]\nClicking a dialog's action button. ‌[JE  only]\nBy an NPC dialogue. ‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only]. In animation controllers, in a behavior pack‌[BE  only]. In a block event response, in a behavior pack‌[BE  only]. In an entity event response, in a behavior pack‌[BE  only].",
-    "normalized_content": "je only requested by a websocket server connected to a client be only clicking a dialog s action button je only by an non player character dialogue be only in scripts in a behavior pack be only in animation controllers in a behavior pack be only in a block event response in a behavior pack be only in an entity event response in a behavior pack be only",
-    "length": 375
+    "content": "‌[JE  only]\nRequested by a WebSocket server connected to a client. ‌[BE  only]\nClicking a dialog's action button. ‌[JE  only]\nBy an NPC dialogue. ‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only]. In animation controllers, in a behavior pack‌[BE  only]. In a block event response, in a behavior pack‌[BE  only]. In an entity event response, in a behavior pack‌[BE  only]. ‌In Bedrock Edition 26.",
+    "normalized_content": "je only requested by a websocket server connected to a client be only clicking a dialog s action button je only by an non player character dialogue be only in scripts in a behavior pack be only in animation controllers in a behavior pack be only in a block event response in a behavior pack be only in an entity event response in a behavior pack be only in bedrock edition 26",
+    "length": 399
+  },
+  {
+    "id": "Commands_Usage[edit | edit source]_4",
+    "page": "Commands",
+    "section": "Usage[edit | edit source]",
+    "content": "0​[upcoming], commands can be executed through specified hotkeys on keyboard & mouse controls, known as command macros. Command macros can be enabled in the \"Creator\" settings, and the keybinds with commands can be customized below all other keybinds in the settings. For up to 10 macros, a command can be entered in a text input, which can be quickly executed in-game by pressing Alt + Key.",
+    "normalized_content": "0 upcoming commands can be executed through specified hotkeys on keyboard mouse controls known as command macros command macros can be enabled in the creator settings and the keybinds with commands can be customized below all other keybinds in the settings for up to 10 macros a command can be entered in a text input which can be quickly executed in game by pressing alt key",
+    "length": 391
   },
   {
     "id": "Commands_Syntax[edit | edit source]_0",

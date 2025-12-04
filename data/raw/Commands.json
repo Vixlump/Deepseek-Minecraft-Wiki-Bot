@@ -1,6 +1,6 @@
 {
   "Introduction": [
-    "Commands (also known as console commands or slash commands) are a mechanic that execute specific actions when entered as text or triggered by certain blocks or entities."
+    "Commands (also known as console commands or slash commands) are a mechanic that execute specific actions when entered as text or triggered by blocks or certain entities."
   ],
   "Contents": [
     "1 Usage\n2 Commands guide\n\n2.1 Syntax\n2.2 Restrictions\n\n2.2.1 Cheats\n\n\n2.3 Argument types\n2.4 Parsing and execution\n\n2.4.1 Output\n2.4.2 Result\n\n\n\n\n3 List of commands\n\n3.1 Available in Java Edition\n\n3.1.1 Debugging commands\n\n\n3.2 Available in Bedrock Edition and Education\n3.3 Hidden commands\n3.4 Removed commands\n\n3.4.1 Removed from Java Edition\n3.4.2 Removed from Bedrock Edition or Education\n3.4.3 Other removed commands\n\n3.4.3.1 Developer commands\n3.4.3.2 Agent commands\n\n\n\n\n3.5 Joke commands\n\n\n4 History\n\n4.1 Command additions and changes\n\n4.1.1 Java Edition\n4.1.2 Bedrock Edition\n\n\n4.2 April Fools commands\n\n\n5 Issues\n6 See also\n7 References\n8 External links\n9 Navigation",
@@ -19,7 +19,8 @@
     "Commands may also be entered in a multiplayer server's console but are not preceded by a / when entered this way. A server owner running commands in this way is often referred to as \"ghosting\".",
     "Commands in command blocks can be preceded by a slash, but it is not required.",
     "Commands can be executed in the following ways:",
-    "Entered by a player in the chat screen.\nExecuted by a command block or a minecart with command block.\nIn a dedicated server, entered in the console.\nIn functions, in a data pack‌[JE  only] or behavior pack‌[BE  only].\nClicking a text component that has \"run_command\" action.‌[JE  only]\nRequested by a WebSocket server connected to a client.‌[BE  only]\nClicking a dialog's action button.‌[JE  only]\nBy an NPC dialogue.‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only].\nIn animation controllers, in a behavior pack‌[BE  only].\nIn a block event response, in a behavior pack‌[BE  only].\nIn an entity event response, in a behavior pack‌[BE  only]."
+    "Entered by a player in the chat screen.\nExecuted by a command block or a minecart with command block.\nIn a dedicated server, entered in the console.\nIn functions, in a data pack‌[JE  only] or behavior pack‌[BE  only].\nClicking a text component that has \"run_command\" action.‌[JE  only]\nRequested by a WebSocket server connected to a client.‌[BE  only]\nClicking a dialog's action button.‌[JE  only]\nBy an NPC dialogue.‌[BE  only]\nIn scripts, in a behavior pack‌[BE  only].\nIn animation controllers, in a behavior pack‌[BE  only].\nIn a block event response, in a behavior pack‌[BE  only].\nIn an entity event response, in a behavior pack‌[BE  only].",
+    "‌In Bedrock Edition 26.0​[upcoming], commands can be executed through specified hotkeys on keyboard & mouse controls, known as command macros. Command macros can be enabled in the \"Creator\" settings, and the keybinds with commands can be customized below all other keybinds in the settings. For up to 10 macros, a command can be entered in a text input, which can be quickly executed in-game by pressing Alt + Key."
   ],
   "Commands guide[edit | edit source]": [],
   "Syntax[edit | edit source]": [

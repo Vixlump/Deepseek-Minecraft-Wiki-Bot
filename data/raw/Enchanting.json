@@ -3,7 +3,7 @@
     "Enchanting is the process of improving armor, tools, and weapons. A glint animation appears on items to show that they are enchanted."
   ],
   "Contents": [
-    "1 Enchanting equipment\n2 Enchanting methods\n\n2.1 Enchanting table\n\n2.1.1 Affecting offered enchantments\n\n\n2.2 Anvil combinations\n2.3 Enchanted books\n\n2.3.1 Best Enchanting order\n\n\n\n\n3 Disenchanting\n4 Summary of enchantments\n5 Summary of enchantments by item\n6 Maximum effective values for enchantments\n7 Data values\n\n7.1 Item data\n\n\n8 Sounds\n9 Video\n10 History\n\n10.1 Reveal\n10.2 Java Edition\n10.3 Bedrock Edition\n10.4 Legacy Console Edition\n10.5 New Nintendo 3DS Edition\n\n\n11 Issues\n12 Gallery\n\n12.1 Screenshots\n12.2 Development images\n\n\n13 Trivia\n14 See also\n15 References\n16 External links\n17 Navigation",
+    "1 Enchanting equipment\n2 Enchanting methods\n\n2.1 Enchanting table\n\n2.1.1 Affecting offered enchantments\n\n\n2.2 Anvil combinations\n2.3 Enchanted books\n\n2.3.1 Best Enchanting order\n\n\n\n\n3 Disenchanting\n4 Summary of enchantments\n5 Summary of enchantments by item\n6 Maximum effective values for enchantments\n7 Data values\n\n7.1 Item data\n\n\n8 Sounds\n9 Videos\n10 History\n\n10.1 Reveal\n10.2 Java Edition\n10.3 Bedrock Edition\n10.4 Legacy Console Edition\n10.5 New Nintendo 3DS Edition\n\n\n11 Issues\n12 Gallery\n\n12.1 Screenshots\n12.2 Development images\n\n\n13 Trivia\n14 See also\n15 References\n16 External links\n17 Navigation",
     "2.1 Enchanting table\n\n2.1.1 Affecting offered enchantments\n\n\n2.2 Anvil combinations\n2.3 Enchanted books\n\n2.3.1 Best Enchanting order",
     "2.1.1 Affecting offered enchantments",
     "2.3.1 Best Enchanting order",
@@ -79,7 +79,7 @@
     "[Int] minecraft:repair_cost: The number of experience levels to add to the base level cost when repairing, combining, or renaming this item with an anvil. Must be a non-negative integer, defaults to 0."
   ],
   "Sounds[edit | edit source]": [],
-  "Video[edit | edit source]": [],
+  "Videos[edit | edit source]": [],
   "History[edit | edit source]": [],
   "Reveal[edit | edit source]": [],
   "Java Edition[edit | edit source]": [],
