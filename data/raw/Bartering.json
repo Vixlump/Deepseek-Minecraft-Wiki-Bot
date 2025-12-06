@@ -3,7 +3,7 @@
     "Bartering is a gameplay mechanic that allows players to exchange gold ingots for various items with piglins."
   ],
   "Contents": [
-    "1 Mechanics\n2 Items bartered\n3 History\n\n3.1 Java Edition\n3.2 Bedrock Edition\n\n\n4 Issues\n5 Gallery\n6 See also\n7 Notes\n8 References\n9 Navigation",
+    "1 Mechanics\n2 Items bartered\n3 History\n\n3.1 Java Edition\n3.2 Bedrock Edition\n\n\n4 Issues\n5 Gallery\n6 See also\n7 References\n8 Navigation",
     "3.1 Java Edition\n3.2 Bedrock Edition"
   ],
   "Mechanics[edit | edit source]": [
@@ -30,7 +30,6 @@
     "A piglin bartering in a warped forest."
   ],
   "See also[edit | edit source]": [],
-  "Notes[edit | edit source]": [],
   "References[edit | edit source]": [
     "↑ MCPE-99448 — Piglins need 8 seconds to barter, while they only need 6 in java\n\n↑ MCPE-94099 — Piglins get angry when a player destroys a chest or a gold-related item while admiring a gold item\n\n↑ MCPE-91275 — Piglin can skip bartering animation when being distracted by other activities\n\n↑ MCPE-69575 — Piglins equip Soul Speed boots instead of giving them to the player — resolved as \"Works As Intended\".\n\n↑ MC-173165 — Piglin Bartering Loot Table contains an extra \"set_count\" function — resolved as \"Fixed\"."
   ],

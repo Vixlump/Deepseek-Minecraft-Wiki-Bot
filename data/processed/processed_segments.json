@@ -5107,57 +5107,65 @@
     "id": "Difficulty_Peaceful[edit | edit source]_1",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "In Java Edition, piglins can only naturally spawn inside of bastion remnants, and their other spawning conditions are disabled. When any of these mobs attempt to spawn (whether naturally, through monster spawners, spawn eggs, or commands), they despawn instantaneously, with no visible spawning. All mobs that can spawn (such as shulkers, piglins, polar bears, or wolves) are completely peaceful and unable to harm the player, with the exception of the ender dragon.",
-    "normalized_content": "in java edition piglins can only naturally spawn inside of bastion remnants and their other spawning conditions are disabled when any of these mobs attempt to spawn whether naturally through monster spawners spawn eggs or commands they despawn instantaneously with no visible spawning all mobs that can spawn such as shulkers piglins polar bears or wolves are completely peaceful and unable to harm the player with the exception of the ender dragon",
-    "length": 466
+    "content": "In Java Edition, piglins can only naturally spawn inside of bastion remnants, and their other spawning conditions are disabled. In Java Edition, due to a bug, ocelots can't spawn naturally on Peaceful, as they occupy the monster mob cap. [1] When any of these mobs attempt to spawn (whether naturally, through monster spawners, spawn eggs, or commands), they despawn instantaneously, with no visible spawning.",
+    "normalized_content": "in java edition piglins can only naturally spawn inside of bastion remnants and their other spawning conditions are disabled in java edition due to a bug ocelots can t spawn naturally on peaceful as they occupy the monster monster cap 1 when any of these mobs attempt to spawn whether naturally through monster spawners spawn eggs or commands they despawn instantaneously with no visible spawning",
+    "length": 409
   },
   {
     "id": "Difficulty_Peaceful[edit | edit source]_2",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "Additionally, sculk shriekers do not give the Darkness effect because they can't spawn the warden. When the difficulty is switched from any other setting to Peaceful, all mobs that are not allowed to spawn on Peaceful despawn. Players regain health rapidly over time. Despite this, it is still possible to die if damage is received quickly enough. TNT deals no direct damage to the player, but it does give knockback still, meaning a player can be killed by it if it launches them too far upward.",
-    "normalized_content": "additionally sculk shriekers do not give the darkness effect because they can t spawn the warden when the difficulty is switched from any other setting to peaceful all mobs that are not allowed to spawn on peaceful despawn players regain health rapidly over time despite this it is still possible to die if damage is received quickly enough tnt deals no direct damage to the player but it does give knockback still meaning a player can be killed by it if it launches them too far upward",
-    "length": 496
+    "content": "All mobs that can spawn (such as shulkers, piglins, polar bears, or wolves) are completely peaceful and unable to harm the player, with the exception of the ender dragon. Additionally, sculk shriekers do not give the Darkness effect because they can't spawn the warden. When the difficulty is switched from any other setting to Peaceful, all mobs that are not allowed to spawn on Peaceful despawn. Players regain health rapidly over time.",
+    "normalized_content": "all mobs that can spawn such as shulkers piglins polar bears or wolves are completely peaceful and unable to harm the player with the exception of the ender dragon additionally sculk shriekers do not give the darkness effect because they can t spawn the warden when the difficulty is switched from any other setting to peaceful all mobs that are not allowed to spawn on peaceful despawn players regain health rapidly over time",
+    "length": 438
   },
   {
     "id": "Difficulty_Peaceful[edit | edit source]_3",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "The hunger bar never depletes; in Java Edition, players therefore cannot eat anything except golden apples, chorus fruits, milk buckets, honey bottles, and suspicious stew, unless the player switched to Peaceful when their hunger bar was below the maximum. Players can eat normally in Bedrock Edition. Additionally, if the hunger bar is below the maximum, it regenerates quickly. ↑ Ender Dragon still performs attack animation but deals no damage.",
-    "normalized_content": "the hunger bar never depletes in java edition players therefore cannot eat anything except golden apples chorus fruits milk buckets honey bottles and suspicious stew unless the player switched to peaceful when their hunger bar was below the maximum players can eat normally in bedrock edition additionally if the hunger bar is below the maximum it regenerates quickly ender dragon still performs attack animation but deals no damage",
-    "length": 447
+    "content": "Despite this, it is still possible to die if damage is received quickly enough. TNT deals no direct damage to the player, but it does give knockback still, meaning a player can be killed by it if it launches them too far upward. The hunger bar never depletes; in Java Edition, players therefore cannot eat anything except golden apples, chorus fruits, milk buckets, honey bottles, and suspicious stew, unless the player switched to Peaceful when their hunger bar was below the maximum.",
+    "normalized_content": "despite this it is still possible to die if damage is received quickly enough tnt deals no direct damage to the player but it does give knockback still meaning a player can be killed by it if it launches them too far upward the hunger bar never depletes in java edition players therefore cannot eat anything except golden apples chorus fruits milk buckets honey bottles and suspicious stew unless the player switched to peaceful when their hunger bar was below the maximum",
+    "length": 485
   },
   {
     "id": "Difficulty_Peaceful[edit | edit source]_4",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "↑ In Java Edition, piglins only spawn during world generation in bastion remnants. The monsters that spawn naturally, which are ender dragons, hoglins, piglins and shulkers, become passive on Peaceful. Zombie nautiluses and killer bunnies‌[JE  only] become passive as well, but they don't naturally spawn on peaceful regardless. If a player is in a village with Raid Omen and the effect ends, the raid is not triggered as raiders cannot spawn in peaceful difficulty.",
-    "normalized_content": "in java edition piglins only spawn during world generation in bastion remnants the monsters that spawn naturally which are ender dragons hoglins piglins and shulkers become passive on peaceful zombie nautiluses and killer bunnies je only become passive as well but they don t naturally spawn on peaceful regardless if a player is in a village with raid omen and the effect ends the raid is not triggered as raiders cannot spawn in peaceful difficulty",
-    "length": 466
+    "content": "Players can eat normally in Bedrock Edition. Additionally, if the hunger bar is below the maximum, it regenerates quickly. ↑ Ender Dragon still performs attack animation but deals no damage. ↑ In Java Edition, piglins only spawn during world generation in bastion remnants. The monsters that spawn naturally, which are ender dragons, hoglins, piglins and shulkers, become passive on Peaceful.",
+    "normalized_content": "players can eat normally in bedrock edition additionally if the hunger bar is below the maximum it regenerates quickly ender dragon still performs attack animation but deals no damage in java edition piglins only spawn during world generation in bastion remnants the monsters that spawn naturally which are ender dragons hoglins piglins and shulkers become passive on peaceful",
+    "length": 392
   },
   {
     "id": "Difficulty_Peaceful[edit | edit source]_5",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "Because of the gameplay changes and the absence of many mob types, many blocks and items are unavailable to the player. A list can be found at Non-renewable resource#Peaceful difficulty. In addition, the player is unable to get many advancements and achievements. Dispensers are unable to place wither skeleton skulls even if the required blocks for summoning a wither are available.",
-    "normalized_content": "because of the gameplay changes and the absence of many monster types many blocks and items are unavailable to the player a list can be found at non renewable resource peaceful difficulty in addition the player is unable to get many advancements and achievements dispensers are unable to place wither skeleton skulls even if the required blocks for summoning a wither are available",
-    "length": 383
+    "content": "Zombie nautiluses and killer bunnies‌[JE  only] become passive as well, but they don't naturally spawn on peaceful regardless. If a player is in a village with Raid Omen and the effect ends, the raid is not triggered as raiders cannot spawn in peaceful difficulty. Because of the gameplay changes and the absence of many mob types, many blocks and items are unavailable to the player. A list can be found at Non-renewable resource#Peaceful difficulty.",
+    "normalized_content": "zombie nautiluses and killer bunnies je only become passive as well but they don t naturally spawn on peaceful regardless if a player is in a village with raid omen and the effect ends the raid is not triggered as raiders cannot spawn in peaceful difficulty because of the gameplay changes and the absence of many monster types many blocks and items are unavailable to the player a list can be found at non renewable resource peaceful difficulty",
+    "length": 451
   },
   {
     "id": "Difficulty_Peaceful[edit | edit source]_6",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "One major effect of the lack of certain resources is that End portals cannot be activated by the player in Peaceful difficulty, because it is impossible to acquire the eyes of ender necessary to activate an end portal. [note 1] However, it is possible to switch to a non-Peaceful difficulty, let blazes spawn, kill enough for crafting eyes of ender, and switch back to Peaceful.",
-    "normalized_content": "one major effect of the lack of certain resources is that end portals cannot be activated by the player in peaceful difficulty because it is impossible to acquire the eyes of ender necessary to activate an end portal note 1 however it is possible to switch to a non peaceful difficulty let blazes spawn kill enough for crafting eyes of ender and switch back to peaceful",
-    "length": 378
+    "content": "In addition, the player is unable to get many advancements and achievements. Dispensers are unable to place wither skeleton skulls even if the required blocks for summoning a wither are available. One major effect of the lack of certain resources is that End portals cannot be activated by the player in Peaceful difficulty, because it is impossible to acquire the eyes of ender necessary to activate an end portal.",
+    "normalized_content": "in addition the player is unable to get many advancements and achievements dispensers are unable to place wither skeleton skulls even if the required blocks for summoning a wither are available one major effect of the lack of certain resources is that end portals cannot be activated by the player in peaceful difficulty because it is impossible to acquire the eyes of ender necessary to activate an end portal",
+    "length": 415
   },
   {
     "id": "Difficulty_Peaceful[edit | edit source]_7",
     "page": "Difficulty",
     "section": "Peaceful[edit | edit source]",
-    "content": "It is also possible for an end portal to be activated by naturally generating with an eye of ender already embedded within all 12 end portal frames. For any given end portal, there is a 1 in a trillion chance of this happening. [note 2]\nHowever, because of the huge number of possible seeds, over 8 million seeds are known to generate such end portals. [1].",
-    "normalized_content": "it is also possible for an end portal to be activated by naturally generating with an eye of ender already embedded within all 12 end portal frames for any given end portal there is a 1 in a trillion chance of this happening note 2 however because of the huge number of possible seeds over 8 million seeds are known to generate such end portals 1",
-    "length": 357
+    "content": "[note 1] However, it is possible to switch to a non-Peaceful difficulty, let blazes spawn, kill enough for crafting eyes of ender, and switch back to Peaceful. It is also possible for an end portal to be activated by naturally generating with an eye of ender already embedded within all 12 end portal frames. For any given end portal, there is a 1 in a trillion chance of this happening.",
+    "normalized_content": "note 1 however it is possible to switch to a non peaceful difficulty let blazes spawn kill enough for crafting eyes of ender and switch back to peaceful it is also possible for an end portal to be activated by naturally generating with an eye of ender already embedded within all 12 end portal frames for any given end portal there is a 1 in a trillion chance of this happening",
+    "length": 387
+  },
+  {
+    "id": "Difficulty_Peaceful[edit | edit source]_8",
+    "page": "Difficulty",
+    "section": "Peaceful[edit | edit source]",
+    "content": "[note 2]\nHowever, because of the huge number of possible seeds, over 8 million seeds are known to generate such end portals. [2].",
+    "normalized_content": "note 2 however because of the huge number of possible seeds over 8 million seeds are known to generate such end portals 2",
+    "length": 129
   },
   {
     "id": "Difficulty_Easy[edit | edit source]_0",
@@ -5339,9 +5347,9 @@
     "id": "Difficulty_References[edit | edit source]_0",
     "page": "Difficulty",
     "section": "References[edit | edit source]",
-    "content": "↑ https://github. com/hube12/SSGOutput/releases/tag/1. 1\n\n↑ MCPE-88837 — Piglin brutes do not despawn in Peaceful mode.",
-    "normalized_content": "https github com hube12 ssgoutput releases tag 1 1 mcpe 88837 piglin brutes do not despawn in peaceful mode",
-    "length": 119
+    "content": "↑ a b MC-1788 — Ocelots do not spawn naturally on peaceful difficulty in jungle and bamboo jungle biomes\n\n↑ https://github. com/hube12/SSGOutput/releases/tag/1. 1\n\n↑ MCPE-88837 — Piglin brutes do not despawn in Peaceful mode.",
+    "normalized_content": "a b mc 1788 ocelots do not spawn naturally on peaceful difficulty in jungle and bamboo jungle biomes https github com hube12 ssgoutput releases tag 1 1 mcpe 88837 piglin brutes do not despawn in peaceful mode",
+    "length": 225
   },
   {
     "id": "Difficulty_See also[edit | edit source]_0",
@@ -13339,9 +13347,9 @@
     "id": "Bartering_Contents_0",
     "page": "Bartering",
     "section": "Contents",
-    "content": "1 Mechanics\n2 Items bartered\n3 History\n\n3. 1 Java Edition\n3. 2 Bedrock Edition\n\n\n4 Issues\n5 Gallery\n6 See also\n7 Notes\n8 References\n9 Navigation 3. 1 Java Edition\n3. 2 Bedrock Edition.",
-    "normalized_content": "1 mechanics 2 items bartered 3 history 3 1 java edition 3 2 bedrock edition 4 issues 5 gallery 6 see also 7 notes 8 references 9 navigation 3 1 java edition 3 2 bedrock edition",
-    "length": 184
+    "content": "1 Mechanics\n2 Items bartered\n3 History\n\n3. 1 Java Edition\n3. 2 Bedrock Edition\n\n\n4 Issues\n5 Gallery\n6 See also\n7 References\n8 Navigation 3. 1 Java Edition\n3. 2 Bedrock Edition.",
+    "normalized_content": "1 mechanics 2 items bartered 3 history 3 1 java edition 3 2 bedrock edition 4 issues 5 gallery 6 see also 7 references 8 navigation 3 1 java edition 3 2 bedrock edition",
+    "length": 176
   },
   {
     "id": "Bartering_Mechanics[edit | edit source]_0",
@@ -13507,9 +13515,9 @@
     "id": "Commands_Usage[edit | edit source]_4",
     "page": "Commands",
     "section": "Usage[edit | edit source]",
-    "content": "0​[upcoming], commands can be executed through specified hotkeys on keyboard & mouse controls, known as command macros. Command macros can be enabled in the \"Creator\" settings, and the keybinds with commands can be customized below all other keybinds in the settings. For up to 10 macros, a command can be entered in a text input, which can be quickly executed in-game by pressing Alt + Key.",
-    "normalized_content": "0 upcoming commands can be executed through specified hotkeys on keyboard mouse controls known as command macros command macros can be enabled in the creator settings and the keybinds with commands can be customized below all other keybinds in the settings for up to 10 macros a command can be entered in a text input which can be quickly executed in game by pressing alt key",
-    "length": 391
+    "content": "0​[upcoming], commands can be executed through specified hotkeys on keyboard & mouse controls, known as command macros. Command macros can be enabled in the \"Creator\" settings, and the keybinds with commands can be customized below all other keybinds in the settings. For up to 10 macros, a command can be entered in a text input, which can be quickly executed in-game by pressing Alt + Key. Command macros can be preceded by a slash, but it is not required.",
+    "normalized_content": "0 upcoming commands can be executed through specified hotkeys on keyboard mouse controls known as command macros command macros can be enabled in the creator settings and the keybinds with commands can be customized below all other keybinds in the settings for up to 10 macros a command can be entered in a text input which can be quickly executed in game by pressing alt key command macros can be preceded by a slash but it is not required",
+    "length": 458
   },
   {
     "id": "Commands_Syntax[edit | edit source]_0",
@@ -17827,9 +17835,17 @@
     "id": "Tick_Redstone tick[edit | edit source]_4",
     "page": "Tick",
     "section": "Redstone tick[edit | edit source]",
-    "content": "Redstone dust only updates visually on output/produce ticks, meaning on input/consume tick while technically on looks visually off. Armor stands update on both input and output ticks meaning they are one of the few redstone components that utilizes all 20 ticks. [needs testing] The transmission and timing of redstone signals are determined by these ticks, which govern when redstone devices output power and when they respond to input.",
-    "normalized_content": "redstone dust only updates visually on output produce ticks meaning on input consume tick while technically on looks visually off armor stands update on both input and output ticks meaning they are one of the few redstone components that utilizes all 20 ticks needs testing the transmission and timing of redstone signals are determined by these ticks which govern when redstone devices output power and when they respond to input",
-    "length": 437
+    "content": "Redstone dust only updates visually on output/produce ticks, meaning on input/consume tick while technically on looks visually off. Armor stands update on both input and output ticks meaning they are one of the few redstone components that utilizes all 20 ticks. Minecarts with hoppers and minecarts with TNT might also be able to utilize all 20 game tick instead of being tied to P or C ticks.",
+    "normalized_content": "redstone dust only updates visually on output produce ticks meaning on input consume tick while technically on looks visually off armor stands update on both input and output ticks meaning they are one of the few redstone components that utilizes all 20 ticks minecarts with hoppers and minecarts with tnt might also be able to utilize all 20 game tick instead of being tied to p or c ticks",
+    "length": 394
+  },
+  {
+    "id": "Tick_Redstone tick[edit | edit source]_5",
+    "page": "Tick",
+    "section": "Redstone tick[edit | edit source]",
+    "content": "[needs testing] The transmission and timing of redstone signals are determined by these ticks, which govern when redstone devices output power and when they respond to input.",
+    "normalized_content": "needs testing the transmission and timing of redstone signals are determined by these ticks which govern when redstone devices output power and when they respond to input",
+    "length": 174
   },
   {
     "id": "Tick_Piston tick[edit | edit source]_0",
